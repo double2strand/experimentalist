@@ -6,7 +6,7 @@
   "doc": "Experiments_21Oct2025",
   "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
  },
- "body": "| DNA | 38 uL |\n| :---- | :---- |\n| T4 PNK Reaction Buffer (10X) | 5 µl |\n| ATP (10 mM) | 5 uL |\n| [T4 PNK](https://www.neb.com/en-gb/products/m0201-t4-polynucleotide-kinase) | 2 µl (20 units) |\n| Nuclease-free Water | up to 50 µl  |\n\nIncubate 37 C, 40 mins. Deactivate 65 C, 20 mins. Clean up with a MinElute column, quantify and then use to set up O/N ligation.\n",
+ "body": "PNK Treatment (Pre-Ligation)\n\n| DNA | 38 uL |\n| :---- | :---- |\n| T4 PNK Reaction Buffer (10X) | 5 µl |\n| ATP (10 mM) | 5 uL |\n| [T4 PNK](https://www.neb.com/en-gb/products/m0201-t4-polynucleotide-kinase) | 2 µl (20 units) |\n| Nuclease-free Water | up to 50 µl  |\n\nIncubate 37 C, 40 mins. Deactivate 65 C, 20 mins. Clean up with a MinElute column, quantify and then use to set up O/N ligation.\n",
  "experiments": [],
  "images": [],
  "tables": 1,
@@ -22,5 +22,6 @@
   "samples": [],
   "custom": []
  },
- "title": "| DNA | 38 uL |"
+ "title": "| DNA | 38 uL |",
+ "updated": "2026-10-12T16:11:07.588Z"
 }
