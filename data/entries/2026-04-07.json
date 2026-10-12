@@ -1,0 +1,34 @@
+{
+ "date": "2026-04-07",
+ "heading": "**7 April 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*HTFS DNA purification*\n\nTotal volume \\= 7.5 mL\n\n- Add 187.5 uL 20% SDS to each sample  \n- Add 75 uL Proteinase K to each sample\n\nIncubate samples at 37 C, 30 mins.\n\n3 M Sodium Acetate\n\n- Add 750 uL sodium acetate to HTFS N40  \n- Add 750 uL sodium acetate to HTFS 147\n\nIsopropanol\n\n- Add 8 mL isopropanol to HTFS N40  \n- Add 8 mL isopropanol to HTFS 147\n\nFreeze the samples at \\-20 C O/N.\n\n*NCFS DNA concentration*\n\nRun the sample in the SpeedVac for 1 hour\n\n*Plasmid FS \\- GP5d cells*\n\n- Cells are resuspended in 60 uL of Hia5 buffer (containing 0.05 % IGEPAL)  \n- Incubate on ice for 10 mins.  \n- Pellet nuclei at 350g, 5 min at 4 C.  \n- Resuspend nuclei in 59 uL Hia5 buffer (with 0.8 mM SAM) & 1 uL of Hia5. \\[146.25 uL buffer \\+ 3.75 uL SAM\\]   \n- Incubate at 25 C for 60 mins. Add SDS to a final concentration of 1% to stop the reaction.  \n- Extract plasmid DNA by adding 134 uL Monarch Buffer B1. Then purify by mini-prep according to the kit instructions.  \n- Linearize the plasmids based on *in vitro* CRISPR & clean-up the reactions\n\n*Low salt RB (2 L)*\n\n37.28 g KCl  \n20 mL 1 M Tris-HCl, pH 7.5  \n4 mL 0.5 M EDTA  \n2 mL DTT\n\n*NCFS PNK treatment*  \nNCFS147 & NCFSN40\n\n| DNA | 25-30 uL |\n| :---- | :---- |\n| T4 PNK Reaction Buffer (10X) | 5 µl |\n| ATP (10 mM) | 50 pmol of \\[γ-32P\\] ATP |\n| [T4 PNK](https://www.neb.com/en-gb/products/m0201-t4-polynucleotide-kinase) | 2 µl (20 units) |\n| Nuclease-free Water | up to 50 µl  |\n\nIncubate 37 C, 40 mins. Deactivate 65 C, 20 mins. Purify these products through a column.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2026-04-07",
+ "tags": {
+  "techniques": [
+   "Hia5",
+   "Column purification",
+   "Proteinase K"
+  ],
+  "reagents": [
+   "Proteinase K",
+   "SAM",
+   "Hia5",
+   "SDS",
+   "EDTA",
+   "Tris",
+   "KCl",
+   "DTT"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "HTFS DNA purification"
+}

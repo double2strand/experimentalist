@@ -1,0 +1,52 @@
+{
+ "date": "2026-01-21",
+ "heading": "**21 January 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*PE PCR plate preparation*\n\nFor HT-SELEX:\n\n6 uL Mastermix \\+ 1.5 uL PE\\_F \\+ 1.5 uL PE3\\_R (X2)\n\nNOTE: While adding the master-mix to the plates there is a small chance that some of the barcodes from the different wells may have been mixed.\n\n*Hia5 buffer preparation*\n\nBased on recent HT-SELEX \\+ FIBER-Seq (HTFS) testing, 0.02 uL of the original Hia5 should be sufficient per well → This works out to be \\~8 uL of the total enzyme diluted across \\~400 wells.\n\nAmount of Hia5 buffer to be used \\= 520 uL \n\nAmount of SAM \\= 200 uL\n\n5 mL\n\n| 1 M Tris pH 8 | 75 uL |\n| :---- | :---- |\n| EDTA (0.5 M) | 10 uL |\n| EGTA (0.5 M) | 5 uL |\n| NaCl (100 mM) | 750 uL |\n| KCl (100 mM) | 3000 uL |\n| Spermidine (100X) | (1X) 50 uL |\n\n \n\nBasically, I reconsitute 20ul nucleosome with 4ug DNA ligand, then I add 20x molar ratio of ELF2 to the nucleosome (not the whole 20ul, just the amount needed from EcoRV digestion, the rest I keep at 4deg for up to a month), incubate at 25deg fro 15min, then add cutsmart buffer & EcoRV & incubate at 37deg fro 15min. Then I add a mixture of SDS+proteinase K to stop the digestion (detail see the attached file), and incubate at 55deg for 10min. Before running the gel, I purify the DNA with the qiagen PCR purification kit (so the gel looks nicer) and load 100-200ng DNA onto a 3% agarose gel and run on ice (I found out that the gel turns out quite ugly if I load more than 200ng DNA). \n\n| PE Phusion Mix |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | per well in 384 | per 384-well plate | for 16 plates |\n| MQ water | 2.39642μL | 1055.25 μL | 16884 μL |\n| 5x Phusion HF buffer | 2.47818μL | 1091.25 μL | 17460 μL |\n| 10mM dNTP | 0.48542μL | 213.75 μL | 3420 μL |\n| MgCl2 (50mM) | 0.49819μL | 219.375 μL | 3510 μL |\n| HF Phusion DNA Pol (2U/µL) | 0.14179μL | 62.4375 μL | 999 μL |\n| Total | 6μL | 2642.0625 μL | 42.273 mL |\n\n*Mastermix for 6-plates with PE\\_F primer*\n\n| Component | Volume (µL) |\n| ----- | ----- |\n| MQ water | 6145.2 |\n| 5× Phusion HF buffer | 6546.9 |\n| 10 mM dNTPs | 1282.4 |\n| MgCl₂ (50 mM) | 1316.2 |\n| HF Phusion DNA Pol (2 U/µL) | 374.6 |\n| Primer (100 µM) | 185.8 |\n| **Total** | **7.5 µL/well** |\n\n- Prepare this mix and aliquot 7.5 uL per well  \n- Add PE\\_R primer with barcodes (1.5 uL)  \n- Add 9 uL of cyc3 DNA\n\nFor both ligands the PCR will be 25 cycles in total.\n\n*ELF ligand recon \\+ EcoRV assay*\n\nPrepare 10 tubes of dried 4 M KCl with a volume of 10 uL → to allow for resuspension in 20 uL of DNA ligand → to achieve final salt concentration of 2 M at the beginning of reconstitution\n\nLow salt RB (2 L)\n\n37.28 g KCl  \n20 mL 1 M Tris-HCl, pH 7.5  \n4 mL 0.5 M EDTA  \n2 mL DTT\n\nResuspend 1.54 g of DTT in 10 mL of water to prepare a 1 M stock if needed.\n\nHigh salt RB (2 L)\n\n298.2 g KCl  \n20 mL 1 M Tris-HCl, pH 7.5  \n4 mL 0.5 M EDTA  \n2 mL DTT\n\n*Next round of SELEX \\+ NCAP-SELEX*\n\nChecklist\n\n| Requirement | Status |\n| :---: | :---: |\n| lig200 plate |  |\n| ligN70w107 plate |  |\n| non PE PCR plates (18X) |  |\n| qPCR plates (10X) |  |\n| non PE PCR2 plates (14X) |  |\n| PE PCR Mix (14X) |  |\n| Dilution Buffer Plate (for reconstitution) (8X) |  |\n| Biotin Elution Buffer Plates (8X) |  |\n| SBP Beads Plate |  |\n| Ni Beads Plate |  |\n| DIluted TF Plate  |  |\n| Buffers |  |\n| Dried Salt Plates (8X) |  |\n| SBP Histone Octamer Plate (1X) |  |\n\n*HTFS*\n\n- Perform protein-DNA incubation in 384-well PCR plates (30 mins, RT)  \n- Add 2 uL of Hia5 master mix per well → Incubate at 37 degrees for 75 mins  \n- Collect all DNA and pool into 96-well plates → Column purify  \n- PNK treatment \\+ heat inactivation   \n- Overnight ligation \\+ QC of long-read DNA\n\n*Hia5 master-mix distribution*\n\nTake 17.6 uL Hia5 \\+ 158.4 uL Hia5 buffer (dHia5)\n\n1144 uL Buffer \\+ 440 uL SAM \\+ 176 dHia5 \\= 1760 uL\n\n18.3 uL per well of a quadrant of 384-well PCR plate\n",
+ "experiments": [],
+ "images": [],
+ "tables": 4,
+ "id": "2026-01-21",
+ "tags": {
+  "techniques": [
+   "qPCR",
+   "PCR",
+   "SELEX",
+   "Hia5",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Ligation",
+   "Bead purification",
+   "Column purification",
+   "Restriction digest",
+   "Protein purification",
+   "Proteinase K"
+  ],
+  "reagents": [
+   "Phusion",
+   "Proteinase K",
+   "SAM",
+   "Spermidine",
+   "Hia5",
+   "SDS",
+   "EDTA",
+   "Tris",
+   "NaCl",
+   "KCl",
+   "MgCl2",
+   "DTT",
+   "Histone octamer",
+   "dNTPs"
+  ],
+  "samples": [
+   "lig200",
+   "ligN70w107"
+  ],
+  "custom": []
+ },
+ "title": "PE PCR plate preparation"
+}

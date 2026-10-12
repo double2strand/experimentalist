@@ -1,0 +1,24 @@
+{
+ "date": "2025-07-23",
+ "heading": "**23 July 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "| Change media for HAP1, GP5d PB-treated cells |\n| :---- |\n| **Change media for HepG2 cells \\+ Thaw new HepG2del non-treated cells** |\n| **Take images of mCherry and GFP cells**  |\n| **gDNA extraction for HAP1, GP5d PB-treated and non-PB MYCT1, MYCT2 cells** |\n| **Test recon protocol with magnetic rack stacking adjustment** |\n| **Transfer Fangjie pipetting template to i7** |\n| **Set up FJ\\_FL\\_Q3 plate for bacterial growth and O/N incubation at 37 degrees** |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2025-07-23",
+ "tags": {
+  "techniques": [
+   "Reconstitution",
+   "gDNA isolation"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "| Change media for HAP1, GP5d PB-treated cells |"
+}

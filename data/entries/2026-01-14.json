@@ -1,0 +1,27 @@
+{
+ "date": "2026-01-14",
+ "heading": "**14 January 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*lig70N PCR*\n\n40X reactions for the lig70N were performed with 1 uL of 10-fold diluted original DNA per tube.\n\nGel was run and concentration of the pooled PCR1 product was estimated.\n\nConc \\= 17 ng/uL\n\nTrial for PCR2 with SELEX PCR master-mix:\n\n22.5 uL Mix \\+ 1 uL PCR1 \\+ 1.5 uL H2O\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **3X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2026-01-14",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Gel electrophoresis"
+  ],
+  "reagents": [],
+  "samples": [
+   "lig70N"
+  ],
+  "custom": []
+ },
+ "title": "lig70N PCR"
+}

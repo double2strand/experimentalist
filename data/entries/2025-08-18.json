@@ -1,0 +1,43 @@
+{
+ "date": "2025-08-18",
+ "heading": "**18 August 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Send AT10+Nh100 pooled library for MiSeq sequencing**  \n2. **Send two clones each of HCCAT10ShhBCv1, HCDAT10ShhBCv1, GCDAT10ShhBCv1 for whole-plasmid sequencing**  \n3. **Perform MNase digest for new dialysis reconstituted lig147 & gel run**  \n4. **Set up new nucleosome recon for B3, B4 with lig20K**  \n5. **Change media for GP5d and HAP1 cell culture plates**  \n6. **Prepare HAP1 medium for sorting**  \n7. **Finish isolation of GCDAT10ShhBCv1 and HCCAT10ShhBCv1 plasmid libraries**  \n   \n\n### 4. Set up new nucleosome recon for B3, B4 with lig20K\n\nFrom the previous lig20K experiments, it seemed like the octamer:DNA ratio of 50:1 offered more protection to the DNA as compared to the 100:1 ratio (potentially due to over-saturation/aggregation).\n\nTwo new experiments to be tried:\n\nB3 : 50:1 octamer:DNA ratio\n\nB4: 80:1 octamer:DNA ratio\n\nPrepare DNA stock lig20K \\- 50 ng/uL (13.8 uL in 21 uL TE buffer total). 500 ng of this DNA in 10 uL solution corresponds to 2.96 nM DNA in total reaction volume of 13 uL.\n\nprepare a second histone octamer working stock ⇒ 3.7 uL octamer in 100 uL refolding buffer (200 ng/uL)\n\nHistone molarity required:\n\nB3: 148 nM ⇒ 210 ng in 3 uL (70 ng/uL stock → 3.5 uL 100 ng/uL stock \\+ 1.5 uL refolding buffer:glycerol)\n\nB4: 237 nM ⇒ 336 ng in 3 uL (112 ng/uL stock → 2.8 uL 200 ng/uL stock \\+ 2.2 uL refolding buffer:glycerol)\n\nAdd 3 uL of each octamer stock to the wells containing DNA \\+ salt.\n\n| B3 | B4 |\n| ----- | ----- |\n| Add 10 uL DNA to salt well (2 M) | Add 10 uL DNA to salt well (2 M) |\n| Add 3 uL B3 octamer stock (1.93 M) | Add 3 uL B4 octamer stock (1.90 M) |\n| Add 6.5 uL dilution buffer (1.29 M) | Add 6.5 uL dilution buffer (1.27 M) |\n| Add 9.5 uL dilution buffer (0.87 M) | Add 9.5 uL dilution buffer (0.85 M) |\n| Add 14.5 uL dilution buffer (0.58 M) | Add 14.5 uL dilution buffer (0.57 M) |\n| Add 22 uL dilution buffer (0.38 M) | Add 22 uL dilution buffer (0.38 M) |\n| Add 34.97 uL dilution buffer (0.25 M) | Add 33.43 uL dilution buffer (0.25 M) |\n\n**Prepare HAP1 culture medium for sorting:**\n\nHAP1 media (200 mL)\n\n| IMDM | Make up to 200 mL |\n| :---- | :---- |\n| HI FBS (50%) | 100 mL |\n| Pen-Strep | 2 mL |\n\n### 3. Perform MNase digest for new dialysis reconstituted lig147 \\+ gel run\n\nDilute 1 uL MNase in 1000 uL NF water (2 units/uL). Set up the following reactions:\n\n- lig147 (0.49 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\[CONTROL\\]  \n- lig147 (0.49 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL MNase-dil  \n- A4recon (3.15 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL MNase-dil\n\nMake up the reaction volumes to 50 uL and incubate tubes at 37 degrees, 15 mins.\n\nRun the samples on a 3% agarose gel and stain with SYBR Green nucleic acid.\n",
+ "experiments": [
+  "4. Set up new nucleosome recon for B3, B4 with lig20K",
+  "3. Perform MNase digest for new dialysis reconstituted lig147 \\+ gel run"
+ ],
+ "images": [],
+ "tables": 2,
+ "id": "2025-08-18",
+ "tags": {
+  "techniques": [
+   "MNase",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Dialysis",
+   "Library prep",
+   "Restriction digest"
+  ],
+  "reagents": [
+   "SYBR",
+   "MNase",
+   "Histone octamer",
+   "TE buffer",
+   "Glycerol"
+  ],
+  "samples": [
+   "B3",
+   "lig147",
+   "lig20K",
+   "B4",
+   "A4recon"
+  ],
+  "custom": []
+ },
+ "title": "Set up new nucleosome recon for B3, B4 with lig20K; Perform MNase digest for new dialysis reconstituted lig147 \\+ gel run"
+}

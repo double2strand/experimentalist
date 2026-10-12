@@ -1,0 +1,28 @@
+{
+ "date": "2025-10-19",
+ "heading": "**19 October 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "After overnight dialysis of samples D1, D2 & D3 with Nucleosome Buffer C \\- the samples were collected and concentration of DNA was measured. Concentration values seen are in the following range:\n\nD1: \\~9 ng/uL\n\nD2: \\~19 ng/uL\n\nD3: \\~3-4 ng/uL\n\n***NOTE: The Nanodrop values underestimate the actual amounts of DNA by a fair bit due to the skewed absorbance values measured at 260 nm.***\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2025-10-19",
+ "tags": {
+  "techniques": [
+   "Dialysis",
+   "Nanodrop"
+  ],
+  "reagents": [],
+  "samples": [
+   "D1",
+   "D2",
+   "D3"
+  ],
+  "custom": []
+ },
+ "title": "After overnight dialysis of samples D1, D2 & D3 with Nucleosome Buffer C - the samples were collected and concentration "
+}

@@ -1,0 +1,29 @@
+{
+ "date": "2025-07-06",
+ "heading": "**6 July 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "| Isolate HclaShhBC plasmids |\n| :---- |\n| **Harvest pHRS-HCD & pHRS-GCD viral supernatant & set up lentiviral concentration** |\n| **Infection of HAP1 and GP5d delLEDGF cells with MYC355, pHRS-Hcla & pHRS-Gcla viruses** |\n| **Transfection of 293TX cells with pHRS-HCC & pHRS-GCC libraries for lentiviral packaging** |\n| **K562-delLEDGF cells were also seeded at 150K per well across 3 6-well plates** |\n\n1. **Isolate HclaShhBC plasmids**\n\nHclaShhBC-1 & HclaShhBC-2 plasmids were isolated and concentration was estimated. These will be sent for whole plasmid sequencing to check the current cloning protocol as well as to estimate the diversity of the introduced Shh barcodes.\n\n2. **Harvest pHRS-HCD & pHRS-GCD viral supernatant & set up lentiviral concentration**\n\n3. **Infection of HAP1 and GP5d delLEDGF cells with MYC355, pHRS-Hcla & pHRS-Gcla viruses**\n\nHAP1\n\nPlate1:  \nW1-W3 \\- 200 uL MYC355-T1  \nW4-W6 \\- 200 uL MYC355-T2\n\nPlate2:  \nW1-W3 \\- 200 uL pHRS-Hclav1  \nW4-W6 \\- 200 uL pHRS-Gclav1\n\nPlate3:\n\nW1: 300 uL pHRS-Hclav1  \nW2: 300 uL pHRS-Gclav1\n\nPlate1:  \nW1-W3 \\- 5.394 mL media \\+ 600 uL MYC355-T1 \\+ 6 uL Polybrene  \nW4-W6 \\- 5.394 mL media \\+ 600 uL MYC355-T2 \\+ 6 uL Polybrene\n\nPlate2:  \nW1-W3 \\- 5.394 mL media \\+ 600 uL pHRS-Hclav1 \\+ 6 uL Polybrene  \nW4-W6 \\- 5.394 mL media \\+ 600 uL pHRS-Gclav1 \\+ 6 uL Polybrene\n\nPlate3:\n\nW1: 1.698 mL \\+ 300 uL pHRS-Hclav1 \\+ 2 uL  \nW2: 1.698 mL \\+ 300 uL pHRS-Gclav1 \\+ 2 uL\n\nGP5d\n\nPlate1:  \nW1-W3 \\- 200 uL MYC355-T1  \nW4-W6 \\- 200 uL MYC355-T2\n\nPlate2:  \nW1-W3 \\- 200 uL pHRS-Hclav1  \nW4-W6 \\- 200 uL pHRS-Gclav1\n\nPlate3:\n\nW1: 300 uL pHRS-Hclav1  \nW2: 300 uL pHRS-Gclav1\n\nPlate1:  \nW1-W3 \\- 5.394 mL media \\+ 600 uL MYC355-T1 \\+ 6 uL  \nW4-W6 \\- 5.394 mL media \\+ 600 uL MYC355-T2 \\+ 6 uL\n\nPlate2:  \nW1-W3 \\- 5.394 mL media \\+ 600 uL pHRS-Hclav1 \\+ 6 uL  \nW4-W6 \\- 5.394 mL media \\+ 600 uL pHRS-Gclav1 \\+ 6 uL\n\nPlate3:\n\nW1: 1.698 mL \\+ 300 uL pHRS-Hclav1 \\+ 2 uL  \nW2: 1.698 mL \\+ 300 uL pHRS-Gclav1 \\+ 2 uL\n\nMix gently by pipetting and then add the mix for each well to the annotated wells. Label the wells as indicated above for both plates.\n\n4. **Transfection of 293TX cells with pHRS-HCC & pHRS-GCC libraries for lentiviral packaging**\n\npHRS-HCCv1cc:\n\n4 plates (10-cm dishes) with 6 ug of transfer plasmids and 6 ug each of the packaging and envelope vectors.\n\n6 mL Opti-MEM \\+ 6 ug pHRS-HCDv1cc \\+ 20.2 uL pMD2.G \\+ 29 uL pCMV-dR8.2\n\nIncubate for 5 mins.\n\nAdd 132 uL Turbofectin & incubate for 15 mins.\n\nSplit the solution dropwise across two plates. Label these plates as pHRS-HCD.  \n   \npHRS-GCCv1cc:\n\n4 plates (10-cm dish) with 6 ug of transfer plasmids and 6 ug each of the packaging and envelope vectors.\n\n6 mL Opti-MEM \\+ 6 ug pHRS-GCDv1cc \\+ 20.2 uL pMD2.G \\+ 29 uL pCMV-dR8.2\n\nIncubate for 5 mins.\n\nAdd 132 uL Turbofectin & incubate for 15 mins.\n\nSplit the solution dropwise across two plates. Label these plates as pHRS-GCD.\n\n5. **K562-delLEDGF cells were also seeded at 150K per well across 3 6-well plates**\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2025-07-06",
+ "tags": {
+  "techniques": [
+   "Transfection",
+   "Lentivirus",
+   "Cell culture",
+   "Library prep"
+  ],
+  "reagents": [],
+  "samples": [
+   "Gclav1",
+   "293TX"
+  ],
+  "custom": []
+ },
+ "title": "| Isolate HclaShhBC plasmids |"
+}

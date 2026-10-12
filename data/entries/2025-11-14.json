@@ -1,0 +1,26 @@
+{
+ "date": "2025-11-14",
+ "heading": "**14 November 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "**10X TCAPT Buffer**\n\n| 1.4 M KCl | 208.74 g |\n| :---- | :---- |\n| 50 mM NaCl | 5.844 g |\n| 10 mM MgCl2 | 20 mL |\n| 1 mM EGTA | 4 mL |\n| 100 mM Tris-HCl pH 8 | 200 mL |\n| Tween20 | 20 mL |\n| 100 mM ZnSO4.7H2O | 600 uL |\n\n100 mM ZnSO4.7H2O ⇒ 0.29 g in 10 mL water\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2025-11-14",
+ "tags": {
+  "techniques": [],
+  "reagents": [
+   "Tris",
+   "NaCl",
+   "KCl",
+   "MgCl2"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "10X TCAPT Buffer"
+}

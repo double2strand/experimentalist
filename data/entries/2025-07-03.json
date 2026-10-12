@@ -1,0 +1,27 @@
+{
+ "date": "2025-07-03",
+ "heading": "**3 July 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "| Purify Shhvec PCR product |\n| :---- |\n| **Set up assembly and cloning of Hcla-Shhvec with Shholigo** |\n| **Harvest transduced HAP1 cells and transfer to 10-cm plates** |\n| **Transfect pHRS-GCD & pHRS-HCD for viral packaging** |\n\n### 2. Set up assembly and cloning of Hcla-Shhvec with Shholigo\n\npHRS-Hcla (3X)\n\n| HclaShhvec (50 ng) |  uL |\n| :---- | :---- |\n| ShhBColigo1PCR2 (5 ng) | 1 uL |\n| 2X NEB HiFi Assembly Mix | 10 uL |\n| NF H2O |  uL |\n\nPost-assembly transform 2 uL of the reaction directly into 50 uL of competent cells (5X).\n\n### 4. Transfect pHRS-GCD & pHRS-HCD for viral packaging\n\npHRS-HCDv1cc:\n\n4 plates (10-cm dishes) with 6 ug of transfer plasmids and 6 ug each of the packaging and envelope vectors.\n\n6 mL Opti-MEM \\+ 6 ug pHRS-HCDv1cc \\+ 20.2 uL pMD2.G \\+ 29 uL pCMV-dR8.2\n\nIncubate for 5 mins.\n\nAdd 132 uL Turbofectin & incubate for 15 mins.\n\nSplit the solution dropwise across two plates. Label these plates as pHRS-HCD.  \n   \npHRS-GCDv1cc:\n\n4 plates (10-cm dish) with 6 ug of transfer plasmids and 6 ug each of the packaging and envelope vectors.\n\n6 mL Opti-MEM \\+ 6 ug pHRS-GCDv1cc \\+ 20.2 uL pMD2.G \\+ 29 uL pCMV-dR8.2\n\nIncubate for 5 mins.\n\nAdd 132 uL Turbofectin & incubate for 15 mins.\n\nSplit the solution dropwise across two plates. Label these plates as pHRS-GCD.\n",
+ "experiments": [
+  "2. Set up assembly and cloning of Hcla-Shhvec with Shholigo",
+  "4. Transfect pHRS-GCD & pHRS-HCD for viral packaging"
+ ],
+ "images": [],
+ "tables": 2,
+ "id": "2025-07-03",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Transfection"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Set up assembly and cloning of Hcla-Shhvec with Shholigo; Transfect pHRS-GCD & pHRS-HCD for viral packaging"
+}

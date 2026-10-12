@@ -1,0 +1,30 @@
+{
+ "date": "2025-08-21",
+ "heading": "**21 August 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Set up dialysis recon for HAP1 and GP5d 20K fragmented genomic DNA**  \n2. **Inoculate more colonies for plasmid isolation for GCDAT10ShhBCv1 and HCDAT10ShhBCv1 plates (5 each)**  \n3. **Design new recombinant protein vectors for GenScript order**  \n4. **Run MOODS for gapped MYCMAX motifs on hg38 genome & correlate with MYC binding sites in varied cancers**  \n5. **Change to fresh high FBS HAP1 media for sorted cells**  \n6. **Prepare more dried salt tubes (4 M KCl)**\n\n1. **Set up dialysis recon for HAP1 and GP5d 20K fragmented genomic DNA**\n\nWe use 250 ng of each genomic DNA sample (per well), resuspended in 10 uL TE buffer. Add this solution to wells C1,C2 (HAP1) & C3, C4 (GP5d) on the salt plate.\n\nMolarity of DNA ⇒ 1.48 nM according to 13 uL total volume (per well)\n\nAt a projected octamer:DNA ratio of 60:1 → the octamer molarity to be used is 89 nM ⇒ corresponds to 126 ng in 13 uL total mix.\n\nPrepare a octamer stock of 42 ng/uL → 8.4 uL 100 ng/uL stock \\+ 11.6 uL refolding buffer:glycerol ⇒ salt concentration ⇒ 1.42 M salt\n\nAdd 3 uL of the octamer stock to each of the recon wells ⇒ salt concentration ⇒ 1.87 M. Incubate at room temp for 30 mins.\n\n| C1, C2 | C3, C4 | Time |\n| ----- | ----- | ----- |\n| Add 10 uL DNA to salt well (2 M) | Add 10 uL DNA to salt well (2 M) | \\- |\n| Add 3 uL C1 octamer stock (1.87 M) | Add 3 uL C3 octamer stock (1.87 M) | 30 minutes |\n| Add 6.5 uL dilution buffer (1.25 M) | Add 6.5 uL dilution buffer (1.25 M) | 60 minutes |\n| Add 9.5 uL dilution buffer (0.84 M) | Add 9.5 uL dilution buffer (0.84 M) | 60 minutes |\n| Add 14.5 uL dilution buffer (0.561 M) | Add 14.5 uL dilution buffer (0.561 M) | 60 minutes |\n| Add 22 uL dilution buffer (0.37 M) | Add 22 uL dilution buffer (0.37 M) | 60 minutes |\n| Add 32.06 uL dilution buffer (0.25 M) | Add 32.06 uL dilution buffer (0.25 M) | 60 minutes |\n| Incubate at 37 degrees | Incubate at 37 degrees | 30 minutes |\n\nPost-recon, collect C1 and C2 together and C3 and C4 together.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2025-08-21",
+ "tags": {
+  "techniques": [
+   "Reconstitution",
+   "Dialysis",
+   "Fragmentation"
+  ],
+  "reagents": [
+   "KCl",
+   "Histone octamer",
+   "TE buffer",
+   "Glycerol"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "1. Set up dialysis recon for HAP1 and GP5d 20K fragmented genomic DNA  "
+}

@@ -1,0 +1,48 @@
+{
+ "date": "2025-10-01",
+ "heading": "**1 October 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "### 1. Prepare 1X more plates with 2X Phusion polymerase mix for lig147 from newly prepared lig147 MAIN\n### 2. Test Hia5 activity with Hia5 test ligand in Nucleosome Exchange Buffer\n### 3. Prepare a plan for samples to be prepared with Nucleosome recon for long-read footprinting\n### 4. Set up O/N T4 DNA ligase test for lig147 and lig200noRE with 1 mM Hexammine Cobalt (III) Chloride\n\n### 1. Prepare 1X more plates with 2X Phusion polymerase mix for lig147 from newly prepared lig147 MAIN\n\nSome of the lig147 MAIN was run\n\n100X\n\n| NCAP\\_F (10 uM) | 100 uL |\n| :---- | :---- |\n| NCAP\\_R (10 uM) | 100 uL |\n| 2X Phusion | 2500 uL |\n| lig147 MAIN | 41.5 uL (diluted to 100 uL) |\n| NF H2O | 2200 uL |\n\nSplit 50 uL per well of a 96-well PCR plate.\n\nPCR4, SELEX\\_AMP\n\n| 95°C | 3 min |\n| :---- | :---- |\n| 98°C | 20 s |\n| 55°C | 15 s       **10X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\n### 2. Test Hia5 activity with Hia5 test ligand in Nucleosome Exchange Buffer\n\nBefore running this test, run some of the purified Hia5testlig on an agarose gel to confirm quality and purity.\n\nDilute psf-Hia5 (1 uL in total of 15 uL with water) **\\[dil psf-Hia5 \\- dpH1\\].** Also similarly dilute the new batch of Hia5 (dpH2)\n\n*Titration of Hia5 for the Nucleosome Exchange Buffer (NE)\\*+FIBER-Seq (300 ng DNA per trial). Total 20 uL reactions.*\n\n- Hia5 ligand \\+ NE buffer \\+ 1 uL dpH1 \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine  \n- Hia5 ligand \\+ NE buffer \\+ 2 uL dpH1 \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine  \n- Hia5 ligand \\+ NE buffer \\+ 3 uL dpH1 \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine  \n- Hia5 ligand \\+ NE buffer \\+ 4 uL dpH1 \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine  \n- Hia5 ligand \\+ NE buffer \\+ 5 uL dpH1 \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine  \n- Hia5 ligand \\+ NE buffer \\+ 1 uL dpH2 \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine  \n- Hia5 ligand \\+ NE buffer \\+ 2 uL dpH2 \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine  \n- Hia5 ligand \\+ NE buffer \\+ 3 uL dpH2 \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine  \n- Hia5 ligand \\+ NE buffer \\+ 4 uL dpH2 \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine  \n- Hia5 ligand \\+ NE buffer \\+ 5 uL dpH2 \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine\n\nIncubate 37 degrees \\- 1 hour and 80 degrees, 10 mins. Then add 1 uL DpnI and 2 uL CutSmart and incubate again at 37 degrees \\- 1 hour and 80 degrees, 10 mins. Run these reactions on a 2% agarose gel to check the activity of the enzyme.\n\n\\*The buffer being referred to here is the Nucleosome Exchange Buffer B with a salt concentration of 0.26 M.\n\n### 3. Prepare a plan for samples to be prepared with Nucleosome recon for long-read footprinting\n\n### 4. Set up O/N T4 DNA ligase test for lig147 and lig200noRE with 1 mM Hexammine Cobalt (III) Chloride (HCCl)\n\nPrepare 100 mL solution of 10 mM HCCl in water ⇒ 0.27 g of HCCl salt in 100 mL water. Store this solution for long-term at 4 degrees.\n",
+ "experiments": [
+  "1. Prepare 1X more plates with 2X Phusion polymerase mix for lig147 from newly prepared lig147 MAIN",
+  "2. Test Hia5 activity with Hia5 test ligand in Nucleosome Exchange Buffer",
+  "3. Prepare a plan for samples to be prepared with Nucleosome recon for long-read footprinting",
+  "4. Set up O/N T4 DNA ligase test for lig147 and lig200noRE with 1 mM Hexammine Cobalt (III) Chloride",
+  "1. Prepare 1X more plates with 2X Phusion polymerase mix for lig147 from newly prepared lig147 MAIN",
+  "2. Test Hia5 activity with Hia5 test ligand in Nucleosome Exchange Buffer",
+  "3. Prepare a plan for samples to be prepared with Nucleosome recon for long-read footprinting",
+  "4. Set up O/N T4 DNA ligase test for lig147 and lig200noRE with 1 mM Hexammine Cobalt (III) Chloride (HCCl)"
+ ],
+ "images": [],
+ "tables": 2,
+ "id": "2025-10-01",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Hia5",
+   "Reconstitution",
+   "Gel electrophoresis"
+  ],
+  "reagents": [
+   "Phusion",
+   "SAM",
+   "Spermidine",
+   "Hia5",
+   "T4 ligase"
+  ],
+  "samples": [
+   "lig147",
+   "lig200noRE",
+   "NCAP_F",
+   "NCAP_R",
+   "SELEX_AMP"
+  ],
+  "custom": []
+ },
+ "title": "Prepare 1X more plates with 2X Phusion polymerase mix for lig147 from newly prepared lig147 MAIN; Test Hia5 activity with Hia5 test ligand in Nucleosome Exchange Buffer; Prepare a plan for samples to be prepared with Nucleosome recon for long-read footprinting"
+}

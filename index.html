@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Experimentalist · Lab Notebook</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧪</text></svg>">
+<link rel="stylesheet" href="assets/css/style.css">
+<script>try{const t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t;else if(matchMedia('(prefers-color-scheme: dark)').matches)document.documentElement.dataset.theme='dark'}catch(e){}</script>
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="#/">🧪 <span>Experimentalist</span></a>
+  <div class="searchwrap"><input id="q" type="search" placeholder="Search everything… (press / )" autocomplete="off"></div>
+  <nav>
+    <a href="#/" data-nav="timeline">Timeline</a>
+    <a href="#/calendar" data-nav="calendar">Calendar</a>
+    <a href="#/new" class="btn primary" data-nav="new">+ New entry</a>
+    <a href="#/settings" title="Settings" data-nav="settings">⚙</a>
+    <button id="themeBtn" class="iconbtn" title="Toggle dark/light">◐</button>
+  </nav>
+</header>
+<div class="layout">
+  <aside id="sidebar" class="sidebar">
+    <section>
+      <h4>Date range</h4>
+      <label>From <input type="date" id="fFrom"></label>
+      <label>To <input type="date" id="fTo"></label>
+    </section>
+    <section>
+      <h4>Notebook</h4>
+      <div id="fSource" class="chips"></div>
+    </section>
+    <section><h4>Techniques</h4><div id="fTech" class="chips"></div></section>
+    <section><h4>Samples / ligands</h4><input id="sampleFilter" class="mini" placeholder="filter samples…"><div id="fSamp" class="chips"></div></section>
+    <section><h4>Reagents</h4><div id="fReag" class="chips"></div></section>
+    <section><h4>Has</h4><div id="fHas" class="chips"></div></section>
+    <button id="clearFilters" class="btn small">Clear filters</button>
+  </aside>
+  <main id="main"><div class="loading">Loading notebook…</div></main>
+</div>
+<div id="lightbox" class="lightbox" hidden><button class="lb-close" aria-label="Close">×</button><button class="lb-prev">‹</button><img alt=""><button class="lb-next">›</button><div class="lb-cap"></div></div>
+<div id="toast" class="toast" hidden></div>
+<script src="vendor/marked.min.js"></script>
+<script src="vendor/purify.min.js"></script>
+<script src="vendor/minisearch.js"></script>
+<script src="assets/js/config.js"></script>
+<script src="assets/js/github.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>

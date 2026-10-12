@@ -1,0 +1,39 @@
+{
+ "date": "2025-05-06",
+ "heading": "**6 May 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "**Quantification of protein and DNA in the QSI-SELEX trial II**\n\n| Sample | DNA (Qubit) | Protein (Bradford) |\n| :---: | :---: | :---: |\n| Strep Binding Buffer (Blank) U1 |  |  |\n| Unbound U2 |  |  |\n| Wash1 U3 |  |  |\n| Wash2 U4 |  |  |\n| Wash3 U5 |  |  |\n| Strep Elution Buffer (Blank) U6 |  |  |\n| Strep Buffer Elute U7 |  |  |\n| SELEX elution buffer (Blank) U8 |  |  |\n| Strep Beads \\- Boiled\\_round1 U9 |  |  |\n| Strep Beads \\+ elution buffer (post boiling) U10 |  |  |\n\nHeat the Strep beads in SELEX elution buffer at 99 degrees, 15 mins to denature the beads (this will ensure denaturation of proteins, dsDNA and the beads, so that nothing remains conjugated to the beads).\n\nQubit \\= 190 uL dye \\+ 10 uL standards & 190 uL dye \\+ 10 uL samples\n\nBradford \\= 250 uL dye \\+ 5 uL standards and samples\n\n| S1 | S1 | U1 | U1 | U9 | U9 |  |  |  |  |  |  |\n| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |\n| S2 | S2 | U2 | U2 | U10 | U10 |  |  |  |  |  |  |\n| S3 | S3 | U3 | U3 |  |  |  |  |  |  |  |  |\n| S4 | S4 | U4 | U4 |  |  |  |  |  |  |  |  |\n| S5 | S5 | U5 | U5 |  |  |  |  |  |  |  |  |\n| S6 | S6 | U6 | U6 |  |  |  |  |  |  |  |  |\n| S7 | S7 | U7 | U7 |  |  |  |  |  |  |  |  |\n| S8 | S8 | U8 | U8 |  |  |  |  |  |  |  |  |\n\n###  \n\n### \n\n### **Pre-Rinse Filter**\n\nDo this for two columns simultaneously:\n\n1. Add **500 µL** nuclease-free water to the filter (upper chamber).\n\n2. Centrifuge **5 min @ 14,000×g**.\n\n3. Discard the filtrate (flow-through).  \n4. Add **500 µL** QSI sample buffer to the filter (upper chamber).\n\n---\n\n### **2\\. Adjust Sample to 350 µL**\n\n1. Transfer your **250 µL** sample into a fresh low-binding tube.\n\n2. Add **150 µL** QSI sample buffer → **total \\= 400 µL**.\n\n---\n\n### **3\\. First Diafiltration**\n\n1. Load the **400 µL** diluted sample into the filter unit.\n\n2. Centrifuge **10 min @ 14,000×g**. Keep doing this till the entire sample is taken up.  \n3. Collect the filtrate together in one single tube.\n\n---\n\n### **4\\. Wash Step**\n\n1. Add **400 µL** fresh Streptavidin Binding Buffer to the filter unit.\n\n2. Centrifuge **10 min @ 14,000×g**.\n\n3. Collect the wash .\n\n> *If you suspect residual imidazole, repeat this wash (step 4\\) once more with another 350 µL.*\n\n---\n\n### **5\\. Recover Buffer-Exchanged Sample**\n\n1. Move the filter to a **new collection tube** (provided).\n\n2. Invert the unit and spin **5 min @ 1,000×g**.\n\n3. Discard the filter—your retentate (\\~350 µL) is now in the tube.\n\n---\n\n## **Outcome**\n\n* **Final Volume:** \\~350 µL\n\n* **Buffer:** Streptavidin Binding Buffer (10 mM Tris pH 7.8, 100 mM KCl, 1 mM MgCl₂, 0.1% Tween-20)\n\n* **Sample:** Fully buffer-exchanged protein–DNA complexes, ready for streptavidin pulldown.\n\nMinimum required protein amount (as per 100 nM of protein in 50 uL solution) \\= 96 ng of protein\n",
+ "experiments": [
+  " ",
+  "**Pre-Rinse Filter**",
+  "**2\\. Adjust Sample to 350 µL**",
+  "**3\\. First Diafiltration**",
+  "**4\\. Wash Step**",
+  "**5\\. Recover Buffer-Exchanged Sample**"
+ ],
+ "images": [],
+ "tables": 2,
+ "id": "2025-05-06",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Qubit",
+   "Bead purification",
+   "Column purification",
+   "Protein purification",
+   "Buffer exchange"
+  ],
+  "reagents": [
+   "Tris",
+   "KCl",
+   "MgCl2"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": " ; **Pre-Rinse Filter**; **2\\. Adjust Sample to 350 µL**"
+}

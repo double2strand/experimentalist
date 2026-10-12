@@ -1,0 +1,56 @@
+{
+ "date": "2025-07-25",
+ "heading": "**25 July 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "### 1. Sorting of HepG2del cells:\n\nCells were sorted and the preliminary results of the sort can be seen below. Cells are generally stressed after the sort and are being cultured in P/S containing high serum media.\n\nAround 12 hours post the sort, the surviving cells in culture don’t really show mCherry reporter expression. This could be because cells are experiencing growth and transcriptional lag due to stress (?).\n\nAdditionally, based on the preliminary results I see, the sorting strategy needs to be further refined. Take cues from the PB enhancer paper and use gating strategy as follows:\n\n![](assets/img/doc2-image24.png)  \n![ (partial: image too large to export fully - see original Google Doc)](assets/img/doc2-image25.png)\n\n![ (partial: image too large to export fully - see original Google Doc)](assets/img/doc2-image26.png)\n\n### 2. MiSeq library re-prep with new PCR primers\n\nPCR 1:\n\nP5\\_staggered\\_F(™) \\= 59 C  \nP7\\_BC1\\_R \\= 62 C  \nAnnealing temperature \\= 59 C\n\nFor preparing the P5 primer mix, add 5 uL of each staggered primer to create a 100 uM master-mix.\n\nPer library (5X reactions):\n\n| KAPA HiFi MM (2X) | 62.5 uL |\n| :---- | :---- |\n| P5 primer mix (100 uM) | 1.25 uL |\n| Plasmid library  | 250 ng (50 ng per reaction) |\n| P7 primer (5 uM) | 12.5 uL |\n| NF H2O | Up to 125 uL |\n\n| 95 C | 1 min |\n| :---- | :---- |\n| 98 C | 15 s |\n| 59 C | 30 s |\n| 72 C | 20 s |\n| 72 C | 2 min |\n| 4 C | Forever |\n\n10 cycles of amplification was performed\n\n![](assets/img/doc2-image27.png)\n\n**HepG2del-GclaT1**\n\n![](assets/img/doc2-image28.png)![](assets/img/doc2-image29.png)\n\n**HepG2del-GclaT2**  \n**![](assets/img/doc2-image30.png)![](assets/img/doc2-image31.png)**\n\n**HepG2del-HclaT1**\n\n**![](assets/img/doc2-image32.png)![](assets/img/doc2-image33.png)**\n\n**HepG2del-HclaT2**  \n**![](assets/img/doc2-image34.png)![](assets/img/doc2-image35.png)**\n\n**HepG2del-GclaT1+ post-sorted**  \n**![](assets/img/doc2-image36.png)![](assets/img/doc2-image37.png)**\n\n**HepG2del-GclaT2- post-sorted**  \n**![](assets/img/doc2-image38.png)![](assets/img/doc2-image39.png)**  \n**HepG2del-GclaT2+ post-sorted**  \n**![](assets/img/doc2-image40.png)![](assets/img/doc2-image41.png)**\n\n**HepG2del-HclaT1- post-sorted**  \n**![](assets/img/doc2-image42.png)![](assets/img/doc2-image43.png)**\n\n**HepG2del-HclaT1+ post-sorted**  \n**![](assets/img/doc2-image44.png)![](assets/img/doc2-image45.png)**\n\n**HepG2del-HclaT2- post-sorted**  \n**![](assets/img/doc2-image46.png)![](assets/img/doc2-image47.png)**\n\n**HepG2del-HclaT2+ post-sorted**  \n**![](assets/img/doc2-image48.png)![](assets/img/doc2-image49.png)**\n\n**HepG2del-WT**  \n**![](assets/img/doc2-image50.png)![](assets/img/doc2-image51.png)**\n",
+ "experiments": [
+  "1. Sorting of HepG2del cells:",
+  "2. MiSeq library re-prep with new PCR primers"
+ ],
+ "images": [
+  "assets/img/doc2-image24.png",
+  "assets/img/doc2-image25.png",
+  "assets/img/doc2-image26.png",
+  "assets/img/doc2-image27.png",
+  "assets/img/doc2-image28.png",
+  "assets/img/doc2-image29.png",
+  "assets/img/doc2-image30.png",
+  "assets/img/doc2-image31.png",
+  "assets/img/doc2-image32.png",
+  "assets/img/doc2-image33.png",
+  "assets/img/doc2-image34.png",
+  "assets/img/doc2-image35.png",
+  "assets/img/doc2-image36.png",
+  "assets/img/doc2-image37.png",
+  "assets/img/doc2-image38.png",
+  "assets/img/doc2-image39.png",
+  "assets/img/doc2-image40.png",
+  "assets/img/doc2-image41.png",
+  "assets/img/doc2-image42.png",
+  "assets/img/doc2-image43.png",
+  "assets/img/doc2-image44.png",
+  "assets/img/doc2-image45.png",
+  "assets/img/doc2-image46.png",
+  "assets/img/doc2-image47.png",
+  "assets/img/doc2-image48.png",
+  "assets/img/doc2-image49.png",
+  "assets/img/doc2-image50.png",
+  "assets/img/doc2-image51.png"
+ ],
+ "tables": 2,
+ "id": "2025-07-25",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Library prep"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Sorting of HepG2del cells:; MiSeq library re-prep with new PCR primers"
+}

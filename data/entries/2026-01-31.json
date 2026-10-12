@@ -1,0 +1,30 @@
+{
+ "date": "2026-01-31",
+ "heading": "*31 January 2026*",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Gel runs for EcoRV assay*\n\nLoad samples 1-8 along with a TriDye 100 bp ladder. Run for 100 V, 90 mins → stain with SYBR green stain\n\nLoad samples on a 3% agarose gel:\n\n1. Quick-load 100 bp ladder  \n2. ELF2lig1  \n3. ELF2lig4  \n4. 1-8  \n5. TriDye 100 bp\n\nRun 110 V, 60 mins. Stain with SYBR Green.\n\n*ELF ligand PCR repeat*\n\nELF\\_sm\\_EcoRV \\= ELF lig3\n\nELFlig\\_noEcoRV \\= ELF lig2\n\n5X PCR for each ligand:\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **ELFlig2/3 \\- 10 ng/uL** | **10 uL** |\n| **Phusion Master Mix** | **100 uL** |\n| **ELF\\_FWD 10 uM** | **10 uL** |\n| **ELF\\_REV2/REV3 10 uM** | **10 uL** |\n| **Water** | **70 uL** |\n| **Total** | **200 uL** |\n\nELF lig3\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 59°C | 15 s       **35X\\*** |\n| 72°C | 30 s |\n| 72°C | 10 min |\n| 4°C | HOLD |\n\nELF lig2\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 56°C | 15 s       **35X\\*** |\n| 72°C | 30 s |\n| 72°C | 10 min |\n| 4°C | HOLD |\n\nELFRF\\_lig \n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **ELFRFlig \\- 10 ng/uL** | **10 uL** |\n| **Phusion Master Mix** | **100 uL** |\n| **ELF\\_FWD 10 uM** | **10 uL** |\n| **ELF\\_REV 10 uM** | **10 uL** |\n| **Water** | **70 uL** |\n| **Total** | **200 uL** |\n\nELFRFlig\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 59°C | 15 s       **35X\\*** |\n| 72°C | 30 s |\n| 72°C | 10 min |\n| 4°C | HOLD |\n\nELFFR\\_lig \n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **ELFRFlig \\- 10 ng/uL** | **10 uL** |\n| **Phusion Master Mix** | **100 uL** |\n| **ELF\\_FWD 10 uM** | **10 uL** |\n| **ELF\\_REV4 10 uM** | **10 uL** |\n| **Water** | **70 uL** |\n| **Total** | **200 uL** |\n\nELFFRlig\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 59°C | 15 s       **35X\\*** |\n| 72°C | 30 s |\n| 72°C | 10 min |\n| 4°C | HOLD |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 7,
+ "id": "2026-01-31",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Gel electrophoresis"
+  ],
+  "reagents": [
+   "Phusion",
+   "SYBR"
+  ],
+  "samples": [
+   "lig3",
+   "lig2"
+  ],
+  "custom": []
+ },
+ "title": "Gel runs for EcoRV assay"
+}

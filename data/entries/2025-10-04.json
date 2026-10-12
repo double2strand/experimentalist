@@ -1,0 +1,28 @@
+{
+ "date": "2025-10-04",
+ "heading": "**4 October 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "**Transfection of 293TX cells with pHRS-Gclav1, pHRS-Hclav1 & pHRS-GCDv1 for virus packaging**\n\n1\\. pHRS-Gclav1:\n\n5 plates (10-cm dish) with 5 ug of transfer plasmids and 6 ug each of the packaging and envelope vectors.\n\n7.5 mL Opti-MEM \\+ 39.5 uL pHRS-Gclav1 \\+ 20.2 uL pMD2.G \\+ 29 uL pCMV-dR8.2\n\nIncubate for 5 mins.\n\nAdd 165 uL Turbofectin & incubate for 15 mins.\n\nSplit the solution dropwise across two plates. Label these plates as pHRS-Gclav1.\n\n2\\. pHRS-Hclav1:\n\n5 plates (10-cm dish) with 5 ug of transfer plasmids and 6 ug each of the packaging and envelope vectors.\n\n7.5 mL Opti-MEM \\+ 39.5 uL pHRS-Hclav1 \\+ 20.2 uL pMD2.G \\+ 29 uL pCMV-dR8.2\n\nIncubate for 5 mins.\n\nAdd 165 uL Turbofectin & incubate for 15 mins.\n\nSplit the solution dropwise across two plates. Label these plates as pHRS-Hclav1.\n\n3\\. pHRS-GCDv1:\n\n5 plates (10-cm dish) with 5 ug of transfer plasmids and 6 ug each of the packaging and envelope vectors.\n\n7.5 mL Opti-MEM \\+ 39.5 uL pHRS-Hclav1 \\+ 20.2 uL pMD2.G \\+ 29 uL pCMV-dR8.2\n\nIncubate for 5 mins.\n\nAdd 165 uL Turbofectin & incubate for 15 mins.\n\nSplit the solution dropwise across two plates. Label these plates as pHRS-GCDv1.  \n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2025-10-04",
+ "tags": {
+  "techniques": [
+   "Transfection",
+   "Cell culture"
+  ],
+  "reagents": [],
+  "samples": [
+   "Gclav1",
+   "GCDv1",
+   "293TX"
+  ],
+  "custom": []
+ },
+ "title": "Transfection of 293TX cells with pHRS-Gclav1, pHRS-Hclav1 & pHRS-GCDv1 for virus packaging"
+}

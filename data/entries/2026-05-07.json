@@ -1,0 +1,27 @@
+{
+ "date": "2026-05-07",
+ "heading": "**7 May 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "lig50k:\n\nDNA → 12.4 nM (10 ug) in 25 uL \\[20 uL\\]\n\n(1:250 ratio) Octamer → 3.1 uM → 8.4 ug (1.6 uL) (1.6 \\+ 3.4 uL) \\[*1.32 M salt*\\]\n\nDNA \\+ Octamer ⇒ 1.86 M salt\n\nligYJ (\\~15 kb):\n\nDNA → 2.05 nM (500 ng) \\[20 uL\\]\n\n(1:75 ratio) Octamer → 158 nM → 430 ng (Make 540 ng/uL stock in refolding buffer (10 uL) → 0.8 uL of 540 ng/uL working stock \\+ 4.2 uL refolding buffer:glycerol) \\[1.16 M\\]\n\nDNA \\+ Octamer ⇒ 1.83 M\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2026-05-07",
+ "tags": {
+  "techniques": [],
+  "reagents": [
+   "Histone octamer",
+   "Glycerol"
+  ],
+  "samples": [
+   "lig50k",
+   "ligYJ"
+  ],
+  "custom": []
+ },
+ "title": "lig50k:"
+}

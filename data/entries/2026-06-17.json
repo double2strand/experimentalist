@@ -1,0 +1,26 @@
+{
+ "date": "2026-06-17",
+ "heading": "**17 June 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "**MNase check for nucleosome samples**\n\nDilute 1 uL MNase to 1000 uL of total solution with NF water. 1 uL of this solution has 2 gel units of the enzyme (MNase-dil).\n\nTreat samples at 37 C, 15 mins. Add 1.1 uL EGTA (0.5 M) to stop the reaction.\n\nNOTE: Use 5 uL of each sample for this test except for the control samples.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2026-06-17",
+ "tags": {
+  "techniques": [
+   "MNase",
+   "Gel electrophoresis"
+  ],
+  "reagents": [
+   "MNase"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "MNase check for nucleosome samples"
+}

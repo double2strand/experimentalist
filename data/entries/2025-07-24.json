@@ -1,0 +1,32 @@
+{
+ "date": "2025-07-24",
+ "heading": "**24 July 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "| Sorting of HepG2del Gcla, Hcla T1 & T2 cells for mCherry+ cells |\n| :---- |\n| **Images of mCherry and GFP cells** |\n| **Test nucleosome reconstitution protocol with liquids \\- test run** |\n| **Transfer Fangjie pipetting template to i7** |\n| **Set up Maxi cultures for remaining AT10-ShhBC pools** |\n\n### 1. Sorting of HepG2del Gcla, Hcla T1 & T2 cells for mCherry+ cells\n\nTrypsinize the following plates:\n\nHepG2del \\- GclaT1  \nHepG2del \\- HclaT1  \nHepG2del \\- GclaT2  \nHepG2del \\- HclaT2\n\nThe cells need to be in the sorting buffer:\n\n1X Phosphate Buffered Saline (without Ca/Mg)   \n1% Fetal Bovine Serum (heat-inactivated)    \n1 mM EDTA   \n25 mM HEPES pH 7.0   \n0.2 um filter sterilize, store at 4°C   \nPrepare 250 mL of this sorting buffer:\n\n2.5 mL FBS  \n0.5 mL EDTA  \n6.25 mL HEPES  \nTop up with PBS\n\nCount cells and suspend in densities of about 10-20 million per mL \\- total \\~1 mL in FACS tubes after passing through the filter on the head.\n\nAlso prepare collection tubes (carry both spare FACS tubes as well as 15 mL falcon tubes) for adding the sorting media (high % FBS).\n\nWhile harvesting the cells, seed 30-50% of the original pool back into a fresh 10-cm plate (per sample) for continued culture.\n\nAlso prepare fresh media for the HepG2 cells:\n\nHepG2 media (500 mL)\n\n| DMEM high glucose | Make up to 500 mL |\n| :---- | :---- |\n| HI FBS (10%) | 50 mL |\n| L-Glutamine | 5 mL |\n| Sodium Pyruvate | 5 mL |\n\n### 2. Images of mCherry and GFP cells\n\n### 3. Test nucleosome reconstitution protocol with liquids \\- test run\n\n### 4. Transfer Fangjie pipetting template to i7\n\n### 5. Set up Maxi cultures for remaining AT10-ShhBC pools\n\nSet up the pHRS-Hcla-ShhBC and pHRS-GCC-ShhBC for a large scale Maxi culture O/N. Use 1 L of culture per Maxi culture in this case.\n",
+ "experiments": [
+  "1. Sorting of HepG2del Gcla, Hcla T1 & T2 cells for mCherry+ cells",
+  "2. Images of mCherry and GFP cells",
+  "3. Test nucleosome reconstitution protocol with liquids \\- test run",
+  "4. Transfer Fangjie pipetting template to i7",
+  "5. Set up Maxi cultures for remaining AT10-ShhBC pools"
+ ],
+ "images": [],
+ "tables": 2,
+ "id": "2025-07-24",
+ "tags": {
+  "techniques": [
+   "Reconstitution",
+   "Cell culture"
+  ],
+  "reagents": [
+   "EDTA"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Sorting of HepG2del Gcla, Hcla T1 & T2 cells for mCherry+ cells; Images of mCherry and GFP cells; Test nucleosome reconstitution protocol with liquids \\- test run"
+}

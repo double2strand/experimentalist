@@ -1,0 +1,37 @@
+{
+ "date": "2025-08-11",
+ "heading": "**11 August 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **gDNA extraction and PCR to check for GFP expression and MYC335 transposition in the genome**  \n2. **Seeding of HAP1 cells for transduction of Gcla & Hcla libraries**  \n3. **Thaw K562del cells for expansion**  \n4. **Run 0.3% agarose gel with MNase-treated samples for lig20K recon as well as the remaining lig20K recon samples (Stain with SYBR green nucleic acid stain)**  \n5. **Prepare glycerol stock plates for DBD culture plates**\n\n   \n\n1. **gDNA extraction and PCR to check for GFP expression and MYC335 transposition in the genome**\n\n\tGFPF1 \\+ GFPR1\n\n| KAPA HiFi | 12.5 uL |\n| :---- | :---- |\n| GFPF1 (10 uM) | 0.75 uL |\n| GFPR1 (10 uM) | 0.75 uL |\n| Genomic DNA | 50 ng |\n| NF Water | Make up to 25 uL |\n\n| 95 C | 3 min | 1 |\n| :---- | :---- | :---- |\n| 98 C | 20 s | 25 |\n| 65 C | 15 s | 25 |\n| 72 C | 2 min | 25 |\n| 72 C | 10 min | 1 |\n| 4 C | Forever |  |\n\n\tSHHF1 \\+ MYC335R1 will also be set up\n\n**NOTE: All the ShhBC libraries have now been transformed while the GclaAT10ShhBCv1 library has also been prepared. Libraries remaining:**\n\n1. **HclaAT10ShhBCv1**  \n2. **GCDAT10ShhBCv1**  \n3. **HCDAT10ShhBCv1**  \n4. **GCCAT10ShhBCv1**  \n5. **HCCAT10ShhBCv1**  \n6. **Nh100ShhBCv1**\n\n### 2. Seeding of HAP1 cells for transduction of Gcla & Hcla libraries\n\n150K cells to be seeded per well of 2 6-well plates. This will include:\n\n- 3 wells for pHRSGclav1  \n- 3 wells for pHRSHclav1  \n- 3 wells for pHRSHCDv1  \n- 2 wells for mCherry control  \n- 1 well of HAP1 control WT\n",
+ "experiments": [
+  "2. Seeding of HAP1 cells for transduction of Gcla & Hcla libraries"
+ ],
+ "images": [],
+ "tables": 2,
+ "id": "2025-08-11",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "MNase",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Cell culture",
+   "Library prep",
+   "gDNA isolation"
+  ],
+  "reagents": [
+   "SYBR",
+   "MNase",
+   "Glycerol"
+  ],
+  "samples": [
+   "lig20K"
+  ],
+  "custom": []
+ },
+ "title": "Seeding of HAP1 cells for transduction of Gcla & Hcla libraries"
+}

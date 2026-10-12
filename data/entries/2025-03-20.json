@@ -1,0 +1,35 @@
+{
+ "date": "2025-03-20",
+ "heading": "**20 March 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**Cycle 0 library purification and profiling**\n\nFrom the bioanalyser results, the cycle 0 libraries had aberrant profiles and were too low in concentration. The original PCR pools (1.25 mL each of lig147 and ligN20w100) to be pooled and PCR purified to elute in 50 uL each of TE buffer using MinElute columns. Then further size select this with 0.75X \\+ 1.05X of SPRIselect beads purification.\n\n**Test ligation and purification of pHRS-Gcla library ligation product:**\n\n1. Set up the reaction on ice (see table).\n\n| Component | Volume | Amount |\n| ----- | ----- | ----- |\n| pHRS | 3.9 μl | 0.067 pmoles |\n| oligopool | 0.5 μl | 0.133 pmoles |\n| Deionized H2O | 5.6 μl | \\--- |\n| NEBuilder HiFi DNA Assembly Master Mix | 10.0 μl | \\--- |\n| Total | 20.0 μl | 0.200 pmoles |\n\n \n\n2. Incubate samples in a thermocycler at 50°C for 60 minutes. Following incubation, pool samples and pass through a column to purify ligated DNA and other fragments (elute in about 50-100 uL of TE buffer). Check concentration and some of the product on a 0.8% gel to check for product sizes.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2025-03-20",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Gel electrophoresis",
+   "Ligation",
+   "Library prep",
+   "Bead purification",
+   "Column purification",
+   "Fragmentation"
+  ],
+  "reagents": [
+   "MinElute",
+   "TE buffer"
+  ],
+  "samples": [
+   "lig147",
+   "ligN20w100"
+  ],
+  "custom": []
+ },
+ "title": "Cycle 0 library purification and profiling"
+}

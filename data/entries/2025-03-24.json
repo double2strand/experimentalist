@@ -1,0 +1,30 @@
+{
+ "date": "2025-03-24",
+ "heading": "**24 March 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**TapeStation run \\- re-quantify regions between 200-1000 bp:**\n\nIn the previous TapeStation runs, re-adjust the regions to 200-1000 bp on the TapeStation software and then note the final concentration of the libraries according to this (in nM).\n\n**Ligation and purification of ligated products for pHRS libraries:**\n\nUse 5:1 insert to vector ratios for the assembly since the insert fragments are quite small in this case.\n\n1\\. pHRS-Gcla (2X)\n\n| pHRS-Gcla (M) | 2.19 uL |\n| :---- | :---- |\n| GclaAT10-PCR | 10 ng |\n| 2X NEB HiFi Assembly Mix | 10 uL |\n| NF H2O | Make up volume to 20 uL |\n\n2\\. pHRS-Hcla (2X)\n\n| pHRS-Hcla (M) | 1.28 uL |\n| :---- | :---- |\n| GclaAT10-PCR | 10 ng |\n| 2X NEB HiFi Assembly Mix | 10 uL |\n| NF H2O | Make up volume to 20 uL |\n\n3\\. pHRS-GCD (2X) \n\n| pHRS-Hcla (M) | 7.69 uL |\n| :---- | :---- |\n| GclaAT10-PCR | 10 ng |\n| 2X NEB HiFi Assembly Mix | 10 uL |\n| NF H2O | Make up volume to 20 uL |\n\n4\\. pHRS-HCD (2X) \n\n| pHRS-Hcla (M) | 4.03 uL |\n| :---- | :---- |\n| GclaAT10-PCR | 10 ng |\n| 2X NEB HiFi Assembly Mix | 10 uL |\n| NF H2O | Make up volume to 20 uL |\n\n5\\. pHRS-GCC (2X) \n\n| pHRS-Hcla (M) | 4.81 uL |\n| :---- | :---- |\n| GclaAT10-PCR | 10 ng |\n| 2X NEB HiFi Assembly Mix | 10 uL |\n| NF H2O | Make up volume to 20 uL |\n\n6\\. pHRS-HCC (2X) \n\n| pHRS-Hcla (M) | 1.52 uL |\n| :---- | :---- |\n| GclaAT10-PCR | 10 ng |\n| 2X NEB HiFi Assembly Mix | 10 uL |\n| NF H2O | Make up volume to 20 uL |\n\nAfter setting up the reactions, incubate at 50 degrees, 60 mins. Pool each type of reaction and PCR purify the same. Then run a 0.8 % agarose gel (load depending on the concentration of the purified sample), and estimate the accurate sizes of the bands or major product on the gel. Expected product size for clean ligation product is **9817 bp**.\n\n*NOTE: While running this gel make sure to also run an equivalent amount of the digested vector to distinguish between the sizes of the digested and ligated vectors.*\n\n**Ligation and transformation of ligated products for pHRS-ShhBC libraries:**\n\nAgain use a 5:1 insert to vector ratio for performing this assembly.\n\n1\\. pHRS-Gcla (3X)\n\n| pHRS-Gcla (M) | 2.19 uL |\n| :---- | :---- |\n| ShhBColigo1PCR2 | 10 ng |\n| 2X NEB HiFi Assembly Mix | 10 uL |\n| NF H2O | Make up volume to 20 uL |\n\n2\\. pHRS-Hcla (3X)\n\n| pHRS-Hcla (M) | 1.28 uL |\n| :---- | :---- |\n| ShhBColigo1PCR2 | 10 ng |\n| 2X NEB HiFi Assembly Mix | 10 uL |\n| NF H2O | Make up volume to 20 uL |\n\nAs a test run we just do the reaction for pHRS-Gcla and pHRS-Hcla \\- 3X reactions each. Pool the reactions and then purify using a PCR column into 20-25 uL final volume in NF H2O. Check the concentration and size profiles of the product on an agarose gel.\n\nBased on the gel runs for the ligation products, I do see a clean band corresponding to the expected high molecular weight. This band also seems to have a slight upward shift compared to the MluI digested vector control.\n\n**Prepare HepG2, GP5d and HAP1 cell culture medium:**\n\nHepG2 media (500 mL)\n\n| DMEM high glucose | Make up to 500 mL |\n| :---- | :---- |\n| HI FBS (10%) | 50 mL |\n| L-Glutamine | 5 mL |\n| Sodium Pyruvate | 5 mL |\n\nGP5d media (500 mL)\n\n| DMEM high glucose | Make up to 500 mL |\n| :---- | :---- |\n| HI FBS (10%) | 50 mL |\n| L-Glutamine | 5 mL |\n\nHAP1 media (500 mL)\n\n| IMDM | Make up to 500 mL |\n| :---- | :---- |\n| HI FBS (10%) | 50 mL |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 11,
+ "id": "2025-03-24",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Gel electrophoresis",
+   "Ligation",
+   "Cell culture",
+   "Library prep",
+   "Column purification",
+   "Restriction digest",
+   "Fragmentation"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "TapeStation run - re-quantify regions between 200-1000 bp:"
+}

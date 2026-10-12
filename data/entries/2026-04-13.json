@@ -1,0 +1,30 @@
+{
+ "date": "2026-04-13",
+ "heading": "**13 April 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Nucleosome collection & quant for lig20k*\n\nlig20knuc \\- \n\n*Plasmid FIBER-Seq \\- GP5d pHRSmet-*\n\n- Cells are resuspended in 60 uL of Hia5 buffer (containing 0.05 % IGEPAL)  \n- Incubate on ice for 10 mins.  \n- Pellet nuclei at 350g, 5 min at 4 C.  \n- Resuspend nuclei in 59 uL Hia5 buffer (with 0.8 mM SAM) & 1 uL of Hia5. \\[146.25 uL buffer \\+ 3.75 uL SAM\\]   \n- Incubate at 25 C for 60 mins. Add SDS to a final concentration of 1% to stop the reaction.  \n- Extract plasmid DNA by adding 134 uL Monarch Buffer B1. Then purify by mini-prep according to the kit instructions.  \n- Linearize the plasmids based on *in vitro* CRISPR & clean-up the reactions\n\n*Plan for CC-methylase foot-printing*\n\n*Plan for protein \\+ nucleosome \\+ footprinting for ELF2 ligands & lig20knuc*\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2026-04-13",
+ "tags": {
+  "techniques": [
+   "Hia5"
+  ],
+  "reagents": [
+   "SAM",
+   "Hia5",
+   "SDS"
+  ],
+  "samples": [
+   "lig20knuc",
+   "lig20k"
+  ],
+  "custom": []
+ },
+ "title": "Nucleosome collection & quant for lig20k"
+}

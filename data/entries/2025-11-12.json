@@ -1,0 +1,34 @@
+{
+ "date": "2025-11-12",
+ "heading": "**12 November 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "**Cycle 1 NCAP-SELEX (lig147, ligN40w107)**\n\n*Step 1: Nucleosome recon*\n\n- 1.8 uL instead of 1.5 uL was added for the octamer per well  \n- 5 uL each of 20 ng/uL ligands was used per well  \n- For all aspirate & dispense steps change the distance to *‘0.2-0.5 from bottom’* \\- especially to add to SBP beads\n\n*Step 2: Nucleosome wash*\n\n- Rinse 3 times with Water (Ch2)  \n- Prime once with Water  \n- Rinse once with Ch1 & Prime with 200 mL of Ch1  \n- Wash lig147 plate first (6+6+3)  \n- Rinse 3 times with Water (Ch2)  \n- Prime once with Water  \n- Rinse once with Ch1 & Prime with 200 mL of Ch1  \n- Wash ligN40w107 plate first (6+6+3)\n\n*Step 3: Biotin Buffer*\n\n- Shake at 1900 rpm, 1.5 mins for Biotin elution  \n- 10 uL of P22, P24 were collected and pooled for each ligand prior to moving sample for TF incubation\n\n*Step 4: TF incubation*\n\n- There is 30 uL of TF per well ⇒ Take 25 uL TF after mixing 5-6 times and then add to Master TF plate ⇒ Add 65 uL TF dilution buffer per well and mix again 5-6 times\n\n*Step 6: DNA elution*\n\n- Incubate at 80 C, 15 mins for DNA elution (on a 384-well plate)\n\n*Step 6: PCR & qPCR*\n\nqPCR: 1.5 uL DNA to qPCR plate\n\nPCR: 4.5 uL DNA to PCR plate with 13.5 uL\n\nPCRc2: 2 uL of PCR1 to PCR2 plate (18.5 uL)\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2025-11-12",
+ "tags": {
+  "techniques": [
+   "qPCR",
+   "PCR",
+   "SELEX",
+   "Reconstitution",
+   "Bead purification",
+   "ELISA",
+   "Protein purification"
+  ],
+  "reagents": [
+   "Histone octamer"
+  ],
+  "samples": [
+   "lig147",
+   "ligN40w107"
+  ],
+  "custom": []
+ },
+ "title": "Cycle 1 NCAP-SELEX (lig147, ligN40w107)"
+}

@@ -1,0 +1,47 @@
+{
+ "date": "2026-02-23",
+ "heading": "**23 February 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*PNK treatment of N40 and 147 NCFS*\n\n| DNA | 5 ug |\n| :---- | :---- |\n| T4 PNK Reaction Buffer (10X) | 5 µl |\n| ATP (10 mM) | 50 pmol of \\[γ-32P\\] ATP |\n| [T4 PNK](https://www.neb.com/en-gb/products/m0201-t4-polynucleotide-kinase) | 2 µl (20 units) |\n| Nuclease-free Water | up to 50 µl  |\n\nIncubate 37 C, 45 mins. Deactivate 65 C, 20 mins. Purify these products through a column.\n\n1. lig50k (sheared to 20k) \\- No Hia5 treatment  \n2. 293T (sheared to 20k) \\+ nucleosomes \\+ Hia5  \n3. Plasmid Fiber-Seq HAP1 HRS- 12  \n4. Plasmid Fiber-Seq HAP1 HRS- 18  \n5. Plasmid Fiber-Seq HepG2 HRS- 12  \n6. Plasmid Fiber-Seq HepG2 HRS- 18  \n7. 147HTFS  \n8. N40HTFS  \n9. 147NCFS  \n10. N40NCFS\n\n*PCR for ELF ligands*\n\nGel extracted ligands for ELF lig1, ELF2shift\\_HindIII and ELF2shift\\_EcoRV are to be used for the PCR:\n\n10X\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **Ligand Pool** | **3 uL** |\n| **2X Phusion Mix** | **125 uL** |\n| **ELF\\_FWD 10 uM** | **12.5 uL** |\n| **ELF\\_REV1/ELFREVnew 10 uM** | **12.5 uL** |\n| **Water** | **97 uL** |\n| **Total** | **250 uL** |\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 59°C | 15 s       **35X\\*** |\n| 72°C | 30 s |\n| 72°C | 10 min |\n| 4°C | HOLD |\n\n*lig147, ligN40 PCR plates for round 2 SELEX*\n\nlig147 has enough DNA to prepare a fresh ligand plate.\n\nligN40 needs 1 more PCR2 reaction to obtain enough DNA:\n\n*igN40 PCR 2*\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **ligN40 PCR1** | **1000** |\n| **Phusion Master Mix** | **2500** |\n| **NCAP\\_F (10 µM)** | **250** |\n| **NCAP\\_R (10 uM)** | **250** |\n| **Water** | **1000**  |\n| **Total** | **5000** |\n\n25 uL per well in two 96-well plates.\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **3X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\n*Other Buffers and solutions to be prepared for NCAP-SELEX/HT-SELEX*\n\nTF Dilution Buffer\n\nBlocking Buffer (Salt-Free)\n\n| Requirement | Status |\n| :---: | :---: |\n| lig147 plate | ✔ |\n| ligN70w107 plate | ✔ |\n| non PE PCR1 plates (18X) |  |\n| qPCR plates (10X) |  |\n| non PE PCR2 plates (14X) |  |\n| PE PCR Mix (14X) |  |\n| Dilution Buffer Plate (for reconstitution) (12X) | ✔ |\n| Biotin Elution Buffer Plates (12X) | ✔ |\n| SBP Beads Plate | To be prepared just before SELEX |\n| Ni Beads Plate | To be prepared just before SELEX |\n| Diluted TF Plate  | To be prepared just before SELEX |\n| Buffers | TF Dilution Buffer Blocking Buffer (salt-free) |\n| Dried Salt Plates (12X) | ✔ Prepare 5-6 more plates |\n| SBP Histone Octamer Plate (1X) | 1 plate prepared. 1 more to be prepared prior to round 2\\. |\n\nCheck NCAP programs again in such a manner that complete liquid is transferred from the plate to the beads plate at the end of reconstitution. Set up reconstitution in 4ti384 and then transfer to NUNC plate before addition of 30 uL buffer.\n\nDuring the TF+Nuc step in NCAP-SELEX, include HT-SELEX steps so that both samples can be prepared simultaneously.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 6,
+ "id": "2026-02-23",
+ "tags": {
+  "techniques": [
+   "qPCR",
+   "PCR",
+   "SELEX",
+   "Hia5",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Cell culture",
+   "Bead purification",
+   "Column purification",
+   "Restriction digest",
+   "Fragmentation",
+   "Protein purification"
+  ],
+  "reagents": [
+   "Phusion",
+   "Hia5",
+   "Histone octamer"
+  ],
+  "samples": [
+   "lig147",
+   "ligN40",
+   "lig50k",
+   "lig1",
+   "ligN70w107",
+   "NCAP_F",
+   "NCAP_R",
+   "293T"
+  ],
+  "custom": []
+ },
+ "title": "PNK treatment of N40 and 147 NCFS"
+}

@@ -1,0 +1,29 @@
+{
+ "date": "2025-06-30",
+ "heading": "**30 June 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "| Viral supernatant collection for pHRS-Hcla & pHRS-Gcla virus packaging |\n| :---- |\n| **Seed new 293TX cells for next batch of virus packaging** |\n| **Passage and seed HAP1 cells for transduction with MYC355-T1, MYC355-T2 viruses** |\n| **Digest pHRS-Gcla-ShhBC with MluI-HF** |\n\n1\\. **Viral supernatant collection for pHRS-Hcla & pHRS-Gcla virus packaging**\n\nCollect the media and filter through (0.45 um filter) along with media collected on the previous day. Add lentiviral concentrator solution to all media and incubate O/N at 4 degrees.\n\n2\\. **Seed new 293TX cells for next batch of virus packaging**\n\nHarvest 293TX P7 and count cells to seed 2.5 million cells per 10-cm plate (8 dishes total).\n\n3\\. **Passage and seed HAP1 cells for transduction with MYC355-T1, MYC355-T2 viruses**\n\nHarvest HAP1 and K562 cells and seed in two 6-well plates with 300K cells per well\n\n4\\. **Digest pHRS-Gcla-ShhBC with MluI-HF**\n\n4X\n\n| COMPONENT | 25 µl REACTION |\n| :---- | :---- |\n| pHRS-Gcla-ShhBC | 1000 ng |\n| 10X rCutSmart Buffer | 2.5 µl (1X) |\n| MluI-HF | 1 µl (20 units) |\n| Nuclease-free Water | to 25 µl |\n\nIncubate at 37°C for 30 minutes as MluI-HF is Time-Saver qualified.\n\nCombine the digested DNA and purify the same with a PCR purification column.\n\nSet up the reaction on ice (see table).\n\npHRS-Hcla (3X)\n\n| HclaShhvec (50 ng) | 4.09 uL |\n| :---- | :---- |\n| ShhBColigo1PCR2 (5 ng)\\* | 1 uL |\n| 2X NEB HiFi Assembly Mix | 10 uL |\n| NF H2O | 4.91 uL |\n\npHRS-GCD (3X)\n\n| GCDShhvec (50 ng) | 2.6 uL |\n| :---- | :---- |\n| ShhBColigo1PCR2 (5 ng)\\* | 1 uL |\n| 2X NEB HiFi Assembly Mix | 10 uL |\n| NF H2O | 6.4 uL |\n\npHRS-HCD (3X)\n\n| HCDShhvec (50 ng) | 2.69 uL |\n| :---- | :---- |\n| ShhBColigo1PCR2 (5 ng)\\* | 1 uL |\n| 2X NEB HiFi Assembly Mix | 10 uL |\n| NF H2O | 6.31 uL |\n\npHRS-GCC (3X)\n\n| GCCShhvec (50 ng) | 2.15 uL |\n| :---- | :---- |\n| ShhBColigo1PCR2 (5 ng)\\* | 1 uL |\n| 2X NEB HiFi Assembly Mix | 10 uL |\n| NF H2O | 6.85 uL |\n\npHRS-Nh100 (3X)\n\n| Nh100Shhvec (50 ng) | 2.56 uL |\n| :---- | :---- |\n| ShhBColigo1PCR2 (5 ng)\\* | 1 uL |\n| 2X NEB HiFi Assembly Mix | 10 uL |\n| NF H2O | 6.44 uL |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 7,
+ "id": "2025-06-30",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Lentivirus",
+   "Cell culture",
+   "Column purification",
+   "Restriction digest"
+  ],
+  "reagents": [],
+  "samples": [
+   "293TX"
+  ],
+  "custom": []
+ },
+ "title": "| Viral supernatant collection for pHRS-Hcla & pHRS-Gcla virus packaging |"
+}

@@ -1,0 +1,32 @@
+{
+ "date": "2025-04-07",
+ "heading": "**7 April 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**Updates from the weekend:**\n\n1. **enh\\_complexity\\_PCR was set up separately for pHRS-Gcla-AT10, pHRS-Hcla-AT10, pHRS-GCD-AT10, pHRS-HCD-AT10, pHRS-GCC-AT10, pHRS-Nh100 (all these are library v1 obtained from chemical transformation)**  \n2. **5 plasmids each were isolated for pHRS-Gcla-AT10-Ep1 and pHRS-Gcla-ShhBC libraries**\n\n**Buffer Preparation for SELEX**\n\nZinc sulphate monohydrate stock \\- Dissolve 0.9 g of powder in 45 mL of water. Make the volume up to 50 mL to make a stable stock solution.\n\n*1.55X SELEX buffer*\n\n*1.55x Promega Buffer, 155μM EGTA, 1.55mM DTT, 3μM ZnSO4 (no dIdC)*\n\n250 mL\n\n| Promega Buffer 1.55 (10X) | 38.75 mL |\n| :---- | :---- |\n| EGTA (0.5 M) | 77.5 uL |\n| DTT (1 M) |  |\n| ZnSO4 (100 uM) | 7.5 mL |\n\nMake up the volume to 250 mL and filter the solution. Store at 4 degrees.\n\n*1X SELEX buffer*\n\n*1x Promega Buffer, 100μM EGTA, 1mM DTT, 3μM ZnSO4 (no dIdC)*\n\n250 mL\n\n| Promega Buffer 1 (10X) | 25 mL |\n| :---- | :---- |\n| EGTA (0.5 M) | 50 uL |\n| DTT (1 M) |  |\n| ZnSO4 (100 uM) | 7.5 mL |\n\nMake up the volume to 250 mL and filter the solution. Store at 4 degrees.\n\nPrepare the wash buffer without the DTT:\n\n| Wash Buffer |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | STOCK | Final 1x: | 5 L |\n| Tris pH 7.5 | 1M | 5mM | 25 mL |\n| EDTA | 0.5M | 5mM | 50 mL |\n| MQ water |   | \\- | 4925 mL |\n\n5 mL of the buffer to be removed and substituted with 5 mL DTT subsequently.\n\n**Purification of enh\\_complexity\\_PCR products** \n\nCheck all products on a 2% agarose gel after PCR purification on MinElute columns.\n\nenh\\_complex.\\_Gcla\n\nenh\\_complex.\\_Hcla\n\nenh\\_complex.\\_GCD\n\nenh\\_complex.\\_HCD\n\nenh\\_complex.\\_GCC\n\nenh\\_complex.\\_Nh100\n",
+ "experiments": [],
+ "images": [],
+ "tables": 3,
+ "id": "2025-04-07",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Gel electrophoresis",
+   "Library prep",
+   "Column purification"
+  ],
+  "reagents": [
+   "MinElute",
+   "EDTA",
+   "Tris",
+   "DTT"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Updates from the weekend:"
+}

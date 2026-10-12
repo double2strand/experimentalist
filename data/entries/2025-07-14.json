@@ -1,0 +1,25 @@
+{
+ "date": "2025-07-14",
+ "heading": "**14 July 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "| Harvest and seed HepG2del cells again for expansion and stable growth prior to freezing down stocks |\n| :---- |\n| **Prepare stocks for K562 cells transduced with viruses** |\n| **Set up tubing apparatus for water transfer to test dialysis apparatus overnight** |\n| **Write and test pipetting template on Beckman i7** |\n| **Write programs on the robot for inoculating 10 uL of culture into plates containing 500 uL media** |\n\n### 2. Prepare stocks for K562 cells transduced with viruses\n\nFreezing medium for K562 \\= 95% complete medium \\+ 5% DMSO\n\nFreeze about 1.5-2 million cells per vial  \n",
+ "experiments": [
+  "2. Prepare stocks for K562 cells transduced with viruses"
+ ],
+ "images": [],
+ "tables": 1,
+ "id": "2025-07-14",
+ "tags": {
+  "techniques": [
+   "Dialysis"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Prepare stocks for K562 cells transduced with viruses"
+}

@@ -1,0 +1,29 @@
+{
+ "date": "2024-11-18",
+ "heading": "**18th November 2024**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "| 1\\. *Mlu*I digestion and gel extraction for pHRS-NEW-GB plasmids |\n| :---- |\n| 2\\. Clean-up for AT10-MIX-Pool library  |\n| 3\\. Work on strategy for nucleosome recon with 20kbp ligand for FIBER-SEQ |\n| 4\\. Design gene blocks with MYC355 enhancer and loxP system surrounding the enhancer  |\n| 5\\. Design strategy for matching barcode tracking between enhancers and promoter/reporter |\n\n*Clean-up for AT10-MIX-Pool library*\n\n\t  \nComments received during time-off were that the library I had sent was too high in concentration and the CRUK facility was unsure of how much to load due to the potential presence of high bp fragments.\n\nThe main fragment of interest for us is around \\~427 bp or so based on the library design.  \n   \n![](assets/img/doc1-image4.png)   \n2% agarose gel was run with the total sample (120V, 1 hour 15 mins):\n\n| 100-bp ladder | AT10-MIX-Pool | AT10-MIX-Pool | AT10-MIX-Pool | 1-kb ladder |\n\nThe brightest bands are seen between 400-500 bp and this chunk was cut out for further gel extraction and quantification.\n\nPost gel-extraction sample concentration \\= 29 ng/uL\n\n*MluI digestion and gel extraction for pHRS-NEW-GB plasmids:*\n\n* pHRS-NEW3-Gcla-1  \n* pHRS-NEW3-Hcla-1  \n* pHRS-NEW3-GCD-2  \n* pHRS-NEW3-HCD-1  \n* pHRS-NEW3-GCC-2  \n* pHRS-NEW3-HCC-2\\*  \n* pHRS-NEW3-Nh-2\n\n| COMPONENT | 50 µl REACTION |\n| :---- | :---- |\n| DNA | 1 µg |\n| 10X rCutSmart Buffer | 5 µl (1X) |\n| MluI-HF | 1.0 µl (20 units) |\n| Nuclease-free Water | to 50 µl |\n\n  Incubate at 37°C for 15 minutes as MluI-HF is Time-Saver qualified.\n\n\\*Nothing was remaining in this tube and therefore digestion was setup using the remaining plasmids. \n\nDigested tubes have been placed at 4 degrees and will be run on a gel and extracted tomorrow.\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc1-image4.png"
+ ],
+ "tables": 2,
+ "id": "2024-11-18",
+ "tags": {
+  "techniques": [
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Library prep",
+   "Restriction digest",
+   "Fragmentation"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "| 1. MluI digestion and gel extraction for pHRS-NEW-GB plasmids |"
+}

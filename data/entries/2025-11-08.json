@@ -1,0 +1,30 @@
+{
+ "date": "2025-11-08",
+ "heading": "**8 November 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "***1\\. Ligation L11 reconstitution***\n\n*lig147-L11 (D8)*\n\nUse 2 ug of DNA\n\nlig147-L11 ⇒ 7.7 nM\n\nOctamer molarity acc. to 60:1 ratio ⇒ 462 nM ⇒1.01 ug in 5 uL ⇒ Prepare 12 uL of stock with 500 ng/uL with refolding buffer \\[1.11 uL stock \\+ 10.89 uL refolding buffer\\] \\[O500\\] ⇒ Prepare 5 uL octamer stock \\[3.92 uL \\+ 1.08 uL refolding buffer \\+ glycerol\\] \\[1.78 M\\] ⇒ Final concentration of mix \\[1.95 M\\]\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2025-11-08",
+ "tags": {
+  "techniques": [
+   "Reconstitution",
+   "Ligation"
+  ],
+  "reagents": [
+   "Histone octamer",
+   "Glycerol"
+  ],
+  "samples": [
+   "lig147",
+   "D8"
+  ],
+  "custom": []
+ },
+ "title": "1. Ligation L11 reconstitution"
+}

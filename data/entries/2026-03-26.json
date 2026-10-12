@@ -1,0 +1,25 @@
+{
+ "date": "2026-03-26",
+ "heading": "**26 March 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "**Nucleosome Dilution buff: TE buffer \\+ 1mM TCEP \\+ cocktail Tablet \\+ 2mM MgCl2**\n\n500 mL\n\n| TE Buffer (100X) | 5 mL |\n| :---- | :---- |\n| 100 mM TCEP | 5 mL |\n| MgCl2 (1 M) | 1 mL |\n| EDTA-free protease inhibitor | 10 tablets |\n\n100 mM TCEP ⇒ 0.29 g in 10 mL water\n\n200 mL\n\n| 1X TCAPT Block | 100 mL |\n| :---- | :---- |\n| Biotin | 0.49 g |\n| Imidazole | 0.68 g |\n| 10 M NaOH | 120 uL |\n\nMake up the volume to 200 mL. DO NOT filter and aliquot 25 uL per well to 12 plates (needs \\~120 mL buffer).\n",
+ "experiments": [],
+ "images": [],
+ "tables": 2,
+ "id": "2026-03-26",
+ "tags": {
+  "techniques": [],
+  "reagents": [
+   "EDTA",
+   "MgCl2",
+   "TE buffer"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Nucleosome Dilution buff: TE buffer + 1mM TCEP + cocktail Tablet + 2mM MgCl2"
+}

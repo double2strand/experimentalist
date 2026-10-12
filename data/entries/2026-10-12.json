@@ -1,0 +1,24 @@
+{
+ "date": "2026-10-12",
+ "heading": "**12 October 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Reconstitution of Long Random DNA fragments*\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2026-10-12",
+ "tags": {
+  "techniques": [
+   "Reconstitution",
+   "Fragmentation"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Reconstitution of Long Random DNA fragments"
+}

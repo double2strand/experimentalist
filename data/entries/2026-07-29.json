@@ -1,0 +1,32 @@
+{
+ "date": "2026-07-29",
+ "heading": "**29 July 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*TdT DNA synthesis*\n\n1. Klenow reaction to convert ssDNA to dsDNA \\[Set up 2 of these reactions\\]\n\n![](assets/img/doc3-image47.png)\n\nIncubate reactions at 25C for 30 minutes. DO NOT LEAVE FOR LONGER. klenow has exonuclease activity, which can kick in when polymerization is over (when you leave it too long)\n\nAdd SDS to 0.08%. 1:1 ampure bead cleanup. elute each pool in 25 uL. Measure concentration with Qubit.\n\nConcentration \\= \n\n2. Mung Bean Nuclease treatment\n\n![](assets/img/doc3-image48.png)  \nLeave the reaction at 30C for 30 minutes. DO NOT LEAVE LONGER. MBN will digest dsDNA if you either 1\\) leave the reaction for too long 2\\) add too much MBN or 3\\) add too much heat.\n\nAfter 30 minutes, pool 2 x 30ul reactions together \n\nTo each subpool, add SDS to a final concentration of 0.08%, then do a 1:1 ampure bead cleanup following the standard ampure cleanup protocol. Elute each subpool in 12-15 ul \n\nquant the DNA using qubit \\= \n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc3-image47.png",
+  "assets/img/doc3-image48.png"
+ ],
+ "tables": 0,
+ "id": "2026-07-29",
+ "tags": {
+  "techniques": [
+   "Qubit",
+   "Bead purification",
+   "Restriction digest"
+  ],
+  "reagents": [
+   "AMPure",
+   "SDS",
+   "Exonuclease"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "TdT DNA synthesis"
+}

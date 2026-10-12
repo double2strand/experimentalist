@@ -1,0 +1,32 @@
+{
+ "date": "2026-08-26",
+ "heading": "**26 August 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*SELEX library preparation and QC*\n\nRepeat a cleanup with about 600 uL of the fresh sample:\n\n0.9-0.6\n\n- Add 360 uL (0.6X) beads to each sample. Incubate 10 mins, RT. Bind to magnet for 5 mins.  \n- Move supernatant to new tubes and then add (600 x (0.9 \\- 0.6) \\= 180 uL). Incubate 10 mins at RT. Bind for 5 mins to magnet.  \n- Remove supernatant and wash twice with 300 uL 85% ethanol. Air dry for 2-3 mins.  \n- Elute each sample in 100 uL of TE buffer at 37 C.  \n- Run Qubit and TS (D5000)\n\n***NOTE for AVITI sequencing***  \n**Target concentration is around 50 nM for each of the samples. No stringent volume requirement. Loading based on the last successful run on the AVITI was 15.4 pM of each pool was loaded.**\n\n| Sample Name | Qubit Concentration (ng/uL) |\n| :---: | :---: |\n| c1 lig147 NCAP |  |\n| c3 lig147 NCAP |  |\n| c4 lig147 NCAP |  |\n| c1 lig200 NCAP |  |\n| c3 lig200 NCAP |  |\n| c4 lig200 NCAP |  |\n| c1 lig147 HTS |  |\n| c3 lig147 HTS |  |\n| c4 lig147 HTS |  |\n| c1 lig200 HTS |  |\n| c3 lig200 HTS |  |\n| c4 lig200 HTS |  |\n\n*SELEX sample quantification*\n\nBased on the KAPA library quantification kit:\n\n| Sample Name | Concentration (nM) |\n| ----- | ----- |\n| **c1\\_NCAP\\_lig147** | **51.51079612** |\n| **c1\\_NCAP\\_ligN40** | **51.31300373** |\n| **c1\\_HTS\\_lig147** | **37.83500686** |\n| **c1\\_HTS\\_ligN40** | **61.47082817** |\n| **c3\\_NCAP\\_lig147** | **20.87805947** |\n| **c3\\_NCAP\\_ligN40** | **12.23480435** |\n| **c3\\_HTS\\_lig147** | **31.58291349** |\n| **c3\\_HTS\\_ligN40** | **28.10317256** |\n| **c4\\_NCAP\\_lig147** | **17.2973711** |\n| **c4\\_NCAP\\_ligN40** | **8.335056972** |\n| **c4\\_HTS\\_lig147** | **44.81597423** |\n| **c4\\_HTS\\_ligN40** | **29.18081085** |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 2,
+ "id": "2026-08-26",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Qubit",
+   "Library prep",
+   "Bead purification"
+  ],
+  "reagents": [
+   "TE buffer",
+   "Ethanol"
+  ],
+  "samples": [
+   "lig147",
+   "lig200"
+  ],
+  "custom": []
+ },
+ "title": "SELEX library preparation and QC"
+}

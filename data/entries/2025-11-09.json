@@ -1,0 +1,35 @@
+{
+ "date": "2025-11-09",
+ "heading": "**9 November 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "***1\\. Lysis for new DBP protein cultures***\n\nLysis Mix (for 8 tubes) \\= 125mL Lysis Buffer \\+ 75mg lysozyme \\+ 313µL PMSF (200mM in MeOH).  \nAdjust buffer volume by the mass of lysozyme. Note that PMSF is toxic.  \nImidazole solution is stable for 2 years at 4℃, protected from light.\n\nSpin cultures at 3600 rpm, 17 C, 20 min. Sequential spin to accumulate the culture and pellets in the same 50 mL falcon.\n\nPost-addition of lysis buffer , vortex thoroughly and then shake at high speed for 30 minutes.\n\n***2\\. Buffer checklist for SELEX***\n\n| Buffer Name | pH checked | Filtered | Prepared |\n| :---- | :---- | ----- | :---: |\n| 10X HT-SELEX (1.55X) Buffer |  | ✓ | ✓ |\n| 10X HT-SELEX (1X) Buffer |  | ✓ | ✓ |\n| Nucleosome Dilution Buffer |  | ✓ | ✓ |\n| Refolding Buffer  |  |  |  |\n| TF Dilution Buffer (HT-SELEX) |  |  |  |\n| TF Dilution Buffer (NCAP-SELEX) |  | ✓ | ✓ |\n| NCAP-SELEX Elution Buffer |  | ✓ | ✓ |\n| Biotin Elution Buffer |  | ✓ | ✓ |\n| 10X TCAPT Buffer |  | Volume too large | ✓ |\n| TCAPT Block Buffer |  | ✓ | ✓ |\n| Sol1 Salt Buffer |  | ✓ | ✓ |\n| Blocking Buffer Salt-Free |  | ✓ | ✓ |\n| 1X Wash Buffer (NCAP) |  | Volume too large | Prepared just before Wash step |\n| 0.5X Wash Buffer (NCAP) |  | Volume too large | Prepared just before Wash step |\n\n**Refolding Buffer** \n\n*Refolding buffer: 2 M KCl, 10 mM Tris-HCl (pH 7.5), 1 mM Na-EDTA, 5 mM 2-ME*\n\n| 10 mM Tris pH 7.5 | 5 mL 1 M Tris-HCl |\n| :---- | :---- |\n| 1 mM Na-EDTA | 0.19 g |\n| 2 M KCl | 74.55 g |\n| 2-ME (5 mM) | 45.5 mL |\n\n***3\\. ligN40w107 PCR repeat 3***\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **ligN40w107 PCR1** | **800** |\n| **Phusion Master Mix** | **2500** |\n| **NCAP\\_F (10 µM)** | **250** |\n| **NCAP\\_R (10 uM)** | **250** |\n| **Water** | **1200**  |\n| **Total** | **5000** |\n\n***4\\. SELEX Checklist***\n\n* PCR Master-Mix (13.5 uL/well) \\- 2 Master Mix 96-well plates prepared   \n* PCRd2 Master-Mix (18 uL/well) \\- 2 Master Mix 96-well plates prepared  \n* 10 dried salt plates (5 uL each) \\- Leave O/N on bench for drying salt  \n* qPCR Master-Mix (4.5 uL/well) \\- 2 Master Mix 96-well plates prepared\n",
+ "experiments": [],
+ "images": [],
+ "tables": 3,
+ "id": "2025-11-09",
+ "tags": {
+  "techniques": [
+   "qPCR",
+   "PCR",
+   "SELEX",
+   "Protein purification"
+  ],
+  "reagents": [
+   "Phusion",
+   "EDTA",
+   "Tris",
+   "KCl"
+  ],
+  "samples": [
+   "ligN40w107",
+   "NCAP_F",
+   "NCAP_R"
+  ],
+  "custom": []
+ },
+ "title": "1. Lysis for new DBP protein cultures"
+}

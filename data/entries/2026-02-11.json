@@ -1,0 +1,31 @@
+{
+ "date": "2026-02-11",
+ "heading": "**11 February 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*lig147 & ligN40 plate preparation*  \nConcentration of original lig147 ssDNA tube is about 4.8 ug/uL\n\nDilute this 1:200 ⇒ 2 uL oligo \\+ 398 uL TE buffer (lig147-dil200)\n\nPCR 1 → 100X\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **Final diluted DNA** | **100** |\n| **Phusion Master Mix** | **2500** |\n| **NCAP\\_F (10 µM)** | **250** |\n| **NCAP\\_R (10 uM)** | **250** |\n| **Water** | **1900**  |\n| **Total** | **5000** |\n\n25 uL per well in two 96-well plates.\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **8X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\nConcentration of lig147 PCR1 (combine and mix with previous PCR1 product) \\= **22.6 ng/uL**\n",
+ "experiments": [],
+ "images": [],
+ "tables": 2,
+ "id": "2026-02-11",
+ "tags": {
+  "techniques": [
+   "PCR"
+  ],
+  "reagents": [
+   "Phusion",
+   "TE buffer"
+  ],
+  "samples": [
+   "lig147",
+   "ligN40",
+   "NCAP_F",
+   "NCAP_R"
+  ],
+  "custom": []
+ },
+ "title": "lig147 & ligN40 plate preparation  "
+}

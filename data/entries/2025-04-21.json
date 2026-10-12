@@ -1,0 +1,36 @@
+{
+ "date": "2025-04-21",
+ "heading": "**21 April 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**Quick Blunting treatment of lig147 DNA**\n\n1\\. Mix the following components in a sterile microfuge tube:\n\n|  | AMOUNT |\n| :---- | :---- |\n| Purified DNA (up to 5 μg) | 1–19 μl |\n| 10X Blunting Buffer | 2.5 μl |\n| 1 mM dNTP Mix | 2.5 μl |\n| Blunt Enzyme Mix | 1.0 μl |\n| Sterile water | variable |\n| Total volume | 25 μl |\n\n2\\. Reactions containing restriction enzyme digested DNA are incubated at room temperature for 15 minutes. **Reactions with sheared/nebulized DNA or PCR products are incubated at room temperature for 30 minutes.**\n\n3\\. Immediately inactivate enzyme in the blunting reaction by heating at 70°C for 10 minutes.\n\n4\\. Proceed directly to the ligation step using the Quick Ligation Kit (NEB [\\#M2200](https://www.neb.com/en-gb/products/m2200-quick-ligation-kit)) or standard T4 DNA Ligase (NEB [\\#M0202](https://www.neb.com/en-gb/products/m0202-t4-dna-ligase)). Blunt ligation reactions using standard T4 DNA Ligase should be incubated overnight at 16°C.\n\nPurify this DNA and then set up treatment with Blunt TA ligase. \n\nTransfer master mix to ice prior to reaction setup. Mix tube by flicking before use. \n\nCombine 5´-phosphorylated dsDNA ligation substrates in water with an equal volume  of Blunt/TA Master Mix. \n\nMix thoroughly, by pipetting up and down 7-10 times or by flicking. \n\nIncubate at room temperature (25°C) for 15 minutes. Then, place the tube on ice  (incubation times can be extended up to 1 hour if yields are still low after 15 minutes).\\* \\* Incubation overnight may give improved ligation yields; however, DNA intended for transformation applications should never be incubated longer than 1 hour in the ligation mixture. For overnight incubations and/or prolonged DNA storage, the ligation products should be purified using and appropriate method (e.g., spin column, AMPure® Beads, gel purification) before storage at –20°C. \n\nStop the reaction by adding 10 µl of stop solution (50 mM EDTA). Do not heat inactivate. \n\n**T4 PNK treatment of lig147**\n\n1\\. Set-up the following reaction in a microcentrifuge tube on ice:\n\n| DNA | up to 300 pmol of 5´ termini (Up to 14 ug of DNA) |\n| :---- | :---- |\n| T4 PNK Reaction Buffer (10X) | 5 µl |\n| ATP (10 mM) | 5 µl |\n| [T4 PNK](https://www.neb.com/en-gb/products/m0201-t4-polynucleotide-kinase) | 1 µl (10 units) |\n| Nuclease-free Water | up to 50 µl |\n\n2\\. Incubate at 37°C for 20 minutes.\n\n3\\. Heat inactivate by incubating at 75°C for 10 minutes.\n\nNotes:\n\n* ATP is not supplied  \n* 1X T4 DNA Ligase Buffer contains 1 mM ATP and can be substituted in non-radioactive phosphorylations (T4 Polynucleotide Kinase exhibits 100% activity in this buffer).\n\nPurify this DNA and then set up treatment with Blunt TA ligase. \n\nTransfer master mix to ice prior to reaction setup. Mix tube by flicking before use. \n\nCombine 5´-phosphorylated dsDNA ligation substrates in water with an equal volume  of Blunt/TA Master Mix. \n\nMix thoroughly, by pipetting up and down 7-10 times or by flicking. \n\nIncubate at room temperature (25°C) for 15 minutes. Then, place the tube on ice  (incubation times can be extended up to 1 hour if yields are still low after 15 minutes).\\* \\* Incubation overnight may give improved ligation yields; however, DNA intended for transformation applications should never be incubated longer than 1 hour in the ligation mixture. For overnight incubations and/or prolonged DNA storage, the ligation products should be purified using and appropriate method (e.g., spin column, AMPure® Beads, gel purification) before storage at –20°C. \n\nStop the reaction by adding 10 µl of stop solution (50 mM EDTA). Do not heat inactivate. \n",
+ "experiments": [],
+ "images": [],
+ "tables": 2,
+ "id": "2025-04-21",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Gel electrophoresis",
+   "Ligation",
+   "Bead purification",
+   "Column purification",
+   "Restriction digest",
+   "Fragmentation"
+  ],
+  "reagents": [
+   "AMPure",
+   "EDTA",
+   "T4 ligase",
+   "dNTPs"
+  ],
+  "samples": [
+   "lig147"
+  ],
+  "custom": []
+ },
+ "title": "Quick Blunting treatment of lig147 DNA"
+}

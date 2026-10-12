@@ -1,0 +1,36 @@
+{
+ "date": "2026-08-08",
+ "heading": "**8 August 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*SBP-Octamer Plate Preparation*\n\nOctamer concentration \\= 4.65 ug/uL \\= 4650 ng/uL\n\nNumber of experiments \\= 12\n\nVolume per experiment \\= 2 uL\n\nVolume needed per well \\= 25 uL\n\nPrepare 30 ng/uL octamer with 30 uL per well ⇒ 30 X 400 X 25 \\= 300 ug SBP-octamer\n\nTake 65 uL of original octamer and make up solution to 10000 uL (add 300 uL 100 mM TCEP \\+ 9635 uL of refolding buffer:glycerol (1:1))\n\nSplit 104 uL of the octamer mix into each well of a 96-well plate. Use the Beckman to aliquot 25 per well of an octamer plate.\n\n*1.55X SELEX buffer*\n\n*1.55x Promega Buffer, 155μM EGTA, 1.55mM DTT, 3μM ZnSO4 (no dIdC)*\n\n200 mL\n\n| Promega Buffer 1.55 (10X) | 31 mL |\n| :---- | :---- |\n| EGTA (0.5 M) | 62 uL |\n| DTT (1 M) | 310 uL |\n| ZnSO4 (100 mM) | 6 uL |\n\nMake up the volume to 200 mL and filter the solution. Store at 4 degrees.  \nAliquot 8.5 uL of 1.55X SELEX Buffer per well of NUNC 384-well plates\n\n*1X SELEX buffer*\n\n*1x Promega Buffer, 100μM EGTA, 1mM DTT, 3μM ZnSO4 (no dIdC)*\n\n250 mL\n\n| Promega Buffer 1 (10X) | 25 mL |\n| :---- | :---- |\n| EGTA (0.5 M) | 50 uL |\n| DTT (1 M) | 250 uL |\n| ZnSO4 (100 mM) | 7.5 uL |\n\nMake up the volume to 250 mL and filter the solution. Store at 4 degrees.\n\n*Bead Preparation*\n\nSBP: 2.5mL beads in 55mL blocking buff(salt free), dist 5 plates, 25uL/well\n\nHis: 4mL beads in 55mL blocking buff(salt free)\n\nFirst take 2.5 mL of SBP beads and separate out the storage buffer and 4 mL of HIS beads and remove the storage buffer.\n\nResuspend both beads in 20 mL of Blocking buffer and incubate at RT, 10 mins.\n\nRemove buffer and make up the volume to 55 mL for both beads.\n\n*HT-SELEX wash buffer*\n\n| 10X Wash Buffer |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | STOCK | Final 10x: | 2 L |\n| Tris pH 7.5 | 1M | 50mM | 100 mL |\n| EDTA | 0.5M | 50mM | 200 mL |\n\n**10X TCAPT Buffer**\n\n| 1.4 M KCl | 208.74 g |\n| :---- | :---- |\n| 50 mM NaCl | 5.844 g |\n| 10 mM MgCl2 | 20 mL |\n| 1 mM EGTA | 4 mL |\n| 100 mM Tris-HCl pH 8 | 200 mL |\n| Tween20 | 20 mL |\n| 100 mM ZnSO4.7H2O | 600 uL |\n\n1 M DTT ⇒ Resuspend 0.77 g of DTT in 5 mL of water to prepare a 1 M stock if needed.\n\n*PE Phusion Mix (16X)*\n\n| PE Phusion Mix |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | per well in 384 | per 384-well plate | for 16 plates |\n| MQ water | 2.39642μL | 1055.25 μL | 16884 μL |\n| 5x Phusion HF buffer | 2.47818μL | 1091.25 μL | 17460 μL |\n| 10mM dNTP | 0.48542μL | 213.75 μL | 3420 μL |\n| MgCl2 (50mM) | 0.49819μL | 219.375 μL | 3510 μL |\n| HF Phusion DNA Pol (2U/µL) | 0.14179μL | 62.4375 μL | 999 μL |\n| Total | 6μL | 2642.0625 μL | 42.273 mL |\n\nAdd 10 uL of 100 uM PE\\_F primer per 1 mL of primer mix i.e. to the total mix we add 422.8 uL of 100 uM PE\\_F primer.\n\n- Prepare this mix and aliquot 7.5 uL per well  \n- Add PE\\_R primer with barcodes (1.5 uL)  \n- Add 9 uL of cyc3 PCR2 DNA  \n- Set up 20 cycles\n\n200HTFS3 \\- PE3\n\n147HTFS3 \\- PE3\n\n200NCFS3 \\- PE2\n\n147NCFS3 \\- PE2\n",
+ "experiments": [],
+ "images": [],
+ "tables": 5,
+ "id": "2026-08-08",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Bead purification"
+  ],
+  "reagents": [
+   "Phusion",
+   "EDTA",
+   "Tris",
+   "NaCl",
+   "KCl",
+   "MgCl2",
+   "DTT",
+   "Histone octamer",
+   "dNTPs",
+   "Glycerol"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "SBP-Octamer Plate Preparation"
+}

@@ -1,0 +1,28 @@
+{
+ "date": "2025-05-29",
+ "heading": "**29 May 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "**Digestion of pHRS-HCCgb-1 (3X)**\n\n| COMPONENTS |  50 µl REACTION  | FINAL CONC. OR AMOUNT  |\n| ----- | ----- | ----- |\n| DNA | 1000 ng |   |\n| 10X NEBuffer\\*\\* | 5 µl | 1X  |\n| Restriction Enzyme | 1 µl |   |\n| Nuclease-free Water | to 50 µl | Varies\\* |\n\nIncubate at 37 degrees, 30 mins. Run the digestion products through a MinElute column to purify the DNA.\n\n**AT10 PCR for AT10-HCC**\n\nThe stock concentration for the AT10 pool is 10 ng/uL. Dilute 1 uL of this to 10 uL. Set up 5 PCR reactions as follows:  \n5X\n\n| 2X KAPA HiFi | 12.5 uL |\n| :---- | :---- |\n| Nhancer142\\_F (10 uM) | 0.75 uL |\n| HCC\\_R\\* (10 uM) | 0.75 uL |\n| Diluted AT10 | 2 uL |\n| NF H2O | 10 uL |\n\nOLIGOAMP\n\n| 95°C | 3 min |\n| :---- | :---- |\n| 98°C | 20 s |\n| 55°C | 15 s       **20X** |\n| 72°C | 15 s |\n| 72°C | 1 min |\n| 4°C | HOLD |\n\nPool PCR tubes and column purify the product.  \nRun a bit of the product on a gel to check the consistency of size and off-target PCR products.\n\nOnce confirmed that both the digested plasmid and PCR product are fine, prepare 6X NEB HiFi reactions:\n\n1\\. pHRS-HCC (6X)\n\n| pHRS-HCC (M) | 50 ng |\n| :---- | :---- |\n| HCCAT10-PCR | 10 ng |\n| 2X NEB HiFi Assembly Mix | 10 uL |\n| NF H2O | Make up volume to 20 uL |\n\n   \nIncubate at 50 degrees, 1 hour.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 4,
+ "id": "2025-05-29",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Gel electrophoresis",
+   "Column purification",
+   "Restriction digest"
+  ],
+  "reagents": [
+   "MinElute"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Digestion of pHRS-HCCgb-1 (3X)"
+}

@@ -1,0 +1,33 @@
+{
+ "date": "2025-03-13",
+ "heading": "**13 March 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**MYC335VE PCR** \n\ni. \\[MYC335VE\\] \\- Using the gradient PCR result the 4th tube setting was chosen to set the annealing temperature for this reaction.\n\nRun the PCR products on a 0.8% agarose gel and cut out the specific bands for the gel extraction of the correct product.\n\nMultiple bands of products are seen and the top band closest to 10 kb was selected and cut-out.\n\n**DO NOT PERFORM PURIFICATION AND ASSEMBLY USING THIS MYC335VEC PCR PRODUCT.** THE ISSUE HERE IS THAT THE VECTOR BACKBONE STILL CONTAINS LOXP SITES AND THEREFORE THE LOXP SITES FLANKING THE MYC335 ENHANCER CAN NOT BE TESTED PROPERLY.\n\nI NEED AN ALTERNATIVE DESIGN THAT I CAN CLONE THE MYC355 ENHANCER INTO SO THAT THE RESISTANCE MARKERS ARE NOT RETAINED IN THE CELLS POST INFECTION, AND THE MYC355 FLANKING SITES CAN BE TESTED.\n\n![](assets/img/doc1-image39.png)  \nCreate an alternative design here for the vector that contains mCherry, no selection marker, the MYC355 enhancer and the spGFP construct.\n\n**TapeStation quantification for purified SELEX libraries (& Nh100PEBC1)** \n\nAdd 2 uL of diluted samples \\+ 2 uL marker\n\nDo the same thing with 2 uL of ladder.\n\nRun all the samples on a High Sensitivity D1000 ScreenTape\n\n**Ligation Trials** \n\nChecking the results of the ligation trials for ligands, I seemed to get a high molecular weight band especially in the case of DNA treated with QB followed by Blunt T/A ligase. However, lower molecular weight DNA was also seen in this case \\- suggesting that more ligase may be required for complete ligation.\n\nThis can potentially be achieved by scaling up the volume of the reaction:\n\nUse lig147 MAIN and lig147 QB to set up a reaction with 400 ng in 20 uL and 30 uL of solution.\n\n| Blunt T/A ligase Master Mix (2X) | 10 uL |\n| :---- | :---- |\n| 400 ng of DNA | Make up to 10 uL |\n\n| Blunt T/A ligase Master Mix (2X) | 15 uL |\n| :---- | :---- |\n| 400 ng of DNA | Make up to 15 uL |\n\nIncubate at 25 degrees for 60 mins. Add 30 uL of 50 mM EDTA solution to stop the reaction.\n\nRun the ligation products on a gel to check the profile.\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc1-image39.png"
+ ],
+ "tables": 2,
+ "id": "2025-03-13",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Gel electrophoresis",
+   "Ligation",
+   "Library prep"
+  ],
+  "reagents": [
+   "EDTA"
+  ],
+  "samples": [
+   "lig147"
+  ],
+  "custom": []
+ },
+ "title": "MYC335VE PCR "
+}

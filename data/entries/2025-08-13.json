@@ -1,0 +1,31 @@
+{
+ "date": "2025-08-13",
+ "heading": "**13 August 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Gel extraction for MluI digested ShhBC vector libraries**  \n2. **Set up HiFi assembly for HclaShhBCAT10, GCDShhBCAT10 & HCDShhBCAT10**  \n3. **Transformation of HclaShhBCAT10 & HCDShhBCAT10 assembly products**  \n4. **Check & record images for transduced and transfected HAP1 cells**  \n5. **Change media for GP5d, HAP1 MYC335 transposed cell populations \\[Passage to new plates if required\\]**  \n6. **Check dialysis set up through course of the day**  \n7. **Write Bradford and protein glycerol stock program for Beckman**\n\n   \n\n1. **Gel extraction for MluI digested ShhBC vector libraries**\n\n\tTwo tubes were extracted for each ShhBC library.\n\n2. **Set up HiFi assembly for HclaShhBCAT10, GCDShhBCAT10 & HCDShhBCAT10**\n\npHRS-Hcla-ShhBC (5X)\n\n| GclaShh-lib (50 ng) |      uL |\n| :---- | :---- |\n| Hcla-AT10-PCR (8 ng) |      uL |\n| 2X NEB HiFi Assembly Mix | 10 uL |\n| NF H2O |      uL |\n\npHRS-GCD-ShhBC (5X)\n\n| GCDShh-lib (50 ng) |      uL |\n| :---- | :---- |\n| Hcla-AT10-PCR (8 ng) |      uL |\n| 2X NEB HiFi Assembly Mix | 10 uL |\n| NF H2O |      uL |\n\npHRS-HCD-ShhBC (5X)\n\n| HCDShh-lib (50 ng) |      uL |\n| :---- | :---- |\n| Hcla-AT10-PCR (8 ng) |      uL |\n| 2X NEB HiFi Assembly Mix | 10 uL |\n| NF H2O |      uL |\n\nIncubate at 50 degrees for 1 hour. Store reactions at \\-20 O/N before transformation.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 3,
+ "id": "2025-08-13",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Gel electrophoresis",
+   "Dialysis",
+   "Transfection",
+   "Cell culture",
+   "Library prep",
+   "Restriction digest"
+  ],
+  "reagents": [
+   "Glycerol"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "1. Gel extraction for MluI digested ShhBC vector libraries  "
+}

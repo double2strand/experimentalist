@@ -1,0 +1,50 @@
+{
+ "date": "2025-11-16",
+ "heading": "**16 November 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "1. *qPCR for Cycle 4 NCAP-SELEX DNA*  \n2. *1.55X & 1X SELEX Buffer preparation*  \n3. *Prepare PE master-mix for library preparation (PE PCR)*  \n4. *Test HT-SELEX robot programs*  \n5. *Shear lig50K samples to lig20K*  \n6. *Long read sample sequencing summary*\n\n*NCAP-SELEX process & salt concentration summary*\n\n| *\\#* | *Experimental step* | *Total volume (µL)* | *Monovalent salt (mM)* | *Key biochemical event* |\n| ----- | ----- | ----- | ----- | ----- |\n| ***1*** | *5 µL no-salt DNA added to dried 5 µL of 2 M salt* | ***5.0*** | ***2000 mM (2.0 M)*** | *High-salt starting point for nucleosome reconstitution.* |\n| ***2*** | *\\+ 1.8 µL histone octamer (1 M salt)* | ***6.8*** | ***1735 mM*** | *Histones fully soluble; nucleosome assembly precursor mix.* |\n| ***3*** | *Serial no-salt additions (5 → 2.5 → 2.5 → 3.5 → 3.5 → 30 → 15 µL)* | ***68.8*** | ***1.00 → 0.83 → 0.70 → 0.58 → 0.50 → 0.22 → 0.17 M*** | *Stepwise salt gradient drives histone deposition and nucleosome formation.* |\n| ***4*** | *Transfer to streptavidin beads (+ 5 µL bead buffer 0 mM)* | ***73.8*** | ***160 mM*** | *SBP-nucleosomes captured; physiological ionic strength.* |\n| ***5*** | *Wash with 140 mM KCl \\+ 5 mM NaCl buffer; residual ≈ 5 µL* | ***5.0*** | ***145 mM*** | *Removes unbound/weak species; retains stable nucleosomes.* |\n| ***6*** | *Add 25 µL biotin \\+ imidazole buffer (70 mM KCl \\+ 2.5 mM NaCl) → mix 2 min* | ***30.0*** | ***84.6 mM*** | *Biotin displaces SBP-octamers; nucleosomes released into supernatant.* |\n| ***7*** | *Collect **28 µL** supernatant \\+ add 4.5 µL His-TF mix (150 mM)* | ***32.5*** | ***96.7 mM*** | *TF–nucleosome complexes form in solution; moderate, TF-friendly salt.* |\n| ***8*** | *Transfer to Ni beads (+ 5 µL 0 mM buffer)* | ***37.5*** | ***83.9 mM*** | *His-tagged TFs (± bound nucleosomes) bind Ni; co-capture of complexes.* |\n| ***9*** | *Wash with low-salt Ni buffer (70 mM KCl \\+ 2.5 mM NaCl \\+ 0.5 mM MgCl₂ \\+ 2 mM β-ME); residual ≈ 5 µL* | ***5.0*** | ***72.5 mM*** | *Removes unbound nucleosomes, free TFs, biotin, imidazole; leaves specific complexes.* |\n| ***10*** | *Add 35 µL elution buffer (0.1 % Tween, 10 mM Tris pH 7.8, 1 mM MgCl₂) \\+ heat 80 °C × 15 min* | ***40.0*** | ***≈ 9 mM*** | *Heat breaks His–Ni bonds; proteins denature, nucleosomes dissociate, DNA released.* |\n\n*Long read sample sequencing summary*\n\n| Sample | Concentration  | Volume | Amount (ng) | DpnI/MboI test |\n| :---: | :---: | :---: | :---: | :---: |\n| D1 | 6.22 | 16.38 | 102 | Y |\n| D2 | 9.58 | 38.2 | 366  | Y |\n| D4 | 31 | 35.6 | 1103 | Y |\n| D5 | 46.8 | 33.4 | 1563 | Y |\n| D6 | 12 | 29 | 348 | Y |\n| D8 | 2.86 | 57.8 | 165 | Y |\n| lig20K | 9.06 | 42.8 | 388 |  |\n| lig50K | 9.06 | 42.8 | 388 |  |\n| GP5d-20K | 9.68 | 70.6 | 683 |  |\n| 293T-20K | 11.3 | 36.4 | 411 |  |\n\nHighlighted samples have a lower amount as compared to the specified sample requirement of \\~300 ng.\n\n*1.55X & 1X SELEX Buffer preparation*\n\nFirst prepare the following:\n\n0.5 M EGTA ⇒ 1.90 g EGTA in 10 mL sterile water\n\n1 M DTT ⇒ 0.77 g DTT in 5 mL sterile water  \nAlso weigh out 0.77 g in 5 mL falcon tubes and store in 4 degrees for fresh DTT to be added to wash buffer for HT-SELEX.\n\n| SELEX Buffer (prepare freshly) 1X |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | STOCK | Final 1x: | 250 mL |\n| Promega | 10x | 1x | 25 mL |\n| EGTA | 0.5M | 100μM | 50 μL |\n| DTT | 1M | 1mM | 250 μL |\n| ZnSO4 | 100 mM | 3μM | 7.5 μL |\n\nFilter this buffer and aliquot 800 uL of buffer per well of a 96-well plate. From here transfer 25 uL per well of a 384-well storage plate (X5). Repeat this process twice and freeze all plates at \\-20.\n\n| SELEX Buffer (prepare freshly) 1.55X |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | STOCK | Final 1.55x: | 150 mL |\n| Promega | 10x | 1.55x | 23.25 mL |\n| EGTA | 0.5M | 155μM | 46.5 μL |\n| DTT | 1M | 1.55mM | 232.5 μL |\n| ZnSO4 | 100 mM | 3μM | 4.5 μL |\n\nFilter this buffer and aliquot 300 uL of buffer per well of a 96-well plate. From here transfer 10 uL per well of a 384-well storage plate (X5). Repeat this process twice and freeze all plates at \\-20.\n\nHT-SELEX protocol:\n\n4.5 uL protein \\+ 8.5 uL 1.55X SELEX Buffer  \nAdd 5 uL DNA to mix above. Incubate at RT, 30 mins.\n\nAspirate blocking buffer from Ni beads. Add 20 uL of 1 X SELEX Buffer. Transfer previous mix to the beads \\+ 20 uL 1 X SELEX buffer.\n\nSeal plates and incubate 1900 rpm, 45 mins.\n\nWash and then add 35 uL of elution buffer per well. Heat plates at 80 degrees, 15 minutes to elute out DNA.\n\nAdd 135μL \\* 96well in AB0765.\n\n| PE Phusion Mix |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | per well in 384 | per 384-well plate | for 16 plates |\n| MQ water | 2.39642μL | 1055.25 μL | 16884 μL |\n| 5x Phusion HF buffer | 2.47818μL | 1091.25 μL | 17460 μL |\n| 10mM dNTP | 0.48542μL | 213.75 μL | 3420 μL |\n| MgCl2 (50mM) | 0.49819μL | 219.375 μL | 3510 μL |\n| HF Phusion DNA Pol (2U/µL) | 0.14179μL | 62.4375 μL | 999 μL |\n| Total | 6μL | 2642.0625 μL | 42.273 mL |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 5,
+ "id": "2025-11-16",
+ "tags": {
+  "techniques": [
+   "qPCR",
+   "PCR",
+   "SELEX",
+   "Reconstitution",
+   "Cell culture",
+   "Library prep",
+   "Bead purification",
+   "Fragmentation",
+   "Protein purification"
+  ],
+  "reagents": [
+   "Phusion",
+   "Tris",
+   "NaCl",
+   "KCl",
+   "MgCl2",
+   "DTT",
+   "Histone octamer",
+   "dNTPs"
+  ],
+  "samples": [
+   "lig50K",
+   "lig20K",
+   "D1",
+   "D2",
+   "D4",
+   "D5",
+   "D6",
+   "D8",
+   "293T"
+  ],
+  "custom": []
+ },
+ "title": "1. qPCR for Cycle 4 NCAP-SELEX DNA  "
+}

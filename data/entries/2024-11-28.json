@@ -1,0 +1,30 @@
+{
+ "date": "2024-11-28",
+ "heading": "*28th November 2024*",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "*SELEX data analysis notes:*\n\n* New batch of SELEX data has returned – data was downloaded through AWS  \n* To test whether this batch of experiments worked, the data was first analysed for well C12 – MAX FL protein \\[since data was analyzed only for cyc1, an E-box motif was seen i.e. CAATTG while the actual MAX E-box is CACGTG\\]  \n* Scripts used to merge reads, trim adapters and convert .fq to .fa/.seq files by insertion of random DNA bases – SELEXseq\\_p0.sh, SELEXseq\\_p1.sh, SELEXseq\\_p2.sh & SELEXseq\\_p3.sh  \n* Next analysis was run for TETR (F2) – a clean motif was seen \\[need to check if this is the accurate/expected motif\\]  \n* ELF2-m2 (B2) & ELF2 (D4) were also run – commands used were:   \n  ./totalautomodelIC \\-40N Tru147HTSELF21\\_sig.seq Tru147HTSELF21\\_sig.seq 1 10 10 .35 \\- 20 100 0.2 Tru147HTSELF2 \\[this picks up & displays typically longer motifs – ideally I would need to scan for something in the range of 6-8 nucleotides\\]  \n* New trials will use the following script: ./totalautomodelIC \\-40N Tru147HTSELF21\\_sig.seq Tru147HTSELF21\\_sig.seq 1 6 8 .35 \\- 20 100 0.2 Tru147HTSELF2  \n* Still having some issues with uploading data into the kaz pipeline – I can see the sequence moving on to the kaz website but none of the analysis results, models, kmers can be seen after the data upload \\[Talk to Ilya to see how this can be fixed\\]\n\n![A yellow sign with black textDescription automatically generated](assets/img/doc1-image35.png)\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc1-image35.png"
+ ],
+ "tables": 0,
+ "id": "2024-11-28",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Bioinformatics",
+   "Seminar/notes"
+  ],
+  "reagents": [],
+  "samples": [
+   "B2",
+   "D4"
+  ],
+  "custom": []
+ },
+ "title": "SELEX data analysis notes:"
+}

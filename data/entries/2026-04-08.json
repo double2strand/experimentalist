@@ -1,0 +1,31 @@
+{
+ "date": "2026-04-08",
+ "heading": "**8 April 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*GP5d pHRS PlasmidFS*  \n \n\n![](assets/img/doc3-image13.png)\n\nWe use 7.5 uL of DNA, 1.5 uL Cas9 RNP, 1 uL Nuclease reaction buffer.\n\nSet up multiple reactions for both the 12h and 18h time-point samples.\n\n*Quantification of NCFS-PNK & HTFS samples*\n\nQubit was used to quantify the following samples:\n\nNCFS-N40-PNK: 20.4 ng/uL\n\nNCFS-147-PNK: 20 ng/uL\n\nHTFS-N40: 92.2 ng/uL\n\nHTFS-147: 75 ng/uL\n\n*Preparation of lig20K samples for nucleosome reconstitution*\n\nUse the gTube to shred lig50k to lig20k.\n\nTake 3 ug of lig50k and spin at 4200 rpm, 60 s.\n\nlig20k \\= 20.6 ng/uL\n\n*PNK-treatment of HTFS samples*  \n\\[2 reactions per HTFS sample\\]\n\n| DNA | 25 uL |\n| :---- | :---- |\n| T4 PNK Reaction Buffer (10X) | 5 µl |\n| ATP (10 mM) | 5 uL |\n| [T4 PNK](https://www.neb.com/en-gb/products/m0201-t4-polynucleotide-kinase) | 2 µl (20 units) |\n| Nuclease-free Water | up to 50 µl  |\n\nIncubate 37 C, 40 mins. Deactivate 65 C, 20 mins. Freeze tubes at \\-20 C.\n\n*NCFS samples*\n\nNOTE: During the PNK treatment of these samples I had set up a 50 uL reaction (containing \\~1 ug of DNA, with 20 units of T4 PNK but only 2 uL of 10 mM ATP → lesser ATP leading to insufficient phosphorylation (?)\n\nThese samples were concentrated in SpeedVac and frozen at \\-20 C.\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc3-image13.png"
+ ],
+ "tables": 1,
+ "id": "2026-04-08",
+ "tags": {
+  "techniques": [
+   "Reconstitution",
+   "Qubit",
+   "Fragmentation"
+  ],
+  "reagents": [],
+  "samples": [
+   "lig50k",
+   "lig20k",
+   "lig20K"
+  ],
+  "custom": []
+ },
+ "title": "GP5d pHRS PlasmidFS  "
+}

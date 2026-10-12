@@ -1,0 +1,34 @@
+{
+ "date": "2026-08-14",
+ "heading": "**14 August 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Hia5 Buffer*\n\n10 mL\n\n| 1 M Tris pH 8 | 150 uL |\n| :---- | :---- |\n| EDTA (0.5 M) | 20 uL |\n| EGTA (0.5 M) | 10 uL |\n| NaCl (100 mM) | 1500 uL |\n| KCl (100 mM) | 6000 uL |\n| Spermidine (100X) | (1X) 100 uL |\n\nFilter the buffer prior to usage.\n\n*HTFS & NCFS reaction set up*\n\nHTFS\n\nReaction Volume \\= 20 uL\n\nFor 1000 wells (2 ligands):\n\nTotal \\= 2 x 1000 \\= 2000 uL  \nHia5 \\= 40 uL  \nSAM \\= 0.5 x 1000 \\= 500 uL  \nHia5 buffer \\= 1460 uL\n\nSplit into 20 uL per well of a 96 well plate and then add 2 uL to each well of the HTFS plates (total needed \\= 16 uL).\n\nNCFS\n\nReaction Volume \\= 35 uL  \nFor 1000 wells (2 ligands):\n\nTotal \\= 3 x 1000 \\= 3000 uL  \nHia5 \\= 40 uL  \nSAM \\= 0.9 x 1000 \\= 900 uL  \nHia5 buffer \\= 2060 uL\n\nSplit into 31 uL per well of 96-well plate and then add 3 uL per well of the NCFS plates (total needed \\= 24 uL).\n\nNOTES:\n\n- Incubate 90 mins, RT (25 C)\n\n*Clean-up NCFS/HTFS samples*\n\nAdd\n\n- 0.5% SDS was added to the total sample  \n- Added 0.2 mg/mL Proteinase K and placed the sample at 37 C, 30-60 mins\n\n3 M Sodium Acetate (10% of total volume)\n\nIsopropanol (equal volume to be added)\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2026-08-14",
+ "tags": {
+  "techniques": [
+   "Hia5",
+   "Proteinase K"
+  ],
+  "reagents": [
+   "Proteinase K",
+   "SAM",
+   "Spermidine",
+   "Hia5",
+   "SDS",
+   "EDTA",
+   "Tris",
+   "NaCl",
+   "KCl"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Hia5 Buffer"
+}

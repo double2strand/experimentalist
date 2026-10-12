@@ -1,0 +1,33 @@
+{
+ "date": "2025-04-22",
+ "heading": "**22 April 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**Repeated ligation and sonication trials for SELEX ligands**\n\n3 ligation trials were set up as follows:\n\n1) lig147  \n2) lig147-QB  \n3) lig147-PNK\n\nEach reaction was 20 uL in volume. 10 uL of 50 mM EDTA stop solution was added to each tube.\n\nLet the reaction tubes sit at RT for a few mins. Then use spin column purification to purify out the ligated DNA.\n\nRun these products on a 0.5% agarose gel to resolve the DNA. Run at 110 V for 1 hour (minimum).\n\nAfter running gel and quantification use most optimal sample to run the g-Tube for optimised shearing:\n\nDNA should be resuspended in TE buffer with a total volume of 150 uL.\n\nCheck the centrifuge being used and set the spin time and speed according to the specified conditions in the g-Tube manual. \n\nFor a fragment size of 20 kb and for total mass of DNA \\< 4 ug, we have to use 4200 RPM, 60 sec. Repeat the spin by inverting the g-Tube. Collect the sheared DNA from the inverted g-Tube cap. \n\n**Repeat ligation with optimised treatment**\n\nSet up the Blunt TA ligase treatment again for multiple tubes:\n\n3X\n\n| DNA (PNK-treated) | 500 ng |\n| :---: | :---: |\n| Blunt TA ligase mix | 10 uL |\n| NF H2O | Make up volume to 20 uL |\n\nIncubate all tubes at 25 degrees O/N. The last ligation trial was performed for around 16 hours O/N.\n\n**PNK-treated ligand preparation**\n\n1\\. Set-up the following reaction in a microcentrifuge tube on ice:\n\n**2X**\n\n| DNA | up to 300 pmol of 5´ termini (Use 2 ug of DNA per reaction) |\n| :---- | :---- |\n| T4 PNK Reaction Buffer (10X) | 5 µl |\n| ATP (10 mM) | 5 µl |\n| [T4 PNK](https://www.neb.com/en-gb/products/m0201-t4-polynucleotide-kinase) | 1 µl (10 units) |\n| Nuclease-free Water | up to 50 µl |\n\n2\\. Incubate at 37°C for 20 minutes.  \n3\\. Heat inactivate by incubating at 75°C for 10 minutes.\n\nNotes:\n\n* ATP is not supplied  \n* 1X T4 DNA Ligase Buffer contains 1 mM ATP and can be substituted in non-radioactive phosphorylations (T4 Polynucleotide Kinase exhibits 100% activity in this buffer).\n\nPurify this DNA and then set up treatment with Blunt TA ligase.\n\n \n",
+ "experiments": [],
+ "images": [],
+ "tables": 2,
+ "id": "2025-04-22",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Gel electrophoresis",
+   "Ligation",
+   "Column purification",
+   "Fragmentation"
+  ],
+  "reagents": [
+   "EDTA",
+   "T4 ligase",
+   "TE buffer"
+  ],
+  "samples": [
+   "lig147"
+  ],
+  "custom": []
+ },
+ "title": "Repeated ligation and sonication trials for SELEX ligands"
+}

@@ -1,0 +1,28 @@
+{
+ "date": "2025-02-27",
+ "heading": "**27 February 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**Gene Block Resuspension & Annealing:**\n\nIDT gene blocks \\- MYC335gb1, MYC335gb2 contained 1000 ng of lyophilised dsDNA each.\n\n- Tubes were briefly spun down.  \n- 100 uL TE buffer was added to each tube to achieve a final concentration of 10 ng/uL.  \n- The tubes were vortexed briefly.  \n- Tubes incubated at 50°C for 20 minutes for resuspension.  \n- Concentration was verified by using the NanoDrop.\n\n The annealing section between both gene blocks has a Tm \\= 66.5°C\n\n| Gb-1 | 1 uL (\\~10 ng) |\n| :---- | :---- |\n| Gb-2 | 1 uL (\\~10 ng) |\n| Phusion 5X HF buffer | 3 uL |\n| NF water | 10 uL |\n\n| 97°C | 5 min |\n| :---- | :---- |\n| \\-1°C/cycle | 32X |\n| 65°C | 30 min |\n| \\-1°C/cycle | 5X\\* |\n\n\\* Rapid cooling to 60°C\n\nExtension: (EXT, Machine 4\\)\n\nTo complete the annealing reaction, the following components were added:\n\n| Phusion 5X HF buffer  | 1 uL |\n| :---- | :---- |\n| 10 mM dNTPs | 2.5 uL |\n| Phusion Pol | 1.5 uL |\n\nExtension PCR 🡪 72°C for 60 minutes.\n\nAnnealing reaction tube is stored at 4°C.\n\n**PCR for cloning of Shh-BC into pHRS backbone \\[backbone\\] \\- 9396 bp:**\n\nPerform this PCR on all backbones (2X each):\n\n- pHRS-Gcla-GB  \n- pHRS-Hcla-GB  \n- pHRS-GCD-GB  \n- pHRS-HCD-GB  \n- pHRS-GCC-GB  \n- pHRS-Nh100-GB\n\nSHHBCVEC\n\n3X\n\n| 2X Phusion Mix  | 30 uL |\n| :---- | :---- |\n| ShhF1 10 uM | 3 uL |\n| ShhR1 10 uM | 3 uL |\n| pHRS-Gcla-GB (10 ng) | 3 uL |\n| NF H2O | 21 uL |\n\n3X\n\n| 2X Phusion Mix  | 30 uL |\n| :---- | :---- |\n| ShhF1 10 uM | 3 uL |\n| ShhR1 10 uM | 3 uL |\n| pHRS-Hcla-GB (10 ng) | 3 uL |\n| NF H2O | 21 uL |\n\n3X\n\n| 2X Phusion Mix  | 30 uL |\n| :---- | :---- |\n| ShhF1 10 uM | 3 uL |\n| ShhR1 10 uM | 3 uL |\n| pHRS-GCD-GB (10 ng) | 3 uL |\n| NF H2O | 21 uL |\n\n3X\n\n| 2X Phusion Mix  | 30 uL |\n| :---- | :---- |\n| ShhF1 10 uM | 3 uL |\n| ShhR1 10 uM | 3 uL |\n| pHRS-HCD-GB (10 ng) | 3 uL |\n| NF H2O | 21 uL |\n\n3X\n\n| 2X Phusion Mix  | 30 uL |\n| :---- | :---- |\n| ShhF1 10 uM | 3 uL |\n| ShhR1 10 uM | 3 uL |\n| pHRS-GCC-GB (10 ng) | 3 uL |\n| NF H2O | 21 uL |\n\n3X\n\n| 2X Phusion Mix  | 30 uL |\n| :---- | :---- |\n| ShhF1 10 uM | 3 uL |\n| ShhR1 10 uM | 3 uL |\n| pHRS-Nh100-GB (10 ng) | 3 uL |\n| NF H2O | 21 uL |\n\nTransfer 20 uL to 2 tubes for each plasmid subtype:\n\n| 98°C | 30 s |\n| :---- | :---- |\n| **98°C** | **10 s** |\n| **64°C** | **30 s       35X** |\n| **72°C** | **5 min** |\n| 72°C | 10 min |\n| 4°C | HOLD |\n\n**PCR for cloning of MYC335gb into pHRS backbone \\[backbone\\] \\- 9350 bp:**\n\nPerform this PCR on any one backbones (4X):\n\npHRS-Gcla-GB to be used for the setup.\n\nMYC335VE\n\n5X\n\n| 2X Phusion Mix  | 50 uL |\n| :---- | :---- |\n| ShhF1 10 uM | 5 uL |\n| ShhR1 10 uM | 5 uL |\n| pHRS-Gcla-GB (10 ng) | 5 uL |\n| NF H2O | 35 uL |\n\nTransfer 20 uL to 4 tubes for each plasmid subtype:\n\n| 98°C | 30 s |\n| :---- | :---- |\n| **98°C** | **10 s** |\n| **65°C** | **30 s       35X** |\n| **72°C** | **5 min** |\n| 72°C | 10 min |\n| 4°C | HOLD |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 12,
+ "id": "2025-02-27",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Nanodrop"
+  ],
+  "reagents": [
+   "Phusion",
+   "dNTPs",
+   "TE buffer"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Gene Block Resuspension & Annealing:"
+}

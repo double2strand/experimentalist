@@ -1,0 +1,40 @@
+{
+ "date": "2026-03-24",
+ "heading": "**24 March 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*NCAP & HT SELEX \\- lig147 & ligN40w107*\n\nThe qPCR was run for these samples with both the NCAP-SELEX and HT-SELEX samples:\n\nQuadrant 1 NCAP lig147 c1 → Quadrant 1 qPCR plate\n\nQuadrant 2 NCAP ligN40 c1 → Quadrant 2 qPCR plate\n\nQuadrant 3 HTS lig147 c1 → Quadrant 3 qPCR plate\n\nQuadrant 4 HTS ligN40 c1 → Quadrant 4 qPCR plate\n\n| Sample | Mean Value | Median Value |\n| :---: | :---: | :---: |\n| NCAP\\_lig147\\_c1 | 32 | 36 |\n| NCAP\\_ligN40\\_c1 | 35 | 38 |\n| HTS\\_lig147\\_c1 | 22 | 29 |\n| HTS\\_ligN40\\_c1 | 33 | 36 |\n\nBased on the qPCR results, it seems like there was actually no signal in the majority of the cells. Upon checking the Beckman program again, what we can see is that the BC90 tips are not at all good at picking up small volumes during the qPCR assay and depositing them into the qPCR plate.\n\nTherefore, this needs to be repeated with the BC384 tips, split into 4 quadrants.\n\nSet up PCR1 according to the following cycle numbers:\n\nNCAP\\_lig147\\_c1 \\=\\> 32  \nNCAP\\_ligN40\\_c1 \\=\\> 35  \nHTS\\_lig147\\_c1 \\=\\> 25  \nHTS\\_ligN40\\_c1 \\=\\> 35\n\n10X TCAPT Buffer\n\n| 1.4 M KCl | 208.74 g |\n| :---- | :---- |\n| 50 mM NaCl | 5.844 g |\n| 10 mM MgCl2 | 20 mL |\n| 1 mM EGTA | 4 mL |\n| 100 mM Tris-HCl pH 8 | 200 mL |\n| Tween20 | 20 mL |\n| 30 uM ZnSO4.H2O | 600 uL |\n\n0.5 M EGTA ⇒ 1.90 g EGTA in 10 mL 1 M NaOH → 1.9 g EGTA \\+ 9 mL sterile water \\+ 1 mL 10 M NaOH\n\nPCR2 plates\n\n| PCR Plates |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | per well in 384 | per 384-well plate | for 8 plates (x8.5) |\n| NF water | 11.59μL | 4.451mL | 37.84mL |\n| 5x Phusion HF buffer | 5.02μL | 1.928mL | 16.39mL |\n| 10mM e dNTP | 1.01μL | 387.84μL | 3.296mL |\n| NCAP\\_F 100μM  | 0.1μL | 38.4μL | 326.4μL |\n| NCAP\\_R 100μM  | 0.1μL | 38.4μL | 326.4μL |\n| MgCl2 (50mM) | 0.131μL | 50.30μL | 427.6μL |\n| Hot Start Phusion DNA Pol | 0.1457μL | 55.95μL | 475.6μL |\n| Total | 18.1μL | 6.947mL | 59.05mL |\n\nPCR1 plates  \nPCR (For 8 plates)\n\n| PCR Plates |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | per well in 384 | per 384-well plate | for 8 plates (x440) |\n| NF water | 8.65μL | 3.323mL | 30.48mL |\n| 5x Phusion HF buffer | 3.75μL | 1.440mL | 13.2mL |\n| 10mM e dNTP | 0.75μL | 288μL | 2.64mL |\n| NCAP\\_F 100μM  | 0.075μL | 28.8μL | 264μL |\n| NCAP\\_R 100μM  | 0.075μL | 28.8μL | 264μL |\n| MgCl2 (50mM) | 0.0975μL | 37.44μL | 343μL |\n| Hot Start Phusion DNA Pol | 0.10875μL | 41.76μL | 383μL |\n| Total | 13.51μL | 5.189mL | 47.57mL |\n\nLow salt RB (2 L)\n\n37.28 g KCl  \n20 mL 1 M Tris-HCl, pH 7.5  \n4 mL 0.5 M EDTA  \n2 mL DTT\n",
+ "experiments": [],
+ "images": [],
+ "tables": 4,
+ "id": "2026-03-24",
+ "tags": {
+  "techniques": [
+   "qPCR",
+   "PCR",
+   "SELEX"
+  ],
+  "reagents": [
+   "Phusion",
+   "EDTA",
+   "Tris",
+   "NaCl",
+   "KCl",
+   "MgCl2",
+   "DTT",
+   "dNTPs"
+  ],
+  "samples": [
+   "lig147",
+   "ligN40",
+   "NCAP_F",
+   "NCAP_R",
+   "ligN40w107"
+  ],
+  "custom": []
+ },
+ "title": "NCAP & HT SELEX - lig147 & ligN40w107"
+}

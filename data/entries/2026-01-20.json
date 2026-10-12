@@ -1,0 +1,23 @@
+{
+ "date": "2026-01-20",
+ "heading": "**20 January 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Protein plate for HT-SELEX \\+ FIBER-Seq*\n\n7.5 uL protein \\+ 22.5 uL TF dilution buffer\n\nDBD QD1 ⇒ Quadrant 1 of TF plate  \nDBD QD2 ⇒ Quadrant 2 of TF plate  \nDBD QD3 ⇒ Quadrant 3 of TF plate  \nBaker lab prot, Commercial, ELF, FL Q3/Q4 ⇒ Quadrant 4 of TF plate\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2026-01-20",
+ "tags": {
+  "techniques": [
+   "SELEX"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Protein plate for HT-SELEX + FIBER-Seq"
+}

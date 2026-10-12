@@ -1,0 +1,37 @@
+{
+ "date": "2025-04-14",
+ "heading": "**14 April 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**Amplification of annealed pHRSnolox gene block:**\n\nPCR column purify these tubes and then run a gel to check the size of the dominant product. The expected size of this PCR product is **2375 bp.**\n\nRun a 1% agarose gel to check for the size here.\n\n**Size check for MAXlig PCR product:**\n\nRun the purified PCR product for MAXlig on the same gel as above \\- post PCR the product size here should be **91 bp**.\n\n**Ligand pool large-scale preparation for Hia5testlig and MAXlig for SELEX trials:**\n\nOnce the size of MAXlig is confirmed to be accurate and the ligand quality is confirmed to be clean, perform the large scale amplification of the same to produce a lot more of the ligand.\n\nFor MAXlig:\n\nUsing this PCR product, set up the second PCR:\n\nAmplification PCR: (CAPAMP2) 8X\n\n| bioNCAP\\_F (10 uM) | 18 uL |\n| :---- | :---- |\n| bioNCAP\\_R (10 uM) | 18 uL |\n| 2X KAPA HiFi HS | 100 uL |\n| MAXlig CAPAMP1 product | 20 uL |\n| NF water | 44 uL |\n\nSplit 25 uL per tube and use the following PCR conditions:\n\n| 95 degrees C | 3 min |\n| :---- | :---- |\n| **98 C** | **20 s** |\n| **64 C** | **15 s                                                           2X** |\n| **72 C** | **30 s** |\n| 72 C | 40 min |\n| 4 C | HOLD |\n\nSimilarly for Hia5testlig:\n\nAmplification PCR: (CAPAMP2) 8X\n\n| NCAP\\_F (10 uM) | 18 uL |\n| :---- | :---- |\n| NCAP\\_R (10 uM) | 18 uL |\n| 2X KAPA HiFi HS | 100 uL |\n| Hia5testlig CAPAMP1 product | 20 uL |\n| NF water | 44 uL |\n\nSplit 25 uL per tube and use the following PCR conditions:\n\n| 95 degrees C | 3 min |\n| :---- | :---- |\n| **98 C** | **20 s** |\n| **64 C** | **15 s                                                           2X** |\n| **72 C** | **30 s** |\n| 72 C | 40 min |\n| 4 C | HOLD |\n\n**Transformation of libv1-CC libraries into LB-AMP plates:**\n\nThe libv1-CC libraries have the following concentrations:\n\nGcla \\- 608.8 ng/uL  \nHcla \\- 581.7 ng/uL  \nGCD \\- 902 ng/uL  \nHCD \\- 570.6 ng/uL  \nGCC \\- 1059.7 ng/uL  \nNh100 \\- 573.8 ng/uL\n\nDilute all 6 libraries to stocks of 50 ng/uL (10 uL each):\n\nGcla \\- 0.82 uL \\+ 9.18 uL H2O  \nHcla \\- 0.86 uL \\+ 9.14 uL H2O  \nGCD \\- 0.55 uL \\+ 9.45 uL H2O  \nHCD \\- 0.88 uL \\+ 9.12 uL H2O  \nGCC \\- 0.47 uL \\+ 9.53 uL H2O  \nNh100 \\- 0.87 uL \\+ 9.13 uL H2O\n\nFurther dilute these stocks to 0.1 ng/uL (100 uL each):\n\n0.2 uL \\+ 98.8 uL H2O\n\nTake 1 uL of these final diluted stocks and add to 50 uL of competent cells for transformation.\n\n**Annealing and PCR for pHRSnoloxGB and MYC335GB:**\n\npHRS-nolox-gb \\= 115.3 ng/uL \\= 47.75 nM\n\nMYC335-gb \\= 73.6 ng/uL \\= 73.5  nM solution\n\nAnnealing reaction:\n\n4. Mix equal volumes of the equimolar oligonucleotides (100 nM each) in a PCR tube (Add 2.09 uL of  pHRS-nolox-gb and 1.36 uL of MYC335-gb). Add 4 uL of Phusion 5X HF buffer and make up the total volume to 20 uL.  \n5. Use the following thermal profile:  \n   1. Heat to 95 °C and maintain the temperature for 2 min.  \n   2. Cool to 25 °C over 45 min. (Cool at the rate of 5 degrees in 3 mins → 1.6 degrees/min → 0.02 degrees/sec)  \n   3. Cool to 4 °C for temporary storage.  \n6. Centrifuge the PCR tube briefly to draw all moisture away from the lid.\n\nTo complete the annealing reaction, the following components were added:\n\n| Phusion 5X HF buffer  | 1 uL |\n| :---- | :---- |\n| 10 mM dNTPs | 2.5 uL |\n| Phusion Pol | 1.5 uL |\n\nExtension PCR 🡪 72°C for 60 minutes.\n\n**Amplification of annealed pHRSnolox gene block:**\n\n5X\n\n| pHRSnolox\\_F (10 uM) | 5 uL |\n| :---- | :---- |\n| MYC335gb\\_correct\\_R (10 uM) | 5 uL |\n| 2X Phusion Mix | 50 uL |\n| Annealed GB | 10 uL |\n| DMSO | 3 uL |\n| NF H2O | 27 uL |\n\nGBPCR\n\n| 95°C | 3 min |\n| :---- | :---- |\n| 98°C | 20 s |\n| **66°C\\*** | **15 s       20X** |\n| 72°C | 2 min |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\n\\*pHRSnolox\\_F has a Tm\\=57°C and MYC335gb\\_correct\\_R has a Tm\\=69°C; Ta accordingly set to 57°C. Total expected product size is **3918 bp**.\n\nThe concentration for the gene blocks to be measured post column purification.\n\nCheck the PCR product on an agarose gel along with some of the purified biotinylated MAXligand. \n\nIf this product is clean, anneal this product with the MYC355gb.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 7,
+ "id": "2025-04-14",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Hia5",
+   "Gel electrophoresis",
+   "Library prep",
+   "Column purification"
+  ],
+  "reagents": [
+   "Phusion",
+   "Hia5",
+   "dNTPs"
+  ],
+  "samples": [
+   "CAPAMP2",
+   "CAPAMP1",
+   "NCAP_F",
+   "NCAP_R"
+  ],
+  "custom": []
+ },
+ "title": "Amplification of annealed pHRSnolox gene block:"
+}

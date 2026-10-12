@@ -1,0 +1,38 @@
+{
+ "date": "2026-02-06",
+ "heading": "**6 February 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*EcoRV digestion assay*\n\nRunning order:\n\n1. ELFlig1  \n2. ELFlig1 (EcoRV)  \n3. ELFlig1nuc (EcoRV)  \n4. ELFlig1 \\+ ELF2 (EcoRV)  \n5. ELFlig1nuc \\+ ELF2 (EcoRV)\n\nTo run this gel, run at 60 V, 2 hours and do not load more than 6 uL of sample into the wells. Run in a cold room. Cast the gel and run the gel in the TBE buffer.\n\n*Nuclease testing assay for dam-/dcm- pHRS plasmids*\n\n![](assets/img/doc3-image11.png)\n\nHeat the duplex at 95 C, 5 mins. Remove from thermocycler and allow cooling to RT gradually.\n\n![](assets/img/doc3-image12.png)\n\nHere we use the Cas9 dilution buffer instead of PBS.\n\nIncubate at RT for 10 mins.\n\n![](assets/img/doc3-image13.png)\n\nCorresponding to 100 nM DNA substrate is about 6 ug DNA. We are just going to test this with 1 ug DNA.\n\n10X Cas9 Nuclease reaction buffer:\n\n1 mL\n\n| 1 M HEPES  | 200 uL |\n| :---- | :---- |\n| NaCl | 0.06 g |\n| 1 M MgCl2 | 50 uL |\n| 0.5 M EDTA | 2 uL |\n\nFilter and store at \\-20 before usage.\n\nCas9 dilution Buffer:\n\n10 mL\n\n| 1 M HEPES  | 300 uL |\n| :---- | :---- |\n| 4 M KCl | 375 uL |\n\n*HTFS ligation*  \n2X\n\n| lig147HTFS-PNK (1000 ng) | uL |\n| :---- | :---- |\n| 50% PEG8000 | 3 uL |\n| CoHex 10 mM | 1 uL |\n| T4 Ligase Buffer 10X | 1 uL |\n| T4 DNA ligase | 1 uL |\n\n2X\n\n| ligN40HTFS-PNK (1000 ng) | uL |\n| :---- | :---- |\n| 50% PEG8000 | 3 uL |\n| CoHex 10 mM | 1 uL |\n| T4 Ligase Buffer 10X | 1 uL |\n| T4 DNA ligase | 1 uL |\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc3-image11.png",
+  "assets/img/doc3-image12.png",
+  "assets/img/doc3-image13.png"
+ ],
+ "tables": 4,
+ "id": "2026-02-06",
+ "tags": {
+  "techniques": [
+   "Gel electrophoresis",
+   "Ligation",
+   "Restriction digest"
+  ],
+  "reagents": [
+   "EDTA",
+   "NaCl",
+   "KCl",
+   "MgCl2",
+   "T4 ligase"
+  ],
+  "samples": [
+   "lig147HTFS",
+   "ligN40HTFS"
+  ],
+  "custom": []
+ },
+ "title": "EcoRV digestion assay"
+}

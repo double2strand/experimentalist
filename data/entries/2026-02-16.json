@@ -1,0 +1,33 @@
+{
+ "date": "2026-02-16",
+ "heading": "**16 February 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Plasmid FS for HAP1 & HepG2 samples*\n\n- Cells are resuspended in 60 uL of Hia5 buffer (containing 0.05 % IGEPAL)  \n- Incubate on ice for 10 mins.  \n- Pellet nuclei at 350g, 5 min at 4 C.  \n- Resuspend nuclei in 59 uL Hia5 buffer (with 0.8 mM SAM) & 0.5 uL of Hia5  \n- Incubate at 25 C for 60 mins. Add SDS to a final concentration of 1% to stop the reaction.  \n- Extract plasmid DNA by adding 134 uL Monarch Buffer B1. Then purify by mini-prep according to the kit instructions.  \n- Linearize the plasmids based on *in vitro* CRISPR & clean-up the reactions\n\nHAP1 HRS- 12:\n\nHAP1 HRS- 18:\n\nHepG2 HRS- 12:\n\nHepG2 HRS- 18: \n\n*Repeat of ligN40 and lig147 HTFS*\n\n*Spin down induction cultures and freeze at \\-20 C*\n\n*Nucleosome recon for genomic DNA samples*\n\nIf we use 4 ug of DNA in a total of 25 uL volume:\n\nMolarity of DNA \\= 12.33 nM\n\nMolarity of octamer required \\= 740 nM ⇒ 2.01 ug in 25 uL solution\n\nPrepare WT octamer stock → 0.402 ug/uL → 0.75 uL Octamer \\+ 9.25 uL refolding buffer:glycerol \\[1.075 M\\]\n\n5 uL of the octamer stock to be added to each of the DNA-salt mixes (20 uL) ⇒ Final salt concentration of the mix ⇒ 1.82 M\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2026-02-16",
+ "tags": {
+  "techniques": [
+   "Hia5",
+   "Reconstitution"
+  ],
+  "reagents": [
+   "SAM",
+   "Hia5",
+   "SDS",
+   "Histone octamer",
+   "Glycerol"
+  ],
+  "samples": [
+   "ligN40",
+   "lig147"
+  ],
+  "custom": []
+ },
+ "title": "Plasmid FS for HAP1 & HepG2 samples"
+}

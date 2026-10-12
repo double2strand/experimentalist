@@ -1,0 +1,23 @@
+{
+ "date": "2025-09-15",
+ "heading": "**15 September 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "GP5d sorting media (500 mL)\n\n| DMEM high glucose | Make up to 200 mL |\n| :---- | :---- |\n| HI FBS (50%) | 100 mL |\n| L-Glutamine | 5 mL |\n| Pen-Strep | 5 mL |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2025-09-15",
+ "tags": {
+  "techniques": [
+   "Cell culture"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "GP5d sorting media (500 mL)"
+}

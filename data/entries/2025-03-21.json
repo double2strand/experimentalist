@@ -1,0 +1,35 @@
+{
+ "date": "2025-03-21",
+ "heading": "**21 March 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**Gel extraction for MluI digested plasmid backbones:**\n\n| Gcla (M) |  |\n| :---- | :---- |\n| Hcla (M) |  |\n| GCD (M) |  |\n| HCD (M) |  |\n| GCC (M) |  |\n| HCC (M) |  |\n| Nh (M) |  |\n\n**Run PCR for different Gcla oligos to estimate diversity using the primers containing distinct barcodes:**\n\nThe product sizes for this PCR should be 262 bp. The F primer starts at the unique barcode for the enhancer oligo and the product then ends at the common Gcla pool R primer.  \nPer reaction:\n\n| 2X Phusion Mix  | 10 uL |\n| :---- | :---- |\n| FP 10 uM | 1 uL |\n| RP 10 uM | 1 uL |\n| pHRS-Gcla-libv1 (10 ng) | 1 uL |\n| NF H2O | 7 uL |\n\nPrepare a master-mix with the following:\n\n| 2X Phusion Mix  | 110 uL |\n| :---- | :---- |\n| pHRS-Gcla-libv1 (10 ng) | 11 uL |\n| Gcla-RP (10 uM) | 11 uL |\n| NF H2O | 77 uL |\n\nDistribute 19 uL per tube for 10 tubes.  \nAdd 1 uL of the unique 10 uM F primer to each tube. Run the following program:\n\n| 98°C | 30 s |\n| :---- | :---- |\n| **98°C** | **10 s** |\n| **59°C** | **30 s       30X** |\n| **72°C** | **30 s** |\n| 72°C | 10 min |\n| 4°C | HOLD |\n\n![](assets/img/doc1-image42.png)\n\nBased on the gel run, 8 out of 10 samples from the Gcla oligo pool show amplification of a specific band corresponding to the expected size (262 bp). And in the last couple of lanes close to the 100 bp ladder, the Shholigo1PCR2 library shows a bit of a smear but a band of the expected size as well. \n\nLastly the Cycle0 SELEX library was also run on the agarose gel and this showed two distinct bands that would represent the expected fragments corresponding to the lig147 and ligN20w100 libraries. No obvious smearing is seen in this sample, suggesting that some noise or single-stranded DNA is being picked up in the TapeStation runs.\n\n**TapeStation run for newly purified Cycle 0 library:**\n\nRun the Cycle 0 \\- 147 \\+ N20 sample on the TapeStation for quantification and profiling. Sample has been run on the TapeStation without dilution.\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc1-image42.png"
+ ],
+ "tables": 4,
+ "id": "2025-03-21",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Gel electrophoresis",
+   "Library prep",
+   "Restriction digest",
+   "Fragmentation"
+  ],
+  "reagents": [
+   "Phusion"
+  ],
+  "samples": [
+   "lig147",
+   "ligN20w100"
+  ],
+  "custom": []
+ },
+ "title": "Gel extraction for MluI digested plasmid backbones:"
+}

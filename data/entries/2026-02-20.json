@@ -1,0 +1,39 @@
+{
+ "date": "2026-02-20",
+ "heading": "**20 February 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Prepare SBP-Octamer stock plate for NCFS & 1st round NCAP-SELEX*\n\n*Test ELF lig1, perform EcoRV digest and gel run*\n\n*DpnI/MboI check for Plasmid FS, F1 (293T20knuc) FS samples*\n\n*Test NCAP-SELEX recon programs \\+ NCFS program*\n\n*Prepare lig147, ligN40 plates for round 2 NCAP-SELEX*\n\n*ELF2 new ligands PCR*\n\n16X\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **ELF2shift\\_HindIII** | **2 uL** |\n| **2X KAPA Mix** | **200 uL** |\n| **ELF\\_FWD 10 uM** | **20 uL** |\n| **ELF\\_REVnew 10 uM** | **20 uL** |\n| **Water** | **158 uL** |\n| **Total** | **400** |\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 59°C | 15 s       **35X\\*** |\n| 72°C | 30 s |\n| 72°C | 10 min |\n| 4°C | HOLD |\n\n16X\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **ELF2shift\\_EcoRV** | **2 uL** |\n| **2X KAPA Mix** | **200 uL** |\n| **ELF\\_FWD 10 uM** | **20 uL** |\n| **ELF\\_REVnew 10 uM** | **20 uL** |\n| **Water** | **158 uL** |\n| **Total** | **400** |\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 59°C | 15 s       **35X\\*** |\n| 72°C | 30 s |\n| 72°C | 10 min |\n| 4°C | HOLD |\n\n*DpnI/MboI check for Plasmid FS, F1 (293T20knuc) FS samples*\n\nSamples to be processed:\n\n- Gcla- no Hia5  \n- HAP1 HRS- 12  \n- HAP1 HRS- 18  \n- HepG2 HRS- 12  \n- HepG2 HRS- 18  \n- 293T 20k no Hia5  \n- F1 (293T20knuc)\n\nTo prepare the reactions:\n\n| DNA | 10 ng |\n| :---- | :---- |\n| rCutsmart Buffer | 1 uL |\n| DpnI/MboI | 0.2 uL |\n| Total  | 10 uL |\n\nDpnI\n\n| 37 C | 1 hour |\n| :---- | :---- |\n| 80 C | 20 mins |\n\nMboI\n\n| 37 C | 1 hour |\n| :---- | :---- |\n| 65 C | 20 mins |\n\nDpnIMboI master-mix:\n\n7 uL rCutsmart \\+ 1.4 uL DpnI/MboI \\+ 54.6 uL NF H2O\n\nSplit 9 uL per tube and add 1 uL DNA (corresponding to 10 ng).\n\n*SBP Beads preparation*\n\nRemove storage buffer from SBP beads (on magnet). Then resuspend the beads in 40 mL Blocking buffer and incubate at RT, 20-30 mins. Remove buffer.\n\nSBP: 2.5mL beads in 55mL blocking buff(salt free), dist 5 plates, 25uL/wel → Prepare 2 NUNC plates.l\n\n*SBP Histone Octamer Plate*\n\nOctamer concentration \\= 7.25 ug/uL \\= 7250 ng/uL\n\nNumber of experiments \\= 12\n\nVolume per experiment \\= 1.8 uL\n\nVolume needed per well \\= 22 uL\n\nPrepare 30 ng/uL octamer with 25 uL per well ⇒ 25 X 400 X 35 \\= 300 ug SBP-octamer\n\nTake 41.4 uL of original octamer and make up solution to 10000 uL (add 9958.6 uL of refolding buffer:glycerol (1:1))\n\nAdd 833 uL per well of a 96-well storage plate. From here use the Beckman robot to first add 104 uL per well of same 96-well plate & then finally aliquot this to 25 uL per well in a single 4ti384-well plate.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 7,
+ "id": "2026-02-20",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Hia5",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Cell culture",
+   "Bead purification",
+   "Restriction digest"
+  ],
+  "reagents": [
+   "Hia5",
+   "Histone octamer",
+   "Glycerol"
+  ],
+  "samples": [
+   "lig1",
+   "lig147",
+   "ligN40",
+   "293T"
+  ],
+  "custom": []
+ },
+ "title": "Prepare SBP-Octamer stock plate for NCFS & 1st round NCAP-SELEX"
+}

@@ -1,0 +1,42 @@
+{
+ "date": "2025-05-01",
+ "heading": "**1 May 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "Upon measuring Nanodrop concentrations for the samples in the table above \\- it was seen that the maximum concentration (and in fact all the DNA) in the sample was found in the FT sample after separation from the Ni beads. \\[This large scale SELEX assay did not work\\]\n\nSwitch to 96 well format for the assay.\n\nSingle-SELEX experiment \\= 4 uL protein \\+ 6 uL 1.55 X SELEX buffer \\+ 5 uL DNA  \n25 uL Ni beads \\= remove buffer and add 20 uL 1X SELEX buffer\n\nScale up to 500 ng of DNA and 500 ng of protein per well of a 96-well plate i.e. 5 times the volume per well.\n\nPer well:\n\n20 uL protein \\+ 30 uL 1.55X SELEX buffer \\+ 25 uL DNA\n\n910 uL of Ni beads dissolved in a total 12.5 mL blocking buffer. Separate beads on magnetic rack and resuspend beads in 10 mL of 1X SELEX buffer. Aliquot 100 uL of the beads to each well.\n\nTotal 50 ug protein \\= 109 uL protein to a 25 ng/uL stock in TF dilution buffer \\= 109 uL protein in total 2000 uL (add 1891 uL TF dilution buffer \\= diluted \\~18-fold)\n\nDNA solution \\= 50 ug DNA at 20 ng/uL \\= 50 ug in 2500 uL of TE buffer\n\nAfter incubation of Ni beads with DNA-protein mix, pool mix from all wells. Split into 16 low DNA binding tubes (1050 uL per tube). Wash samples with Ni wash buffer.\n\nPrepare the following buffers for Ni washing and elution:\n\n| Buffer | 20 mM Na+ Phosphate pH 7.4 | NaCl | Imidazole | Additives |\n| ----- | ----- | ----- | ----- | ----- |\n| **First Wash** | 20 mM | **77 mM** | **10 mM** | 0.1% Tween-20, 1 mM MgCl₂, 1 mM DTT |\n| **Second Wash** | 20 mM | **77 mM** | **30 mM** | 0.1% Tween-20, 1 mM MgCl₂, 1 mM DTT |\n| **Elution** | 20 mM | **77 mM** | **250 mM** | 0.1% Tween-20, 1 mM MgCl₂, 1 mM DTT |\n\nFor each wash add 1 mL buffer per tube and incubate at 2 mins, RT.\n\nFor elution, add 15 uL of Ni elution buffer per tube and shake tubes at 1400 rpm, 25 mins for 5 mins. Perform a second elution with 10 uL of Ni elution buffer.\n\nTotal eluate \\= 400 uL\n\n**Whole Plasmid Sequencing for pHRS clones**\n\n![](assets/img/doc2-image1.png)  \nBased on SalI digestion results for clones, send for sequencing:\n\nHclav1cc-1  \nHclav1cc-2  \nHclav1cc-3  \nNh100v1cc-1  \nNh100v1cc-2  \nNh100v1cc-3  \nNh100v1cc-4\n\n![](assets/img/doc2-image2.png)\n\nHCDv1cc-1  \nHCDv1cc-2  \nHCDv1cc-3  \nHCDv1cc-4\n\nMYC335-1  \nMYC335-2 (?)\n\n**Large-Scale PCR for MAXligand**\n\nThe MAXligand works out to be about 2.95 ug/uL of ssDNA in the stock tube.\n\nIf I use 10 nM of ssDNA in 25 uL of PCR reactions, then this would be \\~8 ng of DNA per reaction.\n\nDilute 1 uL of the oligo to 50 uL total using TE buffer (\\~60 ng/uL). Then set up 30X reactions.\n\nAmplification PCR: (CAPAMP1) 30X\n\n| NCAP\\_F bio (10 uM) | 60 uL |\n| :---- | :---- |\n| NCAP\\_R bio (10 uM) | 60 uL |\n| 2X KAPA HiFi HS | 375 uL |\n| MAXlig (diluted 1:50) | 30 uL |\n| NF water | 225 uL |\n\n| 95 C | 3 min |\n| :---- | :---- |\n| **98 C** | **20 s** |\n| **55 C** | **15 s               25X** |\n| **72 C** | **30 s** |\n| 72 C | 40 min |\n| 4 C | HOLD |\n\nPurification of these PCR products yielded 67.5 ng/uL (in 400 uL) of DNA (MAXlig PCR). 5 uL of this has been run on a 2% agarose gel.\n\nCheck the band and then based on whether the band is clear, set up 45X reactions\n\n**Data Processing for new AVITI SELEX data**\n\nligN20NCAP (Order of samples)\n\n- PE0 (N20NCAPc4) 1-384  \n- PE1 (N20NCAPc1) 385-768  \n- PE2 (N20NCAPc2) 769-1152  \n- PE3 (N20NCAPc3) 1153-1536\n\n./selex.sh has been run for adapter trimming and read-merging, as well as conversion to .fa files\n\n**Large-Scale PCR for MAXligand**\n\nAmplification PCR: (CAPAMP1) 45X\n\n| NCAP\\_F bio (10 uM) | 90 uL |\n| :---- | :---- |\n| NCAP\\_R bio (10 uM) | 90 uL |\n| 2X KAPA HiFi HS | 562.5 uL |\n| MAXlig (diluted 1:50) | 45 uL |\n| NF water | 337.5 uL |\n\n| 95 C | 3 min |\n| :---- | :---- |\n| **98 C** | **20 s** |\n| **55 C** | **15 s               25X** |\n| **72 C** | **30 s** |\n| 72 C | 40 min |\n| 4 C | HOLD |\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc2-image1.png",
+  "assets/img/doc2-image2.png"
+ ],
+ "tables": 5,
+ "id": "2025-05-01",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Gel electrophoresis",
+   "Bead purification",
+   "Nanodrop",
+   "Restriction digest",
+   "Protein purification"
+  ],
+  "reagents": [
+   "NaCl",
+   "MgCl2",
+   "DTT",
+   "TE buffer"
+  ],
+  "samples": [
+   "NCAP_F",
+   "NCAP_R",
+   "CAPAMP1",
+   "ligN20NCAP"
+  ],
+  "custom": []
+ },
+ "title": "Upon measuring Nanodrop concentrations for the samples in the table above - it was seen that the maximum concentration ("
+}

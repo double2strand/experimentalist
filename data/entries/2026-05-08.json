@@ -1,0 +1,25 @@
+{
+ "date": "2026-05-08",
+ "heading": "**8 May 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*PNK-treatment of HTFS, NCFS samples*  \n\\[4 reactions per HTFS sample\\]\n\n| DNA | 20 uL |\n| :---- | :---- |\n| T4 PNK Reaction Buffer (10X) | 5 µl |\n| ATP (10 mM) | 5 uL |\n| [T4 PNK](https://www.neb.com/en-gb/products/m0201-t4-polynucleotide-kinase) | 2 µl (20 units) |\n| Nuclease-free Water | up to 50 µl  |\n\nIncubate 37 C, 40 mins. Deactivate 65 C, 20 mins. Freeze tubes at \\-20 C.\n\n***Ligation of HTFS, NCFS samples***\n\n2X each for the HTFS samples & 1X reaction for each NCFS sample\n\n| HTFS/NCFS | 4 uL |\n| :---- | :---- |\n| 50% PEG8000 | 3 uL |\n| CoHex 10 mM | 1 uL |\n| T4 Ligase Buffer 10X | 1 uL |\n| T4 DNA ligase | 1 uL |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 2,
+ "id": "2026-05-08",
+ "tags": {
+  "techniques": [
+   "Ligation"
+  ],
+  "reagents": [
+   "T4 ligase"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "PNK-treatment of HTFS, NCFS samples  "
+}

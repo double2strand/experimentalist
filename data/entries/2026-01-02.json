@@ -1,0 +1,32 @@
+{
+ "date": "2026-01-02",
+ "heading": "**2 January 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*1\\. Set up cultures for protein production*  \n*2\\. Repeat transformation*\n\nEach vial of the Rosetta cells is 0.2 mL ⇒ Aliquot into 20 uL each and transform by adding 0.3 uL of each plasmid.\n\nEach plasmid is resuspended in 100 uL of NF water i.e. concentration \\= \\~40 ng/uL\n\nDBP147  \nDBP152  \nDPRX\\_DBD  \nDBP142  \nDBP154  \nDBP155  \ndmGAGA\\_DBD\n\n*3\\. Hia5testlig QC \\+ Hia5 treatment*\n\n*HT-SELEX test buffer:* \n\nPCR 1 → 10X\n\n1. Hia5testlig-1\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **Final diluted DNA** | **10\\*** |\n| **Phusion Master Mix** | **125** |\n| **NCAP\\_F (10 µM)** | **12.5** |\n| **NCAP\\_R (10 uM)** | **12.5** |\n| **Water** | **90**  |\n| **Total** | **250** |\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **14X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\n\\*Dilute the original ligand with \\~9.5 uL of TE buffer\n\n2. Hia5testlig-2\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **Final diluted DNA** | **10** |\n| **Phusion Master Mix** | **125** |\n| **NCAP\\_F (10 µM)** | **12.5** |\n| **NCAP\\_R (10 uM)** | **12.5** |\n| **Water** | **90**  |\n| **Total** | **250** |\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **14X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 4,
+ "id": "2026-01-02",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Hia5"
+  ],
+  "reagents": [
+   "Phusion",
+   "Hia5",
+   "TE buffer"
+  ],
+  "samples": [
+   "NCAP_F",
+   "NCAP_R"
+  ],
+  "custom": []
+ },
+ "title": "1. Set up cultures for protein production  "
+}

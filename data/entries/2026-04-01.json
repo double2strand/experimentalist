@@ -1,0 +1,39 @@
+{
+ "date": "2026-04-01",
+ "heading": "**1 April 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Incubating nucleosomes with protein pool*\n\n*CC methylase conjugated with His antibody*\n\n“M.CviQIXNdel15 (CC methyltransferase). Due to the limited sample, I am only able to send you two microfuge tubes, each containing 50 µL of protein at a concentration of 4.6 mg/mL. I will send more once a new batch has been purified. The storage buffer is 20 mM Tris-HCl (pH 8.0), 0.2 M NaCl, and 25% glycerol.”\n\n*Plasmid FIBER-Seq GP5d (pHRS)*\n\n- Cells are resuspended in 60 uL of Hia5 buffer (containing 0.05 % IGEPAL)  \n- Incubate on ice for 10 mins.  \n- Pellet nuclei at 350g, 5 min at 4 C.  \n- Resuspend nuclei in 58.5 uL Hia5 buffer (with 0.8 mM SAM). During this step resuspend all the nuclei in 58.5 uL (with SAM) for the same time point. Then add 1.5 uL of Hia5.  \n- Incubate at 25 C for 60 mins. Add SDS to a final concentration of 1% to stop the reaction.  \n- Extract plasmid DNA by adding 134 uL Monarch Buffer B1. Then purify by mini-prep according to the kit instructions.  \n- Linearize the plasmids based on *in vitro* CRISPR & clean-up the reactions\n\n*Protein and Histone Octamer preparation for SELEX \\+ FS*\n\nSBP-Octamer Plate\n\nOctamer concentration \\= 4.65 ug/uL \\= 4650 ng/uL\n\nNumber of experiments \\= 9\n\nVolume per experiment \\= 1.8 uL\n\nVolume needed per well \\= 20 uL\n\nPrepare 30 ng/uL octamer with 20 uL per well ⇒ 20 X 400 X 30 \\= 240 ug SBP-octamer\n\nTake 52 uL of original octamer and make up solution to 8000 uL (add 240 uL 100 mM TCEP \\+ 7708 uL of refolding buffer:glycerol (1:1))  \n*Hia5 buffer*  \n10 mL\n\n| 1 M Tris pH 8 | 150 uL |\n| :---- | :---- |\n| EDTA (0.5 M) | 20 uL |\n| EGTA (0.5 M) | 10 uL |\n| NaCl (100 mM) | 1500 uL |\n| KCl (100 mM) | 6000 uL |\n| Spermidine (100X) | (1X) 100 uL |\n\nFilter the buffer prior to usage.\n\n*Mastermix for 6-plates with PE\\_F primer*\n\n| Component | Volume (µL) |\n| ----- | ----- |\n| MQ water | 6145.2 |\n| 5× Phusion HF buffer | 6546.9 |\n| 10 mM dNTPs | 1282.4 |\n| MgCl₂ (50 mM) | 1316.2 |\n| HF Phusion DNA Pol (2 U/µL) | 374.6 |\n| Primer (100 µM) | 185.8 |\n| **Total** | **7.5 µL/well** |\n\n- Prepare this mix and aliquot 7.5 uL per well  \n- Add PE\\_R primer with barcodes (1.5 uL)  \n- Add 9 uL of cyc3 DNA\n\nFor both ligands the PCR will be 25 cycles in total.\n\n*TF Dilution Plates for SELEX+FS*\n\nQuadrant 1 \\+ Quadrant 4\n\nQuadrant 2 \\+ Quadrant 3\n\nWe need at least 20 uL of diluted protein for the total run (4.5 per well X (1HT \\+ 1NCAP) X 2 ligands)\n\n4-fold dilution\n\nTake 10 uL proteins \\+ 40 uL TF dilution buffer\n",
+ "experiments": [],
+ "images": [],
+ "tables": 2,
+ "id": "2026-04-01",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Hia5"
+  ],
+  "reagents": [
+   "Phusion",
+   "SAM",
+   "Spermidine",
+   "Hia5",
+   "SDS",
+   "EDTA",
+   "Tris",
+   "NaCl",
+   "KCl",
+   "MgCl2",
+   "Histone octamer",
+   "dNTPs",
+   "Glycerol"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Incubating nucleosomes with protein pool"
+}

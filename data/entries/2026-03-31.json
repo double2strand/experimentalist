@@ -1,0 +1,46 @@
+{
+ "date": "2026-03-31",
+ "heading": "**31 March 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*SELEX sample quantification*\n\nBased on the KAPA library quantification kit:\n\n| Sample Name | Concentration (nM) |\n| ----- | ----- |\n| **c1\\_NCAP\\_lig147** | **51.51079612** |\n| **c1\\_NCAP\\_ligN40** | **51.31300373** |\n| **c1\\_HTS\\_lig147** | **37.83500686** |\n| **c1\\_HTS\\_ligN40** | **61.47082817** |\n| **c3\\_NCAP\\_lig147** | **20.87805947** |\n| **c3\\_NCAP\\_ligN40** | **12.23480435** |\n| **c3\\_HTS\\_lig147** | **31.58291349** |\n| **c3\\_HTS\\_ligN40** | **28.10317256** |\n| **c4\\_NCAP\\_lig147** | **17.2973711** |\n| **c4\\_NCAP\\_ligN40** | **8.335056972** |\n| **c4\\_HTS\\_lig147** | **44.81597423** |\n| **c4\\_HTS\\_ligN40** | **29.18081085** |\n\nBased on the D5000 TapeStation run:\n\n![](assets/img/doc3-image16.png)  \nConc \\= 46 nM (225 bp)\n\n![](assets/img/doc3-image17.png)  \nConc \\= 35 nM  \n![](assets/img/doc3-image18.png)  \nConc \\= 43.3 nM (225 bp)  \n![](assets/img/doc3-image19.png)  \nConc \\= 22.2 nM  \n![](assets/img/doc3-image20.png)  \nConc \\= 60 nM  \n![](assets/img/doc3-image21.png)  \nConc \\= 10.7 nM  \n![](assets/img/doc3-image22.png)  \nConc \\= 40.3 nM  \n![](assets/img/doc3-image23.png)  \nConc \\= 24.6 nM  \n![](assets/img/doc3-image24.png)  \nConc \\= 34.6 nM  \n![](assets/img/doc3-image25.png)  \nConc \\= 8 nM  \n![](assets/img/doc3-image26.png)  \nConc \\= 34.8 nM  \n![](assets/img/doc3-image27.png)  \nConc \\= 8.7 nM\n\nTube 1 (c1 \\+ c3 \\+ c4 NCAP lig147)  \nc1 \\= 32.3 uL  \nc3 \\= 24.8 uL  \nc4 \\= 42.9 uL\n\nTube 2 (c1 \\+ c3 \\+ c4 NCAP ligN40)  \nc1 \\= 12 uL  \nc3 \\= 37 uL  \nc4 \\= 51 uL\n\nTube 3 (c1 \\+ c3 \\+ c4 HTS lig147)  \nc1 \\= 30 uL  \nc3 \\= 32 uL  \nc4 \\= 38 uL\n\nTube 4 (c1 \\+ c3 \\+ c4 HTS ligN40)  \nc1 \\= 23 uL  \nc3 \\= 21 uL  \nc4 \\= 56 uL\n\n*Nucleosome Reconstitution*\n\n1\\. ELF2lig1  \nDNA → 2 ug in 25 uL → 838.6 nM  \nOctamer:DNA ratio \\= 0.9:1  \nWT Octamer → 754.7 nM → 2.05 ug ⇒ 0.41 ug/uL octamer stock \\[0.38 uL octamer \\+ 4.62 uL refolding buffer:glycerol\\] ⇒ Octamer stock salt conc \\= 1.08 M  \n1.82 M salt in octamer-DNA mix.\n\n2\\. ELF2\\_shift\\_HindIII  \nDNA → 2 ug in 25 uL → 625.7 nM  \nOctamer:DNA ratio \\= 0.9:1  \nWT Octamer → 563.2 nM → 1.53 ug ⇒ 0.31 ug/uL octamer stock \\[0.29 uL octamer \\+ 4.71 uL refolding buffer:glycerol\\] ⇒ Octamer stock salt conc \\= 1.06 M  \n1.81 M salt in octamer-DNA mix.\n\n3\\. ELF2\\_shift\\_EcoRV  \nDNA → 2 ug in 25 uL → 625.7 nM  \nOctamer:DNA ratio \\= 0.9:1  \nWT Octamer → 563.2 nM → 1.53 ug ⇒ 0.31 ug/uL octamer stock \\[0.29 uL octamer \\+ 4.71 uL refolding buffer:glycerol\\] ⇒ Octamer stock salt conc \\= 1.06 M  \n1.81 M salt in octamer-DNA mix.\n\n4\\. lig50k  \nDNA → 10 ug in 25 uL → 12.33 nM  \nOctamer:DNA ratio \\= 200:1  \nWT Octamer → 2.47 uM → 6.72 ug ⇒ 1.35 ug/uL octamer stock \\[1.25 uL octamer \\+ 3.75 uL refolding buffer:glycerol\\] ⇒ Octamer stock salt conc \\= 1.25 M  \n1.85 M salt in octamer-DNA mix.\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc3-image16.png",
+  "assets/img/doc3-image17.png",
+  "assets/img/doc3-image18.png",
+  "assets/img/doc3-image19.png",
+  "assets/img/doc3-image20.png",
+  "assets/img/doc3-image21.png",
+  "assets/img/doc3-image22.png",
+  "assets/img/doc3-image23.png",
+  "assets/img/doc3-image24.png",
+  "assets/img/doc3-image25.png",
+  "assets/img/doc3-image26.png",
+  "assets/img/doc3-image27.png"
+ ],
+ "tables": 1,
+ "id": "2026-03-31",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Reconstitution",
+   "Library prep",
+   "Restriction digest"
+  ],
+  "reagents": [
+   "Histone octamer",
+   "Glycerol"
+  ],
+  "samples": [
+   "lig147",
+   "ligN40",
+   "lig50k"
+  ],
+  "custom": []
+ },
+ "title": "SELEX sample quantification"
+}

@@ -1,0 +1,23 @@
+{
+ "date": "2025-04-24",
+ "heading": "**24 April 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**Bradford Assay for Proteins**\n\n**Note:** Concentration of the BSA standard solution should be measured photometrically. A 1 mg/ml solution of BSA should have an A280 of 0.66.\n\n1. Prepare a standard curve by pipetting together carefully the solution volumes listed in the table *“Standard curve samples for Bradford protein assay”* corresponding to 0, 0.05, 0.1, 0.2, 0.3, 0.4, and 0.5 mg/ml BSA. The end volume of all samples should be 200 µl.  \n2. Dilute an aliquot of the dye reagent concentrate 1:5 with distilled water. Pipet 20 µl of each BSA dilution into a plastic cuvette, add 1 ml diluted dye reagent, mix well, and incubate for 5 min at room temperature.  \n   Note: Stored in the dark, diluted dye reagent is stable for 2 weeks. Write the date of preparation on the bottle and cover with aluminum foil.  \n3. Measure the OD at 595 nm for each sample, and plot the standard curve.  \n4. Prepare a second standard curve by pipetting together carefully the solution volumes listed in the table Standard curve samples for Bradford protein assay corresponding to 0, 0.2, 0.4, 0.6, 0.8, and 1.0 mg/ml BSA. The end volume of all samples should be 200 µl.  \n5. Dilute an aliquot of the dye reagent concentrate 1:5 with distilled water. Pipet 20 µl of each BSA dilution into a plastic cuvette, add 1 ml diluted dye reagent, mix well, and incubate for 5 min at room temperature.  \n6. Measure the OD at 595 nm for each sample, and plot the standard curve.  \n7. Prepare dilutions of the protein sample of interest and test 20 µl aliquots in duplicate as above. It is important that the protein samples to be tested are handled in exactly the same manner as the samples used in generating the standard curves. Calculate the protein concentration of the test samples by comparing the OD595 with the standard curve(s), taking into account dilution factors (see figure *Standard curve generated using the Bradford method*).\n\nStandard microplate protocol Working range \\= 100-1500 µg/mL 1\\. Pipette 5 µL of each standard or unknown sample into the appropriate microplate wells (e.g., Thermo Scientific™ Pierce™ 96-Well Plates, Cat. No. 15041). 2\\. Add 250 µL of the Bradford reagent to each well, then mix with plate shaker for 30 seconds. 3\\. Remove the plate from the shaker. 4\\. Incubate the plate for 10 minutes at RT. 5\\. Measure the absorbance at or near 595 nm with a plate reader. 6\\. Subtract the average 595 nm measurement for the blank replicates from the 595 nm measurements of all other individual standard and unknown sample replicates. Pierce™ Bradford Protein Assay Kit User Guide 37\\. Prepare a standard curve by plotting the average blank-corrected 595 nm measurement for each BSA standard vs. its concentration in µg/mL. Use the standard curve to determine the protein concentration of each unknown sample. Note: If using curve-fitting algorithms associated with a microplate reader, a four-parameter (quadratic) or best-fit curve will provide more accurate results than a purely linear fit. If plotting results by hand, a point-to-point curve is preferable to a linear fit to the standard points.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2025-04-24",
+ "tags": {
+  "techniques": [],
+  "reagents": [
+   "BSA"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Bradford Assay for Proteins"
+}

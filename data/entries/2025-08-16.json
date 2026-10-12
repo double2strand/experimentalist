@@ -1,0 +1,25 @@
+{
+ "date": "2025-08-16",
+ "heading": "**16 August 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Passage and re-seed complete HAP1 transduced/transfected cells for sorting next week**  \n2. **Lower  flow rate for dialysis set up from 0.95 mL/min to 0.75 mL/min**\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2025-08-16",
+ "tags": {
+  "techniques": [
+   "Dialysis",
+   "Transfection",
+   "Cell culture"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "1. Passage and re-seed complete HAP1 transduced/transfected cells for sorting next week  "
+}

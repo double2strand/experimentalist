@@ -1,0 +1,27 @@
+{
+ "date": "2026-09-03",
+ "heading": "**3 September 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*PacBio sample submission* \n\n| SANGER TUBE ID | SANGER SAMPLE ID | SUPPLIER SAMPLE NAME |\n| :---- | :---- | :---- |\n| **NT1931428Q** | **LRS17024559** | **147HTFS3** |\n| **NT1931429R** | **LRS17024560** | **200HTFS3** |\n| **NT1931430K** | **LRS17024561** | **147NCFS3** |\n| **NT1931431L** | **LRS17024562** | **200NCFS3** |\n| **NT1931432M** | **LRS17024563** | **50knucFP** |\n| **NT1931433N** | **LRS17024564** | **YJnucFP** |\n\n*AVITI Sample Submission*\n\nTube 1 \\= NT1925486O  \nTube 2 \\= NT1930492U  \nTube 3 \\= NT1930002N  \nTube 4 \\= NT1928765H  \nTube 5 \\= NT1927489C  \nTube 6 \\= NT1926488U\n\n|  |\n| :---- |\n\n|  |\n| :---- |\n\n|  |\n| :---- |\n\n|  |\n| :---- |\n\n| 6 September 2026 |\n| :---- |\n\n*Beads Preparation*\n\nFirst take 2.5 mL of SBP beads and separate out the storage buffer.\n\nResuspend both beads in 15 mL of Blocking buffer and incubate at RT, 10 mins.\n\nRemove buffer and make up the volume to 55 mL for both beads.\n\n*HTFS & NCFS reaction set up*\n\nHTFS\n\nReaction Volume \\= 20 uL\n\nFor 1000 wells (2 ligands):\n\nTotal \\= 2 x 1000 \\= 2000 uL  \nHia5 \\= 40 uL  \nSAM \\= 0.5 x 1000 \\= 500 uL  \nHia5 buffer \\= 1460 uL\n\nSplit into 20 uL per well of a 96 well plate and then add 2 uL to each well of the HTFS plates (total needed \\= 16 uL).\n\nNCFS\n\nReaction Volume \\= 35 uL  \nFor 1000 wells (2 ligands):\n\nTotal \\= 3 x 1000 \\= 3000 uL  \nHia5 \\= 40 uL  \nSAM \\= 0.9 x 1000 \\= 900 uL  \nHia5 buffer \\= 2060 uL\n\nSplit into 31 uL per well of 96-well plate and then add 3 uL per well of the NCFS plates (total needed \\= 24 uL).\n",
+ "experiments": [],
+ "images": [],
+ "tables": 6,
+ "id": "2026-09-03",
+ "tags": {
+  "techniques": [
+   "Hia5",
+   "Bead purification"
+  ],
+  "reagents": [
+   "SAM",
+   "Hia5"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "PacBio sample submission "
+}

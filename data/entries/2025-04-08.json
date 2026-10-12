@@ -1,0 +1,41 @@
+{
+ "date": "2025-04-08",
+ "heading": "**8 April 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**Whole plasmid sequencing for pHRS-MYC355 clones**\n\nBased on the gel image the clone 4 seems to be of the correct size and must be sequenced for full confirmation.\n\n![](assets/img/doc1-image50.png)\n\nThis plasmid has been sent for whole plasmid sequencing.\n\nThe sequence result was checked and it was seen that the MYC335gb was not annealed into the final vector.\n\n**Checking clonal diversity for pHRS-Gcla-ShhBC and pHRS-Gcla-AT10Ep1**\n\nTo check for the barcode and sequence diversity within these libraries, the following plasmids were sent for whole plasmid sequencing:\n\n- pHRS-Gcla-ShhBC\\_1  \n- pHRS-Gcla-ShhBC\\_2  \n- pHRS-Gcla-ShhBC\\_3  \n- pHRS-Gcla-AT10Ep1\\_1  \n- pHRS-Gcla-AT10Ep1\\_2  \n- pHRS-Gcla-AT10Ep1\\_3\n\n![](assets/img/doc1-image51.png)\n\n![](assets/img/doc1-image52.png)\n\nTwo different enhancers and barcodes seen in 2 out of 3 sequenced plasmids from the AT10Ep1 pool.\n\nSimilarly 2 out of 3 plasmids sequenced for the pHRS-Gcla-ShhBC pool has unique Shh barcodes:\n\n![](assets/img/doc1-image53.png)\n\n![](assets/img/doc1-image54.png)\n\n**Enhancer complexity check in chemically transformed enhancer pools**\n\nMultiple bands were seen in the PCR products from various pools. In Gcla, Hcla, GCD, HCD and GCC pools the expected size of the PCR product is **770 bp** (this would likely be the top band in most of the lanes seen below). For the Nh100 pool, the expected fragment size is **628 bp**.\n\n![](assets/img/doc1-image55.png)\n\nTo send the pure fragment for Sanger sequencing, run the total purified PCR products on a 1% agarose gel and then cut out for gel extraction. Ideally minimum required concentration per sample is around 10 ng/uL.\n\n**MAX ligand preparation for QuantumSI trial experiment**\n\n![](assets/img/doc1-image56.png)\n\nAmplification PCR: (CAPAMP1) 2X\n\n| NCAP\\_F (10 uM) | 2.25 uL |\n| :---- | :---- |\n| NCAP\\_R (10 uM) | 2.25 uL |\n| 2X KAPA HiFi HS | 12.5 uL |\n| MAXlig 100 uM | 2 uL |\n| NF water | 6 uL |\n\n![](assets/img/doc1-image49.png)\n\nUsing this PCR product, set up the second PCR:\n\nAmplification PCR: (CAPAMP2) 6X\n\n| NCAP\\_F (10 uM) | 2.25 uL |\n| :---- | :---- |\n| NCAP\\_R (10 uM) | 2.25 uL |\n| 2X KAPA HiFi HS | 12.5 uL |\n| CAPAMP1 product | 2.5 uL |\n| NF water | 5.5 uL |\n\nProducts were pooled and column purified, quantified and then run on a 2% agarose gel to confirm the size.\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc1-image50.png",
+  "assets/img/doc1-image51.png",
+  "assets/img/doc1-image52.png",
+  "assets/img/doc1-image53.png",
+  "assets/img/doc1-image54.png",
+  "assets/img/doc1-image55.png",
+  "assets/img/doc1-image56.png",
+  "assets/img/doc1-image49.png"
+ ],
+ "tables": 2,
+ "id": "2025-04-08",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Gel electrophoresis",
+   "Library prep",
+   "Column purification",
+   "Fragmentation"
+  ],
+  "reagents": [],
+  "samples": [
+   "NCAP_F",
+   "NCAP_R",
+   "CAPAMP1",
+   "CAPAMP2"
+  ],
+  "custom": []
+ },
+ "title": "Whole plasmid sequencing for pHRS-MYC355 clones"
+}

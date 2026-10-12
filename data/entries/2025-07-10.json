@@ -1,0 +1,26 @@
+{
+ "date": "2025-07-10",
+ "heading": "**10 July 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "| Image the cells transduced with MYC355 and pHRS-Hcla, pHRS-Gcla viruses \\- HepG2 & K562 |\n| :---- |\n| **Freeze down stock tubes for HAP1 & GP5d cells transduced with MYC355 and pHRS-Hcla, pHRS-Gcla viruses** |\n| **Transfect HAP1\\_MYC335 T1 & T2 as well as GP5d\\_MYC335 T1 & T2 with 1 ug of Super PiggyBac (per well)** |\n|  |\n\n### 2. Freeze down stock tubes for HAP1 & GP5d cells transduced with MYC355 and pHRS-Hcla, pHRS-Gcla viruses\n\nHAP1 Freezing medium: IMDM \\+ 20% FBS \\+ 10% DMSO (10 mL FBS \\+ 5 mL DMSO \\+ 35 mL IMDM)\n\n### 3. Transfect HAP1\\_MYC335 T1 & T2 as well as GP5d\\_MYC335 T1 & T2 with 2 ug of Super PiggyBac (per well)\n\nHAP1 (+MYC335\\_T1 & \\+MYC335\\_T2)\n\nTube1: 1250 uL \\+ 50 uL Lipo3000  \nTube2: 1250 uL \\+ 50 uL P3000 \\+ 20 ug SPB\n\nGP5d (+MYC335\\_T1 & \\+MYC335\\_T2)\n\nTube1: 1250 uL \\+ 50 uL Lipo3000  \nTube2: 1250 uL \\+ 50 uL P3000 \\+ 20 ug SPB\n\nNOTES: Incubate tubes separately for 5 mins each. Add DNA mix to lipo3000 tubes and then incubate for 15 mins, RT.\n\nAdd drop-wise to the cells.\n",
+ "experiments": [
+  "2. Freeze down stock tubes for HAP1 & GP5d cells transduced with MYC355 and pHRS-Hcla, pHRS-Gcla viruses",
+  "3. Transfect HAP1\\_MYC335 T1 & T2 as well as GP5d\\_MYC335 T1 & T2 with 2 ug of Super PiggyBac (per well)"
+ ],
+ "images": [],
+ "tables": 1,
+ "id": "2025-07-10",
+ "tags": {
+  "techniques": [
+   "Transfection"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Freeze down stock tubes for HAP1 & GP5d cells transduced with MYC355 and pHRS-Hcla, pHRS-Gcla viruses; Transfect HAP1\\_MYC335 T1 & T2 as well as GP5d\\_MYC335 T1 & T2 with 2 ug of Super PiggyBac (per well)"
+}

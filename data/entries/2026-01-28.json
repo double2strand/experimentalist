@@ -1,0 +1,38 @@
+{
+ "date": "2026-01-28",
+ "heading": "**28 January 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*ELF Nucleosome dilution to 100 mM salt*\n\n| Component | Stock | Final | Volume for 50 mL |\n| ----- | ----- | ----- | ----- |\n| **Tris pH 8** | **1 M** | **15 mM** | **0.75 mL (750 µL)** |\n| **EDTA** | **0.5 M** | **1 mM** | **0.10 mL (100 µL)** |\n| **EGTA** | **0.5 M** | **0.5 mM** | **0.05 mL (50 µL)** |\n| **KCl** | **4 M** | **100 mM** | **1.25 mL** |\n| **TCEP** | **(your stock)** | **same v/v as before** | **0.50 mL (500 µL)** |\n| **Glycerol** | **100%** | **5% v/v** | **2.50 mL** |\n| **Nuclease-free water** | **—** | **—** | **to 50.00 mL** |\n\nOnce reconstitution is completed → perform two rounds of dialysis (by changing buffer once) → first round for about 2-3 hours → buffer change → overnight dialysis\n\nNow the nucleosomes will be at 100 mM salt. Estimate the overall concentration of DNA/nucleosomes at this point with Qubit.\n\n*Ligation Round 2*\n\nTake the ligated lig147 and N40 HTFS samples.\n\nSet up reaction with:\n\n10% PEG4000 → 3 uL 50% PEG4000\n\n0.5 mM CoHex → 0.75 uL 10 mM CoHex\n\n1.5 uL T4 DNA ligase buffer\n\n1.5 uL T4 DNA ligase\n\n8.25 uL ligation round 1 product\n\nIncubate 1-2 hours, RT → 16 C, O/N\n\n*Proteinase K treatment \\+ Ligation*\n\nTake 1000 ng of PNK-treated DNA \\+ 0.4 uL Proteinase K \\+ 0.2 uL 10% SDS → Make up volume to 20 uL → Incubate 15 mins, RT → Column purify.\n\nFrom the purified DNA, set up all in a ligation reaction with 0.5 uL CoHex & 2 uL 50% PEG4000 in a total of 10 uL volume. Ligate at RT, 1-2 hours → 16 C, O/N.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2026-01-28",
+ "tags": {
+  "techniques": [
+   "Reconstitution",
+   "Qubit",
+   "Dialysis",
+   "Ligation",
+   "Column purification",
+   "Proteinase K"
+  ],
+  "reagents": [
+   "Proteinase K",
+   "SDS",
+   "EDTA",
+   "Tris",
+   "KCl",
+   "T4 ligase",
+   "Glycerol"
+  ],
+  "samples": [
+   "lig147"
+  ],
+  "custom": []
+ },
+ "title": "ELF Nucleosome dilution to 100 mM salt"
+}

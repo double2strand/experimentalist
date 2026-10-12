@@ -1,0 +1,45 @@
+{
+ "date": "2026-02-04",
+ "heading": "**4 February 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*New nucleosome preparations*\n\nNucleosome preparations for the following samples were collected:\n\n1. ELFlig1  \n2. ELF\\_RF  \n3. ELF\\_FR\n\nMNase test for these samples:\n\n1 uL per sample \\+ 0.25 uL rAlbumin \\+ 5 uL MNase buffer (50 uL)\n\nIncubate 37 C, 10 mins.\n\nLoading order:\n\n1. ELFlig1  \n2. ELFlig1nuc  \n3. ELF\\_RFnuc  \n4. ELF\\_FRnuc  \n5. ELFlig1nuc \\+ MNase (2 wells)  \n6. ELF\\_RFnuc \\+ MNase (2 wells)  \n7. ELF\\_FRnuc \\+ MNase (2 wells)\n\nRun on a 3% agarose gel and stain with SYBR green.\n\n*Plasmid FIBER-Seq \\- sample collection*\n\nHarvest cells and wash once with cold 1X PBS. Remove all the buffer and freeze down the cell pellets.\n\n*Biotin Buffer Plates*\n\nAliquot 25 uL per well to 12 plates (needs \\~120 mL buffer).\n\n*NCAP-SELEX & HT-SELEX programs*\n\nI checked the programs Jussi shared with us (from Yimeng) \\- these contain only HT-SELEX programs\n\n*SBP-Octamer stock plate*\n\nTotal number of experiments using Octamer ⇒ (5 X lig200) \\+( 5 X lig70N) \\+ (1X lig147) \\+ (1X lig40N) ⇒ We roughly use 1.8 uL per well (28 ng/uL) ⇒ For 12 plates this works out to be 8640 uL (241.92 ug)\n\n33.4 uL Octamer stock (7.25 mg/mL) \\+ 259.2 uL 100 mM TCEP \\+ 8347.4 uL (Refolding Buffer \\+ Glycerol)\n\nMix well and aliquot 720 uL per well along a single row of a deep storage plate and then aliquot to 90 uL per well of a 4titude 96-well plate. From here use the robot to aliquot to 22.5 uL per well of a 384-well 4titude plate for storage.\n\n*Dried salt plates for reconstitution*\n\n**sol1 Salt solution: 2M KCl\\_1.491g KCl \\+ 10mL TE \\+ cocktail Tablet \\+ 1mM TCEP**\n\n50 mL\n\n| KCl | 7.46 g |\n| :---- | :---- |\n| 100 mM TCEP | 0.5 mL |\n| TE Buffer (100X) | 0.5 mL |\n| EDTA-free protease inhibitor | 1 tablet |\n\nFilter, mix well and aliquot into 5 uL per well of 384-well NUNC plates (12).\n\n*Dilution Buffer Plates*\n\n**Dilution buff: TE buffer \\+ 1mM TCEP \\+ cocktail Tablet \\+ 2mM MgCl2**\n\n500 mL\n\n| TE Buffer (100X) | 5 mL |\n| :---- | :---- |\n| 100 mM TCEP | 5 mL |\n| MgCl2 (1 M) | 1 mL |\n| EDTA-free protease inhibitor | 10 tablets |\n\nMix the buffer and filter and store. Aliquot to 80 uL per well of 384-well Abgene storage plate (12 plates) ⇒ Needs about 390 mL of buffer.\n\n*SELEX Checklist*\n\n| Requirement | Status |\n| :---: | :---: |\n| lig200 plate | ✔ |\n| ligN70w107 plate | ✔ |\n| non PE PCR plates (18X) |  |\n| qPCR plates (10X) |  |\n| non PE PCR2 plates (14X) |  |\n| PE PCR Mix (14X) |  |\n| Dilution Buffer Plate (for reconstitution) (12X) | ✔ |\n| Biotin Elution Buffer Plates (12X) | ✔ |\n| SBP Beads Plate |  |\n| Ni Beads Plate |  |\n| DIluted TF Plate  |  |\n| Buffers |  |\n| Dried Salt Plates (12X) |  |\n| SBP Histone Octamer Plate (1X) |  |\n\n \n",
+ "experiments": [],
+ "images": [],
+ "tables": 3,
+ "id": "2026-02-04",
+ "tags": {
+  "techniques": [
+   "qPCR",
+   "PCR",
+   "SELEX",
+   "MNase",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Bead purification",
+   "Protein purification"
+  ],
+  "reagents": [
+   "SYBR",
+   "MNase",
+   "EDTA",
+   "KCl",
+   "MgCl2",
+   "Histone octamer",
+   "TE buffer",
+   "Glycerol"
+  ],
+  "samples": [
+   "lig200",
+   "lig70N",
+   "lig147",
+   "lig40N",
+   "ligN70w107"
+  ],
+  "custom": []
+ },
+ "title": "New nucleosome preparations"
+}

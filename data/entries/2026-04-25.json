@@ -1,0 +1,33 @@
+{
+ "date": "2026-04-25",
+ "heading": "**25 April 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*PE Phusion Mix (16X)*\n\n| PE Phusion Mix |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | per well in 384 | per 384-well plate | for 16 plates |\n| MQ water | 2.39642μL | 1055.25 μL | 16884 μL |\n| 5x Phusion HF buffer | 2.47818μL | 1091.25 μL | 17460 μL |\n| 10mM dNTP | 0.48542μL | 213.75 μL | 3420 μL |\n| MgCl2 (50mM) | 0.49819μL | 219.375 μL | 3510 μL |\n| HF Phusion DNA Pol (2U/µL) | 0.14179μL | 62.4375 μL | 999 μL |\n| Total | 6μL | 2642.0625 μL | 42.273 mL |\n\nAdd 10 uL of 100 uM PE\\_F primer per 1 mL of primer mix.\n\nPE\\_R primers ⇒ 50 uL per well ⇒ 2.5 uL original primer \\+ 47.5 uL NF water (mix and store)\n\n*AVITI Sequencing*\n\nI have normally been pooling C1+C3+C4 samples in one flow cell for sequencing. While this works pretty well, I can clearly see lower reads for C3, C4 samples (This used 4 flow cells \\- 1 FC per ligand (HT-SELEX \\+ NCAP-SELEX))\n\nNow, 6 flow-cells will be used instead for sequencing the following samples:\n\n* C1\\_HTS\\_lig200 (PE0) \\+ C1\\_HTS\\_lig70N (PE1)  \n* C1\\_NCAP\\_lig200 (PE0) \\+ C1\\_NCAP\\_lig70N (PE1)  \n* C3\\_HTS\\_lig200 (PE0) \\+ C3\\_HTS\\_lig70N (PE1)  \n* C3\\_NCAP\\_lig200 (PE2) \\+ C3\\_NCAP\\_lig70N (PE3)  \n* C1\\_HTS\\_lig200 (PE2) \\+ C1\\_HTS\\_lig70N (PE3)  \n* C1\\_NCAP\\_lig200 (PE2) \\+ C1\\_NCAP\\_lig70N (PE3)\n\nNow, 6 flow-cells will be used instead for sequencing the following samples:\n\n* C1\\_HTS\\_lig200 (PE0) \\+ C1\\_NCAP\\_lig200 (PE1)  \n* C1\\_HTS\\_lig70N (PE0) \\+ C1\\_NCAP\\_lig70N (PE1)  \n* C3\\_HTS\\_lig200 (PE2) \\+ C3\\_NCAP\\_lig200 (PE3)  \n* C3\\_HTS\\_lig70N (PE2) \\+ C3\\_NCAP\\_lig70N (PE3)  \n* C4\\_HTS\\_lig200 (PE2) \\+ C4\\_NCAP\\_lig200 (PE3)   \n* C4\\_HTS\\_lig70N (PE2) \\+ C4\\_NCAP\\_lig70N (PE3)\n\n*SELEX library preparation and QC*\n\nCleanup with about 500 uL of the fresh sample:\n\n1.1-0.70\n\n- Add 350 uL (0.7X) beads to each sample. Incubate 5 mins, RT. Bind to magnet for 5 mins.  \n- Move supernatant to new tubes and then add (500 x (1.1 \\- 0.7) \\= 200 uL). Incubate 5 mins at RT. Bind for 5 mins to magnet.  \n- Remove supernatant and wash twice with 300 uL 85% ethanol. Air dry for 2-3 mins.  \n- Elute each sample in 75 uL of TE buffer.  \n- Run Qubit and TS (D5000)\n\n*SELEX library QC*\n\nFor the KAPA kit:\n\nDilute each sample 1:10000 and then load 4 uL of the diluted sample.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2026-04-25",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Qubit",
+   "Nanopore sequencing",
+   "Library prep",
+   "Bead purification"
+  ],
+  "reagents": [
+   "Phusion",
+   "MgCl2",
+   "dNTPs",
+   "TE buffer",
+   "Ethanol"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "PE Phusion Mix (16X)"
+}

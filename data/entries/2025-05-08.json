@@ -1,0 +1,25 @@
+{
+ "date": "2025-05-08",
+ "heading": "**8 May 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "**MAX protein buffer exchange**\n\nFor MAX protein the concentration determined was **0.462 ug/uL.** Concentration required is \\~ 12 uM in 100 uL (start with 26 ug)\n\n26 ug \\= 60 uL protein \\+ 290 uL QSI SELEX buffer\n\n- Wash once with nuclease free water, 14000g, 10 min  \n- Wash once with QSI SELEX buffer, 14000g, 10 min  \n- Run sample through column, 14000g, 10 min  \n- Wash again with QSI SELEX buffer, 14000g, 10 min  \n- Elute by inverting, 5 min, 1000g\n\nMeasure protein concentration with Bradford assay.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2025-05-08",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Column purification",
+   "Buffer exchange"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "MAX protein buffer exchange"
+}

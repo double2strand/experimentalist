@@ -1,0 +1,27 @@
+{
+ "date": "2026-03-22",
+ "heading": "**22 March 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*SBP Histone Octamer Plate*\n\nSplit 8 mL of the prepared octamer into 83 uL per well of a 96-well plate. Then split into 20 uL per well of a 4ti384 well plate.\n\n*PCR2 mix (6.5) plates*\n\n![](assets/img/doc3-image15.png)\n\n300 uL  per well of a Greiner Round PP plate → 3 X 4ti384 well plates\n\nTop up the same plate and then prepare another 3 plates.\n\n*Diluted TF plates*\n\nTake 15 uL protein and add 75 uL of TF dilution buffer to make the final volume up to 90 uL.\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc3-image15.png"
+ ],
+ "tables": 0,
+ "id": "2026-03-22",
+ "tags": {
+  "techniques": [
+   "PCR"
+  ],
+  "reagents": [
+   "Histone octamer"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "SBP Histone Octamer Plate"
+}

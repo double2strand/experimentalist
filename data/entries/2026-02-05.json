@@ -1,0 +1,48 @@
+{
+ "date": "2026-02-05",
+ "heading": "**5 February 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*ELF-nucleosome interaction assay*\n\nPrepare protein stocks of both ELF2-2 and ELF2m3 ⇒ 1 uL of each protein \\+ 3 uL 50 mM TF dilution buffer (75 mM salt concentration)\n\n![](assets/img/doc3-image9.png)\n\n*ELF-DNA interaction assay*\n\nAmount of DNA \\= 30 ng\n\n![](assets/img/doc3-image10.png)\n\nFor both the reactions, incubate RT, 15-20 mins. Followed by addition of 2 uL of rCutsmart buffer, 1 uL of EcoRV ⇒ Incubate at 37 C, 15 mins.\n\nFollow this with addition of 0.2 uL 10% SDS & 0.4 uL Proteinase K ⇒ Incubate 55 C, 10 mins.\n\n*SBP-Octamer stock plate*\n\nTotal number of experiments using Octamer ⇒ (5 X lig200) \\+( 5 X lig70N) \\+ (1X lig147) \\+ (1X lig40N) ⇒ We roughly use 1.8 uL per well (28 ng/uL) ⇒ For 12 plates this works out to be 8640 uL (241.92 ug)\n\n33.4 uL Octamer stock (7.25 mg/mL) \\+ 259.2 uL 100 mM TCEP \\+ 8347.4 uL (Refolding Buffer \\+ Glycerol)\n\nMix well and aliquot 720 uL per well along a single row of a deep storage plate and then aliquot to 90 uL per well of a 4titude 96-well plate. From here use the robot to aliquot to 22.5 uL per well of a 384-well 4titude plate for storage.\n\n*Dried salt plates for reconstitution*\n\n**sol1 Salt solution: 2M KCl\\_1.491g KCl \\+ 10mL TE \\+ cocktail Tablet \\+ 1mM TCEP**\n\n50 mL\n\n| KCl | 7.46 g |\n| :---- | :---- |\n| 100 mM TCEP | 0.5 mLcas9 |\n| TE Buffer (100X) | 0.5 mL |\n| EDTA-free protease inhibitor | 1 tablet |\n\nFilter, mix well and aliquot.\n\nAdd 130 uL per well of 2 X  4titude 96-well plates. Use one plate for making 6 384-well NUNC plate aliquots.\n\n*In vitro CRISPR for Plasmid FIBER-seq*\n\nAlt-R Cas9 Neg Ctrl crRNA \\#1, 2 nmol → Resuspend in 20 uL TE buffer for a 100 uM stock\n\ncrRNA → Resuspend in 100 uL TE buffer for a 100 uM stock\n\nAlt-R CRISPR-Cas9 tracrRNA, 20 nmol → Resuspend in 200 uL TE buffer for a 100 uM stock\n\nDissolve all crRNA, tracrRNA tubes by adding TE buffer and then placing at RT for 15 mins. Briefly vortex and spin down.\n\nAlt-R™ S.p. Cas9 Nuclease V3, 100 µg → Provided at a 10ug/uL (61 uM) solution\n\n10X Cas9 Nuclease reaction buffer:\n\n1 mL\n\n| 1 M HEPES  | 200 uL |\n| :---- | :---- |\n| NaCl | 0.06 g |\n| 1 M MgCl2 | 50 uL |\n| 0.5 M EDTA | 2 uL |\n\nFilter and store at \\-20 before usage.\n\nCas9 dilution Buffer:\n\n10 mL\n\n| 1 M HEPES  | 300 uL |\n| :---- | :---- |\n| 4 M KCl | 375 uL |\n\n*SELEX Checklist*\n\n| Requirement | Status |\n| :---: | :---: |\n| lig200 plate | ✔ |\n| ligN70w107 plate | ✔ |\n| non PE PCR plates (18X) |  |\n| qPCR plates (10X) |  |\n| non PE PCR2 plates (14X) |  |\n| PE PCR Mix (14X) |  |\n| Dilution Buffer Plate (for reconstitution) (12X) | ✔ |\n| Biotin Elution Buffer Plates (12X) | ✔ |\n| SBP Beads Plate |  |\n| Ni Beads Plate |  |\n| DIluted TF Plate  |  |\n| Buffers |  |\n| Dried Salt Plates (12X) | ✔ |\n| SBP Histone Octamer Plate (1X) |  |\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc3-image9.png",
+  "assets/img/doc3-image10.png"
+ ],
+ "tables": 4,
+ "id": "2026-02-05",
+ "tags": {
+  "techniques": [
+   "qPCR",
+   "PCR",
+   "SELEX",
+   "Reconstitution",
+   "Bead purification",
+   "Protein purification",
+   "Proteinase K"
+  ],
+  "reagents": [
+   "Proteinase K",
+   "SDS",
+   "EDTA",
+   "NaCl",
+   "KCl",
+   "MgCl2",
+   "Histone octamer",
+   "TE buffer",
+   "Glycerol"
+  ],
+  "samples": [
+   "lig200",
+   "lig70N",
+   "lig147",
+   "lig40N",
+   "ligN70w107"
+  ],
+  "custom": []
+ },
+ "title": "ELF-nucleosome interaction assay"
+}

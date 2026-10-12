@@ -1,0 +1,43 @@
+{
+ "date": "2026-01-27",
+ "heading": "**27 January 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*NCAP-SELEX Hia5 treatment titration*\n\nTotal reaction \\= 35 uL\n\n| TF Dilution Buffer | Biotin Buffer | DNA (30 ng) | SAM | dHia5 | Hia5 Buffer |\n| :---: | :---: | :---: | :---: | :---: | :---: |\n| 4.5 | 26.5 | 1 | 0.9 | 1.5 | 0.6 |\n| 4.5 | 26.5 | 1 | 0.9 | 1 | 1.1 |\n| 4.5 | 26.5 | 1 | 0.9 | 0.75 | 1.35 |\n| 4.5 | 26.5 | 1 | 0.9 | 0.5 | 1.6 |\n| 4.5 | 26.5 | 1 | 0.9 | 0.4 | 1.7 |\n| 4.5 | 26.5 | 1 | 0.9 | 0.3 | 1.8 |\n| 4.5 | 26.5 | 1 | 0.9 | 0.25 | 1.85 |\n| 4.5 | 26.5 | 1 | 0.9 | 0.2 | 1.9 |\n\nAdd 4 uL rCutsmart Buffer \\+ 1 uL of DpnI per tube.\n\n*HTFS ligation trial \\- purification & QC*\n\nPerform clean-up with Ampure XP beads:\n\n- Add 1.5X volume of AmpureXP beads and mix thoroughly. Incubate at RT for 15 mins.  \n- Place tubes on magnetic rack and allow liquid to separate from beads for 5 mins.  \n- Perform two washes with 80% ethanol (200-300 uL each)  \n- Allow the beads to dry for \\~30s and then add fresh TE buffer in desired volume for elution. Mix thoroughly and incubate at RT for 5 mins.  \n- Place tubes on magnetic rack and allow liquid to separate from beads for 5 mins. Collect separated supernatant as purified DNA sample.\n\n*DpnI and MboI testing for remaining pHRS plasmids*\n\n \n\n- pHRS-GCCv1  \n- pHRS-GCC met-  \n- pHRS-GCD met-  \n- pHRS-HCC met-\n\n| DNA | 500 ng |\n| :---- | :---- |\n| rCutsmart 10X | 2 uL |\n| DpnI | 1 uL |\n\n| 37 C | 1 hour |\n| :---- | :---- |\n| 80 C | 20 mins |\n\n*ELF ligand nucleosome reconstitution*\n\n*Basically, I reconsitute 20ul nucleosome with 4ug DNA ligand, then I add 20x molar ratio of ELF2 to the nucleosome (not the whole 20ul, just the amount needed from EcoRV digestion, the rest I keep at 4deg for up to a month), incubate at 25deg fro 15min, then add cutsmart buffer & EcoRV & incubate at 37deg fro 15min. Then I add a mixture of SDS+proteinase K to stop the digestion (detail see the attached file), and incubate at 55deg for 10min. Before running the gel, I purify the DNA with the qiagen PCR purification kit (so the gel looks nicer) and load 100-200ng DNA onto a 3% agarose gel and run on ice (I found out that the gel turns out quite ugly if I load more than 200ng DNA).* \n\n10 uL of 4 M KCl was dried in tubes.\n\nResuspend in 20 uL of DNA\n\n1. ELF2\\_dm\\_EcoRV  \n2. ELF2\\_sm\\_EcorRV  \n3. ELF2\\_sm2\\_EcoRV  \n4. ELF2\\_dm\\_noEcoRV\n\nTake 4 ug of each DNA.\n\nMolarity of DNA \\= 1.68 uM\n\nMolarity of octamer required \\= 1.52 uM ⇒ 4.14 ug\n\nOctamer concentration \\= 5.4 ug/uL\n\nPrepare 828 ng/uL stock (22 uL) ⇒ 3.37 uL of WT-octamer \\+ 18.63 refolding buffer:glycerol ⇒ Salt conc. 1.15 M\n\nAdd 5 uL of this stock to each tube of the DNA \\+ salt ⇒ Salt conc \\= 1.83 M\n\n*Check ligation product integrity*\n\n#### **Protein stripping (Proteinase K \\+ SDS)**\n\nIn a 10 µL reaction:\n\n* DNA: 25 ng  \n* **Make up value to 10 uL with TE buffer**  \n* **SDS 10%**: **0.1 µL** (final 0.1%)  \n* **Proteinase K (20 mg/mL)**: **0.2 µL** (final \\~0.4 mg/mL)\n\nIncubate:\n\n* **55°C, 20 min**\n\n* then **70°C, 10 min** (helps inactivate Proteinase K and relax complexes)\n",
+ "experiments": [],
+ "images": [],
+ "tables": 3,
+ "id": "2026-01-27",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Hia5",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Ligation",
+   "Bead purification",
+   "Restriction digest",
+   "Protein purification",
+   "Proteinase K"
+  ],
+  "reagents": [
+   "Proteinase K",
+   "SAM",
+   "AMPure",
+   "Hia5",
+   "SDS",
+   "KCl",
+   "Histone octamer",
+   "TE buffer",
+   "Ethanol",
+   "Glycerol"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "NCAP-SELEX Hia5 treatment titration"
+}

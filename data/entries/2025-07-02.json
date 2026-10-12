@@ -1,0 +1,31 @@
+{
+ "date": "2025-07-02",
+ "heading": "**2 July 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "| Re-cloning of ShhBC into individual gene block vector pools |\n| :---- |\n| **Check cells and change media \\+ Seed 293TX cells for virus packaging** |\n\n1. **Re-cloning of ShhBC into individual gene block vector pools**\n\nUpon checking the plates that were transformed the day before, no colonies at all were seen across the plates.\n\nFor troubleshooting:\n\n- Run the ligation samples for ShhBC on a 0.8% agarose gel to check for the product size. Run a pHRS-gene block vector (without ShhBC and oligo pool) as a control.\n\ni. \\[SHHBCVEC\\] \\- This time around set up 4X reactions for each of the vector pools:\n\n5X\n\n| 2X Phusion Mix  | 50 uL |\n| :---- | :---- |\n| ShhF1 10 uM | 5 uL |\n| ShhR1 10 uM | 5 uL |\n| pHRS-Gcla-GB (10 ng) | 5 uL |\n| NF H2O | 35 uL |\n\n5X\n\n| 2X Phusion Mix  | 50 uL |\n| :---- | :---- |\n| ShhF1 10 uM | 5 uL |\n| ShhR1 10 uM | 5 uL |\n| pHRS-Hcla-GB (10 ng) | 5 uL |\n| NF H2O | 35 uL |\n\n5X\n\n| 2X Phusion Mix  | 50 uL |\n| :---- | :---- |\n| ShhF1 10 uM | 5 uL |\n| ShhR1 10 uM | 5 uL |\n| pHRS-GCD-GB (10 ng) | 5 uL |\n| NF H2O | 35 uL |\n\n5X\n\n| 2X Phusion Mix  | 50 uL |\n| :---- | :---- |\n| ShhF1 10 uM | 5 uL |\n| ShhR1 10 uM | 5 uL |\n| pHRS-HCD-GB (10 ng) | 5 uL |\n| NF H2O | 35 uL |\n\n5X\n\n| 2X Phusion Mix  | 50 uL |\n| :---- | :---- |\n| ShhF1 10 uM | 5 uL |\n| ShhR1 10 uM | 5 uL |\n| pHRS-GCC-GB (10 ng) | 5 uL |\n| NF H2O | 35 uL |\n\n5X\n\n| 2X Phusion Mix  | 50 uL |\n| :---- | :---- |\n| ShhF1 10 uM | 5 uL |\n| ShhR1 10 uM | 5 uL |\n| pHRS-Nh100-GB (10 ng) | 5 uL |\n| NF H2O | 35 uL |\n\n5X\n\n| 2X Phusion Mix  | 50 uL |\n| :---- | :---- |\n| ShhF1 10 uM | 5 uL |\n| ShhR1 10 uM | 5 uL |\n| pHRS-Nh100-GB (10 ng) | 5 uL |\n| NF H2O | 35 uL |\n\nTransfer 20 uL to 5 tubes for each plasmid subtype:\n\n| 98°C | 30 s |\n| :---- | :---- |\n| **98°C** | **10 s** |\n| **64°C** | **30 s       35X** |\n| **72°C** | **5 min** |\n| 72°C | 10 min |\n| 4°C | HOLD |\n\n2. **Check cells and change media \\+ Seed 293TX cells for virus packaging**\n\nThe 293TX cells were harvested and 2.5 million cells were seeded into each plate of a 10-well plate.\n\nTotally 8 plates were seeded for transfection for lentiviral packaging while 1 plate was seeded for the expansion of the cells.\n\nMedia was changed for the GP5d and HepG2 cells.  \n*NOTE: GP5d cells may need to be passaged tomorrow while the HepG2 cells are still growing steadily but slowly.* \n\nFor K562 cells that were transduced with the MYC335 viruses, there is no need to do anything today.\n\nWhile for the HAP1 cells that were transduced, due to the nature of the cells they grow pretty fast and the wells are almost 70% confluent at this point. Since it is not recommended to harvest prior to 48 hours (to allow for protein/gene accumulation )\n\n*NOTE: In retrospect, 300K cells per well for HAP1 for transduction might be too much and may not be in favour of high MOI. For the HAP1 cells this experiment may need to be repeated with lower cell density while a similar amount of virus can be used.*\n\nHarvest the two control wells of HAP1 cells and reduce the seeding intensity to 1:100, so that the growth of these cells can be controlled.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 9,
+ "id": "2025-07-02",
+ "tags": {
+  "techniques": [
+   "Gel electrophoresis",
+   "Ligation",
+   "Transfection",
+   "Lentivirus",
+   "Cell culture"
+  ],
+  "reagents": [
+   "Phusion"
+  ],
+  "samples": [
+   "293TX"
+  ],
+  "custom": []
+ },
+ "title": "| Re-cloning of ShhBC into individual gene block vector pools |"
+}

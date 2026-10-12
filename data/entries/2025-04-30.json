@@ -1,0 +1,30 @@
+{
+ "date": "2025-04-30",
+ "heading": "**30 April 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**SELEX Elution Buffer**\n\nElu buff:  0.1% Tween, 10 mM Tris pH7.8, 1 mM MgCl2 (0.5mM in PCR rxn)\n\n50 mL buffer:\n\n50 uL Tween20  \n0.5 mL Tris pH 8  \n50 uL 1M MgCl2\n\nUse 200 uL of this elution buffer to resuspend the Ni beads and then heat at 80 degrees for 10 mins.\n\n**Streptavidin Binding of Biotinylated DNA**\n\nUse 350 uL of sample and combine with 600 uL of Strep Binding Buffer. Use 150 uL Streptavidin Beads for this purpose.\n\n**Bradford Assay based measurements of Protein concentration during QSI-SELEX**\n\nPipette 5 µL of each standard or unknown sample into the appropriate microplate wells (e.g., Thermo Scientific™ Pierce™ 96-Well Plates, Cat. No. 15041). 2\\. Add 250 µL of the Bradford reagent to each well, then mix with plate shaker for 30 seconds.\n\n| Blank \\- Water |  |\n| :---- | :---- |\n| Blank \\- Incubation Buffer Mix (170 uL TFdil \\+ 217.6 uL 1.55X \\+ 197 uL water \\+ 293 uL 1X ) |  |\n| Nibead \\- FT |  |\n| Ni wash buffer \\- Blank |  |\n| Nibead \\- W1 |  |\n| Nibead \\- W2 |  |\n| Nibead \\- W3 |  |\n| 200 uL Nielute buffer \\+ 150 strepbind buffer |  |\n| Amicon1 \\- filtrate |  |\n| Stredbind buffer \\- Blank |  |\n| Amicon1 \\- w1 |  |\n| **Strep \\- FT (this was discarded by mistake)** |  |\n| Strep \\- W1 |  |\n| Strep \\- W2 |  |\n| Strep \\- W3 |  |\n| 200 uL StrepElute \\+ 150 uL QSI \\- Blank |  |\n| Amicon2 \\- filtrate |  |\n| QSI \\- Blank |  |\n| Amicon2 \\- w1 |  |\n| Final sample |  |\n| SELEX elution buffer \\- Blank |  |\n| Nibead-boiled |  |\n| Strepbead-boiled |  |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2025-04-30",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Bead purification",
+   "Protein purification",
+   "Buffer exchange"
+  ],
+  "reagents": [
+   "Tris",
+   "MgCl2"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "SELEX Elution Buffer"
+}

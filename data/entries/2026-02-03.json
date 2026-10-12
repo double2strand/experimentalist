@@ -1,0 +1,43 @@
+{
+ "date": "2026-02-03",
+ "heading": "**3 February 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Updates at the beginning of the day*\n\n1. In terms of TC, 293T cells were discarded and new media was prepared for GP5d cells. 50K cells/well were seeded for 3 12-well plates\n\n*Diagnostic EcoRV digestion*\n\nELFlig2 and ELFlig3 were digested with EcoRV for 30 mins & 60 mins. Following samples were loaded on a 3% agarose gel for checking:\n\n1. ELFlig2  \n2. ELFlig3  \n3. ELFlig2-EcoRV30m  \n4. ELFlig3-EcoRV30m  \n5. ELFlig2-EcoRV60m  \n6. ELFlig3-EcoRV60m  \n7. ELFlig1nuc\n\nRun slowly at 85 V, 60 mins.\n\n*SELEX checklist*\n\n1\\. Ligand plates\n\nlig70N \\- Prepare 15 X 400 \\= 6000 uL of stock \\[Requires 15 X 20 X 400 \\= 120 ug DNA\\]\n\nlig200 \\- Prepare 15 X 400 \\= 6000 uL of stock \\[Requires 15 X 20 X 400 \\= 120 ug DNA\\]\n\nFor each ligand split into 62.5 uL per well of a 96-well storage plate. From here aliquot evenly (15 uL per well) to NUNC 384-well plates. Store these ligand plates after labelling at \\-20.\n\n2\\. Biotin Buffer plates\n\n200 mL\n\n| 1X TCAPT Block | 100 mL |\n| :---- | :---- |\n| Biotin | 0.49 g |\n| Imidazole | 0.68 g |\n| 10 M NaOH | 120 uL |\n\nMake up the volume to 200 mL. DO NOT filter and aliquot 25 uL per well to 12 plates (needs \\~120 mL buffer).\n\n*Clean-up ELFlig1 nucleosomes (removal of free DNA population)*\n\n### **Pre-Rinse Filter**\n\nAdd **500 µL** nuclease-free water to the filter (upper chamber) of a 100 kDa column.  \nCentrifuge **10 min @ 14,000×g**.  \nDiscard the filtrate (flow-through).\n\n**Adjust Sample to 200 µL**\n\nTransfer your **200 µL** sample into a fresh low-binding tube.\n\n**First Diafiltration**\n\nLoad the **200 µL** sample into the filter unit.  \nCentrifuge **10 min @ 14,000×g**.  \nStore the filtrate (contains imidazole, Tween, etc.) so that it can be checked for any remaining DNA, protein.\n\n**Wash Step**\n\nAdd **200 µL** fresh Nucleosome Exchange Buffer E to the filter unit.  \nCentrifuge **10 min @ 14,000×g**.  \nStore the wash.\n\n**Recover Buffer-Exchanged Sample**\n\nMove the filter to a **new collection tube** (provided).  \nInvert the unit and spin **5 min @ 1,500×g**.  \nDiscard the filter—your retentate is now in the tube.\n\nThe following tubes will now be generated based on these purifications:\n\n| Sample | ng/uL |\n| ----- | :---: |\n| lig1\\_FT | N/A |\n| lig1\\_W | N/A |\n| lig1\\_E | 5.62 |\n\nMNase treatment was then performed for ELFlig1 and the concentrated/cleaned-up ELFlig1nuc sample.\n\nRun these samples on a 3% agarose gel:\n\n- ELFlig1  \n- ELFlig1-MNase  \n- ELFlig1nuc-MNase\n\n*Transfection for Plasmid FIBER-Seq*\n\n2.5 ug per well of a 12-well plate\n\nPlate 1\n\n| Gcla- (12) | Gcla- (18) | Hcla- (12) | Hcla- (18) |\n| :---: | :---: | :---: | :---: |\n| Gcla- (12) | Gcla- (18) | Hcla- (12) | Hcla- (18) |\n|  |  |  |  |\n\nPlate 2\n\n| GCD- (12) | GCD- (18) | HCD- (12) | HCD- (18) |\n| :---: | :---: | :---: | :---: |\n| GCD- (12) | GCD- (18) | HCD- (12) | HCD- (18) |\n|  |  |  |  |\n\nPlate 3\n\n| GCC- (12) | GCC- (18) | HCC- (12) | HCC- (18) |\n| :---: | :---: | :---: | :---: |\n| GCC- (12) | GCC- (18) | HCC- (12) | HCC- (18) |\n|  |  |  |  |\n\nT1 \\= 250 uL Opti-MEM \\+ 10 ug \\+ 20 uL P3000\n\nT2 \\= 250 uL Opti-MEM \\+ 15 uL Lipo3000\n\nAdd 125 uL of the mix per well of plates \n\nNucleosome Buffer E\n\n| Component | Stock | Final | Volume for 50 mL |\n| ----- | ----- | ----- | ----- |\n| **Tris pH 8** | **1 M** | **15 mM** | **0.75 mL (750 µL)** |\n| **EDTA** | **0.5 M** | **1 mM** | **0.10 mL (100 µL)** |\n| **EGTA** | **0.5 M** | **0.5 mM** | **0.05 mL (50 µL)** |\n| **KCl** | **4 M** | **100 mM** | **1.25 mL** |\n| **TCEP** | **(your stock)** | **same v/v as before** | **0.50 mL (500 µL)** |\n| **Glycerol** | **100%** | **5% v/v** | **2.50 mL** |\n| **Nuclease-free water** | **—** | **—** | **to 50.00 mL** |\n\n100 mM TCEP ⇒ 0.29 g in 10 mL water\n",
+ "experiments": [
+  "**Pre-Rinse Filter**"
+ ],
+ "images": [],
+ "tables": 6,
+ "id": "2026-02-03",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "MNase",
+   "Gel electrophoresis",
+   "Transfection",
+   "Cell culture",
+   "Column purification",
+   "Restriction digest",
+   "Buffer exchange"
+  ],
+  "reagents": [
+   "MNase",
+   "EDTA",
+   "Tris",
+   "KCl",
+   "Glycerol"
+  ],
+  "samples": [
+   "lig1",
+   "lig70N",
+   "lig200",
+   "293T"
+  ],
+  "custom": []
+ },
+ "title": "**Pre-Rinse Filter**"
+}

@@ -1,0 +1,24 @@
+{
+ "date": "2025-03-25",
+ "heading": "**25 March 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**Transformation of ligated ShhBC vectors into LB-Amp plates**\n\n1. For pHRS-Gcla-ShhBC and pHRS-Hcla-ShhBC we have \\~10 uL of product remaining. Transform 2.5 uL of product per 50 uL of competent cells. Therefore, use 8 tubes of C2987H chemically competent cells for this process (5 each).  \n2. Add 950 uL SOC media after heat shock and recovery and allow the tubes to grow at 37 degrees for at least 1 hour. Pool all the liquid culture.  \n3. Take 1:100 of the total culture to plate onto a 10 cm LB-Amp plate. Make 2 dilution plates in total for each.   \n4. First dilution \\=  10 uL culture \\+ 990 uL LB. Plate 100 uL from this dilution.  \n5. Second dilution \\= 10 uL from first dilution \\+ 990 uL LB. Plate 100 uL from this dilution.\n\n   Colony Yield/Total Colonies \\= (count X 100 X 100)/0.1 \\[calculation for two dilutions\\]\n\n   \n\n**Electroporation Trial for pHRS-Gcla-AT10 library**\n\n1. Thaw Lucigen recovery media (at least two bottles).  \n2. 2.5 uL of ligation mix to be added to every 50 uL of electrocompetent cells. Mix briefly by tapping and then add 20 uL of mix to pre-chilled cuvettes.  \n3. Electroporation: Ec1, 0.1 cm cuvette, 1.8 kV, 1 pulse \\[Bio-Rad Micropulser\\]  \n4. Immediately add 950 uL of SOC or Lucigen recovery media. Use SOC media for TransforMax cells and Lucigen media for Endura cells.  \n5. Do not mix after adding recovery media and immediately transfer to a larger falcon tube or several Eppendorf tubes. Once all transformations are done, culture the media at 37 degrees for 1.5 hours, 225 rpm.  \n6. Dilute 1:100 to prepare first, second and third dilutions and plate 100 uL from each dilution on a single bioassay plate split into 4 quadrants. Use 100 uL of the original culture on the first quadrant.  \n7. Store remaining liquid culture at 4 degrees or incubate overnight in about 1-2 L of culture \\- 37 degrees, 220 rpm.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2025-03-25",
+ "tags": {
+  "techniques": [
+   "Ligation",
+   "Library prep"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Transformation of ligated ShhBC vectors into LB-Amp plates"
+}

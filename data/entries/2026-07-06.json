@@ -1,0 +1,34 @@
+{
+ "date": "2026-07-06",
+ "heading": "**6 July 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*CC Methylase \\+ Hia5 testing*\n\n1\\. TF-DNA binding setup:\n\n- 23 uL DNA \\+ 18.5 uL undiluted ELF2 \\+ 41.5 uL 1.55X SELEX Buffer \\[\\~93 mM salt, \\~14% glycerol\\]  \n- Incubate at RT, 30 mins (static)\n\n2\\. Adding Anti-His antibody\n\n- To the previous reaction, we add 5 uL Ab \\+ 13.4 uL PBS (filtered) \\[101 mM salt, \\~11.5% glycerol\\]  \n- Incubate with gentle shaking, RT, 30 mins\n\n3\\. Adding ZZ-CC methyltransferase\n\n- Add 74.2 uL Hia5 buffer \\+ 2 uL ZZ-CC methyltransferase enzyme  \n- Incubate with gentle shaking, RT, 30 mins\n\n4\\. Add 5 uL Hia5 enzyme and 4.7 uL SAM. Incubate at RT, 90 mins.\n\nInactivation of methylation reaction:\n\nAdd 0.5% SDS, 0.2 mg/mL Proteinase K → Incubate at 37 C for 30 mins.\n\n| LRS16896329 | 2077 | N40\\_HTFS\\_Jun26 |\n| :---- | :---- | :---- |\n| LRS16896330 | 2078 | 147\\_HTFS\\_Jun26 |\n| LRS16896331 | 2079 | 70N\\_HTFS\\_Jun26 |\n| LRS16896332 | 2080 | 200\\_HTFS\\_Jun26 |\n\n| DNA | 24 uL |\n| :---- | :---- |\n| T4 PNK Reaction Buffer (10X) | 5 µl |\n| ATP (10 mM) | 5 uL |\n| [T4 PNK](https://www.neb.com/en-gb/products/m0201-t4-polynucleotide-kinase) | 2 µl (20 units) |\n| Nuclease-free Water | up to 50 µl  |\n\nIncubate 37 C, 40 mins. Deactivate 65 C, 20 mins. Clean up with a MinElute column, quantify and then use to set up O/N ligation.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 2,
+ "id": "2026-07-06",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Hia5",
+   "Ligation",
+   "Column purification",
+   "Proteinase K"
+  ],
+  "reagents": [
+   "Proteinase K",
+   "SAM",
+   "MinElute",
+   "Hia5",
+   "SDS",
+   "Glycerol"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "CC Methylase + Hia5 testing"
+}

@@ -1,0 +1,42 @@
+{
+ "date": "2025-10-10",
+ "heading": "**10 October 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "Hia5 buffer:\n\n1 mL\n\n| 1 M Tris pH 8 | 15 uL |\n| :---- | :---- |\n| EDTA (0.5 M) | 2 uL |\n| EGTA (0.5 M) | 1 uL |\n| NaCl (100 mM) | 150 uL |\n| KCl (100 mM) | 600 uL |\n| Spermidine (100X) | (1X) 10 uL |\n\nPrepare stocks of 100 mM for KCl, NaCl\n\nKCl \\- 0.37 g in 50 mL water\n\nNaCl \\- 0.29 g in 50 mL water\n\nFor spermidine also prepare a 20X stock \\= 20 uL \\+ 80 uL NF H2O\n\nResuspend 1 ug DNA in this buffer.\n\nDilute psf-Hia5 (1 uL in total of 15 uL with water) **\\[dil psf-Hia5 \\- dpH\\]**\n\n*Titration of Hia5 for the SELEX+FIBER-Seq (500 ng DNA per trial)*\n\n* Hia5 ligand \\+ Hia5 buffer \\+ 0.5 uL SAM (No enzyme)  \n* Hia5 ligand \\+ Hia5 buffer \\+ 5 uL dpH \\+ 0.5 uL SAM  \n* Hia5 ligand \\+ Nuc buffer 1 \\+ 5 uL dpH \\+ 0.5 uL SAM  \n* Hia5 ligand \\+ Nuc buffer 2 \\+ 5 uL dpH \\+ 0.5 uL SAM  \n* Hia5 ligand \\+ Nuc buffer 3 \\+ 5 uL dpH \\+ 0.5 uL SAM  \n* Hia5 ligand \\+ Nuc buffer 4 \\+ 5 uL dpH \\+ 0.5 uL SAM  \n* Hia5 ligand \\+ Nuc buffer 5 \\+ 5 uL dpH \\+ 0.5 uL SAM  \n* Hia5 ligand \\+ Nuc buffer 6 \\+ 5 uL dpH \\+ 0.5 uL SAM  \n* Hia5 ligand \\+ Nuc buffer 7 \\+ 5 uL dpH \\+ 0.5 uL SAM\n\nNuc buffer 1 \\= Original Nucleosome Exchange Buffer B with 0.26 M salt\n\nNuc buffer 2 \\= Original Nucleosome Exchange Buffer B with 0.20 M salt \\[153.85 uL NE Buffer B \\+  46.15 uL water\\]\n\nNuc buffer 3 \\= Original Nucleosome Exchange Buffer B with 0.175 M salt \\[134.62 uL NE Buffer B \\+ 65.38 uL water\\]\n\nNuc buffer 4 \\= Original Nucleosome Exchange Buffer B with 0.150 M salt \\[115.39 uL NE Buffer B \\+ 84.61 uL water\\]\n\nNuc buffer 5 \\= Original Nucleosome Exchange Buffer B with 0.120 M salt \\[92.31 uL NE Buffer B \\+ 107.69 uL water\\]\n\nNuc buffer 6 \\= Original Nucleosome Exchange Buffer B with 0.100 M salt \\[76.92 uL NE Buffer B \\+  uL water\\]\n\nNuc buffer 7 \\= Original Nucleosome Exchange Buffer B with 0.08 M salt \\[61.54 uL NE Buffer B \\+ 138.46 uL water\\]\n\n**Nucleosome Exchange Buffer B \\[10 mL\\]**\n\n650 uL 4 M KCl\n\nTCEP 100 uL\n\n1 tablet EDTA free PI\n\n20 uL MgCl2\n\n0.5 mL glycerol\n\n**T4 PNK treatment for lig147 for repeat of ligation trials**\n\n**5X**\n\n| DNA | up to 300 pmol of 5´ termini (Use 2 ug of DNA per reaction) |\n| :---- | :---- |\n| T4 PNK Reaction Buffer (10X) | 5 µl |\n| ATP (10 mM) | 5 µl |\n| [T4 PNK](https://www.neb.com/en-gb/products/m0201-t4-polynucleotide-kinase) | 1 µl (10 units) |\n| Nuclease-free Water | up to 50 µl |\n\n**DpnI testing of pHRS libraries (v1)**\n\n**7X \\- 1 reaction for each plasmid library**\n\n| COMPONENTS |  50 µl REACTION  | FINAL CONC. OR AMOUNT  |\n| ----- | ----- | ----- |\n| **Plasmid Library** | **1 µg** |   |\n| **10X NEBuffer\\*\\*** | **5 µl** | **1X**  |\n| **Restriction Enzyme** | **1 µl** |   |\n| **Nuclease-free Water** | **to 50 µl** | **Varies\\***  |\n\n**Ligation Trials for Duration Optimization**\n\n**L5: (30 mins, RT)**\n\n| DNA | 1000 ng |\n| :---- | :---- |\n| PEG8000 | 4.5 uL |\n| 1 mM CoHex | 1 uL |\n| T4 DNA ligase | 1 uL |\n\n**L6: (60 mins, RT)**\n\n| DNA | 1000 ng |\n| :---- | :---- |\n| PEG8000 | 4.5 uL |\n| 1 mM CoHex | 1 uL |\n| T4 DNA ligase | 1 uL |\n\n**L7: (90 mins, RT)**\n\n| DNA | 1000 ng |\n| :---- | :---- |\n| PEG8000 | 4.5 uL |\n| 1 mM CoHex | 1 uL |\n| T4 DNA ligase | 1 uL |\n\nPurify the reactions and run on a 0.5% agarose gel.\n\n**Ligation Trials for Duration Optimization**\n\n**L8: (180 mins, RT)**\n\n| DNA | 1000 ng |\n| :---- | :---- |\n| PEG8000 | 3 uL |\n| 1 mM CoHex | 1 uL |\n| Ligase Buffer (10X) | 1 uL |\n| T4 DNA ligase | 1 uL |\n\n**L9: (300 mins, RT)**\n\n| DNA | 1000 ng |\n| :---- | :---- |\n| PEG8000 | 3 uL |\n| 1 mM CoHex | 1 uL |\n| Ligase Buffer (10X) | 1 uL |\n| T4 DNA ligase | 1 uL |\n\nPurify the reactions and run on a 0.5% agarose gel.\n\nTrying Hia5 with new Nucleosome Buffer C:  \n1 mL\n\n| 1 M Tris pH 8 | 15 uL |\n| :---- | :---- |\n| EDTA (0.5 M) | 2 uL |\n| EGTA (0.5 M) | 1 uL |\n| KCl (4 M) | 20 uL |\n| TCEP | 10 uL |\n| Glycerol | 50 uL |\n\n* Hia5 ligand (150 ng) \\+ Nuc buffer C \\+ 5 uL dpH \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine\n",
+ "experiments": [],
+ "images": [],
+ "tables": 9,
+ "id": "2025-10-10",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Hia5",
+   "Gel electrophoresis",
+   "Ligation",
+   "Library prep",
+   "Restriction digest"
+  ],
+  "reagents": [
+   "SAM",
+   "Spermidine",
+   "Hia5",
+   "EDTA",
+   "Tris",
+   "NaCl",
+   "KCl",
+   "MgCl2",
+   "T4 ligase",
+   "Glycerol",
+   "Nuc buffer"
+  ],
+  "samples": [
+   "lig147"
+  ],
+  "custom": []
+ },
+ "title": "Hia5 buffer:"
+}

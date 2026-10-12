@@ -1,0 +1,42 @@
+{
+ "date": "2025-08-14",
+ "heading": "**14 August 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Set up cleaning of dialysis apparatus for \\~2-3 hours by using MQ water**  \n2. **Prepare HAP1 media for extended culture**  \n3. **Harvest the MYC335 cell lines and seed them again for extended culture and sorting**  \n4. **Prepare O/N cultures (1 L each) for HclaAT10ShhBCv1 and HCDAT10ShhBCv1**  \n5. **Perform assembly reactions for HCCAT10ShhBCv1, GCCAT10ShhBCv1 and Nh100AT10ShhBCv1**  \n6. **Transform GCDAT10ShhBCv1, HCCAT10ShhBCv1 into LB-AMP plates**  \n7. **Record Day 2 images of HAP1 cells transduced with pHRS viruses**  \n8. **Set up dialysis for lig147 recon set-up with WT octamer**  \n9. **Fix nucleosome recon Beckman protocol**\n\n### 2. Prepare HAP1 media for extended culture\n\nHAP1 media (500 mL)\n\n| IMDM | Make up to 500 mL |\n| :---- | :---- |\n| HI FBS (10%) | 50 mL |\n\n### 8. Set up dialysis for lig147 recon set-up with WT octamer\n\nThe best conditions for reconstitution of the nucleosome with **lig147 was seen to be at a ratio of 1.1:1 for histone octamer:DNA**. This is the same condition that will be used for the dialysis set up.\n\n![](assets/img/doc2-image109.png)\n\nTo test the dialysis set up properly, I have now placed a magnetic stirrer and a 500 mL bottle on the stirrer. MQ/sterile water is passing from the large bottle to the smaller bottle and then being picked back up from the smaller bottle and sent to the waste bottle. Testing this set up O/N currently to test for stability of the system.\n\nFirst I prepare more lig147:\n\nTo test for large-scale amplification of dsDNA ligands, set up the following reaction:\n\nTake 1 uL of the lig147\\_pool and dilute to 20 uL\n\n20X\n\n| NCAP\\_F (10 uM) | 30 uL |\n| :---- | :---- |\n| NCAP\\_R (10 uM) | 30 uL |\n| 2X KAPA HiFi | 500 uL |\n| diluted lig147 | 20 uL |\n| NF H2O | 420 uL |\n\nSplit 50 uL per tube.\n\nlig147\\_T1\n\nPCR4, SELEX\\_AMP\n\n| 95°C | 3 min |\n| :---- | :---- |\n| 98°C | 20 s |\n| 55°C | 15 s       **14X** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\nPool the products and columns, purify and measure the concentration. Also, check the purity of the product on a high percentage agarose gel.\n\n### 5. Perform assembly reactions for HCCAT10ShhBCv1, GCCAT10ShhBCv1 and Nh100AT10ShhBCv1\n\npHRS-HCC-ShhBC (5X)\n\n| GclaShh-lib (50 ng) |      uL |\n| :---- | :---- |\n| HCC-AT10-PCR (8 ng) |      uL |\n| 2X NEB HiFi Assembly Mix | 10 uL |\n| NF H2O |      uL |\n\npHRS-GCC-ShhBC (5X)\n\n| GCDShh-lib (50 ng) |      uL |\n| :---- | :---- |\n| GCC-AT10-PCR (8 ng) |      uL |\n| 2X NEB HiFi Assembly Mix | 10 uL |\n| NF H2O |      uL |\n\npHRS-Nh100-ShhBC (5X)\n\n| HCDShh-lib (50 ng) |      uL |\n| :---- | :---- |\n| Nh100-PCR (8 ng) |      uL |\n| 2X NEB HiFi Assembly Mix | 10 uL |\n| NF H2O |      uL |\n\nIncubate at 50 degrees for 1 hour. Store reactions at \\-20 O/N before transformation.\n",
+ "experiments": [
+  "2. Prepare HAP1 media for extended culture",
+  "8. Set up dialysis for lig147 recon set-up with WT octamer",
+  "5. Perform assembly reactions for HCCAT10ShhBCv1, GCCAT10ShhBCv1 and Nh100AT10ShhBCv1"
+ ],
+ "images": [
+  "assets/img/doc2-image109.png"
+ ],
+ "tables": 6,
+ "id": "2025-08-14",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Dialysis",
+   "Cell culture",
+   "Column purification"
+  ],
+  "reagents": [
+   "Histone octamer"
+  ],
+  "samples": [
+   "lig147",
+   "NCAP_F",
+   "NCAP_R",
+   "SELEX_AMP"
+  ],
+  "custom": []
+ },
+ "title": "Prepare HAP1 media for extended culture; Set up dialysis for lig147 recon set-up with WT octamer; Perform assembly reactions for HCCAT10ShhBCv1, GCCAT10ShhBCv1 and Nh100AT10ShhBCv1"
+}

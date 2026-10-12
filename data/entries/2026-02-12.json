@@ -1,0 +1,46 @@
+{
+ "date": "2026-02-12",
+ "heading": "**12 February 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*ligN40 PCR1*\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **Annealed lig40N** | **100** |\n| **Phusion Master Mix** | **2500** |\n| **NCAP\\_F (10 µM)** | **250** |\n| **NCAP\\_R (10 uM)** | **250** |\n| **Water** | **1900**  |\n| **Total** | **5000** |\n\n25 uL per well in two 96-well plates.\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **8X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\nConcentration of PCR1 samples \\= \n\n*DpnI test for plasmid FS samples*  \nSamples to be run for the *Dpn*I/*Mbo*I test:\n\n- Gcla gHRS (10 ng)  \n- HAP1 HRS- 12h (10 ng)  \n- HAP1 HRS- 18h (10 ng)\n\n| DNA | 10 ng |\n| :---- | :---- |\n| rCutsmart Buffer | 1 uL |\n| DpnI/MboI | 0.2 uL |\n| Total  | 10 uL |\n\nDpnI\n\n| 37 C | 1 hour |\n| :---- | :---- |\n| 80 C | 20 mins |\n\nMboI\n\n| 37 C | 1 hour |\n| :---- | :---- |\n| 65 C | 20 mins |\n\nNOTE: Gcla-gHRS consists largely of linearized pHRS-Gcla (dam-/dcm-) DNA that should not contain significant methylation and should largely remain undigested in the DpnI digestion.\n\n*Repeat reconstitution for 293T and HAP1 genomic DNA samples*\n\nLow salt RB (2 L)\n\n37.28 g KCl  \n20 mL 1 M Tris-HCl, pH 7.5  \n4 mL 0.5 M EDTA  \n2 mL DTT\n\n*Transfection of pHRS dam-/dcm- strains into HAP1 & HepG2 cells*\n\nHepG2 & HAP1 cells\n\n1 well/HRS library → 18h time-point\n\n2 wells/HRS library → 12h time-point\n\nUse 2 ug plasmid per 200K cells.\n\nEach plasmid library ⇒ \n\nT1 ⇒ 750 uL OM \\+ 60 uL P3000 \\+ 12 ug plasmid\n\nT2 ⇒ 750 uL OM \\+ 45 uL Lipo3000\n\nMix & add 250 uL per well.\n\n*Repeat ligation for HTFS samples*  \n2X\n\n| lig147HTFS-PNK (2000 ng) | uL |\n| :---- | :---- |\n| 50% PEG8000 | 3 uL |\n| CoHex 10 mM | 1 uL |\n| T4 Ligase Buffer 10X | 1 uL |\n| T4 DNA ligase | 1 uL |\n\n2X\n\n| ligN40HTFS-PNK (2000 ng) | uL |\n| :---- | :---- |\n| 50% PEG8000 | 3 uL |\n| CoHex 10 mM | 1 uL |\n| T4 Ligase Buffer 10X | 1 uL |\n| T4 DNA ligase | 1 uL |\n\n*Manual curation of 2X Phusion Master Mix*\n\n0.04 U/uL polymerase\n\n2X Phusion HF Buffer\n\n3 mM MgCl2\n\n1.6 mM dNTPs\n\nI need enough of this mix for about 4 X 100 PCR reactions (25 uL per reaction)\n\n12.5 X 400 \\= 5000 uL\n\n| 200 U Phusion Polymerase |  |\n| :---- | :---- |\n| 50 mM MgCl2 | 300 uL |\n| 5 X Phusion HF Buffer | 2000 uL |\n| 10 mM dNTPs | 800 uL |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 8,
+ "id": "2026-02-12",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Reconstitution",
+   "Ligation",
+   "Transfection",
+   "Cell culture",
+   "Library prep",
+   "Restriction digest"
+  ],
+  "reagents": [
+   "Phusion",
+   "EDTA",
+   "Tris",
+   "KCl",
+   "MgCl2",
+   "DTT",
+   "T4 ligase",
+   "dNTPs"
+  ],
+  "samples": [
+   "ligN40",
+   "lig40N",
+   "lig147HTFS",
+   "ligN40HTFS",
+   "NCAP_F",
+   "NCAP_R",
+   "293T"
+  ],
+  "custom": []
+ },
+ "title": "ligN40 PCR1"
+}

@@ -1,0 +1,36 @@
+{
+ "date": "2026-02-02",
+ "heading": "**2 February 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*ELF\\_dm\\_EcoRV gel run repeat*\n\nMolarity of octamer used per tube \\= 48.6 nM\n\nMolarity of protein (ELF2/ELF2m3 required) → 1 uM\n\nFor a 15 uL reaction ⇒ 150 ng nucleosome \\+ 241 ng protein\n\nReactions to run on a gel:\n\n1. ELFlig1 \\+ EcoRV  \n2. ELFlig1nuc \\+ EcoRV  \n3. ELFlig1nuc \\+ ELF2/ELF2m3 \\+ EcoRV (*this sample is prepared*)  \n4. ELFlig1 \\+ ELF2/ELF2m3 \\+ EcoRV  \n5. ELFlig1\n\nWe need to prepare the samples for ELFlig1 \\+ ELF2/ELF2m3 \\+ EcoRV.\n\nELFlig1 → 30.9 pmol in 15 uL solution\n\nELF2-2\n\n| Component | Volume |\n| ----- | ----- |\n| **DNA (150 ng, 0 mM salt)** | **V\\_DNA** |\n| **ELF2-2 protein stock (150 mM salt)** | **1.04 µL** |\n| **150 mM salt buffer (same as protein buffer, no protein)** | **7.96 µL** |\n| **TE buffer / 0 mM buffer** | **(6.00 − V\\_DNA) µL** |\n| **Total** | **15.00 µL** |\n\nELF2m3\n\n| Component | Volume |\n| ----- | ----- |\n| **DNA (150 ng, 0 mM salt)** | **V\\_DNA** |\n| **ELF2m3 protein stock (150 mM salt)** | **1.25 µL** |\n| **150 mM salt buffer (same as protein buffer, no protein)** | **7.75 µL** |\n| **TE buffer  / 0 mM buffer** | **(6.00 − V\\_DNA) µL** |\n| **Total** | **15.00 µL** |\n\nIncubate at RT for 15 mins → 1.8 uL rCutsmart Buffer \\+ 1 uL EcoRV\n\nAdd 0.4 uL Proteinase K & 0.94 uL 10% SDS (final conc \\= 0.5% SDS). Incubate at 55 C, 10 mins.\n\nGel run order:\n\n1. ELFlig1 \\+ EcoRV  \n2. ELFlig1nuc \\+ EcoRV  \n3. ELFlig1nuc \\+ ELF2 \\+ EcoRV   \n4. ELFlig1nuc \\+ ELF2m3 \\+ EcoRV   \n5. ELFlig1 \\+ ELF2 \\+ EcoRV  \n6. ELFlig1 \\+ ELF2m3 \\+ EcoRV  \n7. ELFlig1\n\nLoad 30 ng of each sample on the gel and run at 75 V for 2.5 hours in the cold room. Stain with SYBR Green after the gel run.\n\n*Purify ELF ligands RF & FR and set up reconstitution*\n\nAll samples in the range of 300-400 ng/uL\n\n*Prepare ligand plates for next SELEX*\n\n*SELEX checklist*\n\nGP5d media (500 mL)\n\n| DMEM high glucose | Make up to 500 mL |\n| :---- | :---- |\n| HI FBS (10%) | 50 mL |\n| L-Glutamine | 5 mL |\n\n293T Media\n\n| HI FBS (10%) | 50 mL |\n| :---- | :---- |\n| Sodium Pyruvate (100 mM) | 5 mL (1 mM final) |\n| DMEM | Top up to 500 mL |\n\n*Nucleosome reconstitution \\- ELF ligands*\n\nResuspend in 20 uL of DNA\n\n1. ELF2\\_dm\\_EcoRV (ELFlig1)  \n2. ELF2\\_RF  \n3. ELF2\\_FR\n\nTake 4 ug of each DNA.\n\nMolarity of DNA \\= 1.68 uM\n\nMolarity of octamer required \\= 1.85 uM ⇒ 5.03 ug\n\nOctamer concentration \\= 5.4 ug/uL\n\nPrepare 1.01 ug/uL stock (16 uL) ⇒ 3 uL of WT-octamer \\+ 13 refolding buffer:glycerol \n\nAdd 5 uL of this stock to each tube of the DNA \\+ salt ⇒ Salt conc \\= 1.83 M\n",
+ "experiments": [],
+ "images": [],
+ "tables": 4,
+ "id": "2026-02-02",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Cell culture",
+   "Proteinase K"
+  ],
+  "reagents": [
+   "SYBR",
+   "Proteinase K",
+   "SDS",
+   "Histone octamer",
+   "TE buffer",
+   "Glycerol"
+  ],
+  "samples": [
+   "293T"
+  ],
+  "custom": []
+ },
+ "title": "ELF_dm_EcoRV gel run repeat"
+}

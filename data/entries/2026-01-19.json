@@ -1,0 +1,39 @@
+{
+ "date": "2026-01-19",
+ "heading": "**19 January 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*1.55X SELEX buffer*\n\n*1.55x Promega Buffer, 155μM EGTA, 1.55mM DTT, 3μM ZnSO4 (no dIdC)*\n\n250 mL\n\n| Promega Buffer 1.55 (10X) | 38.75 mL |\n| :---- | :---- |\n| EGTA (0.5 M) | 77.5 uL |\n| DTT (1 M) | 387.5 uL |\n| ZnSO4 (100 mM) | 7.5 uL |\n\nMake up the volume to 250 mL and filter the solution. Store at 4 degrees.  \nAliquot 8.5 uL per well of a 384-well plate.\n\n*ELF lig2 & lig3 preparation*\n\nELF\\_sm\\_EcoRV \\= ELF lig3\n\nELFlig\\_noEcoRV \\= ELF lig2\n\n5X PCR for each ligand:\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **ELFlig2/3 \\- 10 ng/uL** | **10 uL** |\n| **Phusion Master Mix** | **62.5 uL** |\n| **ELF\\_FWD 10 uM** | **6.25 uL** |\n| **ELF\\_REV2/REV3 10 uM** | **6.25 uL** |\n| **Water** | **40 uL** |\n| **Total** | **125 uL** |\n\nELF lig3\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 59°C | 15 s       **35X\\*** |\n| 72°C | 30 s |\n| 72°C | 10 min |\n| 4°C | HOLD |\n\nELF lig2\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 56°C | 15 s       **35X\\*** |\n| 72°C | 30 s |\n| 72°C | 10 min |\n| 4°C | HOLD |\n\n*Preparation of lig70N & lig200 plates*\n\nlig200 PCR1 \\= 23.2 ng/uL  \nlig70N PCR1 round 2 \\= 9.5 ng/uL\n\n2X100\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **ligN40w107 PCR1** | **500** |\n| **Phusion Master Mix** | **2500** |\n| **NCAP\\_F (10 µM)** | **250** |\n| **NCAP\\_R (10 uM)** | **250** |\n| **Water** | **1500**  |\n| **Total** | **5000** |\n\nSplit mix into 25 uL per well for two 96-well PCR plates.\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **3X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\nThe lig200 band was also very clean and the concentration of this product is fairly good.\n\nSet up 2X plates of lig200 PCR1:\n\nTake 4.5 uL of lig200 ssDNA and make up volume to 900 uL.\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **Final diluted DNA** | **400** |\n| **Phusion Master Mix** | **2500** |\n| **NCAP\\_F (10 µM)** | **250** |\n| **NCAP\\_R (10 uM)** | **250** |\n| **Water** | **1600** |\n| **Total** | **5000** |\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **8X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\nMeasure the concentration of this PCR product and run on an agarose gel.\n\n*Hia5 test repeat*\n\nDilute 1 uL enzyme into 10 uL (dHia5).\n\n| TF Dilution Buffer | 1.55X SELEX Buffer | DNA (30 ng) | SAM | dHia5 | Hia5 Buffer |\n| :---: | :---: | :---: | :---: | :---: | :---: |\n| 4.5 | 8.5 | 5 | 0.5 | 1.5 | \\- |\n| 4.5 | 8.5 | 5 | 0.5 | 1 | 0.5 |\n| 4.5 | 8.5 | 5 | 0.5 | 0.75 | 0.75 |\n| 4.5 | 8.5 | 5 | 0.5 | 0.5 | 1 |\n| 4.5 | 8.5 | 5 | 0.5 | 0.4 | 1.1 |\n| 4.5 | 8.5 | 5 | 0.5 | 0.3 | 1.2 |\n| 4.5 | 8.5 | 5 | 0.5 | 0.25 | 1.25 |\n| 4.5 | 8.5 | 5 | 0.5 | 0.2 | 1.3 |\n\nIncubate 1.5 hours for Hia5 treatment.\n\nAdd DpnI and rCutsmart buffer post treatment and then run on a gel to check for efficiency.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 9,
+ "id": "2026-01-19",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Hia5",
+   "Gel electrophoresis"
+  ],
+  "reagents": [
+   "Phusion",
+   "SAM",
+   "Hia5",
+   "DTT"
+  ],
+  "samples": [
+   "lig200",
+   "lig2",
+   "lig3",
+   "lig70N",
+   "NCAP_F",
+   "NCAP_R",
+   "ligN40w107"
+  ],
+  "custom": []
+ },
+ "title": "1.55X SELEX buffer"
+}

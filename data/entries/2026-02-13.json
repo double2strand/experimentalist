@@ -1,0 +1,30 @@
+{
+ "date": "2026-02-13",
+ "heading": "**13 February 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*lig147 PCR 2*\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **Final diluted DNA** | **250** |\n| **Phusion Master Mix** | **2500** |\n| **NCAP\\_F (10 µM)** | **250** |\n| **NCAP\\_R (10 uM)** | **250** |\n| **Water** | **1750**  |\n| **Total** | **5000** |\n\n25 uL per well in two 96-well plates.\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **3X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\n*ligN40 PCR 2*\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **Final diluted DNA** | **400** |\n| **Phusion Master Mix** | **2500** |\n| **NCAP\\_F (10 µM)** | **250** |\n| **NCAP\\_R (10 uM)** | **250** |\n| **Water** | **1600**  |\n| **Total** | **5000** |\n\n25 uL per well in two 96-well plates.\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **3X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 4,
+ "id": "2026-02-13",
+ "tags": {
+  "techniques": [
+   "PCR"
+  ],
+  "reagents": [
+   "Phusion"
+  ],
+  "samples": [
+   "NCAP_F",
+   "NCAP_R",
+   "lig147",
+   "ligN40"
+  ],
+  "custom": []
+ },
+ "title": "lig147 PCR 2"
+}

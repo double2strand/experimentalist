@@ -1,0 +1,44 @@
+{
+ "date": "2026-02-19",
+ "heading": "**19 February 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*New samples to be sequenced for PacBio*\n\n1. lig50k (sheared to 20k) \\- No Hia5 treatment  \n2. 293T (sheared to 20k) \\+ nucleosomes \\+ Hia5  \n3. Plasmid Fiber-Seq HAP1 HRS- 12  \n4. Plasmid Fiber-Seq HAP1 HRS- 18  \n5. Plasmid Fiber-Seq HepG2 HRS- 12  \n6. Plasmid Fiber-Seq HepG2 HRS- 18  \n7. 147HTFS  \n8. N40HTFS  \n9. 147NCFS  \n10. N40NCFS\n\n*ELF2 \\+ nucleosome native gel re-run*\n\nLoad 30 ng each of the samples in the following order:\n\n1. ELF2 lig1  \n2. ELF2 lig1 (EcoRV)  \n3. ELF2 lig1nuc (EcoRV)  \n4. ELF2 lig1 \\+ ELF2 (EcoRV)  \n5. ELF2 lig1nuc \\+ ELF2 (EcoRV)\n\n*MNase test for nucleosome recon*\n\nCollect & quantify the F1 sample (293T20knuc).\n\n10 ng of sample \\+ 5 uL MNase buffer \\+ 1 uL dMNase \\+ 0.25 uL rAlbumin (total 50 uL)\n\nTreat at 37 C, 10 mins.\n\nRun on a 1% agarose gel and stain with SYBR Green. \n\n*NCFS*\n\n- Aliquot 7.5 uL per well of PCR master-mix  \n- Add PE\\_R primer with barcodes (1.5 uL) (PE2)  \n- Add 9 uL of cyc3 DNA\n\nFor both ligands the PCR will be 25 cycles in total.\n\n*ELF2lig1 PCR*\n\n16X\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **ELFlig1** | **2 uL** |\n| **2X KAPA Mix** | **200 uL** |\n| **ELF\\_FWD 10 uM** | **20 uL** |\n| **ELF\\_REV1 10 uM** | **20 uL** |\n| **Water** | **158 uL** |\n| **Total** | **400** |\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 59°C | 15 s       **35X\\*** |\n| 72°C | 30 s |\n| 72°C | 10 min |\n| 4°C | HOLD |\n\n*Hia5 treatment for 293T20knuc*\n\nF1\n\n* Prepare dHia5 ⇒ 3 uL enzyme \\+ 3 uL of Hia5 buffer  \n* Prepare Master-Mix \\= 2100 ng 293T20knuc \\+ 3 uL SAM \\+ 6 uL dHia5 (120 uL total volume)  \n* Aliquot 20 uL each to tubes.  \n* Incubate 37 C, 60 mins.\n\nAfter Hia5 treatment, add 0.5 uL 10% SDS & 0.5 uL Proteinase K (20 mg/mL) in 20 uL reactions and incubate 50 degrees, 15 mins.\n\nPool samples and purify with 1X Ampure XP beads.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 2,
+ "id": "2026-02-19",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "MNase",
+   "Hia5",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Cell culture",
+   "Bead purification",
+   "Fragmentation",
+   "Proteinase K"
+  ],
+  "reagents": [
+   "SYBR",
+   "Proteinase K",
+   "SAM",
+   "AMPure",
+   "Hia5",
+   "MNase",
+   "SDS"
+  ],
+  "samples": [
+   "lig1",
+   "lig1nuc",
+   "lig50k",
+   "293T"
+  ],
+  "custom": []
+ },
+ "title": "New samples to be sequenced for PacBio"
+}

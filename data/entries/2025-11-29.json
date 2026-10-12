@@ -1,0 +1,27 @@
+{
+ "date": "2025-11-29",
+ "heading": "**29 November 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "Based on quantification of cycle 3 PCR samples → a maximum concentration of 5-6 ng/uL was seen for the overall sample → since 5 uL of the PCR2 will be used for cycle 4 during the foot printing assay i.e. about 30 ng per well.\n\nWe have consistently been using 0.5 uL of *Hia5* for treating \\~300 ng DNA. By this context, 0.05 uL of the enzyme to be used for 30 ng i.e. per well.\n\nApproximately we want to use 8 uL of Hia5 distributed across 384 wells → this equates to about 0.021 uL per well.\n\nFor testing → Take 0.5 uL of enzyme and dilute to 24 uL in Hia5 buffer\n\n8X reactions:\n\nHia5 x 8: 240 ng DNA \\+ Hia5 buffer \\+ 1 uL dHia5 \\+ 0.5 uL SAM (Distribute 20 uL samples per tube)\n\n| 37 C | 1 hour |\n| :---- | :---- |\n| 80 C | 10 mins |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2025-11-29",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Hia5"
+  ],
+  "reagents": [
+   "SAM",
+   "Hia5"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Based on quantification of cycle 3 PCR samples → a maximum concentration of 5-6 ng/uL was seen for the overall sample → "
+}

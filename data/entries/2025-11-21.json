@@ -1,0 +1,32 @@
+{
+ "date": "2025-11-21",
+ "heading": "**21 November 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*1\\. Prepare a program that transfers and prepares PE-PCR plates for SELEX samples (estimate number of BC90 tip boxes required for this)*  \n*2\\. Test Hamilton program for PE\\_PCR plate preparation*  \n*3\\. Quantify NCAP samples for cycle 4 and test Hia5 treatment on test ligand*\n\n*1\\. Prepare a program that transfers and prepares PE-PCR plates for SELEX samples (estimate number of BC90 tip boxes required for this)*\n\nSamples to prepare libraries for:\n\n1. **Cycle 0 lig147 PE1**   \n2. Cycle 3 NCAP lig147 PE2  \n3. Cycle 4 NCAP lig147 PE3  \n4. **Cycle 0 ligN40w107 PE1**  \n5. Cycle 3 NCAP ligN40w107 PE2  \n6. Cycle 4 NCAP ligN40w107 PE3  \n7. **Cycle 1 HTS lig147 PE1**  \n8. Cycle 3 HTS lig147 PE2  \n9. Cycle 4 HTS lig147 PE3  \n10. **Cycle 1 HTS ligN40w107 PE1**  \n11. Cycle 3 HTS ligN40w107 PE2  \n12. Cycle 4 HTS ligN40w107 PE3\n\n12 plates PCR1 (\\~320 uL from each well of mastermix \\+ \\~6 uL PE\\_F \\+  \\~6 uL PE\\_R (1/2/3))  \nDue to limitations with the number of tip boxes currently, emphasise on just preparing the libraries using PCR1 \\+ SPRIselect clean-up\n\nPCR1 → 21 cycles\n\nFor the program: \n\n- Use 20 uL Axygen tips to transfer MM to plates → 1 box X 25 \\= 25 boxes needed  \n- PE\\_F: 4 \\+ 4 boxes (2 PCR) ⇒ 96 boxes \\[BC90\\]  \n- PE\\_R: 4 \\+ 4 boxes (2 PCR) ⇒ 96 boxes \\[BC90\\]  \n- Use 20 uL Axygen tips to transfer DNA to plates → 4 box X 24 \\= 96 boxes needed\n\nNew stock of 5 uM PE\\_F\n\n1000 uL (100 uM stock) \\+ 19 mL NF water  \nMix well and aliquot 208 uL per well of a AB0781 storage plate.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2025-11-21",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Hia5",
+   "Library prep",
+   "Bead purification"
+  ],
+  "reagents": [
+   "Hia5"
+  ],
+  "samples": [
+   "lig147",
+   "ligN40w107"
+  ],
+  "custom": []
+ },
+ "title": "1. Prepare a program that transfers and prepares PE-PCR plates for SELEX samples (estimate number of BC90 tip boxes requ"
+}

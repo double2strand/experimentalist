@@ -1,0 +1,32 @@
+{
+ "date": "2026-03-20",
+ "heading": "**20 March 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "RNA-binding proteins (3 of them): ⇒ Work with Ananya for this\n\nPPRC1, PGC1a, PGC1b (RRMs) \n\nRBP-plate clones\n\nChristian Dienemann (RREB1) → NCAP-SELEX or modified NCAP-SELEX\n\n*Protein Plate Preparation (NCAP-SELEX \\+ HT-SELEX → Round 3\\)*\n\nQuadrant 1 \\+ Quadrant 4\n\nQuadrant 2 \\+ Quadrant 3\n\nWe need at least 100 uL of diluted protein for the total run (4.5 per well X 4 cycles X (1HT \\+ 1NCAP) X 2 ligands)\n\nTake 30 uL of protein per well and then add 180 uL TF dilution buffer per well. Distribute 80 uL per well an Abgene Storage plate 384-well.\n\nRecombinant commercial ELF2 ⇒ For approx. 25 ng/uL protein ⇒ 9.5 uL protein solution (Make this up to 50 uL with TF dilution buffer just before actual dilution)\n\n*Cultures to set up for induction*\n\nGlycerol Stock P1:\n\nA1-A3  \nA6-A9  \nB1, B2, B4, B7  \nC2-C6, C8, C9  \nD1, D2\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2026-03-20",
+ "tags": {
+  "techniques": [
+   "SELEX"
+  ],
+  "reagents": [
+   "Glycerol"
+  ],
+  "samples": [
+   "B1",
+   "B2",
+   "B4",
+   "B7",
+   "D1",
+   "D2"
+  ],
+  "custom": []
+ },
+ "title": "RNA-binding proteins (3 of them): ⇒ Work with Ananya for this"
+}

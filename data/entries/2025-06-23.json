@@ -1,0 +1,30 @@
+{
+ "date": "2025-06-23",
+ "heading": "**23rd June 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "| Transfection for pHRS-MYC355 viral packaging |\n| :---- |\n| **Plan & protocol for nucleosome reconstitution dry run** |\n| **AT10 library pooling for MiSeq PE150 sequencing** |\n\n**Transfection for pHRS-MYC355 viral packaging**\n\nTwo trials will be performed for the virus packaging:\n\nTrial 1:\n\n2 plates (10-cm dishes) with 6 ug of transfer plasmids and 6 ug each of the packaging and envelope vectors.\n\n3 mL Opti-MEM \\+ 22.85 uL pHRS-MYC335 \\+ 14.5 uL pCMV-dR8.2 \\+ 10.08 uL pMD2.G\n\nIncubate for 5 mins.\n\nAdd 66 uL Turbofectin & incubate for 15 mins.\n\nSplit the solution dropwise across two plates. Label these plates as T1 pHRS-MYC355.  \n   \nTrial 2:\n\n1 plate (10-cm dish) with 7.9 ug transfer plasmid, 8.3 ug packaging vector and 1.8 ug envelope plasmid (mass ratio 3:2:1)\n\n1.5 mL Opti-MEM \\+ 15.03 uL pHRS-MYC355 \\+ 10 uL pCMV-dR8.2 \\+ 1.52 uL pMD2.G\n\nIncubate for 5 mins.\n\nAdd 33 uL Turbofectin & incubate for 15 mins.\n\nSplit the solution dropwise across two plates. Label these plates as T1 pHRS-MYC355.\n\nViralboost reagent added to culture on the day post-transfection\n\nVirus packaged as normal (no concentration performed) → *More volume obtained in this case but evidently less concentrated, therefore I can package in lesser plates for a trial. For larger scale experiments i.e. multi-plate perhaps might be worth using the concentrator*\n\nTransduction performed with Polybrene (we can use TransDux to further enhance efficiency of transduction here)\n\n### 2. Plan & protocol for nucleosome reconstitution dry run\n\nThe equipment being used during the pump-based reconstitution includes the following:\n\nSlide-A-Lyzer™ MINI Dialysis Device, 7K MWCO\n\nIsmatec ISM4212 pump (REGLO peristaltic pump)\n\nIsmatec TYGON LMT \\- 55 tubing\n\n3\\. **AT10 library pooling for MiSeq PE150 sequencing**\n\nSet of i7 barcodes in the pooled AT10 \\+ Nh100 libraries:\n\n| AT10-Gcla-BC1 | CGGTTCAA |\n| :---- | :---- |\n| **AT10-Gcla-BC2** | **GCTGGATT** |\n| **AT10-Hcla-BC1** | **TAACTCGG** |\n| **AT10-Hcla-BC2** | **TAACAGTT** |\n| **AT10-GCD-BC1** | **CGGTGACC** |\n| **AT10-GCD-BC2** | **TACAGAGG** |\n| **AT10-HCD-BC1** | **ATTGTCAA** |\n| **AT10-HCD-BC2** | **TATGTCTT** |\n| **AT10-GCC-BC1** | **ATACTCAA** |\n| **AT10-GCC-BC2** | **GCTGAGAA** |\n| **AT10-HCC-BC1** | **ATTGGAGG** |\n| **AT10-HCC-BC2** | **TAGTCTAA** |\n| **Nh100-BC1** | **AGCGTAGC** |\n| **Nh100-BC2** | **CAGCCTCG** |\n\nThe concentrations of the samples are as follows:\n\n| AT10-Gcla-BC1 | 116 nM |\n| :---- | :---- |\n| **AT10-Gcla-BC2** | **56 nM** |\n| **AT10-Hcla-BC1** | **62.8 nM** |\n| **AT10-Hcla-BC2** | **74.9 nM** |\n| **AT10-GCD-BC1** | **55.5 nM** |\n| **AT10-GCD-BC2** | **46 nM** |\n| **AT10-HCD-BC1** | **37.5 nM** |\n| **AT10-HCD-BC2** | **32.7 nM** |\n| **AT10-GCC-BC1** | **104 nM** |\n| **AT10-GCC-BC2** | **88.3 nM** |\n| **AT10-HCC-BC1** | **117 nM** |\n| **AT10-HCC-BC2** | **86.5 nM** |\n| **Nh100-BC1** | **21.7 nM** |\n| **Nh100-BC2** | **31 nM** |\n\nIt does not look like all the samples can be pooled into one pool with equal concentration representation. I will now try splitting these into two pools with pooling of the low concentration samples together.\n\n| AT10-Gcla-BC1 | 4.31 |\n| :---- | :---- |\n| **AT10-Gcla-BC2** | **8.93** |\n| **AT10-Hcla-BC1** | **7.96** |\n| **AT10-Hcla-BC2** | **6.68** |\n| **AT10-GCD-BC1** | **9** |\n| **AT10-GCD-BC2** | **10.87** |\n| **AT10-HCD-BC1** | **13.33** |\n| **AT10-HCD-BC2** | **15.29** |\n| **AT10-GCC-BC1** | **4.81** |\n| **AT10-GCC-BC2** | **5.66** |\n| **AT10-HCC-BC1** | **4.27** |\n| **AT10-HCC-BC2** | **5.78** |\n| **Nh100-BC1** | **23** |\n| **Nh100-BC2** | **16.13** |\n\nAll BC1 samples pooled add up to 66.68 uL. Top up to 100 uL with TE buffer to achieve per sample concentration of 5 nM.\n\nAll BC1 samples pooled add up to 69.34 uL. Top up to 100 uL with TE buffer to achieve per sample concentration of 5 nM.\n",
+ "experiments": [
+  "2. Plan & protocol for nucleosome reconstitution dry run"
+ ],
+ "images": [],
+ "tables": 4,
+ "id": "2025-06-23",
+ "tags": {
+  "techniques": [
+   "Reconstitution",
+   "Dialysis",
+   "Transfection",
+   "Library prep"
+  ],
+  "reagents": [
+   "TE buffer"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Plan & protocol for nucleosome reconstitution dry run"
+}

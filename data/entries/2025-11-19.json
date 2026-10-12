@@ -1,0 +1,27 @@
+{
+ "date": "2025-11-19",
+ "heading": "**19 November 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*1\\. Prepare 5 fresh qPCR plates with 4.6 uL per plate*  \n*2\\. Finish Cycle 2 of HT-SELEX*  \n*3\\. Finish Cycle 3 of HT-SELEX*  \n*4\\. Prepare two more plates of His beads*  \n*5\\. Quantify DNA content in Cycle 4 of NCAP-SELEX experiments for both ligands*  \n*6\\. Standardise PE PCR conditions for library prep*\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2025-11-19",
+ "tags": {
+  "techniques": [
+   "qPCR",
+   "PCR",
+   "SELEX",
+   "Library prep",
+   "Bead purification"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "1. Prepare 5 fresh qPCR plates with 4.6 uL per plate  "
+}

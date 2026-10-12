@@ -1,0 +1,40 @@
+{
+ "date": "2026-05-15",
+ "heading": "**15 May 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "qPCR (6 plates)\n\n| qPCR Plates |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | per well in 384 | per 384-well plate | for 6 plates (x440) |\n| NF water | 2.91 μL | 1.12 mL | 7.68 mL |\n| 5x Phusion HF buffer | 1.25 μL | 480 μL | 3.3 mL |\n| 10mM e dNTP | 0.25 μL | 96 μL | 660 μL |\n| NCAP\\_F 100μM  | 0.025 μL | 9.6 μL | 66 μL |\n| NCAP\\_R 100μM  | 0.025 μL | 9.6 μL | 66 μL |\n| MgCl2 (50mM) | 0.0325 μL | 12.48 μL | 85.8 μL |\n| Hot Start Phusion DNA Pol | 0.0375 μL | 14.4 μL | 99 μL |\n| 100x SYBR (final 1:200) | 0.06 μL | 23.04 μL | 158.4 μL |\n| Total | 4.59 μL | 1.765 mL | 12.1155 mL |\n\nTo prepare 100x SYBR Green: add 5μL 10,000x SYBR Green into 500μL DMSO, which can be found in Phusion DNA Pol kits. Avoid light. Manually load 122μL mix into each well of a 96-well plate (AB0765), then transfer 4.5μL/well into 6x 384-well plates (LightCycler 384).\n\n*TF Dilution Buffer*\n\n500 mL\n\n| 1 M Tris-HCl pH 8 | 5 mL |\n| :---- | :---- |\n| BSA | 0.5 g |\n| KCl | 5.59 g |\n| Ethylene Glycol | 250 mL |\n| 100 mM ZnSO4.H2O | 50 uL |\n\n*Elution Buffer*\n\n0.1% Tween, 10 mM Tris pH7.8, 1 mM MgCl2 (0.5mM in PCR rxn)  \n   \n500 mL buffer:  \n\\-    \t500 uL Tween20  \n\\-    \t5 mL Tris pH 8  \n\\-    \t500 uL 1M MgCl2\n\n| 10X Wash Buffer |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | STOCK | Final 10x: | 2 L |\n| Tris pH 7.5 | 1M | 50mM | 100 mL |\n| EDTA | 0.5M | 50mM | 200 mL |\n\n*1.55X SELEX buffer*\n\n*1.55x Promega Buffer, 155μM EGTA, 1.55mM DTT, 3μM ZnSO4 (no dIdC)*\n\n200 mL\n\n| Promega Buffer 1.55 (10X) | 31 mL |\n| :---- | :---- |\n| EGTA (0.5 M) | 62 uL |\n| DTT (1 M) | 310 uL |\n| ZnSO4 (100 mM) | 6 uL |\n\nMake up the volume to 200 mL and filter the solution. Store at 4 degrees.  \nAliquot 8.5 uL of 1.55X SELEX Buffer per well of NUNC 384-well plates\n\n*1X SELEX buffer*\n\n*1x Promega Buffer, 100μM EGTA, 1mM DTT, 3μM ZnSO4 (no dIdC)*\n\n250 mL\n\n| Promega Buffer 1 (10X) | 25 mL |\n| :---- | :---- |\n| EGTA (0.5 M) | 50 uL |\n| DTT (1 M) | 250 uL |\n| ZnSO4 (100 mM) | 7.5 uL |\n\nMake up the volume to 250 mL and filter the solution. Store at 4 degrees.\n\n*Protein Plate Preparation*\n\nTake about 2 ug of protein for the following proteins:\n\n- CTCF  \n- cMYC  \n- cMYC \\+ MAX  \n- cMYC:MAX (Recombinant complex)\n\n10X TCAPT Buffer\n\n| 1.4 M KCl | 208.74 g |\n| :---- | :---- |\n| 50 mM NaCl | 5.844 g |\n| 10 mM MgCl2 | 20 mL |\n| 1 mM EGTA | 4 mL |\n| 100 mM Tris-HCl pH 8 | 200 mL |\n| Tween20 | 20 mL |\n| 30 uM ZnSO4.H2O | 600 uL |\n\n0.5 M EGTA ⇒ 1.90 g EGTA in 10 mL 1 M NaOH → 1.9 g EGTA \\+ 9 mL sterile water \\+ 1 mL 10 M NaOH\n\n*Blocking Buffer Salt-free*\n\n*Blocking buff (salt free): 25mM Tris, 0.5% BSA, 0.1% tween, 0.02% NaN3 pH8 \\[500 mL buffer\\]*\n\n25 mM Tris pH 8 \\= 12.5 mL  \n0.5 % BSA \\= 2.5 g BSA  \n0.1 % Tween20 \\= 500 uL  \n0.02% NaN3 \\= 0.1 g\n\n500 mL\n\n| Tris-HCl pH 8 | 12.5 mL |\n| :---- | :---- |\n| BSA | 2.5 g |\n| Tween20 | 500 uL |\n| NaN3 | 0.1 g |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 7,
+ "id": "2026-05-15",
+ "tags": {
+  "techniques": [
+   "qPCR",
+   "PCR",
+   "SELEX",
+   "Protein purification"
+  ],
+  "reagents": [
+   "Phusion",
+   "SYBR",
+   "EDTA",
+   "Tris",
+   "NaCl",
+   "KCl",
+   "MgCl2",
+   "BSA",
+   "DTT",
+   "dNTPs"
+  ],
+  "samples": [
+   "NCAP_F",
+   "NCAP_R"
+  ],
+  "custom": []
+ },
+ "title": "qPCR (6 plates)"
+}

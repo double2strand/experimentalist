@@ -1,0 +1,35 @@
+{
+ "date": "2025-09-09",
+ "heading": "**9 September 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Fix AT10-HCC PCR and perform assembly and transformation of this library**  \n2. **Perform transduction of GP5del cells with Hcla, Gcla, GCD, HCD viruses**  \n3. **Perform transfection of GP5d cells with TF-ORF mCherry plasmid**  \n4. **Finish design of new pETG20A constructs**  \n5. **Test lig147 ligation products on an agarose gel**\n\n### 1. Fix AT10-HCC PCR and perform assembly and transformation of this library\n\nThe previous AT10-HCC PCR1 gave a smudge around 200 bp which is not right. The primers are correct. Set up two reactions:\n\nHCC1\n\n| 2X KAPA HiFi | 12.5 uL |\n| :---- | :---- |\n| Nhancer142\\_F (10 uM) | 0.75 uL |\n| HCC\\_R\\* (10 uM) | 0.75 uL |\n| AT10 | 1 uL |\n| NF H2O | 10 uL |\n\nHCC2\n\n| 2X KAPA HiFi | 12.5 uL |\n| :---- | :---- |\n| Nhancer142\\_F (10 uM) | 0.75 uL |\n| HCC\\_R\\* (10 uM) | 0.75 uL |\n| AT10 | 2 uL |\n| NF H2O | 10 uL |\n\nOLIGOAMP\n\n| 95°C | 3 min |\n| :---- | :---- |\n| 98°C | 20 s |\n| 58°C | 15 s       14X |\n| 72°C | 15 s |\n| 72°C | 10 min |\n| 4°C | HOLD |\n\n   \nChanges:\n\n- Corrected annealing temp \\= 58 degrees  \n- Increased final elongation \\= 10 mins\n\nCheck the products for these two reactions as well as for the previous AT10-HCC-PCR on a 2.5% agarose gel.\n\nUpon running the gel with the following samples:\n\n- AT10-HCC-PCR (old)  \n- AT10-HCC-1  \n- AT10-HCC-2\n\nFrom the gel, clean products can be seen for both AT10-HCC-1 & AT10-HCC-2, however the latter has more DNA.\n\nFollow-Up:\n\ni. Set up another round of AT10-HCC-2 with 2 tubes\n\nHCC2 X 2\n\n| 2X KAPA HiFi | 12.5 uL |\n| :---- | :---- |\n| Nhancer142\\_F (10 uM) | 0.75 uL |\n| HCC\\_R\\* (10 uM) | 0.75 uL |\n| AT10 | 2 uL |\n| NF H2O | 10 uL |\n\nOLIGOAMP\n\n| 95°C | 3 min |\n| :---- | :---- |\n| 98°C | 20 s |\n| 58°C | 15 s       14X |\n| 72°C | 15 s |\n| 72°C | 10 min |\n| 4°C | HOLD |\n\nii. Set up PCR 2:\n\nHCC2-2 X 10\n\n| 2X KAPA HiFi | 12.5 uL |\n| :---- | :---- |\n| Nhancer142\\_F (10 uM) | 0.75 uL |\n| HCC\\_R\\* (10 uM) | 0.75 uL |\n| AT10-HCC2  | 2.5 uL |\n| NF H2O | 10 uL |\n\nOLIGOAMP\n\n| 95°C | 3 min |\n| :---- | :---- |\n| 98°C | 20 s |\n| 58°C | 15 s       6X |\n| 72°C | 15 s |\n| 72°C | 10 min |\n| 4°C | HOLD |\n\nPool these reaction and purify by column purification.\n\nNext set up the assembly reaction:\n\npHRS-HCC (5X)\n\nPer reaction:\n\n| pHRS-HCC (M) | 50 ng |\n| :---- | :---- |\n| HCCAT10-PCR | 10 ng |\n| 2X NEB HiFi Assembly Mix | 10 uL |\n| NF H2O | Make up volume to 20 uL |\n\nIncubate at 50 degrees for 1 hour. Transform 2 uL of the product into 5 tubes each of the competent cells.\n\n### 5. Test lig147 ligation products on an agarose gel\n\nLoad the samples in the following order:\n\n1. 147-PNK-T/A (old)  \n2. 147-Root-PNK-T/A  \n3. 147-Mastercopy-PNK-T/A  \n4. 147-Rootcopy-PNK-T/A\n\nAs a control also load the original lig147-Root.\n\nLigation was observed for all the new sets of samples but not in the case of 147-PNK-T/A (old) which was potentially column purified and therefore did not retain the long DNA.\n\n### 2. Perform transduction of GP5del cells with Hcla, Gcla, GCD, HCD viruses\n\nGcla X 2 \\= 1000 uL virus \\+ 998 uL GP5d1-T media \\+ 2 uL polybrene  \nHcla X 2 \\= 1000 uL virus \\+ 998 uL GP5d1-T media \\+ 2 uL polybrene  \nGCD X 2 \\= 1000 uL virus \\+ 998 uL GP5d1-T media \\+ 2 uL polybrene  \nHCD X 2 \\= 1000 uL virus \\+ 998 uL GP5d1-T media \\+ 2 uL polybrene  \nGFP X 2 \\= 200 uL virus \\+ 1798 uL GP5d1-T media \\+ 2 uL polybrene\n\nLeave the media O/N on the cells.\n\n### 3. Perform transfection of GP5d cells with TF-ORF mCherry plasmid\n\nChange the media 2 hours prior to the transfection.\n\nEach well contains about 250K cells.\n\nHence, we add for 2 wells:\n\nTube 1: 250 uL Opti-MEM \\+ 20 uL P3000 \\+ 6 ug DNA  \nTube 2: 250 uL Opti-MEM \\+ 15 uL L3000\n",
+ "experiments": [
+  "1. Fix AT10-HCC PCR and perform assembly and transformation of this library",
+  "5. Test lig147 ligation products on an agarose gel",
+  "2. Perform transduction of GP5del cells with Hcla, Gcla, GCD, HCD viruses",
+  "3. Perform transfection of GP5d cells with TF-ORF mCherry plasmid"
+ ],
+ "images": [],
+ "tables": 8,
+ "id": "2025-09-09",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Gel electrophoresis",
+   "Ligation",
+   "Transfection",
+   "Library prep",
+   "Column purification"
+  ],
+  "reagents": [],
+  "samples": [
+   "lig147"
+  ],
+  "custom": []
+ },
+ "title": "Fix AT10-HCC PCR and perform assembly and transformation of this library; Test lig147 ligation products on an agarose gel; Perform transduction of GP5del cells with Hcla, Gcla, GCD, HCD viruses"
+}

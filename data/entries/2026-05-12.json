@@ -1,0 +1,43 @@
+{
+ "date": "2026-05-12",
+ "heading": "**12 May 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*HTFS, NCFS ligation purification*\n\nProteinase K \\+ SDS treatment\n\n* **Make up value to 100 uL with TE buffer**  \n* **SDS 10%**: **2 µL** (final 0.2%)  \n* **Proteinase K (20 mg/mL)**: **2 µL** (final \\~0.4 mg/mL)\n\nIncubate at RT, 15-30 mins.\n\n- Add 1.5X volume of AmpureXP beads and mix thoroughly. Incubate at RT for 10 mins.  \n- Place tubes on magnetic rack and allow liquid to separate from beads for 5 mins.  \n- Perform two washes with 80% ethanol (200-300 uL each)  \n- Allow the beads to dry for \\~30s and then add fresh TE buffer in 40 uL for elution. Mix thoroughly and incubate at 37 C for 5 mins.  \n- Place tubes on magnetic rack and allow liquid to separate from beads for 5 mins. Collect separated supernatant as purified DNA sample.  \n- Repeat last two steps with a smaller volume of 10 uL for improved yield.\n\nConcentration of Samples:\n\n1. HTFS200\\_PE2 \\=  \n2. HTFS70N\\_PE2 \\=  \n3. NCFS200\\_PE3 \\=  \n4. NCFS70N\\_PE3 \\=\n\nPCR1 plates  \nPCR (For 8 plates)\n\n| PCR Plates |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | per well in 384 | per 384-well plate | for 8 plates (x440) |\n| NF water | 8.65μL | 3.323mL | 30.48mL |\n| 5x Phusion HF buffer | 3.75μL | 1.440mL | 13.2mL |\n| 10mM e dNTP | 0.75μL | 288μL | 2.64mL |\n| NCAP\\_F 100μM  | 0.075μL | 28.8μL | 264μL |\n| NCAP\\_R 100μM  | 0.075μL | 28.8μL | 264μL |\n| MgCl2 (50mM) | 0.0975μL | 37.44μL | 343μL |\n| Hot Start Phusion DNA Pol | 0.10875μL | 41.76μL | 383μL |\n| Total | 13.51μL | 5.189mL | 47.57mL |\n\n*qPCR Mix*\n\nqPCR (6 plates)\n\n| qPCR Plates |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | per well in 384 | per 384-well plate | for 6 plates (x440) |\n| NF water | 2.91 μL | 1.12 mL | 7.68 mL |\n| 5x Phusion HF buffer | 1.25 μL | 480 μL | 3.3 mL |\n| 10mM e dNTP | 0.25 μL | 96 μL | 660 μL |\n| NCAP\\_F 100μM  | 0.025 μL | 9.6 μL | 66 μL |\n| NCAP\\_R 100μM  | 0.025 μL | 9.6 μL | 66 μL |\n| MgCl2 (50mM) | 0.0325 μL | 12.48 μL | 85.8 μL |\n| Hot Start Phusion DNA Pol | 0.0375 μL | 14.4 μL | 99 μL |\n| 100x SYBR (final 1:200) | 0.06 μL | 23.04 μL | 158.4 μL |\n| Total | 4.59 μL | 1.765 mL | 12.1155 mL |\n\nTo prepare 100x SYBR Green: add 5μL 10,000x SYBR Green into 500μL DMSO, which can be found in Phusion DNA Pol kits. Avoid light. Manually load 122μL mix into each well of a 96-well plate (AB0765), then transfer 4.5μL/well into 6x 384-well plates (LightCycler 384).\n\n*PCR2 mix (6.5) plates*\n\n300 uL  per well of a Greiner Round PP plate → 3 X 4ti384 well plates\n\nTop up the same plate and then prepare another 3 plates.\n\n![](assets/img/doc3-image15.png)\n\n*PE Phusion Mix (16X)*\n\n| PE Phusion Mix |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | per well in 384 | per 384-well plate | for 16 plates |\n| MQ water | 2.39642μL | 1055.25 μL | 16884 μL |\n| 5x Phusion HF buffer | 2.47818μL | 1091.25 μL | 17460 μL |\n| 10mM dNTP | 0.48542μL | 213.75 μL | 3420 μL |\n| MgCl2 (50mM) | 0.49819μL | 219.375 μL | 3510 μL |\n| HF Phusion DNA Pol (2U/µL) | 0.14179μL | 62.4375 μL | 999 μL |\n| Total | 6μL | 2642.0625 μL | 42.273 mL |\n\nAdd 135μL per well of a 96-well plate (AB0765).\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc3-image15.png"
+ ],
+ "tables": 3,
+ "id": "2026-05-12",
+ "tags": {
+  "techniques": [
+   "qPCR",
+   "PCR",
+   "Ligation",
+   "Bead purification",
+   "Protein purification",
+   "Proteinase K"
+  ],
+  "reagents": [
+   "Phusion",
+   "SYBR",
+   "Proteinase K",
+   "AMPure",
+   "SDS",
+   "MgCl2",
+   "dNTPs",
+   "TE buffer",
+   "Ethanol"
+  ],
+  "samples": [
+   "NCAP_F",
+   "NCAP_R"
+  ],
+  "custom": []
+ },
+ "title": "HTFS, NCFS ligation purification"
+}

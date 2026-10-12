@@ -1,0 +1,49 @@
+{
+ "date": "2025-11-05",
+ "heading": "**5 November 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "***1\\. Buffer checklist for SELEX***\n\n| Buffer Name | pH checked | Filtered | Prepared |\n| :---- | :---- | ----- | :---: |\n| 10X HT-SELEX (1.55X) Buffer |  | ✓ | ✓ |\n| 10X HT-SELEX (1X) Buffer |  | ✓ | ✓ |\n| Nucleosome Dilution Buffer |  | ✓ | ✓ |\n| Refolding Buffer  |  |  |  |\n| TF Dilution Buffer (HT-SELEX) |  |  |  |\n| TF Dilution Buffer (NCAP-SELEX) |  | ✓ | ✓ |\n| NCAP-SELEX Elution Buffer |  | ✓ | ✓ |\n| Biotin Elution Buffer |  | ✓ | ✓ |\n| 10X TCAPT Buffer |  | Volume too large | ✓ |\n| TCAPT Block Buffer |  | ✓ | ✓ |\n| Sol1 Salt Buffer |  | ✓ | ✓ |\n| Blocking Buffer Salt-Free |  | ✓ | ✓ |\n| 1X Wash Buffer (NCAP) |  | Volume too large | Prepared just before Wash step |\n| 0.5X Wash Buffer (NCAP) |  | Volume too large | Prepared just before Wash step |\n\n***2\\. D7-UB+prot treatment***\n\nBased on what we see from the Qubit concentrations as well as the MNase gels, it did seem like more of the reconstituted DNA was in the D7-UB sample.\n\nConcentration of this sample \\= \\~5 ng/uL\n\n25 uL of this sample \\= \\~125 ng DNA+octamer\n\nTake 25 uL into 24 wells.\n\nThis 25 uL sample is in a buffer containing \\~170 mM salt. \n\nProteins to be tested:\n\nFOXA3 \\- Quad3 (A4) \\- Take 20 uL of original protein and mix with 80 uL of TF dilution buffer (NCAP).\n\nJUN \\- Quad3 (C9) \\- Take 20 uL of original protein and mix with 80 uL of TF dilution buffer (NCAP).\n\nELK4 \\- Quad3 (D1) \\- Take 20 uL of original protein and mix with 80 uL of TF dilution buffer (NCAP).\n\ncMYC:MAX commercial \\- Take 5 ug of protein and mix with TF dilution buffer (NCAP) to achieve 100 uL volume. \n\nCombine 25 uL of nucleosome sample D7-UB \\+ 40 uL no salt 10 mM HEPES pH 8 \\+ 4 uL of each diluted protein (16 uL) ⇒ \\~88 mM salt concentration\n\nIncubate at RT, 30 mins\n\nTotal volume at this point \\=  24 X 80 \\= 1920 uL (\\~1.56 ng/uL)\n\n10 uL of this mix solution will have about 16 ng. \n\n***3\\. Hia5 treatment for D7-UB, D7-UB+prot, D7’ & D8***\n\n| 1 M Tris pH 8 | 15 uL |\n| :---- | :---- |\n| EDTA (0.5 M) | 2 uL |\n| EGTA (0.5 M) | 1 uL |\n| NaCl (100 mM) | 150 uL |\n| KCl (100 mM) | 600 uL |\n| Spermidine (100X) | (1X) 10 uL |\n\nSet up reactions for the following samples (test run):\n\nD7-UB\n\n* Prepare dHia5-1 \\= 0.5 uL in 8 uL of Hia5 buffer  \n* Prepare Master-Mix \\= 80 uL sample \\+ 68 uL Hia5 buffer \\+ 4 uL SAM \\+ 8 uL Hia5 (8 reaction)  \n* Aliquot 20 uL each to tubes.\n\nD7’\n\n* Prepare dHia5-2 \\= 0.5 uL in 8 uL of Hia5 buffer  \n* Prepare Master-Mix \\= 80 uL sample \\+ 68 uL Hia5 buffer \\+ 4 uL SAM \\+ 8 uL Hia5 (8 reaction)  \n* Aliquot 20 uL each to tubes.\n\nD7-UB+prot\n\n* Prepare dHia5-3 ⇒ 0.5 uL enzyme in 32 uL of Hia5 buffer  \n* Prepare Master-Mix \\= 320 uL sample \\+ 240 uL Hia5 buffer \\+ 16 uL SAM \\+ 32 uL dHia5 \\+ 32 uL 50% PEG8000  \n* Aliquot 20 uL each to tubes.\n\nD8\n\n* Prepare dHia5-4 ⇒ 0.5 uL enzyme in 8 uL of Hia5 buffer  \n* Prepare Master-Mix \\= 148 uL sample \\+ 4 uL SAM \\+ 8 uL dHia5  \n* Aliquot 20 uL each to tubes.\n\nAfter Hia5 treatment, add 0.5 uL 10% SDS & 0.5 uL Proteinase K (20 mg/mL) in 20 uL reactions and incubate 50 degrees, 15 mins were added to .\n\nPerform clean-up with Ampure XP beads:\n\n- Add 1.5X volume of AmpureXP beads and mix thoroughly. Incubate at RT for 15 mins.  \n- Place tubes on magnetic rack and allow liquid to separate from beads for 5 mins.  \n- Perform two washes with 80% ethanol (200-300 uL each)  \n- Allow the beads to dry for \\~30s and then add fresh TE buffer in desired volume for elution. Mix thoroughly and incubate at RT for 5 mins.  \n- Place tubes on magnetic rack and allow liquid to separate from beads for 5 mins. Collect separated supernatant as purified DNA sample.\n\n**Storage Conditions** \n\nPlasmids are delivered in vials with red or blue caps;  Store the vials at 4°C for short-term and frequent use, or at \\-20°C for long-term storage. \n\n**Material Instructions** \n\nKeep the vial sealed until ready to use. Centrifuge at 6,000 x g for 1 minute at 4°C. Open the vial and add 20 μl of sterilized water to dissolve the DNA. Close the lid and vortex the vial for 1 minute. If necessary, heat the solution at 50°C for 15 minutes to dissolve the DNA. Transformation of the plasmid DNA can be performed directly after completion of the steps above. Verify the plasmid sequence after each subcloning and transformation step.\n\n![](assets/img/doc3-image4.png)\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc3-image4.png"
+ ],
+ "tables": 2,
+ "id": "2025-11-05",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "MNase",
+   "Hia5",
+   "Reconstitution",
+   "Qubit",
+   "Bead purification",
+   "Protein purification",
+   "Proteinase K"
+  ],
+  "reagents": [
+   "Proteinase K",
+   "SAM",
+   "Spermidine",
+   "AMPure",
+   "Hia5",
+   "MNase",
+   "SDS",
+   "EDTA",
+   "Tris",
+   "NaCl",
+   "KCl",
+   "Histone octamer",
+   "TE buffer",
+   "Ethanol"
+  ],
+  "samples": [
+   "D1"
+  ],
+  "custom": []
+ },
+ "title": "1. Buffer checklist for SELEX"
+}

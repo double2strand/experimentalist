@@ -1,0 +1,27 @@
+{
+ "date": "2025-08-01",
+ "heading": "**1 August 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Prepare flow cytometry samples for Aurora analyser**  \n2. **Aliquot salt plates to two 96-well plates and leave for drying**\n\n### 1. Prepare flow cytometry samples for Aurora analyser\n\nHarvest and prepare two tubes each of the following samples:\n\n1. HepG2del\\_WT  \n2. HAP1\\_WT  \n3. HepG2del\\_GclaT1  \n4. HepG2del\\_GclaT2  \n5. HepG2del\\_HclaT1  \n6. HepG2del\\_HclaT2  \n7. HAP1\\_MYCT1PB  \n8. HAP1\\_MYCT2PB  \n9. HAP1\\_MYCT1PB2  \n10. HAP1\\_MYCT2PB2  \n11. GP5del\\_MYCT1PB  \n12. GP5del\\_MYCT2PB  \n13. GP5del\\_MYCT1PB2  \n14. GP5del\\_MYCT2PB2  \n    \n\nSample preparation:\n\n- Trypsinize and harvest the cells and spin them down.  \n- Resuspend cells in 2% paraformaldehyde solution for fixing and keep at RT for 30 mins.  \n- Spin the cells at 500g, 5 mins and wash once with ice-cold PBS.  \n- After wash and spin, resuspend cell pellet in 1 mL of FACS Buffer (with BSA) and pass through FACS tube filters.\n\nStandardisation of FACS parameters:\n\n- FSC-A versus SSC-A to select P1 \\- overall population of cells with correct size and granularity  \n- FSC-W versus FSC-A to exclude doublets: Only select the cells along a straight line, discard cells with larger width P2.  \n- SSC-W versus SSC\\_A: Select cells along the line or uniform cluster and mark as P3.  \n- Plot P3 for GFP versus mCherry for only GFP cell screening, and mCherry versus GFP for only mCherry screening. Mark these respective populations as P4.\n\n![](assets/img/doc2-image95.png)\n",
+ "experiments": [
+  "1. Prepare flow cytometry samples for Aurora analyser"
+ ],
+ "images": [
+  "assets/img/doc2-image95.png"
+ ],
+ "tables": 0,
+ "id": "2025-08-01",
+ "tags": {
+  "techniques": [],
+  "reagents": [
+   "BSA"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Prepare flow cytometry samples for Aurora analyser"
+}

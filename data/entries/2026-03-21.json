@@ -1,0 +1,41 @@
+{
+ "date": "2026-03-21",
+ "heading": "**21 March 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*HT-SELEX Buffers*\n\n**10X Promega Buffer (for 1.55X SELEX buffer) \\[HT-SELEX\\]**\n\n| Reagents | Final 10x: | 250 mL |\n| :---- | :---- | :---- |\n| **Tris pH 7.5** | **200mM** | **50 mL** |\n| **KCl** | **770 mM** | **14.35 g** |\n| **MgCl2** | **10mM** | **2.5 mL** |\n| **Glycerol** | **40%** | **100 mL** |\n| **MQ water** | **\\-** |  |\n\n**10X Promega Buffer (for 1X SELEX buffer) \\[HT-SELEX\\]**\n\n| Reagents | Final 10x: | 250 mL |\n| :---- | :---- | :---- |\n| **Tris pH 7.5** | **200mM** | **50 mL** |\n| **KCl** | **750 mM** | **13.98 g** |\n| **MgCl2** | **10mM** | **2.5 mL** |\n| **Glycerol** | **40%** | **100 mL** |\n| **MQ water** | **\\-** |  |\n\n1 M DTT ⇒ Resuspend 0.77 g of DTT in 5 mL of water to prepare a 1 M stock if needed.\n\n*1.55X SELEX buffer*\n\n*1.55x Promega Buffer, 155μM EGTA, 1.55mM DTT, 3μM ZnSO4 (no dIdC)*\n\n250 mL\n\n| Promega Buffer 1.55 (10X) | 38.75 mL |\n| :---- | :---- |\n| EGTA (0.5 M) | 77.5 uL |\n| DTT (1 M) | 387.5 uL |\n| ZnSO4 (100 mM) | 7.5 uL |\n\nMake up the volume to 250 mL and filter the solution. Store at 4 degrees.  \nAliquot 8.5 uL of 1.55X SELEX Buffer per well of NUNC 384-well plates\n\n*1X SELEX buffer*\n\n*1x Promega Buffer, 100μM EGTA, 1mM DTT, 3μM ZnSO4 (no dIdC)*\n\n250 mL\n\n| Promega Buffer 1 (10X) | 25 mL |\n| :---- | :---- |\n| EGTA (0.5 M) | 50 uL |\n| DTT (1 M) | 250 uL |\n| ZnSO4 (100 mM) | 7.5 uL |\n\nMake up the volume to 250 mL and filter the solution. Store at 4 degrees.\n\nHT-SELEX Protocol Summary  \n4.5 uL protein \\+ 8.5 uL 1.55X SELEX Buffer  \nAdd 5 uL DNA to mix above. Incubate at RT, 30 mins.\n\nAspirate blocking buffer from Ni beads. Add 20 uL of 1 X SELEX Buffer. Transfer previous mix to the beads \\+ 20 uL 1 X SELEX buffer.\n\nSeal plates and incubate 1900 rpm, 45 mins.\n\nWash and then add 35 uL of elution buffer per well. Heat plates at 80 degrees, 15 minutes to elute out DNA.\n\n*PCR1 Mix*\n\nPrepare 3 sets each using the mix below:\n\nPCR (For 8 plates)\n\n| PCR Plates |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | per well in 384 | per 384-well plate | for 8 plates (x440) |\n| NF water | 8.65μL | 3.323mL | 30.48mL |\n| 5x Phusion HF buffer | 3.75μL | 1.440mL | 13.2mL |\n| 10mM e dNTP | 0.75μL | 288μL | 2.64mL |\n| NCAP\\_F 100μM  | 0.075μL | 28.8μL | 264μL |\n| NCAP\\_R 100μM  | 0.075μL | 28.8μL | 264μL |\n| MgCl2 (50mM) | 0.0975μL | 37.44μL | 343μL |\n| Hot Start Phusion DNA Pol | 0.10875μL | 41.76μL | 383μL |\n| Total | 13.51μL | 5.189mL | 47.57mL |\n\nManually load 489μL mix into each well of a 96-well plate (AB0765), then transfer 13.5μL/well into 384-well plates (4ti-0384C).\n\n*PCR2 Mix*\n\nDilution 2-cycle PCR2 (For 8 plates)\n\nPrepare 3 sets each using the mix below:\n\n|  |  |  |  |\n| ----- | :---- | :---- | :---- |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n\nManually load 606μL mix into each well of a 96-well plate (AB0765), then transfer 18μL/well into 384-well plates (4ti-0384C).  \nSeal the plates, freeze at \\-20℃ until use.\n\n*SBP Histone Octamer Plate*\n\nOctamer concentration \\= 7.25 ug/uL \\= 7250 ng/uL\n\nNumber of experiments \\= 9\n\nVolume per experiment \\= 1.8 uL\n\nVolume needed per well \\= 20 uL\n\nPrepare 30 ng/uL octamer with 25 uL per well ⇒ 20 X 400 X 30 \\= 240 ug SBP-octamer\n\nTake 41 uL of original octamer and make up solution to 8000 uL (add 240 uL 100 mM TCEP \\+ 7719 uL of refolding buffer:glycerol (1:1))\n\n1000 uL per well along a column of a deep storage plate → 83 uL per well of a Greiner 96-well plate → aliquot 20 uL per well of a 4ti384 well plate (store octamer at 4 degrees)\n\n![](assets/img/doc3-image15.png)\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc3-image15.png"
+ ],
+ "tables": 6,
+ "id": "2026-03-21",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Bead purification",
+   "Column purification",
+   "Protein purification"
+  ],
+  "reagents": [
+   "Phusion",
+   "Tris",
+   "KCl",
+   "MgCl2",
+   "DTT",
+   "Histone octamer",
+   "dNTPs",
+   "Glycerol"
+  ],
+  "samples": [
+   "NCAP_F",
+   "NCAP_R"
+  ],
+  "custom": []
+ },
+ "title": "HT-SELEX Buffers"
+}

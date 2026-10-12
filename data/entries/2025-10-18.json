@@ -1,0 +1,35 @@
+{
+ "date": "2025-10-18",
+ "heading": "**18 October 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "50 mL\n\n| 1 M Tris pH 8 | 0.75 mL |\n| :---- | :---- |\n| EDTA (0.5 M) | 100 uL |\n| EGTA (0.5 M) | 50 uL |\n| KCl (4 M) | 1 mL |\n| TCEP | 500 uL |\n| Glycerol | 2.5 mL |\n\nLet the solution mix for a short while. Filter using 0.22 um filter and then add \\~5 mL to each 15 mL falcon tube. Take 3 mini-dialysis columns labeled D1, D2 and D3 and then place them on top of the buffer solution for equilibration.\n\nAfter equilibration, transfer the original reconstituted samples in D1, D2, D3 to each of the new mini dialysis columns. During the transfer, rinse the original columns with a little of the Buffer C and add this to the transferred samples undergoing buffer exchange.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2025-10-18",
+ "tags": {
+  "techniques": [
+   "Reconstitution",
+   "Dialysis",
+   "Column purification",
+   "Buffer exchange"
+  ],
+  "reagents": [
+   "EDTA",
+   "Tris",
+   "KCl",
+   "Glycerol"
+  ],
+  "samples": [
+   "D1",
+   "D2",
+   "D3"
+  ],
+  "custom": []
+ },
+ "title": "50 mL"
+}

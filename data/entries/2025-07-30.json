@@ -1,0 +1,34 @@
+{
+ "date": "2025-07-30",
+ "heading": "**30 July 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Isolation of GCC-ShhBC v1 plasmid library**  \n2. **Check cell confluency and change media**  \n3. **Prepare new HAP1 media**  \n4. **Finalise nucleosome recon protocol**  \n5. **Design primers for testing MYC355 transposition on gDNA level**  \n6. **Prepare fixing buffer for Flow Cytometry**  \n   \n\n### 3. Prepare new HAP1 media\n\nHAP1 media (500 mL)\n\n| IMDM | Make up to 500 mL |\n| :---- | :---- |\n| HI FBS (10%) | 50 mL |\n\n### 4. Finalise nucleosome recon protocol\n\nDilution buffer for nucleosome reconstitution:\n\n*TE buffer \\+ 1mM TCEP \\+ cocktail Tablet \\+ 2mM MgCl2*\n\n1.5 cocktail tablets \\+ TCEP \\+ MgCl2 (Make up volume to 250 mL by filtering) \\[pH 8\\]\n\nFor dried salt plates:\n\nConsider that I add 10 uL of DNA solution. Then according to this, the salt that needs to be dried is as follows (per well of a 96-well plate):\n\n5 uL of 4 M KCl solution needs to be dried in each well of the plate in order to achieve the required moles of KCl after adding 10 uL of neutral no-salt DNA solution.\n\n### 6. Prepare fixing buffer for Flow Cytometry\n\nFixing Buffer for Flow cytometry\n\n- PBS (w/o Ca, Mg)  \n- 1% BSA  \n- 0.05% Sodium Azide\n\nPrepare a stock sodium azide solution (1%) \\- 0.1 g in 10 mL water. Since there was no Sodium azide, this was not added to the prepared FACS buffer.\n",
+ "experiments": [
+  "3. Prepare new HAP1 media",
+  "4. Finalise nucleosome recon protocol",
+  "6. Prepare fixing buffer for Flow Cytometry"
+ ],
+ "images": [],
+ "tables": 1,
+ "id": "2025-07-30",
+ "tags": {
+  "techniques": [
+   "Reconstitution",
+   "Library prep",
+   "gDNA isolation"
+  ],
+  "reagents": [
+   "KCl",
+   "MgCl2",
+   "BSA",
+   "TE buffer"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Prepare new HAP1 media; Finalise nucleosome recon protocol; Prepare fixing buffer for Flow Cytometry"
+}

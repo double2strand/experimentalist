@@ -1,0 +1,28 @@
+{
+ "date": "2026-03-23",
+ "heading": "**23 March 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Bead Preparation*\n\nSBP: 2.5mL beads in 55mL blocking buff(salt free), dist 5 plates, 25uL/well\n\nHis: 4mL beads in 55mL blocking buff(salt free)\n\nFirst take 2.5 mL of SBP beads and separate out the storage buffer and 4 mL of HIS beads and remove the storage buffer.\n\nResuspend both beads in 20 mL of Blocking buffer and incubate at RT, 10 mins.\n\nRemove buffer and make up the volume to 55 mL for both beads.\n\n*Wash Programs*\n\n**Rinse with water – 5 secs**  \n·   \t**Prime with water – 5 secs**  \n·   \t**Prime with buffer – 5 secs**  \n**Wash**\n\nNCAP Wash  \n**no soak, with shake wash (6+6+3)**\n\n**HT Wash**  \n**soak but NO shake wash (1+6+3+6+3+1)**  \nSet up the HT wash program on the new washer.\n\n*Wash Buffers*\n\n1X NCAP Wash Buffer \\= 200 mL 10X TCAPT Buffer \\+ 400 uL 2-ME (Make up to 2 L) \\[Prepare 2 bottles\\]\n\n0.5X NCAP Wash Buffer \\= 100 mL 10X TCAPT Buffer \\+ 400 uL 2-ME (Make up to 2 L) \\[Prepare 2 bottles\\]\n\nHT-SELEX Buffers\n\n| 10X Wash Buffer |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | STOCK | Final 10x: | 2 L |\n| Tris pH 7.5 | 1M | 50mM | 100 mL |\n| EDTA | 0.5M | 50mM | 200 mL |\n\nIncubate the wash buffer in an ice bucket during use.  \nRinse and prime the washer before loading the beads plate.\n\nFreshly prepare 1X buffer ⇒ 200 mL \\+ 1800 mL water \\+ 2 mL 1 M DTT. Prepare early during the day and chill the bottles at 4 degrees. \\[Prepare 2 bottles\\]  \n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2026-03-23",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Bead purification"
+  ],
+  "reagents": [
+   "EDTA",
+   "Tris",
+   "DTT"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Bead Preparation"
+}

@@ -1,0 +1,75 @@
+{
+ "date": "2025-10-24",
+ "heading": "**24 October 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "### 1. Preparation of SELEX buffers\n\n### 2. Prepare new 293T media & discard old 293TX cells\n\n### 3. Calculate & record recent virus titer experiment\n\n### 4. Set up reconstitution for lig20K with recombinant human histone octamer\n\n### 5. Set up reconstitution for GP5d-20K with WT histone octamer (D5 repeat)\n\n### 6. Combined ligation of different ligand patterns\n\n### 7. lig147 ligand plate preparation\n\n### 8. D4, D5 recon lower salt dialysis\n\n### 1. Preparation of SELEX buffers\n\nChemical Table:\n\n| ZnSO4.7H2O | Ordered |\n| :---: | :---: |\n| Imidazole | Y |\n| MgCl2 | Y |\n| EDTA | Y |\n| EGTA | Y |\n| Tris pH 8 | Y |\n| Tris pH 7.5 | Y |\n| Tween20 | Y |\n| KCl | Y |\n| NaCl | Y \\+ Ordered |\n| NaN3 (sodium azide) | Y |\n| 2-ME | Y |\n| BSA | Y \\+ Ordered |\n| TE Buffer | Y |\n| TCEP | Y |\n| NaOH | Y \\+ Ordered |\n| Biotin | Y \\+ Ordered |\n| Na-EDTA  | Ordered |\n| Ethylene Glycol (EG) | Ordered |\n| Glycerol | Y |\n| DTT | Y \\+ Ordered |\n\n### 3. Calculate & record recent virus titer experiment\n\nBased on the previous p24 standard curve, the following values were determined for the new batch of viruses with the amounts required for infection at MOI=200.\n\n![](assets/img/doc3-image2.png)\n\nBased on these values, it was also observed that Gcla, GCD-1 were packaged and concentrated at 4 degrees for \\~40-48 hours, while GCD-2, HCD were concentrated for only \\~20-24 hours. Quite a significant difference in the titer is seen in these cases.\n\n### 4. Set up reconstitution for lig20K, lig50K with recombinant human histone octamer\n\n*lig20K*\n\nUse 3.89 ug of DNA\n\nlig20K (D6) ⇒ 15 uL ⇒ 15 nM \\[at 2 M salt concentration\\]\n\nOctamer stock ⇒ 1.07 ug/uL\n\nOctamer molarity acc. to 60:1 ratio ⇒ 0.9 uM ⇒ 1.96 ug in 5 uL ⇒ Prepare 500 ng/uL stock OH500 (3.74 uL \\+ 4.26 uL refolding buffer) ⇒ 3.92 uL OH500 \\+ 1.08 uL refolding buffer \\+ glycerol} \n\n### 5. Set up reconstitution for GP5d-20K with WT histone octamer (D5 repeat)\n\n*GP5d-20K \\[x1\\]*\n\nUse 3.89 ug of DNA \\[\t\t\t\t\\]\n\n*GP5d-20K* (D5) ⇒ 15 uL ⇒ 15 nM \\[at 2 M salt concentration\\]\n\nPrepare 5 uL octamer stock \\[3.92 uL O500 \\+ 1.08 uL refolding buffer \\+ glycerol\\] \\[1.78 M\\] ⇒ Final concentration of mix \\[1.95 M\\]\n\nThis trial is being run at 1.5 mL/min (pump 1\\) & 1.3 mL/min (pump 2\\)\n\n### 7. lig147 ligand plate preparation\n\nConcentration of original lig147 ssDNA tube is about 4.8 ug/uL\n\nDilute this 1:200 ⇒ 1 uL oligo \\+ 199 uL TE buffer (lig147-dil200)\n\nPCR 1 → 100X\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **Final diluted DNA** | **20** |\n| **Phusion Master Mix** | **525** |\n| **NCAP\\_F (10 µM)** | **52.5** |\n| **NCAP\\_R (10 uM)** | **52.5** |\n| **Water** | **400**  |\n| **Total** | **1,050** |\n\nThis uses \\~10-12 ng of the ssDNA as template per reaction.\n\n \n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **8X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\nPool all PCR products and run 20 uL on an agarose gel to check the purity of the product. Once confirmed that the product is of good quality, pool all reactions together and purify the product to final pure ligand (of each type).\n\nThe band from PCR 1 was very clean and the yield was seen to be \\~28 ng/uL.\n\nFor one 384-well plate with \\~25 uL of 20 ng/uL DNA per well ⇒ Total yield needed is 200 ug ⇒ If we set up PCR on a 96-well plate, this scales down to about 2 ug yield per well\n\nPrepare a 1000 uL solution of DNA with 710 uL of PCR1 (+290 uL TE buffer) ⇒ 20 ng/uL DNA mix ⇒ Add 10 uL per well\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **Final diluted DNA** | **1000** |\n| **Phusion Master Mix** | **2500** |\n| **NCAP\\_F (10 µM)** | **250** |\n| **NCAP\\_R (10 uM)** | **250** |\n| **Water** | **1000**  |\n| **Total** | **5000** |\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **3X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\nPool all PCR products and run 20 uL on an agarose gel to check the purity of the product. Once confirmed that the product is of good quality, pool all reactions together and purify the product to final pure ligand (of each type).\n\n### 8. D4, D5 recon lower salt dialysis\n\n500 mL\n\n| 1 M Tris pH 8 | 7.5 mL |\n| :---- | :---- |\n| EDTA (0.5 M) | 1 mL |\n| EGTA (0.5 M) | 500 uL |\n| KCl (4 M) | 10 mL |\n| TCEP | 5 mL |\n| Glycerol | 25 mL |\n\nAllow this buffer to mix and then use vacuum to purify the buffer. Store buffer.\n\nTake 3 mini-dialysis columns labeled D4, D4 and D5 and then place them on top of the buffer solution for equilibration.\n\nAfter equilibration, transfer the original reconstituted samples in D1, D2, D3 to each of the new mini dialysis columns. During the transfer, rinse the original columns with a little of the Buffer C and add this to the transferred samples undergoing buffer exchange. Leave this system O/N at 4 degrees.\n",
+ "experiments": [
+  "1. Preparation of SELEX buffers",
+  "2. Prepare new 293T media & discard old 293TX cells",
+  "3. Calculate & record recent virus titer experiment",
+  "4. Set up reconstitution for lig20K with recombinant human histone octamer",
+  "5. Set up reconstitution for GP5d-20K with WT histone octamer (D5 repeat)",
+  "6. Combined ligation of different ligand patterns",
+  "7. lig147 ligand plate preparation",
+  "8. D4, D5 recon lower salt dialysis",
+  "1. Preparation of SELEX buffers",
+  "3. Calculate & record recent virus titer experiment",
+  "4. Set up reconstitution for lig20K, lig50K with recombinant human histone octamer",
+  "5. Set up reconstitution for GP5d-20K with WT histone octamer (D5 repeat)",
+  "7. lig147 ligand plate preparation",
+  "8. D4, D5 recon lower salt dialysis"
+ ],
+ "images": [
+  "assets/img/doc3-image2.png"
+ ],
+ "tables": 6,
+ "id": "2025-10-24",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Dialysis",
+   "Ligation",
+   "Cell culture",
+   "Column purification",
+   "ELISA",
+   "Buffer exchange"
+  ],
+  "reagents": [
+   "Phusion",
+   "EDTA",
+   "Tris",
+   "NaCl",
+   "KCl",
+   "MgCl2",
+   "BSA",
+   "DTT",
+   "Histone octamer",
+   "TE buffer",
+   "Glycerol"
+  ],
+  "samples": [
+   "D5",
+   "lig20K",
+   "lig147",
+   "D4",
+   "NCAP_F",
+   "NCAP_R",
+   "lig50K",
+   "D6",
+   "D1",
+   "D2",
+   "D3",
+   "293T",
+   "293TX"
+  ],
+  "custom": []
+ },
+ "title": "Preparation of SELEX buffers; Prepare new 293T media & discard old 293TX cells; Calculate & record recent virus titer experiment"
+}

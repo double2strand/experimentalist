@@ -1,0 +1,31 @@
+{
+ "date": "2026-02-07",
+ "heading": "**7 February 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*HTFS ligation purification*\n\nPool the 2 reactions of each type \\- 147 & N40\n\nAdd 0.2 uL 10% SDS & 0.4 uL Proteinase K. Incubate at RT for 20-30 mins.\n\nUse Ampure XP beads to purify the ligation products. Measure concentration of products using Qubit.\n\n*pHRS library in vitro CRISPR*\n\n1. Gcla dam-/dcm-  \n2. Gcla dam-/dcm- gHRS  \n3. Gcla dam-/dcm- gCON  \n4. ELF2lig1  \n5. ELF2lig1 (EcoRV)\n\nHAP1 media (500 mL)\n\n| IMDM | Make up to 500 mL |\n| :---- | :---- |\n| HI FBS (10%) | 50 mL |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2026-02-07",
+ "tags": {
+  "techniques": [
+   "Qubit",
+   "Ligation",
+   "Library prep",
+   "Bead purification",
+   "Proteinase K"
+  ],
+  "reagents": [
+   "Proteinase K",
+   "AMPure",
+   "SDS"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "HTFS ligation purification"
+}

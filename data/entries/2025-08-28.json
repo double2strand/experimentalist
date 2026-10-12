@@ -1,0 +1,40 @@
+{
+ "date": "2025-08-28",
+ "heading": "**28 August 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Purify A7recon, A8recon and C5recon, C6recon nucleosomes and test for MNase protection**  \n2. **Treat PB-treated GP5d cells and sorted HAP1 cells with Ad-CRE virus**  \n3. **Run MOODS for gapped MYCMAX motifs on hg38 genome & correlate with MYC binding sites in varied cancers**  \n   \n\n1. **Purify A7recon, A8recon and C5recon, C6recon nucleosomes and test for MNase protection**\n\n\tPrepare more Nucleosome Exchange Buffer B (10 mL):\n\n- 650 uL 4 M KCl  \n- TCEP 100 uL  \n- 1 tablet EDTA free PI  \n- 20 uL MgCl2  \n- 0.5 mL glycerol\n\n\tThe 50KDa MWCO columns are being used now for the nucleosome purification.\n\n*NOTE: Because the dominant buffer in the dialysis recon (C5, C6) is a low salt buffer rather than the Nucleosome Exchange Buffer B, the actual concentration of these samples post-concentration is likely underestimated.* \n\n*It would be ideal to in future split each of these samples to two columns for the purpose of concentration and estimation. Alternatively, do not concentrate these samples at all and store them as it is at 4 degrees.*\n\nMNase treatment (A7, A8):\n\n- lig147 (0.5 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\[CONTROL\\] \\+ 44.25 uL water \\[A\\]  \n- lig147 (0.5 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL MNase-dil \\+ 43.25 uL water \\[B\\]  \n- A7recon (10 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL MNase-dil \\+ 33.75 uL water \\[C\\]  \n- A8recon (10 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL MNase-dil \\+ 33.75 uL water \\[D\\]\n\nRun these samples on a 3% agarose gel:\n\n- 100 bp ladder  \n- A  \n- A  \n- B  \n- B  \n- C  \n- C  \n- D  \n- D  \n- A7recon (10 uL)  \n- A8recon (10 uL)\n\nMNase treatment (C5, C6):\n\n- HAP120K (3 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\[CONTROL\\] \\+ 41.75 uL water \\[E\\]  \n- GP5d20K (2 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\[CONTROL\\] \\+ 42.75 uL water \\[F\\]  \n- HAP120K (3 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\[CONTROL\\] \\+ 1 uL MNase-dil \\+ 40.75 uL water \\[G\\]  \n- GP5d20K (2 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\[CONTROL\\] \\+ 1 uL MNase-dil \\+ 41.75 uL water \\[H\\]  \n- C5recon (10 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL MNase-dil \\+ 33.75 uL water \\[I\\]  \n- C6recon (10 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL MNase-dil \\+ 33.75 uL water \\[J\\]\n\nRun these samples on a 0.5% agarose gel:\n\n- 1 kb Plus ladder  \n- E  \n- E  \n- F  \n- F  \n- G  \n- G  \n- H  \n- H  \n- C5recon (10 uL)  \n- C6recon (10 uL)\n\n2. **Treat PB-treated GP5d cells and sorted HAP1 cells with Ad-CRE virus**\n\n\tPFU/mL of Ad-CRE is 10^7 PFU/uL\n\n\tFor \\~500K cells at MOI=5, PFU needed \\= 25 X 10^5\n\n\tDilute virus in DMEM ⇒ 5 uL virus \\+ 15 uL DMEM\\* \n\n\t\n\nHAP1:\n\n\tGcla+ (2 wells) ⇒ 4 uL polybrene \\+ 2 uL diluted Ad-CRE \\+ 1.994 mL media\n\n\tHcla+ (2 wells) ⇒ 4 uL polybrene \\+ 2 uL diluted Ad-CRE \\+ 1.994 mL media\n\n\tHCD+ (2 wells) ⇒ 4 uL polybrene \\+ 2 uL diluted Ad-CRE \\+ 1.994 mL media\n\n\tGP5d:\n\n\tMYCT1-PB (2 wells) ⇒ 4 uL polybrene \\+ 2 uL diluted Ad-CRE \\+ 1.994 mL media\n\n\tMYCT2-PB (2 wells) ⇒ 4 uL polybrene \\+ 2 uL diluted Ad-CRE \\+ 1.994 mL media\n\n\tMYCT1PB2 (2 wells) ⇒ 4 uL polybrene \\+ 2 uL diluted Ad-CRE \\+ 1.994 mL media\n\n\tMYCT2PB2 (2 wells) ⇒ 4 uL polybrene \\+ 2 uL diluted Ad-CRE \\+ 1.994 mL media\n\n\tUse the bare minimum media i.e. 1 mL to cover the the cells. Incubate O/N and change the media to complete media next day ASAP\n\n\tAfter making the mix, add each mix drop-wise to the wells.\n\n\t\\*All DMEM used here is of the high glucose type. All media here refers to   transduction media for that cell type.\n\n\tTransduction media \\- low serum media:\n\n\t*HAP1 Transduction media:*\n\n\t10 mL HI FBS\n\n\tIMDM\n\n\t*GP5d Transduction media:*\n\n\t\n\n| DMEM high glucose | Make up to 500 mL |\n| :---- | :---- |\n| HI FBS (2%) | 10 mL |\n| L-Glutamine | 5 mL |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2025-08-28",
+ "tags": {
+  "techniques": [
+   "MNase",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Dialysis",
+   "Cell culture",
+   "Column purification"
+  ],
+  "reagents": [
+   "MNase",
+   "EDTA",
+   "KCl",
+   "MgCl2",
+   "Glycerol"
+  ],
+  "samples": [
+   "A7recon",
+   "A8recon",
+   "C5recon",
+   "C6recon",
+   "lig147"
+  ],
+  "custom": []
+ },
+ "title": "1. Purify A7recon, A8recon and C5recon, C6recon nucleosomes and test for MNase protection  "
+}

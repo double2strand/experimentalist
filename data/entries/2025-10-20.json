@@ -1,0 +1,44 @@
+{
+ "date": "2025-10-20",
+ "heading": "**20 October 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Testing nucleosome reconstitution samples for FIBER-Seq**\n\nTesting these samples:\n\n*Test 1 \\- Hia5 \\+ DpnI* \n\nTake 5 uL of each sample:\n\nD1 \\- 5 uL sample \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine \\+ 13 uL Nucleosome Buffer C \\+ 0.5 uL Hia5\n\nD2 \\- 5 uL sample \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine \\+ 13 uL Nucleosome Buffer C \\+ 0.5 uL Hia5\n\nD3 \\- 5 uL sample \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine \\+ 13 uL Nucleosome Buffer C \\+ 0.5 uL Hia5\n\n| 37 C | 1 hour |\n| :---- | :---- |\n| 80 C | 10 mins |\n\nAdd 2.3 uL Cutsmart buffer \\+ 1 uL DpnI to each sample and repeat the incubation.\n\n| 37 C | 1 hour |\n| :---- | :---- |\n| 80 C | 10 mins |\n\nRun these samples on a 2% agarose gel and stain with SYBR Green.\n\n*Test 2 \\- MNase*\n\nTake 5 uL of each sample:\n\n1. D1recon (5 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL dil-MNase  \n2. D2recon (5 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL dil-MNase  \n3. D3recon (5 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL dil-MNase\n\nIncubate at 37 degrees, 10 mins. Add 1.1 uL EGTA (0.5 M) to stop the reaction.Run these samples on a 0.5 % agarose gel and stain with SYBR Green.\n\n### 2. Virus packaging for GCDv1 & HCDv1\n\nSpin the tubes of virus incubating O/N at max RCF for 30 mins.\n\nResuspend the total virus of each type with 5 mL DMEM high glucose and aliquot into 1 mL each per tube (5 tubes per virus).\n",
+ "experiments": [
+  "2. Virus packaging for GCDv1 & HCDv1"
+ ],
+ "images": [],
+ "tables": 2,
+ "id": "2025-10-20",
+ "tags": {
+  "techniques": [
+   "MNase",
+   "Hia5",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Cell culture"
+  ],
+  "reagents": [
+   "SYBR",
+   "SAM",
+   "Spermidine",
+   "Hia5",
+   "MNase"
+  ],
+  "samples": [
+   "D1recon",
+   "D2recon",
+   "D3recon",
+   "D1",
+   "D2",
+   "D3",
+   "GCDv1",
+   "HCDv1"
+  ],
+  "custom": []
+ },
+ "title": "Virus packaging for GCDv1 & HCDv1"
+}

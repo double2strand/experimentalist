@@ -1,0 +1,39 @@
+{
+ "date": "2025-09-11",
+ "heading": "**11 September 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Pick 5 clones for plasmid isolation for recently transformed pHRS-HCC-v2**  \n2. **Change media for transduced GP5d cells**  \n3. **Transduce seeded HAP1 cells with Hcla, Gcla, HCD, GCD, GFP viruses**  \n4. **Transfect HAP1 cells with TF-mC plasmid for mCherry control cells**  \n5. **Test Monarch gDNA extraction for lig147 ligated DNA**  \n6. **Finish design of new pETG20A constructs**  \n7. **Transform TF-mC plasmid into LB-AMP for expansion**  \n   \n\n### 5. Test Monarch gDNA extraction for lig147 ligated DNA\n\ni. 15 uL of the ligation reaction for lig147 was taken in two low-bind DNA tubes.  \nii. 200 uL of tissue lysis buffer was added and mixed very gently with a wide-bore tip  \niii. 1 uL of Proteinase K was added to the mix and incubated at 56 degrees for 5 mins. A wide-bore tip was swirled around to mix the solution prior to the incubation.  \niv. Next, we add 400 uL of the gDNA binding buffer and mix by inverting 15-20 times, gently. No pipetting or vortexing.  \nv. Transfer the whole mix to gDNA spin columns. The columns are labeled as g1 and g2.  \nvi. Both tubes are spun at 1000g for 3mins. Second spin without removing FT, for g1 \\= 5000g, 1 min & g2 \\= 10000g, 1min  \nvii. Collect and retain the FT (in case further testing is needed) and throw away the collection tubes. Add 500 uL wash buffer to each column.  \nviii. Spin g1 \\= 5000g, 1 min & g2 \\= 10000g, 1min. Discard the liquid in collection tube.  \nix. Spin g1 \\= 5000g, 1 min & g2 \\= 10000g, 1min. Discard the liquid in collection tube and the tubes.  \nx. Air dry for \\~1 min and add pre-heated gDNA elution buffer (30 uL) to each column. Incubate columns at RT for 2-3 mins.  \nxi. Spin g1 \\= 5000g, 1 min & g2 \\= 10000g, 1min with new collection tubes.\n\nThe samples were loaded on a 0.5% agarose gel:\n\n1. lig147 ligation (10 uL) \\+ 10 uL water \\+ 4 uL 6X dye \\+ 2.6 uL 10% SDS (this sample was heated at 65 degrees, 10 mins for the SDS to act)  \n2. lig147 lig. g1  \n3. lig147 lig. g2\n\nSamples were run with an ice pack at 90V for 70 mins, and will be stained with SYBR Green for \\~1 hour.\n\n### 3. Transduce seeded HAP1 cells with Hcla, Gcla, HCD, GCD, GFP viruses\n\nGcla X 2 \\= 1000 uL virus \\+ 998 uL HAP1-T media \\+ 2 uL polybrene  \nHcla X 2 \\= 1000 uL virus \\+ 998 uL HAP1-T media \\+ 2 uL polybrene  \nGCD X 2 \\= 1000 uL virus \\+ 998 uL HAP1-T media \\+ 2 uL polybrene  \nHCD X 2 \\= 1000 uL virus \\+ 998 uL HAP1-T media \\+ 2 uL polybrene  \nGFP X 2 \\= 200 uL virus \\+ 1798 uL HAP1-T media \\+ 2 uL polybrene\n\n### 4. Transfect HAP1 cells with TF-mC plasmid for mCherry control cells\n\nChange the media 2 hours prior to the transfection.\n\nEach well contains about 100K cells.\n\nHence, we add for 2 wells:\n\nTube 1: 250 uL Opti-MEM \\+ 20 uL P3000 \\+ 6 ug DNA (4 uL)  \nTube 2: 250 uL Opti-MEM \\+ 15 uL L3000\n\n \n",
+ "experiments": [
+  "5. Test Monarch gDNA extraction for lig147 ligated DNA",
+  "3. Transduce seeded HAP1 cells with Hcla, Gcla, HCD, GCD, GFP viruses",
+  "4. Transfect HAP1 cells with TF-mC plasmid for mCherry control cells"
+ ],
+ "images": [],
+ "tables": 0,
+ "id": "2025-09-11",
+ "tags": {
+  "techniques": [
+   "Gel electrophoresis",
+   "Ligation",
+   "Transfection",
+   "Column purification",
+   "gDNA isolation",
+   "Protein purification",
+   "Proteinase K"
+  ],
+  "reagents": [
+   "SYBR",
+   "Proteinase K",
+   "SDS"
+  ],
+  "samples": [
+   "lig147"
+  ],
+  "custom": []
+ },
+ "title": "Test Monarch gDNA extraction for lig147 ligated DNA; Transduce seeded HAP1 cells with Hcla, Gcla, HCD, GCD, GFP viruses; Transfect HAP1 cells with TF-mC plasmid for mCherry control cells"
+}

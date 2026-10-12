@@ -1,0 +1,24 @@
+{
+ "date": "2026-08-24",
+ "heading": "**24 August 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*SELEX library preparation*\n\nTube 1: C1HTS200 (PE0), C1NCAP200 (PE1)\n\nTube2: C3HTS200 (PE2), C3NCAP200 (PE3)\n\nTube3: C4HTS200 (PE0), C4NCAP200 (PE3)\n\nTube4: C1HTS147 (PE2), C1NCAP147 (PE3)\n\nTube5: C3HTS147 (PE1), C3NCAP147 (PE2)\n\nTube6: C4HTS147 (PE0), C4NCAP147 (PE1)\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2026-08-24",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Library prep"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "SELEX library preparation"
+}

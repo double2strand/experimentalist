@@ -1,0 +1,58 @@
+{
+ "date": "2025-10-21",
+ "heading": "**21 October 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "### 1. Run D1,D2,D3 nucleosome samples (no treatment) on gel\n\n5 uL each of the D1, D2, D3 samples will be run on a 0.5% agarose gel & stained with SYBR Green dye.\n\n### 2. Viral titer for Gclav1, GCDv1-1, GCDv1-2 & HCDv1\n\n- (Optional) Dilute lentiviral supernatant in fresh culture medium and keep the final volume of 1 mL for each sample.  Include culture medium as a negative control. Note: For unknown samples, we recommend several dilutions for each sample.   \n- Add 10 μL of ViraBind™ Lentivirus Reagent A (100X) to 1 mL of lentiviral sample, and mix by inverting.  Immediately add 10 μL of ViraBind™ Lentivirus Reagent B (100X) and mix by inverting.  Incubate 30 minutes at 37ºC.   \n- Centrifuge 5 minutes at 12,000 rpm.  Carefully remove the supernatant and dissolve the pellet in 250 μL of Sample Diluent.  Vortex well and incubate 30 minutes at 37ºC to inactivate the viruses.   \n- Add 100 µL of inactivated lentiviral sample or p24 antigen standard to anti-p24 antibody coated plate.  \n- Cover with a Plate Cover and incubate at 4ºC overnight.\n\n### 3. Isolate gDNA from 293TX cells & fragment to 20-kb\n\nPrepare two tubes with 15 ug of DNA each \\[150 uL total volume in TE buffer\\]\n\n![](assets/img/doc3-image1.png)\n\nLoad the gTubes into the centrifuge and spin for 60 sec at 5800 rpm. Then invert the tube and spin again at 5800 rpm for 60 sec.\n\nPlace the gTube on the UNLOAD position and collect the sheared sample from the screw cap.\n\nThe sample post fragmentation was run on the SpeedVac to obtain a highly concentrated sample → becomes easier to use for reconstitution experiments.\n\nRun some of the sample on a 0.5% agarose gel to check for the integrity and shear size of the sample.\n\n### 4. PCR expansion for ligN40w107, lig147 & lig200noRE\n\n100X\n\n| NCAP\\_F (10 uM) | 50 uL |\n| :---- | :---- |\n| NCAP\\_R (10 uM) | 50 uL |\n| 2X Phusion HiFi | 1250 uL |\n| diluted lig147-MAIN | 50 uL\\* |\n| NF H2O | 1100 uL |\n\n\\*\\~ 13 ng original DNA per reaction\n\n100X\n\n| NCAP\\_F (10 uM) | 50 uL |\n| :---- | :---- |\n| NCAP\\_R (10 uM) | 50 uL |\n| 2X Phusion HiFi | 1250 uL |\n| diluted ligN40w107 | 50 uL\\* |\n| NF H2O | 1100 uL |\n\n\\*\\~ 25 ng original DNA per reaction\n\n100X\n\n| NCAP\\_F (10 uM) | 50 uL |\n| :---- | :---- |\n| NCAP\\_R (10 uM) | 50 uL |\n| 2X Phusion HiFi | 1250 uL |\n| diluted lig200noRE | 50 uL |\n| NF H2O | 1100 uL |\n\n\\*\\~ 25 ng original DNA per reaction\n\nSplit 50 uL per well of a 96-well PCR plate.\n\nPCR4, SELEX\\_AMP\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **6X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\nRun 5 uL from one reaction on an agarose gel to check the purity of the product. Once confirmed that the product is of good quality, pool all reactions together and purify the product to final pure ligand (of each type).\n",
+ "experiments": [
+  "1. Run D1,D2,D3 nucleosome samples (no treatment) on gel",
+  "2. Viral titer for Gclav1, GCDv1-1, GCDv1-2 & HCDv1",
+  "3. Isolate gDNA from 293TX cells & fragment to 20-kb",
+  "4. PCR expansion for ligN40w107, lig147 & lig200noRE"
+ ],
+ "images": [
+  "assets/img/doc3-image1.png"
+ ],
+ "tables": 4,
+ "id": "2025-10-21",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Lentivirus",
+   "Cell culture",
+   "gDNA isolation",
+   "Fragmentation",
+   "ELISA"
+  ],
+  "reagents": [
+   "Phusion",
+   "SYBR",
+   "TE buffer",
+   "ViraBind"
+  ],
+  "samples": [
+   "NCAP_F",
+   "NCAP_R",
+   "ligN40w107",
+   "lig147",
+   "lig200noRE",
+   "D1",
+   "D2",
+   "D3",
+   "Gclav1",
+   "GCDv1-1",
+   "GCDv1-2",
+   "HCDv1",
+   "SELEX_AMP",
+   "293TX"
+  ],
+  "custom": []
+ },
+ "title": "Run D1,D2,D3 nucleosome samples (no treatment) on gel; Viral titer for Gclav1, GCDv1-1, GCDv1-2 & HCDv1; Isolate gDNA from 293TX cells & fragment to 20-kb"
+}

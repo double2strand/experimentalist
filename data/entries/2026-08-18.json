@@ -1,0 +1,40 @@
+{
+ "date": "2026-08-18",
+ "heading": "**18 August 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Nucleosome Reconstitution*\n\nYujiao’s long random DNA  \nDNA → 4 ug in 25 uL → 24.7 nM  \nOctamer:DNA ratio \\= 50:1  \nWT Octamer (5.4 mg/mL) → 1.25 uM →  3.4 ug ⇒ 0.68 ug/uL octamer stock \\[0.76 uL octamer \\+ 5.24 uL refolding buffer:glycerol\\] ⇒ Octamer stock salt conc \\= 1.13 M  \n1.83 M salt in octamer-DNA mix.\n\n- First incubate the dialysis column in cold NF-water to remove any glycerol from the column  \n- Add the 25 uL of octamer-DNA mix to the dialysis column\n\n*PEG solution*\n\nWeigh 5 g PEG8000 and dissolve in 10 mL sterile water \\- heat at 50-60 C because PEG8000 takes a long time to dissolve.\n\nProteinase K \\+ SDS treatment\n\n* **Make up value to 100 uL with TE buffer**  \n* **SDS 10%**: **2 µL** (final 0.2%)  \n* **Proteinase K (20 mg/mL)**: **2 µL** (final \\~0.4 mg/mL)\n\nIncubate at RT, 15-30 mins.\n\n- Add 1.5X volume of AmpureXP beads and mix thoroughly. Incubate at RT for 10 mins.  \n- Place tubes on magnetic rack and allow liquid to separate from beads for 5 mins.  \n- Perform two washes with 80% ethanol (200-300 uL each)  \n- Allow the beads to dry for \\~30s and then add fresh TE buffer in 40 uL for elution. Mix thoroughly and incubate at 37 C for 5 mins.  \n- Place tubes on magnetic rack and allow liquid to separate from beads for 5 mins. Collect separated supernatant as purified DNA sample.  \n- Repeat last two steps with a smaller volume of 10 uL for improved yield.\n\n*MNase test for new nucleosome samples* \n\n15 ng of sample (0.5 uL) \\+ 5 uL MNase buffer \\+ 1 uL dMNase \\+ 0.25 uL rAlbumin (total 50 uL)\n\ndMNase → 1:1000 dilution\n\nTreat at 37 C, 5 mins.\n\nRun on a 1% agarose gel and stain with SYBR Green. \n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2026-08-18",
+ "tags": {
+  "techniques": [
+   "MNase",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Dialysis",
+   "Bead purification",
+   "Column purification",
+   "Protein purification",
+   "Proteinase K"
+  ],
+  "reagents": [
+   "SYBR",
+   "Proteinase K",
+   "AMPure",
+   "MNase",
+   "SDS",
+   "Histone octamer",
+   "TE buffer",
+   "Ethanol",
+   "Glycerol"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Nucleosome Reconstitution"
+}

@@ -1,0 +1,51 @@
+{
+ "date": "2025-10-27",
+ "heading": "**27 October 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "### 1. MNase digestion & testing of new reconstituted samples\n\nTake 50 ng of each sample:\n\ni. 293T-20K (   uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL dil-MNase\n\nii. GP5d-20K (   uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL dil-MNase\n\niii. D4recon ( uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL dil-MNase\n\niv. D5recon ( uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL dil-MNase\n\nv. D6recon ( uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL dil-MNase\n\nIncubate at 37 degrees, 2 mins. Add 1.1 uL EGTA (0.5 M) to stop the reaction. Run these samples on a 0.5 % agarose gel and stain with SYBR Green.\n\nStain the gel with SYBR green.\n\n### 2. *Hia5* treatment for D4, D5 and D6 recon problems\n\nD4 and D5-1 samples contained some level of the refolding buffer by mistake during the post salt exchange dialysis clean-up.\n\nIf these samples showed good results in the MNase assay, then this extra salt has not created significant issues.\n\n*Estimating the salt levels*\n\nD4recon \\~ 100 uL volume with \\~20 uL refolding buffer ⇒ I estimate the salt concentration to be \\~450 mM at this point in the mix\n\nFor D4 based on the concentration I estimate using about 200 ng DNA per Hia5 reaction, this would be 7.2 uL per reaction. After making up this reaction completely, the salt concentration would be \\~200 mM.\n\nI am just going to dialyse D4 and D5-1 again 2-3 times with 15 mL each of nucleosome buffer C to ensure that the salt level goes back down to 80 mM before Hia5 treatment.\n\n### 3. lig147 ligand plate preparation\n\nBased on lig147 PCR2, the concentration of the samples was 19.9 ng/uL.\n\nVolume of lig147 needed for one plate ⇒ 400 X 15 \\= 6000 uL\n\nTotal amount of DNA \\= 6000 x 25 \\= 150 ug\n\nConcentration of original lig147 ssDNA tube is about 4.8 ug/uL\n\nDilute this 1:200 ⇒ 1 uL oligo \\+ 199 uL TE buffer (lig147-dil200)\n\nPCR 1 → 100X\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **Final diluted DNA** | **48** |\n| **Phusion Master Mix** | **1250** |\n| **NCAP\\_F (10 µM)** | **125** |\n| **NCAP\\_R (10 uM)** | **125** |\n| **Water** | **952**  |\n| **Total** | **2500** |\n\nThis uses \\~10-12 ng of the ssDNA as template per reaction.\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **8X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\nConcentration of lig147 PCR1 (combine and mix with previous PCR1 product) \\=\n\nFor one 384-well plate with \\~25 uL of 20 ng/uL DNA per well ⇒ Total yield needed is 200 ug ⇒ If we set up PCR on a 96-well plate, this scales down to about 2 ug yield per well\n\nPrepare a 1000 uL solution of DNA with 710 uL of PCR1 (+290 uL TE buffer) ⇒ 20 ng/uL DNA mix ⇒ Add 10 uL per well\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **Final diluted DNA** | **1000** |\n| **Phusion Master Mix** | **2500** |\n| **NCAP\\_F (10 µM)** | **250** |\n| **NCAP\\_R (10 uM)** | **250** |\n| **Water** | **1000**  |\n| **Total** | **5000** |\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **3X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\nPool all PCR product with the previous PCR2 product and measure concentration \\= \n",
+ "experiments": [
+  "1. MNase digestion & testing of new reconstituted samples",
+  "2. *Hia5* treatment for D4, D5 and D6 recon problems",
+  "3. lig147 ligand plate preparation"
+ ],
+ "images": [],
+ "tables": 4,
+ "id": "2025-10-27",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "MNase",
+   "Hia5",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Dialysis",
+   "Cell culture",
+   "Restriction digest"
+  ],
+  "reagents": [
+   "Phusion",
+   "SYBR",
+   "Hia5",
+   "MNase",
+   "TE buffer"
+  ],
+  "samples": [
+   "lig147",
+   "D4",
+   "D4recon",
+   "NCAP_F",
+   "NCAP_R",
+   "D5recon",
+   "D6recon",
+   "D5",
+   "D6",
+   "293T"
+  ],
+  "custom": []
+ },
+ "title": "MNase digestion & testing of new reconstituted samples; *Hia5* treatment for D4, D5 and D6 recon problems; lig147 ligand plate preparation"
+}

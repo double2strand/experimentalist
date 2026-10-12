@@ -1,0 +1,41 @@
+{
+ "date": "2025-09-17",
+ "heading": "**17 September 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Change media for GP5d & HAP1 cells currently in culture & check on HAP1 sorted cells**  \n2. **Purify 1st ligation reactions for lig147 and set up secondary ligation reaction**  \n3. **Set up large scale culture for pHRS-HCCv2**  \n4. **Pick a colony and set up culture for new mCherry plasmid**  \n5. **Prepare new 200-bp ligands with PCR and set up ligation trials**\n\n### 1. Change media for GP5d & HAP1 cells currently in culture & check on HAP1 sorted cells\n\nFor the sorting it seems like changing to the low serum transduction medium actually decreased the transduction efficiency of the experiments \\- based on the percentages seen in the cell sorter.\n\nDue to time limitations, the GP5d transduced cells could not be analysed/sorted. There is a back up culture of this for expansion, repeated transduction and sorting.\n\n### 2. Purify 1st ligation reactions for lig147 and set up secondary ligation reaction\n\nUse the Qiagen HMW kit for purification of 20 uL each of the 1st ligation products.\n\n- Pipet 20 µl Proteinase K into the bottom of a 2 ml sample tube.   \n- Make up 30 uL sample to 200 uL with TE buffer and add this to the proteinase K.  \n- Add 150 µl Buffer AL to the sample. Mix carefully by gentle pipetting.  \n- Incubate at room temperature for 30 min.   \n- Briefly centrifuge the 2 ml microcentrifuge tube to remove drops of liquid from inside the lid.   \n- Add 15 µl MagAttract Suspension G to the sample.   \n- Add 280 µl Buffer MB to sample. place microcentrifuge tube with sample into tube holder.   \n- Place tube holder onto mixer. Incubate at room temperature for 3 min at 1400 rpm. Place the tube holder on the magnetic base, wait until bead separation has been completed (\\~1 min), and remove the supernatant.   \n- Add 700 µl Buffer MW1 to the sample and place the tube holder onto the mixer. Incubate at room temperature for 1 min at 1400 rpm.  Place the tube holder on the magnetic base, wait until bead separation has been completed (\\~1 min), and remove the supernatant.  Repeat the wash again.  \n- Add 700 µl Buffer PE to the sample and place the tube holder onto the mixer. Incubate at room temperature for 1 min at 1400 rpm. Place the tube holder on the magnetic base, wait until bead separation has been completed (\\~1 min), and remove the supernatant.  Repeat the wash again.  \n- Rinse the particles with 700 µl distilled water while the beads are fixed to the walls of the microcentrifuge tube. Incubate for 1 min and remove the supernatant.   \n- Remove the tube holder from the magnetic base and add an appropriate volume of Buffer AE (100–200 µl). Incubate at room temperature for 3 min at 1400 rpm.  Place tube holder onto magnetic base, wait until bead separation is completed (\\~1 min), and transfer supernatant with high-molecular-weight DNA to a new microcentrifuge tube.   \n- Run the samples on a SpeedVac for about 45 mins with no heating.\n\nLigate around 400-500 ng of this purified DNA O/N with: \n\n1. Blunt T/A ligase \\- reaction volume 25 uL  \n2. T4 DNA ligase \\- reaction volume 25 uL\n\n### 5. Prepare new 200-bp ligands with PCR and set up ligation trials\n\nTake 1 uL of the original oligo per PCR reaction.\n\nAmplification PCR (CAPAMP1):\n\n| lig200noRE\\_F (10 uM) | 2.25 uL |\n| :---- | :---- |\n| lig200noRE\\_R (10 uM) | 2.25 uL |\n| 2X KAPA HiFi | 12.5 uL |\n| ssDNA (1 uL of 100 uM oligo) | 1 uL |\n| NF H2O | 7 uL |\n\n \n\n| 95 degrees C | 3 min |\n| :---- | :---- |\n| **98 C** | **20 s** |\n| **56 C** | **15 s                                                           6X** |\n| **72 C** | **30 s** |\n| 72 C | 40 min |\n| 4 C | HOLD |\n\nAmplification PCR repeat (CAPAMP2):\n\n| lig200noRE\\_F (10 uM) | 2.25 uL |\n| :---- | :---- |\n| lig200noRE\\_R (10 uM) | 2.25 uL |\n| 2X KAPA HiFi | 12.5 uL |\n| lig200noRE dsDNA (from 1st PCR reaction) | 2.5 uL |\n| NF H2O | 5.5 uL |\n\n \n\n| 95 degrees C | 3 min |\n| :---- | :---- |\n| **98 C** | **20 s** |\n| **54 C** | **15 s                                                           2X** |\n| **72 C** | **30 s** |\n| 72 C | 40 min |\n| 4 C | HOLD |\n\nAmplification PCR (CAPAMP1):\n\n| lig200HindIII\\_F (10 uM) | 2.25 uL |\n| :---- | :---- |\n| lig200HindIII\\_R (10 uM) | 2.25 uL |\n| 2X KAPA HiFi | 12.5 uL |\n| ssDNA (1 uL of 100 uM oligo) | 1 uL |\n| NF H2O | 7 uL |\n\n \n\n| 95 degrees C | 3 min |\n| :---- | :---- |\n| **98 C** | **20 s** |\n| **56 C** | **15 s                                                           6X** |\n| **72 C** | **30 s** |\n| 72 C | 40 min |\n| 4 C | HOLD |\n\nAmplification PCR repeat (CAPAMP2):\n\n| lig200HindIII\\_F (10 uM) | 2.25 uL |\n| :---- | :---- |\n| lig200HindIII\\_R (10 uM) | 2.25 uL |\n| 2X KAPA HiFi | 12.5 uL |\n| lig200HindIII dsDNA (from 1st PCR reaction) | 2.5 uL |\n| NF H2O | 5.5 uL |\n\n \n\n| 95 degrees C | 3 min |\n| :---- | :---- |\n| **98 C** | **20 s** |\n| **54 C** | **15 s                                                           2X** |\n| **72 C** | **30 s** |\n| 72 C | 40 min |\n| 4 C | HOLD |\n\n**Steps**\n\n1. Set up reaction as follows:\n\n| COMPONENT | 50 µl REACTION |\n| :---- | :---- |\n| DNA | 1 µg |\n| 10X rCutSmart Buffer | 5 µl (1X) |\n| HindIII-HF | 1.0 µl (20 units)† |\n| Nuclease-free Water | to 50 µl |\n\n2. Incubate at 37°C for 5–15 minutes as HindIII-HF is Time-Saver qualified.\n\n**4X each**\n\n| DNA | up to 300 pmol of 5´ termini (Use 2 ug of DNA per reaction) |\n| :---- | :---- |\n| T4 PNK Reaction Buffer (10X) | 5 µl |\n| ATP (10 mM) | 5 µl |\n| [T4 PNK](https://www.neb.com/en-gb/products/m0201-t4-polynucleotide-kinase) | 1 µl (10 units) |\n| Nuclease-free Water | up to 50 µl |\n\n2\\. Incubate at 37°C for 30 minutes.  \n3\\. Heat inactivate by incubating at 75°C for 10 minutes.  \nT4 DNA ligase treatment for lig147-PNK\n\nReaction 1:\n\n500-1000 ng of DNA  \n1 uL T4 DNA ligase buffer  \n3 uL 50% PEG  \n1 uL T4 DNA ligase  \nTotal volume \\= 10 uL\n\nReaction 2:\n\n500-1000 ng of DNA  \n1.5 uL T4 DNA ligase buffer  \n4.5 uL 50% PEG  \n1.5 uL T4 DNA ligase  \nTotal volume \\= 15 uL\n\nIncubate both reactions at 16 degrees O/N.\n",
+ "experiments": [
+  "1. Change media for GP5d & HAP1 cells currently in culture & check on HAP1 sorted cells",
+  "2. Purify 1st ligation reactions for lig147 and set up secondary ligation reaction",
+  "5. Prepare new 200-bp ligands with PCR and set up ligation trials"
+ ],
+ "images": [],
+ "tables": 10,
+ "id": "2025-09-17",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Ligation",
+   "Bead purification",
+   "Restriction digest",
+   "Proteinase K"
+  ],
+  "reagents": [
+   "Proteinase K",
+   "T4 ligase",
+   "TE buffer"
+  ],
+  "samples": [
+   "lig200noRE",
+   "lig200HindIII",
+   "lig147",
+   "CAPAMP1",
+   "CAPAMP2"
+  ],
+  "custom": []
+ },
+ "title": "Change media for GP5d & HAP1 cells currently in culture & check on HAP1 sorted cells; Purify 1st ligation reactions for lig147 and set up secondary ligation reaction; Prepare new 200-bp ligands with PCR and set up ligation trials"
+}

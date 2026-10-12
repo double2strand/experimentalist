@@ -1,0 +1,45 @@
+{
+ "date": "2025-11-06",
+ "heading": "**6 November 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "***1\\. PNK treatment of lig147***\n\n5X\n\n| DNA | 1000 ng |\n| :---- | :---- |\n| T4 PNK Buffer | 5 uL |\n| 10 mM ATP | 5 uL |\n| T4 PNK | 1 uL |\n\nIncubate on PNK program. Pool products and purify with MinElute columns.\n\n***2\\. PCR1 repeat for ligN40w100***\n\nPrepare a 100X reaction mix:\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **ligN40w107 Ann** | **200** |\n| **Phusion Master Mix** | **2500** |\n| **NCAP\\_F (10 µM)** | **250** |\n| **NCAP\\_R (10 uM)** | **250** |\n| **Water** | **1800**  |\n| **Total** | **5000** |\n\nSplit mix into 25 uL per well for two 96-well PCR plates.\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **6X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\nThe PCR product was pooled and 30 uL of the sample was run on a gel.\n\nConcentration of PCR1 \\= 16.1 ng/uL\n\nSet up PCR2 with \\~20-24 ng per reaction:\n\nPrepare a 100X reaction mix:\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **ligN40w107 Ann** | **150** |\n| **Phusion Master Mix** | **2500** |\n| **NCAP\\_F (10 µM)** | **250** |\n| **NCAP\\_R (10 uM)** | **250** |\n| **Water** | **1850**  |\n| **Total** | **5000** |\n\nSplit mix into 50 uL per well for two 96-well PCR plates.\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **2X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\n***3\\. DpnI & MboI testing (D7 & D8 samples)***\n\nSamples processed : lig20K, L11, D7-UB(h), D7’(h), D7-UB(ph), D8\n\nlig20K: \\~10 ng\n\nL11: \\~10 ng\n\nD7-UB(h): 1.91 uL\n\nD7’(h): 8.8 uL (1.23 ng)\n\nD7-UB(ph): 5.8 uL \n\nD8: 7.1 uL\n\n| DNA | 10 ng |\n| :---- | :---- |\n| rCutsmart Buffer | 1 uL |\n| DpnI/MboI | 0.2 uL |\n| Total  | 10 uL |\n\n*Dpn*I\n\n| 37 C | 1 hour |\n| :---- | :---- |\n| 80 C | 20 mins |\n\n*Mbo*I\n\n| 37 C | 1 hour |\n| :---- | :---- |\n| 65 C | 20 mins |\n\n***4\\. SELEX checklist***\n\n| Requirement | Status |\n| :---: | :---: |\n| lig147 plate (2x) | **Prepared** |\n| ligN40w107 plate (2x) | In Preparation |\n| PCR Mix Plate (non-PE PCR) (18x) | To be prepared  |\n| qPCR Mix Plate (18x) | To be prepared |\n| Forward Primer Plate 5 uM (PE PCR)  | **Prepared** |\n| Reverse Primer Plate 5 uM (PE PCR) | **PE0-PE3 prepared\\*** |\n| Dilution Buffer Plate (for reconstitution) | Buffer Prepared |\n| Biotin Elution Buffer Plate | To be prepared |\n| SBP Beads Plate | To be prepared |\n| Ni Beads Plate | To be prepared |\n| Diluted TF Plate | Prepared 2 days prior to assay |\n| Buffers | In Preparation |\n| Dried Salt Plates | **Prepared** |\n| SBP Histone Octamer Plate | Prepared just prior to assay for octamer stability |\n| Beckman Programs | Programs Added Pipetting template to be tested |\n\n***5\\. Transformation of new batch of GenScript plasmids to Rosetta cells (15 plasmids)***\n\nEach vial of the Rosetta cells is 0.2 mL ⇒ Aliquot into 20 uL each and transform by adding 0.3 uL of each plasmid.\n\nEach plasmid is resuspended in 100 uL of NF water i.e. concentration \\= \\~40 ng/uL\n\n***5\\. L11 ligation repeat***\n\n| lig147-PNK (1000 ng) | 3.88 uL |\n| :---- | :---- |\n| 50% PEG8000 | 3 uL |\n| CoHex 10 mM | 1 uL |\n| T4 Ligase Buffer 10X | 1 uL |\n| T4 DNA ligase | 1.22 uL |\n\nIncubate these tubes O/N at RT.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 10,
+ "id": "2025-11-06",
+ "tags": {
+  "techniques": [
+   "qPCR",
+   "PCR",
+   "SELEX",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Ligation",
+   "Bead purification",
+   "Column purification",
+   "Protein purification"
+  ],
+  "reagents": [
+   "Phusion",
+   "MinElute",
+   "Histone octamer",
+   "T4 ligase"
+  ],
+  "samples": [
+   "lig147",
+   "ligN40w107",
+   "lig20K",
+   "NCAP_F",
+   "NCAP_R",
+   "ligN40w100",
+   "D7",
+   "D8"
+  ],
+  "custom": []
+ },
+ "title": "1. PNK treatment of lig147"
+}

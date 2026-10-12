@@ -1,0 +1,50 @@
+{
+ "date": "2025-10-25",
+ "heading": "**25 October 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "### 1. qPCR trial for SELEX samples\n\nqPCR\n\n| qPCR Plates |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | per well in 384 | per 384-well plate | for 6 plates (x440) |\n| NF water | 2.91 μL | 1.12 mL | 7.68 mL |\n| 5x Phusion HF buffer | 1.25 μL | 480 μL | 3.3 mL |\n| 10mM e dNTP | 0.25 μL | 96 μL | 660 μL |\n| Primer KingsizeFw2 100μM | 0.025 μL | 9.6 μL | 66 μL |\n| Primer KingsizeRev 100μM | 0.025 μL | 9.6 μL | 66 μL |\n| MgCl2 (50mM) | 0.0325 μL | 12.48 μL | 85.8 μL |\n| Hot Start Phusion DNA Pol | 0.0375 μL | 14.4 μL | 99 μL |\n| 100x SYBR (final 1:200) | 0.06 μL | 23.04 μL | 158.4 μL |\n| Total | 4.59 μL | 1.765 mL | 12.1155 mL |\n\nTo prepare 100x SYBR Green: add 5μL 10,000x SYBR Green into 500μL DMSO, which can be found in Phusion DNA Pol kits. Avoid light.  \nManually load 122μL mix into each well of a 96-well plate (AB0765), then transfer 4.5μL/well into 6x 384-well plates (LightCycler 384).  \nSeal the plates to avoid light. Freeze at \\-20℃ until use.\n\nThis uses 10 uL of reaction volume per well.\n\nPrepare a master-mix for 20 samples ⇒ 200 uL\n\n| 2X Phusion Master Mix | 100 uL |\n| :---: | :---: |\n| NCAP\\_F 10 uM | 30 uL |\n| NCAP\\_R 10 uM | 30 uL |\n| 100X SYBR | 7.2 uL |\n| NF Water | 2.8 uL |\n\nAdd 8.5 uL of the mix per well for 20 wells of a reaction plate. Add 1.5 uL of a C3/C4 NCAP-SELEX plate (20 wells) into each well.\n\nRun the following program:\n\n| 95°C | 3 min | No acquisition |\n| :---- | :---- | :---- |\n| 95°C | 10 s | No acquisition |\n| 60°C | 20 s       45X | No acquisition |\n| 72°C | 1 s | Single acquisition |\n| 95°C | 5 s | No acquisition |\n| 65°C | 1 min | No acquisition |\n| 97°C | 10 acquisitions/°C | Continuous acquisition |\n| 40°C | 10 s | No acquisition |\n\n### 2. Quantification  of lig147 PCR2 product\n\nlig147 PCR2: 19.9 ng/uL\n\n### 3. Nucleosome reconstitution\n\nCombine D4 samples into single tube ⇒ D4recon\n\nD5recon\n\nRun Qubit quantification for both these samples.\n\nD4recon: 27.8 ng/uL\n\nD5recon: 37 ng/uL\n\n*NOTE: While moving the samples from the post salt exchange dialysis columns, mistakenly \\~10 uL of refolding buffer instead of Nucleosome Buffer C was added to the final sample. This will probably shift the salt concentration of the sample slightly.*\n\nSet up salt exchange dialysis with nucleosome buffer C for replicate of D5recon & D6recon.\n\n### 4. Ligation L10 reaction purification\n\nThe ligation reaction L10 was purified with AmpureXP beads and the concentration of the final sample was measured with Qubit:\n\nL10: 35.4 ng/uL\n",
+ "experiments": [
+  "1. qPCR trial for SELEX samples",
+  "2. Quantification  of lig147 PCR2 product",
+  "3. Nucleosome reconstitution",
+  "4. Ligation L10 reaction purification"
+ ],
+ "images": [],
+ "tables": 3,
+ "id": "2025-10-25",
+ "tags": {
+  "techniques": [
+   "qPCR",
+   "PCR",
+   "SELEX",
+   "Reconstitution",
+   "Qubit",
+   "Dialysis",
+   "Ligation",
+   "Bead purification",
+   "Column purification"
+  ],
+  "reagents": [
+   "Phusion",
+   "SYBR",
+   "AMPure",
+   "MgCl2",
+   "dNTPs"
+  ],
+  "samples": [
+   "D5recon",
+   "lig147",
+   "D4recon",
+   "D6recon",
+   "D4",
+   "NCAP_F",
+   "NCAP_R"
+  ],
+  "custom": []
+ },
+ "title": "qPCR trial for SELEX samples; Quantification  of lig147 PCR2 product; Nucleosome reconstitution"
+}

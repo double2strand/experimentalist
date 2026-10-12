@@ -1,0 +1,42 @@
+{
+ "date": "2025-11-13",
+ "heading": "**13 November 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "***QC for NCAP-SELEX cycle 1***\n\nConcentration measurements using (Qubit):\n\nlig147 PCR1 \\- 3.14 ng/uL (A4)\n\nligN40 PCR1 \\- 6.96 ng/uL (A4)\n\n*A run of the PCR1 products from well P23 for both cases showed significant DNA profiles. For N40 products, the expected band size as well as some higher size products were also seen.*\n\nlig147 PCR2 \\- 2.5 ng/uL (P23)\n\nligN40 PCR2 \\- 4.96 ng/uL (P23)\n\nSome sample had been collected after SBP-bead enrichment & post Ni-bead enrichment for samples pooled from wells P22, P24 → these wells used nucleosome but no TF. These were measured using Qubit & expected trends are seen.\n\nlig147-nuc: 0.08 ng/uL\n\nligN40-nuc: 0.78 ng/uL\n\nlig147-nuc+TF: no DNA\n\nligN40-nuc+TF: no DNA\n\nMNase treatment of lig147-nuc & ligN40-nuc:\n\ni. lig147 (50 ng) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL dil-MNase \n\nii. ligN40 (50 ng) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL dil-MNase\n\niii. lig147-nuc \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL dil-MNase\n\niv. ligN40-nuc \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL dil-MNase\n\nv. lig147-nuc+TF \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL dil-MNase\n\nvi. ligN40-nuc+TF \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL dil-MNase\n\nIncubate at 37 C, 10 mins and then add 1.1 uL 0.5 M EGTA. Run this on a 0.5% agarose gel and stain with SYBR Green.\n\nRun 1 uL each of PCR1 & PCR2 products (P23) on the same gel for staining.\n\n***Hia5 treatment for long-read samples***\n\nD8-h: 113 ng\n\nlig20K-h: 266 ng\n\nlig50K-h: 176 ng\n\n293T-20K-h: 189 ng\n\nGP5d-20K-h: 52 ng\n\nSet up reactions for lig20K-h (2), lig50K-h (1), 293T-20K-h (1) & 5 reactions for GP5d-20K-h (400 ng each).\n\n*lig20K*\n\nR1X2: 400 ng DNA \\+ Hia5 buffer \\+ 0.5 uL Hia5 \\+ 0.5 uL SAM\n\n*lig50K*\n\nR2: 400 ng DNA \\+ Hia5 buffer \\+ 0.5 uL Hia5 \\+ 0.5 uL SAM\n\n*293T-20K*\n\nR3: 400 ng DNA \\+ Hia5 buffer \\+ 0.5 uL Hia5 \\+ 0.5 uL SAM\n\n*GP5d-20K*\n\nR4X5: 400 ng DNA \\+ Hia5 buffer \\+ 0.5 uL Hia5 \\+ 0.5 uL SAM\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2025-11-13",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "MNase",
+   "Hia5",
+   "Gel electrophoresis",
+   "Qubit",
+   "Cell culture",
+   "Bead purification",
+   "ELISA"
+  ],
+  "reagents": [
+   "SYBR",
+   "SAM",
+   "Hia5",
+   "MNase"
+  ],
+  "samples": [
+   "lig147",
+   "ligN40",
+   "lig20K",
+   "lig50K",
+   "293T"
+  ],
+  "custom": []
+ },
+ "title": "QC for NCAP-SELEX cycle 1"
+}

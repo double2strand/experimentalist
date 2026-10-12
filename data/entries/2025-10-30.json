@@ -1,0 +1,47 @@
+{
+ "date": "2025-10-30",
+ "heading": "**30 October 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "### 1. ligN40w107 PCR optimisation\n\nPreviously these ligands were halted at PCR1, because the product size seen for the DNA was incorrect. This was likely because the wrong b oligo was used i.e. the incorrect oligo from the earliest design for ligN40w107b. This is now being repeated with ligN40w107b-Re.\n\n*![](assets/img/doc3-image3.png)*\n\nEstimate the concentration of the annealed DNA product \\= \n\nDilute this DNA 15-fold ⇒ Make up the volume to 900 uL ⇒ Conc \\= 5 ng/uL\n\nPrepare a 100X reaction mix:\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **ligN40w107 Ann** | **100** |\n| **Phusion Master Mix** | **1250** |\n| **NCAP\\_F (10 µM)** | **125** |\n| **NCAP\\_R (10 uM)** | **125** |\n| **Water** | **900**  |\n| **Total** | **2500** |\n\nSplit mix into 25 uL per well for two 96-well PCR plates.\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **8X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\nPool the PCR product and run 20 uL of sample on a 1% agarose gel. Measure concentration of the PCR1 product. The gel run showed the correct band size but the PCR product here is not as clean and there is a little bit of smearing, but the dominant band is for the correct size.\n\nConcentration of PCR1 \\= 13.2 ng/uL\n\n### 2. Repeat of ligation for reconstitution\n\nLarge scale ligation with a mix of DNA i.e. lig147 & ligN40w107 did not yield very optimal sizes of fragments (L10)\n\nThis will therefore be repeated with the new lig147 pool. First prepare PNK treated DNA.\n\nFirst take 296 uL (\\~12 ug) of the lig147 PCR2 pool and concentrate this prior to setting up the PNK reaction as below:\n\n**5X**\n\n| DNA | up to 300 pmol of 5´ termini (Use 2 ug of DNA per reaction) |\n| :---- | :---- |\n| T4 PNK Reaction Buffer (10X) | 5 µl |\n| ATP (10 mM) | 5 µl |\n| [T4 PNK](https://www.neb.com/en-gb/products/m0201-t4-polynucleotide-kinase) | 1 µl (10 units) |\n| Nuclease-free Water | up to 50 µl |\n\n \n\n### 3. Reconstitution of lig20K with SBP-Octamer \\+ TF pool incubation\n\n*lig20K (2x)*\n\nUse 3.89 ug of DNA\n\nlig20K (D7) ⇒ 15 uL ⇒ 15 nM \\[at 2 M salt concentration\\]\n\nOctamer molarity acc. to 60:1 ratio ⇒ 0.9 uM ⇒ 2.11 ug in 5 uL ⇒ Prepare 500 ng/uL stock OSH500 (0.83 uL \\+ 11.17 uL refolding buffer) ⇒ (4.22 uL OHS500 \\+ 0.78 uL refolding buffer \\+ glycerol) \\[1.84 M\\]\n\nPost-reconstitution, the assembled nucleosomes are to be enriched with SBP beads to enrich only the fragments of DNA with assembled nucleosomes.\n\nBased on the actual NCAP-SELEX protocol, when the beads are added to the nucleosomes for purification, the actual salt concentration is \\~0.17 M. \n",
+ "experiments": [
+  "1. ligN40w107 PCR optimisation",
+  "2. Repeat of ligation for reconstitution",
+  "3. Reconstitution of lig20K with SBP-Octamer \\+ TF pool incubation"
+ ],
+ "images": [
+  "assets/img/doc3-image3.png"
+ ],
+ "tables": 3,
+ "id": "2025-10-30",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Ligation",
+   "Bead purification",
+   "Fragmentation"
+  ],
+  "reagents": [
+   "Phusion",
+   "Histone octamer",
+   "Glycerol"
+  ],
+  "samples": [
+   "ligN40w107",
+   "lig147",
+   "lig20K",
+   "ligN40w107b",
+   "D7",
+   "NCAP_F",
+   "NCAP_R"
+  ],
+  "custom": []
+ },
+ "title": "ligN40w107 PCR optimisation; Repeat of ligation for reconstitution; Reconstitution of lig20K with SBP-Octamer \\+ TF pool incubation"
+}

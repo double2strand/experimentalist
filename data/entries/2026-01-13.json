@@ -1,0 +1,27 @@
+{
+ "date": "2026-01-13",
+ "heading": "**13 January 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*lig70N PCR*\n\nTo address the PCR issues for lig70N further, I am now gel extracting the lig70N DNA and then setting up a PCR to check if the product is cleaner post this PCR.\n\nThis resolved the issue as a very clean band was obtained post PCR1 in this case.\n\nFurther, two conditions had been tried for PCR here:\n\n- dilution of original lig70N ANN 10-fold → use 1 uL in PCR  \n- dilution of original lig70N ANN 15-fold → use 1 uL in PCR\n\nThe first condition with 10-fold dilution yielded a better overall concentration of the product.\n\n*pHRS libraries propagation in dam-/dcm- host strains*\n\nFor trying plasmid FIBER-Seq, the enhancer pHRS libraries needed to be propagated in a host that is dam-/dcm- resistant.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2026-01-13",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Gel electrophoresis",
+   "Library prep"
+  ],
+  "reagents": [],
+  "samples": [
+   "lig70N"
+  ],
+  "custom": []
+ },
+ "title": "lig70N PCR"
+}

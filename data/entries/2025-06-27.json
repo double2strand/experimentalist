@@ -1,0 +1,34 @@
+{
+ "date": "2025-06-27",
+ "heading": "**27 June 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "| HCCv1cc clone sequencing |\n| :---- |\n| **Re-run TapeStation for oligo AT10 \\+ Nh100 BC1 & BC2 pools** |\n| **Transfect 293TX cells for viral packaging of pHRS-Hclav1cc & pHRS-Gclav1cc** |\n| **Concentrate virus for MYC355 T1 & T2** |\n\n1. **HCCv1cc clone sequencing**\n\nThe HCC clones were all sent out for whole plasmid sequencing.\n\n2. **Re-run TapeStation for oligo AT10 \\+ Nh100 BC1 & BC2 pools**\n\nPrevious tapestation run on the high sensitivity D5000 yielded good results but also showed several high range fragments and overall showed much higher than expected concentration.\n\nBC1 pool  \n![](assets/img/doc2-image7.png)\n\nBC2 pool\n\n![](assets/img/doc2-image8.png)\n\nTo fix the issues with the concentration, both the BC1 and BC2 samples were run with a 50-fold and 100-fold dilution on the HS D1000 ScreenTape.\n\n### 3. Transfect 293TX cells for viral packaging of pHRS-Hclav1cc & pHRS-Gclav1cc\n\npHRS-Hclav1cc:\n\n4 plates (10-cm dishes) with 6 ug of transfer plasmids and 6 ug each of the packaging and envelope vectors.\n\n6 mL Opti-MEM \\+ 41.3 uL pHRS-Hclav1cc \\+ 20.2 uL pMD2.G \\+ 29 uL pCMV-dR8.2\n\nIncubate for 5 mins.\n\nAdd 132 uL Turbofectin & incubate for 15 mins.\n\nSplit the solution dropwise across two plates. Label these plates as T1 pHRS-MYC355.  \n   \npHRS-Gclav1cc:\n\n4 plates (10-cm dish) with 6 ug of transfer plasmids and 6 ug each of the packaging and envelope vectors.\n\n6 mL Opti-MEM \\+ 39.5 uL pHRS-Gclav1cc \\+ 20.2 uL pMD2.G \\+ 29 uL pCMV-dR8.2\n\nIncubate for 5 mins.\n\nAdd 33 uL Turbofectin & incubate for 15 mins.\n\nSplit the solution dropwise across two plates. Label these plates as T1 pHRS-MYC355.\n\n### 4. Concentrate virus for MYC355 T1 & T2\n\nCentrifugation: Centrifuge at 3,090g\\* for 25 min at 4 degrees, remove the supernatant carefully. \n\n\\*this was purely because the maximum speed on the smaller centrifuge in the TC room was 3090g\n\nNote: The lentiviral particles appear as white pellet at the bottom of the tube.  Do not disturb the white pellet. Each of the white pellets is resuspended in 5 mL of DMEM media and then aliquots are made with \\~500 uL per tube. These tubes are then stored at \\-80oC in the pHRS virus box. \n",
+ "experiments": [
+  "3. Transfect 293TX cells for viral packaging of pHRS-Hclav1cc & pHRS-Gclav1cc",
+  "4. Concentrate virus for MYC355 T1 & T2"
+ ],
+ "images": [
+  "assets/img/doc2-image7.png",
+  "assets/img/doc2-image8.png"
+ ],
+ "tables": 1,
+ "id": "2025-06-27",
+ "tags": {
+  "techniques": [
+   "Transfection",
+   "Lentivirus",
+   "Cell culture",
+   "Fragmentation"
+  ],
+  "reagents": [],
+  "samples": [
+   "293TX"
+  ],
+  "custom": []
+ },
+ "title": "Transfect 293TX cells for viral packaging of pHRS-Hclav1cc & pHRS-Gclav1cc; Concentrate virus for MYC355 T1 & T2"
+}

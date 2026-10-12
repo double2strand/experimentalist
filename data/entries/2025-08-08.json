@@ -1,0 +1,68 @@
+{
+ "date": "2025-08-08",
+ "heading": "**8 August 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "**Flow Cytometry Cytek Analyser Repeat:**\n\n1. Type dyes needed and drag them to the selection panel \\- eGFP, mCherry\n\n![](assets/img/doc2-image96.png)  \n2\\. Add Reference Group and use Unstained as the Negative control for each of the dyes that are being used in the assay:\n\n![](assets/img/doc2-image97.png)\n\n3\\. Add new Groups for each set of samples to be run & analysed![](assets/img/doc2-image98.png)\n\n4\\. Add marker names to the samples to identify samples properly![](assets/img/doc2-image99.png)\n\n5\\. Select P1 as the stopping gate which is the FSC vs SSC population.![](assets/img/doc2-image100.png)\n\n6\\. Keep all the fluorophores and plots on the Worksheet as they are\n\n![](assets/img/doc2-image101.png)\n\n7\\. Set up FCS and SSC optimal thresholds but do not change any of the fluorophore values. Let all the fluorophores be present in the panels shown below the main FSC v SSC graphs.\n\n![](assets/img/doc2-image102.png)![ (partial: image too large to export fully - see original Google Doc)](assets/img/doc2-image103.png)\n\nWhile running the single colour controls, we can also perform gating by adding a population P2 that represents the positive cells for the specific marker we are looking at.\n\n8\\. Once all the single colour controls have been run, first run the first type of samples (under a new group) with a few events. Check that the responsible fluorophores are giving some signal. For my experiment, the colours/lasers I am looking for are:\n\neGFP \\- B1/B2; mCherry \\- B6\n\n![](assets/img/doc2-image104.png)\n\nDuplicate the first sample and then proceed to Unmix for the first recorded sample. All Reference controls will be listed there. Then proceed to Live Unmixing. \n\n![](assets/img/doc2-image105.png)\n\nThis will create a new sheet where P1 population must be selected and the positive and negative populations to be marked in the single colour controls for each dye.\n\n9\\. This creates a new Unmixing Worksheet. We can label the dye names on the axes here.\n\n![](assets/img/doc2-image106.png)\n\nThen go to the copy of the sample that was created and recorded more events and then record both the unmixed and regular profiles. The copy process may need to be run separately only for each sample in a group.\n\n![ (partial: image too large to export fully - see original Google Doc)](assets/img/doc2-image107.png)\n\n![](assets/img/doc2-image108.png)\n\nSamples currently to be run:\n\nReference Group:\n\n1. HAP1 Unstained (A1)  \n2. HepG2del Unstained (A2)  \n3. HAP1 GFP control (A3)  \n4. HepG2del mCherry control (A4)\n\nHAP1 Group:\n\n5. HAP1 MYCT1PB (B1)  \n6. HAP1 MYCT2PB (B2)  \n7. HAP1 MYCT1PB2 (B3)  \n8. HAP1 MYCT2PB2 (B4)\n\nGP5d Group:\n\n9. GP5d MYCT1PB (C1)  \n10. GP5d MYCT2PB (C2)  \n11. GP5d MYCT1PB2 (C3)  \n12. GP5d MYCT2PB2 (C4)\n\nHepG2 Group:\n\n13. HepG2\\_GclaT1+ (D1)  \n14. HepG2\\_GclaT2+ (D2)  \n15. HepG2\\_HclaT1+ (D3)  \n16. HepG2\\_HclaT2+ (D4)  \n17. HepG2\\_GclaT1- (D5)  \n18. HepG2\\_GclaT2- (D6)  \n19. HepG2\\_HclaT1- (D7)  \n20. HepG2\\_HclaT2- (D8)  \n21. HepG2\\_GclaT1 (D9)  \n22. HepG2\\_GclaT2 (D10)  \n23. HepG2\\_HclaT1 (D11)  \n24. HepG2\\_HclaT2 (D12)\n\nSample preparation:\n\n- Trypsinize and harvest the cells and spin them down.  \n- Resuspend cells in 2% paraformaldehyde solution for fixing and keep at RT for 30 mins.  \n- Spin the cells at 500g, 5 mins and wash once with ice-cold PBS.  \n- After wash and spin, resuspend cell pellet in 3 mL of FACS Buffer (with BSA) and pass through FACS tube filters.\n\nStandardisation of FACS parameters:\n\n- FSC-A versus SSC-A to select P1 \\- overall population of cells with correct size and granularity  \n- FSC-W versus FSC-A to exclude doublets: Only select the cells along a straight line, discard cells with larger width P2.  \n- SSC-W versus SSC\\_A: Select cells along the line or uniform cluster and mark as P3.  \n- Plot P3 for GFP versus mCherry for only GFP cell screening, and mCherry versus GFP for only mCherry screening. Mark these respective populations as P4.\n\n![](assets/img/doc2-image95.png)\n\n**MNase digestion & testing of nucleosome recon samples**\n\nFrom the titration test that was run yesterday, just 2 units of the enzyme seemed sufficient to degrade the 147 bp DNA ligand completely (in 30 minutes).\n\nFor today’s run:\n\nDilute 1 uL MNase to 1000 uL of total solution with NF water. 1 uL of this solution has 2 gel units of the enzyme (MNase-dil).\n\nReactions to set up:\n\n1. lig147 (0.5 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\[CONTROL\\]  \n2. lig147 (0.5 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL MNase-dil  \n3. A1recon (10 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL MNase-dil  \n4. A2recon (10 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL MNase-dil  \n5. A3recon (10 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL MNase-dil  \n6. lig20K (1.5 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\[CONTROL\\]  \n7. B1recon (10 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\[CONTROL\\]  \n8. B2recon (10 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\[CONTROL\\]\n\nIncubate at 37 degrees, 15 mins. Add 1.1 uL EGTA (0.5 M) to stop the reaction.\n\nRun the samples on a HS D5000 Screentape with the regular lig147, lig20K ligands as control. \n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc2-image96.png",
+  "assets/img/doc2-image97.png",
+  "assets/img/doc2-image98.png",
+  "assets/img/doc2-image99.png",
+  "assets/img/doc2-image100.png",
+  "assets/img/doc2-image101.png",
+  "assets/img/doc2-image102.png",
+  "assets/img/doc2-image103.png",
+  "assets/img/doc2-image104.png",
+  "assets/img/doc2-image105.png",
+  "assets/img/doc2-image106.png",
+  "assets/img/doc2-image107.png",
+  "assets/img/doc2-image108.png",
+  "assets/img/doc2-image95.png"
+ ],
+ "tables": 0,
+ "id": "2025-08-08",
+ "tags": {
+  "techniques": [
+   "MNase",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Restriction digest"
+  ],
+  "reagents": [
+   "MNase",
+   "BSA"
+  ],
+  "samples": [
+   "lig147",
+   "lig20K",
+   "A1recon",
+   "A2recon",
+   "A3recon",
+   "B1recon",
+   "B2recon",
+   "B1",
+   "B2",
+   "B3",
+   "B4",
+   "D1",
+   "D2",
+   "D3",
+   "D4",
+   "D5",
+   "D6",
+   "D7",
+   "D8",
+   "D9",
+   "D10",
+   "D11",
+   "D12"
+  ],
+  "custom": []
+ },
+ "title": "Flow Cytometry Cytek Analyser Repeat:"
+}

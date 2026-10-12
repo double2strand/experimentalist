@@ -1,0 +1,46 @@
+{
+ "date": "2025-11-11",
+ "heading": "**11 November 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "**SELEX Checklist** \n\n1. Octamer Plate for lig147 NCAP-SELEX  \n     \n   For second octamer plate prepare \\= Take 23.5 uL SBP-octamer (in 5000 uL refolding buffer:glycerol ⇒ Add 150 uL 100 mM TCEP to this mix)  \n     \n   First split into 416 uL per well along a row. From here add 52 uL per well into the spare octamer plate. Split this across a 4ti384 plate with 12 uL per well.  \n     \n2. Ligand plate for lig147, ligN40w107  \n     \n   For ligN40w107, take the entire mix of ligand and make up the volume to 8 mL.  \n   Split into 666 uL per well along a row and then to 83 uL per well. From here aliquot to 20 uL per well of a NUNC plate.  \n     \n3. Complete Protein Plate for fourth quadrant of SELEX   \n     \n   CREB1 \\- A1, MLX \\- B2, ETV4 \\- B12, ELK1 \\- C12  \n   Composite pairs \\= CREB1\\_ELK1 (A1\\_C12), CREB1\\_ETV4 (A1\\_B12), ETV4\\_MLX (B12\\_B2)  \n     \n   A1-A12 \tMAX 30\n\n   c\\~MYC:MAX 7.5 *(22.5)*  \n   CTCF 15 *(15)*  \n   TETR 3.5 *(26.5)*  \n   YY1 25 *(5)*  \n   ELFM2  \n   ELF2m3  \n   ELF2m23  \n   ELF2mALL  \n   DLX2  \n   Q3 FL A1-A2\n\n\tB1-B12\tFL Q3 A3-A12, B1-B2  \n\tC1-C12\tFL Q3 B3-B12, C1-C2  \n\tD1-D12\tFL Q3 C3-C12, D1-D2  \n\tE1-E12\tFL Q3 D3-D12, E1-E2  \n\tF1-F12\tFL Q3 E3-E12, F1-F2  \n\tG1-G12\tFL Q3 F3-F4   \n*(In order)*  \nDBP159  \nDBP160  \nDBP164  \nDBP163  \nDBP161  \nDBP165  \nDBRFD3  \nDBP162  \nFL Q1 G2  \nFL Q1 F8  \nH1-H12\t*(In order)*  \nFL Q3 G4  \nFL Q1 H3  \nFL Q1 F8  \nFL Q1 G7  \nFL Q1 C4  \nFL Q1 C5  \nCREB1\\_ELK1 (A1\\_C12) *(15 \\+ 15\\)*  \nCREB1\\_ETV4 (A1\\_B12) *(15 \\+ 15\\)*  \nETV4\\_MLX (B12\\_B2) *(15 \\+ 15\\)*  \nP53 (8 uL \\- 4 ug) *(+22 uL)*  \nBlank  \nBlank\n\n4. Re-prepare Biotin Buffer (no filtration) and aliquot to NUNC plates  \n   \n\n200 mL\n\n| 1X TCAPT Block | 100 mL |\n| :---- | :---- |\n| Biotin | 0.49 g |\n| Imidazole | 0.68 g |\n| 10 M NaOH | 120 uL |\n\nMake up the volume to 200 mL. DO NOT filter and aliquot 25 uL per well to 8 plates (needs \\~80 mL buffer).\n\n5. Test Washer program  \n   \n\nAs general rule:  \n   \n·   \t**Rinse with water – 5 secs**  \n·   \t**Prime with water – 5 secs**  \n·   \t**Prime with buffer – 5 secs**  \n**Wash**\n\nNCAP Wash  \n**no soak, with shake wash (6+6+3)**\n\n**HT Wash**  \n**soak but NO shake wash (1+6+3+6+3+1)**\n\n6. Test PlateLoc & VWR Shaker  \n7. Test Elution MultiDrop  \n     \n8. Set PCR programs\n\nTW\\_SELEX\\_MAIN\n\n| Step | Temp / ℃ | Time / s |\n| :---: | :---: | :---: |\n| 1 | 98 | 180 |\n| 2 | 98 | 15 |\n| 3 | 60 | 10 |\n| 4 | 72 | 36 |\n| 5 | GOTO 2 | X times |\n| 6 | 72 | 120 |\n| 7 | 25 | 2 |\n| 8 | 4 | forever |\n\nTW\\_SELEX\\_dilution\n\n| Step | Temp / ℃ | Time / s |\n| :---: | :---: | :---: |\n| 1 | 98 | 180 |\n| 2 | 98 | 15 |\n| 3 | 60 | 10 |\n| 4 | 72 | 36 |\n| 5 | GOTO 2 | 1 time |\n| 6 | 72 | 120 |\n| 7 | 25 | 2 |\n| 8 | 4 | forever |\n\n9. Test complete recon program for single plate \\- try different nucleosome plate volumes \\- 10 uL, 8.3 uL, 6.6 uL, 4.9 uL, 3.2 uL (with refolding buffer:glycerol)  \n10. Write and test program for Biotin Elution  \n11. Write and test program for TF incubation and HIS Beads\n\n**Hia5 samples**\n\nList of samples:\n\nD1-H: lig20K recon (WT octamer)\n\nD2-H: lig50K recon (WT octamer)\n\nD4-H: 293T-20K (WT octamer)\n\nD5-H: GP5d-20K (WT octamer)\n\nD6-H: lig20K (Human octamer)\n\n**D7UB-H: lig20K (SBP-ocr)\\***\n\n**D7UBpro-H: lig20K (SBP-octamer \\+ proteins)\\***\n\nD8-H: lig147 ligated (WT octamer)\n\nlig20K\n\nlig50K-sheared\n\n*\\*Keep these samples for further testing \\- I would rather not send these currently as not sure of what the status of their methylation is.*\n\nHia5 treatment:  \n*D8*\n\n* Prepare dHia5-1 ⇒ 1 uL enzyme in 8 uL of Hia5 buffer  \n* Prepare Master-Mix \\= 148 uL sample \\+ 4 uL SAM \\+ 8 uL dHia5  \n* Aliquot 20 uL each to tubes.\n\n*lig20K*\n\nR1: 350 ng DNA \\+ Hia5 buffer \\+ 0.5 uL Hia5 \\+ 0.5 uL SAM\n\nR2: 200 ng DNA \\+ Hia5 buffer \\+ 0.5 uL Hia5 \\+ 0.5 uL SAM\n\n*lig50K*\n\nR3: 350 ng DNA \\+ Hia5 buffer \\+ 0.5 uL Hia5 \\+ 0.5 uL SAM\n\n*293T-20K*\n\nR4: 350 ng DNA \\+ Hia5 buffer \\+ 0.5 uL Hia5 \\+ 0.5 uL SAM\n\n*GP5d-20K*\n\nR5: 350 ng DNA \\+ Hia5 buffer \\+ 0.5 uL Hia5 \\+ 0.5 uL SAM\n",
+ "experiments": [],
+ "images": [],
+ "tables": 3,
+ "id": "2025-11-11",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Hia5",
+   "Reconstitution",
+   "Ligation",
+   "Cell culture",
+   "Bead purification",
+   "Fragmentation",
+   "Protein purification"
+  ],
+  "reagents": [
+   "SAM",
+   "Hia5",
+   "Histone octamer",
+   "Glycerol"
+  ],
+  "samples": [
+   "lig20K",
+   "lig147",
+   "lig50K",
+   "ligN40w107",
+   "B2",
+   "B12",
+   "293T",
+   "D2",
+   "D12"
+  ],
+  "custom": []
+ },
+ "title": "SELEX Checklist "
+}

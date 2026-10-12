@@ -1,0 +1,35 @@
+{
+ "date": "2026-02-24",
+ "heading": "**24 February 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*NCFS Sample clean-up and quantification*\n\nRatio of AmpureXP beads used for clean-up ⇒ 1.5X\n\nlig147NCFS \\= \\~1.5 ng/uL\n\nligN40NCFS \\= \\~0.2 ng/uL\n\n*lig50k sample preparation* \n\nFor 1 ug of the lig50k DNA, use the first condition to produce 20 kb fragments\n\n***![](assets/img/doc3-image14.png)***\n\n*sol1 dried salt plates*\n\n**sol1 Salt solution: 2M KCl\\_1.491g KCl \\+ 10mL TE \\+ cocktail Tablet \\+ 1mM TCEP**\n\n50 mL X 2\n\n| KCl | 7.46 g |\n| :---- | :---- |\n| 100 mM TCEP | 0.5 mL |\n| TE Buffer (100X) | 0.5 mL |\n| EDTA-free protease inhibitor | 1 tablet |\n\nFilter, mix well and aliquot. Add 130 uL per well of 2 X  4titude 96-well plates. Use one plate for making 6 384-well NUNC plate aliquots.\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc3-image14.png"
+ ],
+ "tables": 1,
+ "id": "2026-02-24",
+ "tags": {
+  "techniques": [
+   "Bead purification",
+   "Fragmentation"
+  ],
+  "reagents": [
+   "AMPure",
+   "EDTA",
+   "KCl",
+   "TE buffer"
+  ],
+  "samples": [
+   "lig50k",
+   "lig147NCFS",
+   "ligN40NCFS"
+  ],
+  "custom": []
+ },
+ "title": "NCFS Sample clean-up and quantification"
+}

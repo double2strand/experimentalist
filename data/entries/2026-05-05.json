@@ -1,0 +1,35 @@
+{
+ "date": "2026-05-05",
+ "heading": "**5 May 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*SELEX library submission*\n\nConcentration values based on KAPA qPCR quantification:\n\nC3HTS200 \\- 117.5 nM\n\nC3HTS70N \\- 130.4 nM\n\nC4HTS200 \\- 83.2 nM\n\nC4HTS70N \\- 81 nM\n\nC3NCAP200 \\- 91.12 nM\n\nC3NCAP70N \\- 70.35 nM\n\nC4NCAP200 \\- 81.34 nM\n\nC4NCAP70N \\- 57.87 nM\n\nC1HTS200 \\- 129.83 nM\n\nC1HTS70N \\- 166.67 nM\n\nC1NCAP200 \\- 565.18 nM\n\nC1NCAP70N \\- 209.13 nM\n\nTube 1: NT1896111T \\[C1\\_HTS\\_lig200 (PE0) \\+ C1\\_NCAP\\_lig200 (PE1)\\] \\[**80 \\+ 20**\\]\n\nTube 2: NT1896880H \\[C1\\_HTS\\_lig70N (PE0) \\+ C1\\_NCAP\\_lig70N (PE1)\\] \\[**55 \\+ 45**\\]\n\nTube 3: NT1897649G \\[C3\\_HTS\\_lig200 (PE2) \\+ C3\\_NCAP\\_lig200 (PE3)\\] \\[**44 \\+ 56**\\]\n\nTube 4: NT1898418U \\[C3\\_HTS\\_lig70N (PE2) \\+ C3\\_NCAP\\_lig70N (PE3)\\] \\[**35 \\+ 65**\\]\n\nTube 5: NT1899187F \\[C4\\_HTS\\_lig200 (PE2) \\+ C4\\_NCAP\\_lig200 (PE3)\\] \\[**49 \\+ 51**\\]\n\nTube 6: NT1899956W \\[C4\\_HTS\\_lig70N (PE2) \\+ C4\\_NCAP\\_lig70N (PE3)\\] \\[**42 \\+ 58**\\]\n\n**“Short Read PoolSeq” in the fridge in G216** \n\n*SBP-Octamer Plate Preparation*\n\nOctamer concentration \\= 4.65 ug/uL \\= 4650 ng/uL\n\nNumber of experiments \\= 15\n\nVolume per experiment \\= 1.8 uL\n\nVolume needed per well \\= 30 uL\n\nPrepare 30 ng/uL octamer with 30 uL per well ⇒ 30 X 400 X 30 \\= 360 ug SBP-octamer\n\nTake 78 uL of original octamer and make up solution to 12000 uL (add 360 uL 100 mM TCEP \\+ 11562 uL of refolding buffer:glycerol (1:1))\n\nSplit 125 uL of the octamer mix into each well of a 96-well plate. Use the Beckman to aliquot 30 per well of an octamer plate.\n\n*lig147 PCR 2*\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **Final diluted DNA** | **400** |\n| **Phusion Master Mix** | **2500** |\n| **NCAP\\_F (10 µM)** | **250** |\n| **NCAP\\_R (10 uM)** | **250** |\n| **Water** | **1600**  |\n| **Total** | **5000** |\n\n25 uL per well in two 96-well plates.\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **3X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\n*lig200 PCR 2*\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **Final diluted DNA** | **400** |\n| **Phusion Master Mix** | **2500** |\n| **NCAP\\_F (10 µM)** | **250** |\n| **NCAP\\_R (10 uM)** | **250** |\n| **Water** | **1600**  |\n| **Total** | **5000** |\n\n25 uL per well in two 96-well plates.\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **3X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 4,
+ "id": "2026-05-05",
+ "tags": {
+  "techniques": [
+   "qPCR",
+   "PCR",
+   "SELEX",
+   "Library prep"
+  ],
+  "reagents": [
+   "Phusion",
+   "Histone octamer",
+   "Glycerol"
+  ],
+  "samples": [
+   "NCAP_F",
+   "NCAP_R",
+   "lig147",
+   "lig200"
+  ],
+  "custom": []
+ },
+ "title": "SELEX library submission"
+}

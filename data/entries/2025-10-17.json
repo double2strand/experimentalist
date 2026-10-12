@@ -1,0 +1,47 @@
+{
+ "date": "2025-10-17",
+ "heading": "**17 October 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. *Needle shearing for HMW HAP1 DNA*  \n2. *Change media for virus packaging cells with Viralboost*  \n3. *Set up reconstitution for HAP1 20K gDNA & long DNA sent by de Boer lab*\n\n*1\\. Needle shearing for HMW HAP1 DNA*\n\n![](assets/img/doc2-image112.png)\n\nTake 87.95 uL of original sample \\+ 62.05 uL TE buffer.\n\nLoad the gTubes into the centrifuge and spin for 60 sec at 7200 rpm. Then invert the tube and spin again at 7200 rpm for 60 sec.\n\nPlace the gTube on the UNLOAD position and collect the sheared sample from the screw cap.\n\nRun some of the sample on a 0.8% agarose gel to check for the integrity and shear size of the sample.\n\n**Large scale reconstitution of lig20K & lig50K**\n\n*lig20K*\n\nUse 3.89 ug of DNA\n\nlig20K (D1) ⇒ 15 uL ⇒ 15 nM \\[at 2 M salt concentration\\]\n\nOctamer molarity acc. to 60:1 ratio ⇒ 0.9 uM ⇒ 1.96 ug in 5 uL ⇒ Prepare 12 uL of stock with 500 ng/uL with refolding buffer \\[1.11 uL stock \\+ 8.89 uL refolding buffer\\] \\[O500\\] ⇒ Prepare 5 uL octamer stock \\[3.92 uL \\+ 1.08 uL refolding buffer \\+ glycerol\\] \\[1.78 M\\] ⇒ Final concentration of mix \\[1.95 M\\]\n\n*lig50K*\n\nD2\n\nUse 3.25 ug of DNA\n\nlig50K (D2) ⇒ 15 uL ⇒ 5 nM \\[at 2 M salt concentration\\]\n\nOctamer molarity acc. to 150:1 ratio ⇒ 0.75 uM ⇒ 1.63 ug in 5 uL ⇒ 3.26 uL \\+ 1.74 uL refolding buffer+glycerol; 1.65 M\\] ⇒ Final salt concentration of mix \\[1.91 M\\]\n\nD3\n\nUse 3.25 ug of DNA\n\nlig50K (D2) ⇒ 15 uL ⇒ 5 nM \\[at 2 M salt concentration\\]\n\nOctamer molarity acc. to 200:1 ratio ⇒ 1 uM ⇒ 2.18 ug in 5 uL ⇒ 4.36 uL \\+ 1.74 uL refolding buffer+glycerol; 1.65 M\\] ⇒ Final salt concentration of mix \\[1.91 M\\]\n\n*High salt RB (2 L)*  \n298.2 g KCl  \n20 mL 1 M Tris-HCl, pH 7.5  \n4 mL 0.5 M EDTA  \n2 mL DTT\n\n*Low salt RB (2 L)*  \n37.28 g KCl  \n20 mL 1 M Tris-HCl, pH 7.5  \n4 mL 0.5 M EDTA  \n2 mL DTT\n\nResuspend 1.54 g of DTT in 10 mL of water to prepare a 1 M stock if needed.\n\nThis trial is being run at 1.5 mL/min (pump 1\\) & 1.3 mL/min (pump 2\\)\n\nNucleosome samples to be concentrated and tested for Hia5 treatment:\n\nB1recon  \nB2recon  \nB3recon  \nB4recon\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc2-image112.png"
+ ],
+ "tables": 0,
+ "id": "2025-10-17",
+ "tags": {
+  "techniques": [
+   "Hia5",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "gDNA isolation",
+   "Fragmentation"
+  ],
+  "reagents": [
+   "Hia5",
+   "EDTA",
+   "Tris",
+   "KCl",
+   "DTT",
+   "Histone octamer",
+   "TE buffer",
+   "Glycerol"
+  ],
+  "samples": [
+   "lig50K",
+   "lig20K",
+   "D2",
+   "B1recon",
+   "B2recon",
+   "B3recon",
+   "B4recon",
+   "D1"
+  ],
+  "custom": []
+ },
+ "title": "1. Needle shearing for HMW HAP1 DNA  "
+}

@@ -1,0 +1,30 @@
+{
+ "date": "2024-11-01",
+ "heading": "**1st November 2024**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "*NCAP-SELEX ligand and inter-cycle PCR product verification on agarose gel (6 uL sample loaded per well):*  \nThe following samples were run on an agarose gel:\n\n- C0 lig147  \n- C0 ligN20w100  \n- C1-NCAP2-PCR147 (B3)  \n- C1-NCAP2-PCRN20 (B3)\n\nBased on the gel results the bands corresponding to the ligands was seen to be very clean and specific and of an accurate size. The bands were also very bright and therefore definitely higher in concentration than what was suggested by the Qubit 1X dsDNA assay.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2024-11-01",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Gel electrophoresis",
+   "Qubit"
+  ],
+  "reagents": [],
+  "samples": [
+   "B3",
+   "lig147",
+   "ligN20w100"
+  ],
+  "custom": []
+ },
+ "title": "NCAP-SELEX ligand and inter-cycle PCR product verification on agarose gel (6 uL sample loaded per well):  "
+}

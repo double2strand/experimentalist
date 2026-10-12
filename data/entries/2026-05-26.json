@@ -1,0 +1,21 @@
+{
+ "date": "2026-05-26",
+ "heading": "**26 May 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Samples to be submitted for PacBio*\n\n1 cell \\= N40 NCFS \\+ 147 NCFS  \n1 cell \\= 70N NCFS \\+ 200 NCFS  \n1 cell \\= N40 HTFS \\+ 147 HTFS  \n1 cell \\= 70N HTFS \\+ 200 HTFS  \n1 cell \\= GP5d pHRS PFS12h \\+ GP5d pHRS PFS18h  \n1 cell \\= GP5d pHRSmet- PFS12h \\+ GP5d pHRSmet- PFS18h\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2026-05-26",
+ "tags": {
+  "techniques": [],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Samples to be submitted for PacBio"
+}

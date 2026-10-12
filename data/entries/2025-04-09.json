@@ -1,0 +1,29 @@
+{
+ "date": "2025-04-09",
+ "heading": "**9 April 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**Assembly & PCR for pHRS-nolox gb1 and gb2**\n\npHRS-nolox-gb1 \\= 34 nM solution\n\npHRS-nolox-gb2 \\= 29 nM solution\n\nAnnealing reaction:\n\n1. Mix equal volumes of the equimolar oligonucleotides in a PCR tube (Add 1.47 uL of gb1 and 1.72 uL of gb2 for obtaining 50 nmoles of each gene block). Add 4 uL of Phusion 5X HF buffer and make up the total volume to 20 uL.  \n2. Use the following thermal profile:  \n   1. Heat to 95 °C and maintain the temperature for 2 min.  \n   2. Cool to 25 °C over 45 min. (Cool at the rate of 5 degrees in 3 mins → 1.6 degrees/min → 0.02 degrees/sec)  \n   3. Cool to 4 °C for temporary storage.  \n3. Centrifuge the PCR tube briefly to draw all moisture away from the lid.\n\nTo complete the annealing reaction, the following components were added:\n\n| Phusion 5X HF buffer  | 1 uL |\n| :---- | :---- |\n| 10 mM dNTPs | 2.5 uL |\n| Phusion Pol | 1.5 uL |\n\nExtension PCR 🡪 72°C for 60 minutes.\n\n**Amplification of annealed pHRSnolox gene block:**\n\n5X\n\n| pHRSnolox\\_F (10 uM) | 5 uL |\n| :---- | :---- |\n| pHRSnolox\\_R (10 uM) | 5 uL |\n| 2X Phusion Mix | 50 uL |\n| Annealed GB | 10 uL |\n| DMSO | 3 uL |\n| NF H2O | 27 uL |\n\nGBPCR\n\n| 95°C | 3 min |\n| :---- | :---- |\n| 98°C | 20 s |\n| **69°C\\*** | **15 s       20X** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\n\\*pHRSnolox\\_F has a Tm\\=57°C and pHRSnolox\\_R has a Tm\\=59°C; Ta accordingly set to 57°C.\n\nThe concentration for the gene blocks to be measured post column purification.\n\nCheck the PCR product on an agarose gel along with some of the purified biotinylated MAXligand. \n\nIf this product is clean, anneal this product with the MYC355gb.\n\n**Whole plasmid sequencing for additional clones of pHRS-Gcla-AT10Ep1 and pHRS-Gcla-ShhBC:**\n\nTwo additional clones of both plasmid library types were sent out for whole plasmid sequencing:\n\n- pHRS-Gcla-AT10Ep1\\_4  \n- pHRS-Gcla-AT10Ep1\\_5  \n- pHRS-Gcla-ShhBC\\_4  \n- pHRS-Gcla-ShhBC\\_5\n\n**Enhancer oligo libraries from chemical transformation \\- complexity estimation:**\n\nThe following PCR inserts were sent for Sanger sequencing:\n\n- enh\\_complex\\_Gcla  \n- enh\\_complex\\_Hcla  \n- enh\\_complex\\_GCD  \n- enh\\_complex\\_HCD  \n- enh\\_complex\\_GCC  \n- enh\\_complex\\_Nh100\n",
+ "experiments": [],
+ "images": [],
+ "tables": 3,
+ "id": "2025-04-09",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Gel electrophoresis",
+   "Library prep",
+   "Column purification"
+  ],
+  "reagents": [
+   "Phusion",
+   "dNTPs"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Assembly & PCR for pHRS-nolox gb1 and gb2"
+}

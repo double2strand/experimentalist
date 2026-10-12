@@ -1,0 +1,35 @@
+{
+ "date": "2024-11-19",
+ "heading": "**19th November 2024**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "| 1\\. Prepare large LB-AMP plates |\n| :---- |\n| 2\\. Clean-up for AT10-MIX-Pool library & quantification |\n| 3\\. Work on strategy for nucleosome recon with 20kbp ligand for FIBER-SEQ |\n| 4\\. Design gene blocks with MYC355 enhancer and loxP system surrounding the enhancer  |\n| 5\\. Design strategy for matching barcode tracking between enhancers and promoter/reporter |\n| 6\\. Thaw new 293T-X cells for large scale virus packaging |\n| 7\\. Purify MluI digested pHRS-GB plasmids to prepare for AT10, Nh100 library cloning |\n\n*Prepare large LB-AMP plates:*\n\n40 g of LB-AGAR powder was dissolved in 1 L of water and set up for autoclaving 🡪 2 bottles  \n1 mL of AMP to be added to each bottle.  \n110-120 mL of LB-AMP agar was added to each BioAssay plate. 6 total plates were prepared in this manner.\n\n*Clean-up for AT10-MIX-Pool library & quantification:*\n\nAfter gel extraction, the sample was combined with PB buffer and passed through the MinElute column again to refurbish the salt levels of the DNA sample (as this is diminished greatly after gel extraction). The final sample was eluted in 35 uL of TE buffer. Concentration was seen to be \\~75 ng/uL.   \n![A graph of a graph showing a number of different sizesDescription automatically generated with medium confidence](assets/img/doc1-image5.png)\n\n*Purify MluI digested pHRS-GB plasmids to prepare for AT10, Nh100 library cloning:*\n\nThe following plasmids (post-digestion) were run on a 0.8% agarose gel and then clear single bands of the expected size (9517 bp) were cut out, melted and purified using MinElute columns.\n\nReactions use an insert: vector ratio of 5:1 (since inserts in the oligo pool are \\~300 bp). Set up 2 reactions of each type.\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc1-image5.png"
+ ],
+ "tables": 1,
+ "id": "2024-11-19",
+ "tags": {
+  "techniques": [
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Cell culture",
+   "Library prep",
+   "Column purification",
+   "Restriction digest"
+  ],
+  "reagents": [
+   "MinElute",
+   "TE buffer"
+  ],
+  "samples": [
+   "293T"
+  ],
+  "custom": []
+ },
+ "title": "| 1. Prepare large LB-AMP plates |"
+}

@@ -1,0 +1,35 @@
+{
+ "date": "2025-08-07",
+ "heading": "**7 August 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "**MNase digestion for Nucleosome Recon profiling**\n\n1 unit of MNase can digest 1 ug of DNA at 37 degrees, 15 mins.\n\nFor \\~ 100 ng of DNA use 1/10 of a unit for this reaction.\n\nReactions to set up:\n\n1. lig147  \n2. A1recon  \n3. A2recon  \n4. A3recon  \n5. lig20K  \n6. B1recon  \n7. B2recon\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2025-08-07",
+ "tags": {
+  "techniques": [
+   "MNase",
+   "Reconstitution",
+   "Restriction digest"
+  ],
+  "reagents": [
+   "MNase"
+  ],
+  "samples": [
+   "lig147",
+   "lig20K",
+   "A1recon",
+   "A2recon",
+   "A3recon",
+   "B1recon",
+   "B2recon"
+  ],
+  "custom": []
+ },
+ "title": "MNase digestion for Nucleosome Recon profiling"
+}

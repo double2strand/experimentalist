@@ -1,0 +1,35 @@
+{
+ "date": "2026-02-18",
+ "heading": "**18 February 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Induction of cultures for protein expression*\n\n11 cultures were induced b/w 12-1 PM\n\n*ligN40 PCR 2*\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **Final diluted DNA** | **800** |\n| **Phusion Master Mix** | **2500** |\n| **NCAP\\_F (10 µM)** | **250** |\n| **NCAP\\_R (10 uM)** | **250** |\n| **Water** | **1200**  |\n| **Total** | **5000** |\n\n25 uL per well in two 96-well plates.\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **3X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\n*ELF2lig1 PCR & EcoRV digestion*\n\n16X\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **ELFlig1** | **8 uL** |\n| **Phusion Master Mix** | **200 uL** |\n| **ELF\\_FWD 10 uM** | **20 uL** |\n| **ELF\\_REV1 10 uM** | **20 uL** |\n| **Water** | **152 uL** |\n| **Total** | **400** |\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 59°C | 15 s       **35X\\*** |\n| 72°C | 30 s |\n| 72°C | 10 min |\n| 4°C | HOLD |\n\nFor an EcoRV digest, set up a reaction with 1 ug of ELF2lig1 DNA and then column purify the PCR product.\n\n*Gel run for Plasmid FS & HTFS samples*\n\n1. 1 kb Extend ladder  \n2. HAP1 HRS- 12  \n3. HAP1 HRS- 18  \n4. HepG2 HRS- 12  \n5. HepG2 HRS- 18  \n6. 147HTFS  \n7. N40HTFS\n\n*Transfer reconstituted nucleosomes to lower salt buffer*\n\nTake 1 mini-dialysis column labeled F1 (293T20knuc). Equilibrate the column with Nucleosome Buffer C for 30 mins. Then transfer the reconstituted nucleosome to this column and allow dialysis for 1-2 hours. Follow this with transfer of the dialysis column to a larger volume 14-15 mL of the same buffer & leave O/N at 4 C.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 4,
+ "id": "2026-02-18",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Dialysis",
+   "Cell culture",
+   "Column purification",
+   "Restriction digest"
+  ],
+  "reagents": [
+   "Phusion"
+  ],
+  "samples": [
+   "ligN40",
+   "NCAP_F",
+   "NCAP_R"
+  ],
+  "custom": []
+ },
+ "title": "Induction of cultures for protein expression"
+}

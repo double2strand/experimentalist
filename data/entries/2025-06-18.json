@@ -1,0 +1,28 @@
+{
+ "date": "2025-06-18",
+ "heading": "**18 June 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "| pHRS-MYC355 Maxi plasmid isolation |\n| :---- |\n| **Seeding and culture of 293TX cells** |\n| **Purification of AT10 plasmid libraries & testing on TapeStation D1000** |\n\n**pHRS-MYC355 Maxi plasmid isolation**\n\nThe Maxi-Prep plasmid was isolated and the concentration for the same was measured:\n\n**Seeding and culture of 293TX cells**\n\nTwo P7 vials of 293T-X cells were seeded into a single 15-cm culture plate in \\~30 mL of media.\n\n**Purification of AT10 plasmid libraries & testing on TapeStation D1000**\n\nBoth BC1 and BC2 samples were purified separately and each of the samples was run (1.5 uL per sample) on a 2% agarose gel.\n\nThe samples were all diluted 1:1000 to adjust the sample concentrations to the desired range for the High Sensitivity D5000 ScreenTape. Fairly clean profiles were seen for the  \n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2025-06-18",
+ "tags": {
+  "techniques": [
+   "Gel electrophoresis",
+   "Cell culture",
+   "Library prep"
+  ],
+  "reagents": [],
+  "samples": [
+   "293TX",
+   "293T"
+  ],
+  "custom": []
+ },
+ "title": "| pHRS-MYC355 Maxi plasmid isolation |"
+}

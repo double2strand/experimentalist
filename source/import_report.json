@@ -1,0 +1,46 @@
+{
+ "per_doc": {
+  "Experimental-Updates-311024-310425": {
+   "entries": 43,
+   "images": 64,
+   "image_refs_unique": 61,
+   "tables": 126,
+   "src_chars": 99999,
+   "out_chars": 99999,
+   "year_fixes": [],
+   "first": "2024-10-31",
+   "last": "2025-04-30"
+  },
+  "Experiments_010525-211025": {
+   "entries": 77,
+   "images": 114,
+   "image_refs_unique": 112,
+   "tables": 149,
+   "src_chars": 125338,
+   "out_chars": 125338,
+   "year_fixes": [],
+   "first": "2025-05-01",
+   "last": "2025-10-20"
+  },
+  "Experiments_21Oct2025": {
+   "entries": 140,
+   "images": 58,
+   "image_refs_unique": 48,
+   "tables": 332,
+   "src_chars": 161201,
+   "out_chars": 161201,
+   "year_fixes": [
+    [
+     "**9 February 2025**",
+     "2025-02-09",
+     "2026-02-09"
+    ]
+   ],
+   "first": "2025-10-21",
+   "last": "2026-10-12"
+  }
+ },
+ "duplicate_dates": [],
+ "non_monotonic": [],
+ "total_entries": 260
+}

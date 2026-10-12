@@ -1,0 +1,35 @@
+{
+ "date": "2026-02-26",
+ "heading": "**26 February 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Samples submitted for long read sequencing*\n\n| SANGER TUBE ID | SANGER SAMPLE ID | SUPPLIER SAMPLE NAME |\n| ----- | ----- | ----- |\n| NT1883431P | LRS16719788 | lig50knoMod |\n| NT1883432Q | LRS16719789 | 293t20knuc |\n| NT1883433R | LRS16719790 | pfsHAP1HRS12 |\n| NT1883434S | LRS16719791 | pfsHAP1HRS18 |\n| NT1883435T | LRS16719792 | pfsHepG2HRS12 |\n| NT1883436U | LRS16719793 | pfsHepG2HRS18 |\n| NT1883437V | LRS16719794 | 147HTFS |\n| NT1883438W | LRS16719795 | N40HTFS |\n| NT1883439A | LRS16719796 | 147NCFS |\n| NT1883440Q | LRS16719797 | N40NCFS |\n\n*NOTE: For the 147NCFS, N40NCFS samples, the cycle 4 147 & N40 samples were added as fillers so that there is enough DNA for sequencing.*\n\n*Ligand plates (lig147, ligN40)*\n\n*TF Dilution Buffer*\n\n500 mL\n\n| 1 M Tris-HCl pH 8 | 5 mL |\n| :---- | :---- |\n| BSA | 0.5 g |\n| KCl | 5.59 g |\n| Ethylene Glycol | 250 mL |\n| 100 mM ZnSO4.H2O | 50 uL |\n\n*Blocking Buffer Salt-free*\n\n*Blocking buff (salt free): 25mM Tris, 0.5% BSA, 0.1% tween, 0.02% NaN3 pH8 \\[500 mL buffer\\]*\n\n25 mM Tris pH 8 \\= 12.5 mL  \n0.5 % BSA \\= 2.5 g BSA  \n0.1 % Tween20 \\= 500 uL  \n0.02% NaN3 \\= 0.1 g\n\n*Elution Buffer*\n\n0.1% Tween, 10 mM Tris pH7.8, 1 mM MgCl2 (0.5mM in PCR rxn)  \n   \n500 mL buffer:  \n\\-    \t500 uL Tween20  \n\\-    \t5 mL Tris pH 8  \n\\-    \t500 uL 1M MgCl2\n\n*ELF ligand EcoRV gel run*\n\n20 ng of DNA has been loaded per well and run at 200 V, 180 mins (on ice) on a 20% TBE gel.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 2,
+ "id": "2026-02-26",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Gel electrophoresis",
+   "Cell culture",
+   "Protein purification"
+  ],
+  "reagents": [
+   "Tris",
+   "KCl",
+   "MgCl2",
+   "BSA"
+  ],
+  "samples": [
+   "lig50knoMod",
+   "lig147",
+   "ligN40"
+  ],
+  "custom": []
+ },
+ "title": "Samples submitted for long read sequencing"
+}

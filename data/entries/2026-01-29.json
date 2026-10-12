@@ -1,0 +1,41 @@
+{
+ "date": "2026-01-29",
+ "heading": "**29 January 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Sanger SELEX meeting*\n\nTips for 4 cycles of NCAP-SELEX \\+ HT-SELEX \\= 128 individual tip boxes \\[12-13 boxes of 10 each\\]\n\nCan reuse tips for the same solutions/buffers across cycles:\n\n- Mark and reuse the tips that were used with a specific buffer → then use these across cycles\n\n*Ligation of HTFS samples – round 2 & protk \\+ ligation*\n\n**Post-ligation → TE to 100 µL → AMPure cleanup**\n\n1. Add **50 µL AMPure beads** (0.5×)  \n2. Gentle mix, 5–10 min RT  \n3. Magnet capture (5 mins)  \n4. 2× 70% EtOH washes  \n5. Air dry 30–60 sec  \n6. Elute in **25 µL TE**  \n7. Optional second elution (10 uL TE)  \n8. Run these samples (\\~10 uL) per sample on a 0.5% agarose gel.\n\n*MNase profiling for ELF reconstituted ligands*\n\nFor today’s run:\n\nDilute 1 uL MNase to 1000 uL of total solution with NF water. 1 uL of this solution has 2 gel units of the enzyme (MNase-dil).\n\nReactions to set up:\n\n1. ELFlig1 (20 ng) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL MNase-dil \\[CONTROL\\] A1  \n2. ELFsmEcoRV (20 ng) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL MNase-dil \\[CONTROL\\] B1  \n3. ELFlig4 (20 ng) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL MNase-dil \\[CONTROL\\] C1  \n4. ELFnoEcoRV (20 ng) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL MNase-dil \\[CONTROL\\] D1  \n5. ELFlig1 (20 ng) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL MNase-dil \\[CONTROL\\] E1  \n6. ELFsmEcoRV (20 ng) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL MNase-dil \\[CONTROL\\] F1  \n7. ELFlig4 (20 ng) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL MNase-dil \\[CONTROL\\] G1  \n8. ELFnoEcoRV (20 ng) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL MNase-dil \\[CONTROL\\] H1\n\nIncubate at 37 degrees, 10 mins. Add 1.1 uL EGTA (0.5 M) to stop the reaction.\n\nGel run:\n\n1. ELFlig1 (20 ng)  \n2. ELFsmEcoRV (20 ng)  \n3. ELFlig4 (20 ng)  \n4. ELFnoEcoRV (20 ng)  \n5. A1  \n6. B1  \n7. C1  \n8. D1  \n9. E1  \n10. F1  \n11. G1  \n12. H1\n\n*Proteinase K test for repeated and previous ligation samples*\n\nIn a 20 µL reaction:\n\n* **Make up value to 10 uL with the DNA samples**  \n* **SDS 10%**: **0.2 µL** (final 0.1%)  \n* **Proteinase K (20 mg/mL)**: **0.4 µL** (final \\~0.4 mg/mL)  \n* Incubate 15 mins, RT → Ampure purification\n\n1. 147\\_HTFS\\_PNK\\_protK  \n2. N40\\_HTFS\\_PNK\\_protK  \n3. 147\\_HTFS\\_T1  \n4. N40\\_HTFS\\_T1\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2026-01-29",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "MNase",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Ligation",
+   "Bead purification",
+   "Protein purification",
+   "Proteinase K",
+   "Seminar/notes"
+  ],
+  "reagents": [
+   "Proteinase K",
+   "AMPure",
+   "MNase",
+   "SDS",
+   "TE buffer",
+   "Ethanol"
+  ],
+  "samples": [
+   "B1",
+   "D1"
+  ],
+  "custom": []
+ },
+ "title": "Sanger SELEX meeting"
+}

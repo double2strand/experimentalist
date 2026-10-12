@@ -1,0 +1,33 @@
+{
+ "date": "2025-09-10",
+ "heading": "**10 September 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Transformation of the new pHRS-AT10-HCC library**  \n2. **Change the transduced GP5d cells with complete GP5d media**  \n3. **Try clean up of super long ligated DNA with 100kDa MWCO columns**  \n4. **Set up larger scale ligation of lig147**  \n5. **Finish design of new pETG20A constructs**\n\n### 3. Try clean up of super long ligated DNA with 100kDa MWCO columns\n\ni. Add 500 uL water to the 100 kDa column and do one spin at 12000 g, 10 mins  \nii. Add 500 uL TE buffer to the 100 kDa column and do one spin at 12000 g, 10 mins  \niii. Make up volume of sample to 500 uL withTE buffer and do one spin at 200g, 30 mins  \niv. Add 500 uL of fresh TE buffer and do a wash at 200g, 30 mins  \nv. Invert the column and do a spin at 200g, 15 mins.\n\nThe spin at 200g does not result in the liquid coming down from the 100 kDa MWCO columns. Speed was eventually increased to 2500g, 10 mins to clear the flow-through and the wash liquids.\n\nBoth the FT, Wash did not have any DNA but lot of DNA was seen in the context of the elute \\- however this DNA was seen to be fragmented with a maximum size around 10-15 kDa.\n\nTo purify a ligation reaction further with a gDNA cleanup kit:\n\nSet up 2 O/N ligation reactions:\n\n2X  (lig147-ROOT-PNK)\n\n| DNA (PNK-treated) | 1000 ng |\n| :---: | :---: |\n| Blunt TA ligase mix | 10 uL |\n| NF H2O | Make up volume to 20 uL |\n",
+ "experiments": [
+  "3. Try clean up of super long ligated DNA with 100kDa MWCO columns"
+ ],
+ "images": [],
+ "tables": 1,
+ "id": "2025-09-10",
+ "tags": {
+  "techniques": [
+   "Ligation",
+   "Library prep",
+   "Column purification",
+   "gDNA isolation",
+   "Fragmentation"
+  ],
+  "reagents": [
+   "TE buffer"
+  ],
+  "samples": [
+   "lig147"
+  ],
+  "custom": []
+ },
+ "title": "Try clean up of super long ligated DNA with 100kDa MWCO columns"
+}

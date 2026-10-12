@@ -1,0 +1,28 @@
+{
+ "date": "2026-01-05",
+ "heading": "**January 5 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "1. *Hia5 test in SELEX & NCAP-SELEX buffer*\n\nWe have consistently been using 0.5 uL of *Hia5* for treating \\~300 ng DNA. By this context, 0.05 uL of the enzyme to be used for 30 ng i.e. per well.\n\nApproximately we want to use 8 uL of Hia5 distributed across 384 wells → this equates to about 0.021 uL per well.\n\nFor testing → Take 0.5 uL of enzyme and dilute to 10 uL in Hia5 buffer\n\nSELEX Hia5 optimisation:\n\n4.5 uL TF dilution buffer \\+ 8.5 uL 1.55X SELEX Buffer \\+ 30 ng DNA (1 uL) \\+ 1 uL dHia5 \\+ 0.5 uL SAM \\+ 4.5 uL Hia5 buffer\n\nNCAP-SELEX Buffer: 13.9 uL Biotin Buffer \\+ 2.5 uL TF dilution buffer \\+ 30 ng DNA (1 uL) \\+ 1 uL dHia5 \\+ 0.5 uL SAM \\+ 1.1 uL Hia5 buffer\n\nControl:\n\n30 ng DNA (1 uL) \\+ 1 uL dHia5 \\+ 0.5 uL SAM \\+ 17.5 uL Hia5 buffer\n\n| 37 C | 1 hour |\n| :---- | :---- |\n| 80 C | 10 mins |\n\n*Dpn*I digestion:\n\nAdd 2.3 uL Cutsmart buffer \\+ 1 uL DpnI to each sample and incubate:\n\n| 37 C | 1 hour |\n| :---- | :---- |\n| 80 C | 20 mins |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 2,
+ "id": "2026-01-05",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Hia5",
+   "Restriction digest"
+  ],
+  "reagents": [
+   "SAM",
+   "Hia5"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "1. Hia5 test in SELEX & NCAP-SELEX buffer"
+}

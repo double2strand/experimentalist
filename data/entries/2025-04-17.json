@@ -1,0 +1,24 @@
+{
+ "date": "2025-04-17",
+ "heading": "**17 April 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**Whole plasmid sequencing for libv1CC clones:**\n\nBased on the SalI digestion gel results,\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2025-04-17",
+ "tags": {
+  "techniques": [
+   "Gel electrophoresis",
+   "Restriction digest"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Whole plasmid sequencing for libv1CC clones:"
+}

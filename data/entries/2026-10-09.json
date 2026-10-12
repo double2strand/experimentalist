@@ -1,0 +1,30 @@
+{
+ "date": "2026-10-09",
+ "heading": "9 October 2026",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "Yimeng’s paper nucleosome recon protocol:\n\n- Starts with 628.9 nM of dsDNA (lig147)\n\nThe dsDNA ligands were assembled onto histone octamers containing streptavidin binding protein (SBP)-tagged H2A proteins by stepwise reduction of salt concentration. Specifically, 300 ng of ligands were mixed with H2A-tagged octamers at a 1:2 molar ratio in 5 µL of 2 M NaCl solution. After 30 min incubation at room temperature, the mixture was diluted by sequential addition of TE buffer (2.5 µL, 2.5 µL, 2.5 µL, 2.5 µL, 2.5 µL, 32.5 µL, and 50 µL) supplemented with 1 mM dithiothreitol and 1× cOmplete™ EDTA-free protease inhibitor cocktail (Sigma-Aldrich), with a 1-h incubation after each addition. \n\nYimeng’s protocol → DNA:Octamer Ratio \\= 2:1\\* \n\nMy current protocol uses 149.74 nM DNA (lig147) & \\~74 nM octamer → (DNA:Octamer Ratio \\= 2:1)\n\nFangjie used 190.6 nM DNA (lig147) & \\~58.13 nM octamer → (DNA:Octamer Ratio \\= 3.2:1)\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2026-10-09",
+ "tags": {
+  "techniques": [
+   "Reconstitution"
+  ],
+  "reagents": [
+   "EDTA",
+   "NaCl",
+   "Histone octamer",
+   "TE buffer"
+  ],
+  "samples": [
+   "lig147"
+  ],
+  "custom": []
+ },
+ "title": "Yimeng’s paper nucleosome recon protocol:"
+}

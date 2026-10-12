@@ -1,0 +1,35 @@
+{
+ "date": "2025-03-06",
+ "heading": "**6 March 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**Agarose gel check for MYC335VE product after amplification from pHRS-NEW2 backbone**\n\n0.8% gel was cast (some gel was lost during heating).\n\nSamples 1-8 were loaded on the gel to check for the band with the most accurate size (9350 bp).  \n![](assets/img/doc1-image37.png)\n\nBased on the gel results condition 4 or 5 seem to be best suited for the PCR\n\n**Agarose gel check for purified pHRS-Nh100-PE library & MYC335-gb PCR product**\n\nOn the same agarose gel, load 5 uL of pHRS-Nh100-PE & MYC335-gb PCR. Compare with 100 bp DNA ladders to determine accurate size.\n\n![](assets/img/doc1-image38.png)  \nAs per the gel, the pHRS-Nh100-PEBC1 product is seen to be of the correct size i.e. \\~285 bp. Further quantification and size estimation will be performed on the TapeStation to check for the size.\n\nThe complete annealed and amplified MYC335gb is supposed to be 1543 bp in size and therefore seems accurate (\\> 1000 bp when compared to the 100 bp DNA ladder)\n\n**Gel extraction for SHHBCVEC PCR products:**\n\nCast another 0.8% agarose gel with at least 28 loadable wells (two rows minimum), and then load the following samples:\n\nLadder (1 kb) \\- pHRS-Gcla (4X) \\- pHRS-Hcla (4X) \\- pHRS-GCD (4X) \\- pHRS-HCD (4X) \\- pHRS-GCC (4X)\n\nCut out the bands of the correct size (9396 bp) and perform gel extraction and purification.\n\n**Rapid Ligation Trial for SELEX ligands:**\n\nUse Rapid Ligation kit with a total of 400 ng of each ligand in a volume of 50 uL for a period of 15 mins at 25 degrees.\n\nTwo reactions:\n\n3. lig147 MAIN  \n4. ligN20w100 MAIN\n\n| Linearized vector DNA | 400 ng |\n| :---- | :---- |\n| 5X Rapid ligation buffer | 10 uL |\n| T4 DNA ligase | 1 uL (5U/uL) |\n| NF water | Up to 50 uL |\n\n   \nNo blunt-end treatment or phosphorylation of ligands was performed for this round.\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc1-image37.png",
+  "assets/img/doc1-image38.png"
+ ],
+ "tables": 1,
+ "id": "2025-03-06",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Gel electrophoresis",
+   "Ligation",
+   "Library prep"
+  ],
+  "reagents": [
+   "T4 ligase"
+  ],
+  "samples": [
+   "lig147",
+   "ligN20w100"
+  ],
+  "custom": []
+ },
+ "title": "Agarose gel check for MYC335VE product after amplification from pHRS-NEW2 backbone"
+}

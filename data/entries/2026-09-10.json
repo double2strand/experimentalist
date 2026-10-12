@@ -1,0 +1,37 @@
+{
+ "date": "2026-09-10",
+ "heading": "**10 September 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "Set up two reaction per sample (lig147, lig200 free DNA)\n\n| Component | Volume | Final condition |\n| ----- | ----- | ----- |\n| Complete Hia5 Buffer A | 9.5 µL volume | 1× concentration |\n| 32 mM SAM | 0.5 µL | 0.8 mM |\n| Hia5 enzyme | 1 µL | Twice your previous enzyme input |\n| Nuclei/sample | 9 uL | Same or less than original |\n| Total | 20 µL |  |\n\nSalt concentration during the reaction ⇒ 72-78 mM salt\n\nIncubate at 37 C, 1.5 hours.\n\nAfter Hia5 treatment, add 1 uL 10% SDS & 0.25 uL Proteinase K (20 mg/mL) in 20 uL reactions and incubate 30-60 mins, RT.\n\nPerform clean-up with Ampure XP beads:\n\n- Add 1.5X volume of AmpureXP beads and mix thoroughly. Incubate at RT for 15 mins.  \n- Place tubes on magnetic rack and allow liquid to separate from beads for 5 mins.  \n- Perform two washes with 80% ethanol (200-300 uL each)  \n- Allow the beads to dry for \\~30s and then add fresh TE buffer in desired volume for elution. Mix thoroughly and incubate at RT for 5 mins.  \n- Place tubes on magnetic rack and allow liquid to separate from beads for 5 mins. Collect separated supernatant as purified DNA sample.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2026-09-10",
+ "tags": {
+  "techniques": [
+   "Hia5",
+   "Bead purification",
+   "Protein purification",
+   "Proteinase K"
+  ],
+  "reagents": [
+   "Proteinase K",
+   "SAM",
+   "AMPure",
+   "Hia5",
+   "SDS",
+   "TE buffer",
+   "Ethanol"
+  ],
+  "samples": [
+   "lig147",
+   "lig200"
+  ],
+  "custom": []
+ },
+ "title": "Set up two reaction per sample (lig147, lig200 free DNA)"
+}

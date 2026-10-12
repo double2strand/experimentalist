@@ -1,0 +1,28 @@
+{
+ "date": "2025-07-15",
+ "heading": "**15 July 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "| Transfect the pHRS-Nh100 libraries into 293TX cells for virus packaging |\n| :---- |\n| **Prepare stocks for K562del cells** |\n| **Prepare stocks for HepG2del cells** |\n| **Move already prepared stocks to liquid nitrogen** |\n| **Write programs on the robot for inoculating 10 uL of culture into plates containing 500 uL media** |\n| **Set up dialysis pump for overnight operation for testing** |\n\n1. **Transfect the pHRS-Nh100 libraries into 293TX cells for virus packaging**\n\npHRS-Nh100:\n\n4 plates (10-cm dishes) with 6 ug of transfer plasmids and 6 ug each of the packaging and envelope vectors.\n\n6 mL Opti-MEM \\+ 18 ug pHRS-Nh100 \\+ 20.2 uL pMD2.G \\+ 29 uL pCMV-dR8.2\n\nIncubate for 5 mins.\n\nAdd 132 uL Turbofectin & incubate for 15 mins.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2025-07-15",
+ "tags": {
+  "techniques": [
+   "Dialysis",
+   "Transfection",
+   "Cell culture",
+   "Library prep"
+  ],
+  "reagents": [],
+  "samples": [
+   "293TX"
+  ],
+  "custom": []
+ },
+ "title": "| Transfect the pHRS-Nh100 libraries into 293TX cells for virus packaging |"
+}

@@ -1,0 +1,24 @@
+{
+ "date": "2024-12-07",
+ "heading": "7th December 2024",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "Transfection of pHRS-libv1 for the following:\n\n- Gcla  \n- Hcla  \n- GCC  \n- GCD  \n- HCD  \n- Nh100\n\nTube 1: 125 uL OM \\+ 5 uL P3000 \\+ 3.5 ug library\n\nTube 2: 125 uL OM \\+ 7.5 uL P3000\n\nMix after 5 mins, RT.   \nIncubate 15 mins, RT.\n\nAdd drop-by-drop to wells.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2024-12-07",
+ "tags": {
+  "techniques": [
+   "Transfection",
+   "Library prep"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Transfection of pHRS-libv1 for the following:"
+}

@@ -1,0 +1,27 @@
+{
+ "date": "2025-09-02",
+ "heading": "**2nd September 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Image the seeded and settled MYCT1, MYCT2 and Ad-CRE treated cells**  \n2. **Set up large-scale liquid culture for GCCAT10ShhBCv2, Nh100ShhBCv2**  \n3. **Pick colonies for GCCAT10ShhBCv2, Nh100ShhBCv2 (5 each) for whole plasmid sequencing**  \n4. **Transduce HAP1 cells with Gclav1, Hclav1, HCDv1, GCDv1, GFP viruses to prepare cell lines**\n\n### 4. Transduce HAP1 cells with Gclav1, Hclav1, HCDv1, GCDv1, GFP viruses to prepare cell lines\n\nTransduce two wells for each type of virus:\n\nGclav1: 1000 uL virus \\+ 998 uL HAP1-T media \\+ 2 uL polybrene\n\nHclav1: 1000 uL virus \\+ 998 uL HAP1-T media \\+ 2 uL polybrene\n\nHCDv1: 1000 uL virus \\+ 998 uL HAP1-T media \\+ 2 uL polybrene\n\nGCDv1: 1000 uL virus \\+ 998 uL HAP1-T media \\+ 2 uL polybrene\n\nGFP: 200 uL virus \\+ 1798 uL HAP1-T media \\+ 2 uL polybrene\n\nAdd 1 mL of the mix per well of the cells.\n\nLet the cells incubate O/N in this minimal media with the virus for a period of 18-20 hours.\n",
+ "experiments": [
+  "4. Transduce HAP1 cells with Gclav1, Hclav1, HCDv1, GCDv1, GFP viruses to prepare cell lines"
+ ],
+ "images": [],
+ "tables": 0,
+ "id": "2025-09-02",
+ "tags": {
+  "techniques": [],
+  "reagents": [],
+  "samples": [
+   "Gclav1",
+   "HCDv1",
+   "GCDv1"
+  ],
+  "custom": []
+ },
+ "title": "Transduce HAP1 cells with Gclav1, Hclav1, HCDv1, GCDv1, GFP viruses to prepare cell lines"
+}

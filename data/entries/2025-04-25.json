@@ -1,0 +1,28 @@
+{
+ "date": "2025-04-25",
+ "heading": "**25 April 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**Genomic DNA ScreenTape estimation of ligated SELEX ligands and gDNA-tube sheared ligated products**\n\nFor shearing spin 300 ng total of sample in 150 uL TE buffer at 4200 rpm, 60 s. Then reverse the gTube and spin again at the same speed and collect the sample.\n\nTo test the sample size, mix 1 uL of ladder \\+ 10 uL sample buffer as well as 1 uL sample \\+ 10 uL sample buffer\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2025-04-25",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Ligation",
+   "gDNA isolation",
+   "Fragmentation"
+  ],
+  "reagents": [
+   "TE buffer"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Genomic DNA ScreenTape estimation of ligated SELEX ligands and gDNA-tube sheared ligated products"
+}

@@ -1,0 +1,32 @@
+{
+ "date": "2026-04-10",
+ "heading": "**10 April 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*HTFS, NCFS ligation purification*\n\nProteinase K \\+ SDS treatment\n\n* **Make up value to 100 uL with TE buffer**  \n* **SDS 10%**: **2 µL** (final 0.2%)  \n* **Proteinase K (20 mg/mL)**: **2 µL** (final \\~0.4 mg/mL)\n\nIncubate at RT, 15-30 mins.\n\n- Add 1.5X volume of AmpureXP beads and mix thoroughly. Incubate at RT for 10 mins.  \n- Place tubes on magnetic rack and allow liquid to separate from beads for 5 mins.  \n- Perform two washes with 80% ethanol (200-300 uL each)  \n- Allow the beads to dry for \\~30s and then add fresh TE buffer in 40 uL for elution. Mix thoroughly and incubate at 37 C for 5 mins.  \n- Place tubes on magnetic rack and allow liquid to separate from beads for 5 mins. Collect separated supernatant as purified DNA sample.  \n- Repeat last two steps with a smaller volume of 10 uL for improved yield.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2026-04-10",
+ "tags": {
+  "techniques": [
+   "Ligation",
+   "Bead purification",
+   "Protein purification",
+   "Proteinase K"
+  ],
+  "reagents": [
+   "Proteinase K",
+   "AMPure",
+   "SDS",
+   "TE buffer",
+   "Ethanol"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "HTFS, NCFS ligation purification"
+}

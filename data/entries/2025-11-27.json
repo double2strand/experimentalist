@@ -1,0 +1,36 @@
+{
+ "date": "2025-11-27",
+ "heading": "**27 November 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "Expected size for the PE PCR products:\n\nlig147 libraries \\= 225 bp  \nligN40w107 libraries \\= 311 bp\n\n**Clean-Up of SELEX libraries for AVITI sequencing**\n\nBriefly:\n\n- For each library I take 1 mL of the sample and concentrate this in the SpeedVac for about \\~2 hours  \n- Then perform size selection as shown below  \n- Dilute the samples 100-fold and then use 2 uL of each to run on a TapeStation HSD5000\n\n*SPRIselect Bead-Based Size Selection Protocol for Retaining 100-400 bp Fragments and Removing \\>500 bp Fragments*  \n*(Modified with a 0.75× ratio for better exclusion of larger fragments)*  \n   \nThis protocol is optimized for **SPRIselect beads** (Beckman Coulter) to selectively retain **100-400 bp DNA fragments**, while removing **fragments \\>500 bp**, using a higher bead-to-sample ratio (**0.7× instead of 0.6×**) to improve exclusion of large fragments.  \n   \n**Materials Needed**\n\n \t•       \t**SPRIselect beads** (Beckman Coulter, B23317)\n\n \t•       \t**Freshly prepared 80% ethanol (molecular biology grade)**\n\n \t•       \t**10 mM Tris-HCl, pH 8.0 or nuclease-free water**\n\n \t•       \t**Magnetic stand for bead separation**\n\n \t•       \t**Pipettes and tips**\n\n \t•       \t**DNA sample (e.g., PCR product, fragmented DNA library)**\n\n \t•       \t**0.2 mL or 1.5 mL tubes (depending on sample volume)**  \n \n\n**Protocol Overview**  \n   \nThis protocol consists of a **two-step size selection**:\n\n    \t1\\.  \t**First selection (high cutoff step)** – Removes large fragments (\\>500 bp).\n\n    \t2\\.  \t**Second selection (low cutoff step)** – Retains the desired 100-400 bp range while removing fragments \\<100 bp.  \n   \n**Step-by-Step Protocol**  \n   \n**Step 1: First Bead Selection to Remove Large Fragments (\\>500 bp)**\n\n    \t1\\.  \t**Resuspend SPRIselect beads** by vortexing or pipetting thoroughly.\n\n    \t2\\.  \tIn a clean PCR or 1.5 mL tube, mix your **DNA sample** with **SPRIselect beads at a 0.75× bead-to-sample ratio**:\n\n         \t•\tExample: For **50 µL of DNA sample**, add **35 µL of SPRIselect beads**.\n\n    \t3\\.  \tMix thoroughly by pipetting up and down or vortexing briefly.\n\n    \t4\\.  \tIncubate at **room temperature for 5-10 minutes** to allow binding.\n\n    \t5\\.  \tPlace the tube on a **magnetic stand** for **5 minutes**, or until the solution clears.\n\n    \t6\\.  \t**Carefully transfer the supernatant** (which contains fragments \\<500 bp) to a new clean tube. **Do not disturb the beads**, as they contain larger fragments bound to them.\n\n    \t7\\.  \tDiscard the beads containing the \\>500 bp fragments.  \n   \n**Step 2: Second Bead Selection to Remove Small Fragments (\\<100 bp)**\n\n        \t8\\.   Add **(1.8x – 0.75x) SPRIselect beads** to the collected supernatant:\n\n         \t•\tExample: If you have **50 µL of supernatant**, add **55 µL of SPRIselect beads**.\n\n        \t9\\.   Mix thoroughly by pipetting up and down or vortexing briefly.\n\n        \t10\\.              \tIncubate at **room temperature for 5-10 minutes**.\n\n        \t11\\.              \tPlace the tube on a **magnetic stand** for **5 minutes**, or until the solution clears.\n\n        \t12\\.              \t**Carefully remove and discard the supernatant**, which contains unwanted fragments \\<100 bp.\n\n        \t13\\.              \tKeeping the tube on the magnetic stand, **add 200 µL of freshly prepared 85% ethanol**, avoiding bead resuspension.\n\n        \t14\\.              \tIncubate for **30 seconds**, then carefully remove the ethanol.\n\n        \t15\\.              \t**Repeat Steps 13-14** for a **second ethanol wash**.\n\n        \t16\\.              \t**Air-dry the beads** for **2-3 minutes** (do not over-dry, as it may reduce DNA recovery).\n\n        \t17\\.              \tRemove the tube from the magnetic stand and **resuspend the beads in 20-50 µL of 10 mM Tris-HCl (pH 8.0) or nuclease-free water**.\n\n        \t18\\.              \tIncubate at **room temperature for 5 minutes**.\n\n        \t19\\.              \tPlace the tube back on the **magnetic stand** for 1-2 minutes.\n\n        \t20\\.              \t**Transfer the clear eluate** to a new tube—this contains your size-selected DNA (100-400 bp).  \n   \n**Quality Control**\n\n \t•       \t**Assess DNA fragment size distribution** using an **Agilent Bioanalyzer, TapeStation, or gel electrophoresis**.\n\n \t•       \t**Measure DNA concentration** using a **Qubit fluorometer or Nanodrop spectrophotometer**.\n\n \t•       \t**Confirm fragment size enrichment** before proceeding to downstream applications.  \n   \n**Expected Results**\n\n \t•       \t**Retained DNA fragments:** **100-400 bp**\n\n \t•       \t**Removed fragments:** **\\>500 bp (high molecular weight contaminants) and \\<100 bp (adapter dimers, primer-dimers, or short degradation products)**  \n   \n**Notes & Optimizations**\n\n \t•       \tThe **0.7× ratio** increases the likelihood of **excluding larger fragments (\\>500 bp)** but may slightly reduce yield.\n\n \t•       \tIf small fragments persist, increasing the **second bead selection ratio** may help remove more unwanted \\<100 bp fragments.\n\n \t•       \tAvoid overdrying the beads during ethanol washes to prevent low DNA recovery.\n\n \t•       \tEnsure beads are fully resuspended before use for consistency.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2025-11-27",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Gel electrophoresis",
+   "Qubit",
+   "Library prep",
+   "Bead purification",
+   "Nanodrop",
+   "Fragmentation"
+  ],
+  "reagents": [
+   "Tris",
+   "Ethanol"
+  ],
+  "samples": [
+   "lig147",
+   "ligN40w107"
+  ],
+  "custom": []
+ },
+ "title": "Expected size for the PE PCR products:"
+}

@@ -1,0 +1,51 @@
+{
+ "date": "2025-04-01",
+ "heading": "**1st April 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**Scale-Up SELEX for QuantumSI trial**\n\n50 mM HEPES pH 8, 150 mM NaCl\n\n1-5 uM in 300 uL buffer\n\nFor MAX protein (\\~18.28 kDa) this corresponds to 4.4 ug of protein in 120 uL of buffer.\n\n![](assets/img/doc1-image45.png)\n\n![](assets/img/doc1-image46.png)\n\n![](assets/img/doc1-image47.png)\n\n![](assets/img/doc1-image48.png)\n\nPrepare the buffers required for this reaction again:\n\n10X Promega Buffer for 1X SELEX buffer\n\n| Reagents | Final 10x: |\n| :---- | :---- |\n| Tris pH 7.5 | 200mM |\n| KCl | 750 mM |\n| MgCl2 | 10mM |\n| Glycerol | 40% |\n| MQ water | \\- |\n\nFor 250 mL buffer\n\n| Tris pH 7.5 (1M) | 50 mL |\n| :---- | :---- |\n| KCl | 13.98 g |\n| MgCl2 (1M) | 2.5 mL |\n| Glycerol | 100 mL |\n| MQ water | Make up to 250 mL |\n\n10X Promega Buffer for 1.55X SELEX buffer\n\n| Reagents | Final 10x: |\n| :---- | :---- |\n| Tris pH 7.5 | 200mM |\n| KCl | 770 mM |\n| MgCl2 | 10mM |\n| Glycerol | 40% |\n| MQ water | \\- |\n\nFor 250 mL buffer\n\n| Tris pH 7.5 (1M) | 50 mL |\n| :---- | :---- |\n| KCl | 14.35 g |\n| MgCl2 (1M) | 2.5 mL |\n| Glycerol | 100 mL |\n| MQ water | Make up to 250 mL |\n\n**Whole Plasmid Sequencing for pHRS-MYC355 clones**\n\npHRS-MYC355-2 and pHRS-MYC355-3 have been sent to Source Bioscience for whole plasmid sequencing.\n\nFor reconfirmation, perform MluI digest for all 5 plasmids with exactly 500 ng of plasmid and 0.5 uL enzyme per reaction in 25 uL volume (for 30 mins), and then run on an agarose gel for confirmation.\n\n**Complete Endofree Plasmid isolation for pHRS-Gcla-ShhBC and pHRS-Gcla-AT10-Ep1**\n\nAfter isolation of these plasmids, resuspend pellets in 1.5 mL of TE buffer and also confirm by MluI digestion and gel run. As a control run a gel for a pHRS-NEW3 plasmid without any insert.\n\npHRS-Gcla-ShhBC:\n\npHRS-Gcla-AT10:\n\n**Conversion of Hia5testlig to dsDNA and quantification**\n\nAmplification PCR: (CAPAMP1) 2X\n\n| NCAP\\_F (10 uM) | 2.25 uL |\n| :---- | :---- |\n| NCAP\\_R (10 uM) | 2.25 uL |\n| 2X KAPA HiFi HS | 12.5 uL |\n| Hia5testlig 100 uM | 2 uL |\n| NF water | 6 uL |\n\n![](assets/img/doc1-image49.png)\n\nUsing this PCR product, set up the second PCR:\n\nAmplification PCR: (CAPAMP2) 6X\n\n| NCAP\\_F (10 uM) | 2.25 uL |\n| :---- | :---- |\n| NCAP\\_R (10 uM) | 2.25 uL |\n| 2X KAPA HiFi HS | 12.5 uL |\n| CAPAMP1 product | 2.5 uL |\n| NF water | 5.5 uL |\n\nProducts were pooled and column purified, quantified and then run on a 2% agarose gel to confirm the size.\n\n**Dilution of SELEX libraries to standard concentration for sequencing:**\n\nAll quantification on the TapeStation HS D5000 between 100-1000 bp fragments\n\n1. ligN20w100 HT-SELEX: 90.24 nM  \n2. ligN20w100 NCAP-SELEX: 75.5 nM  \n3. lig147 NCAP-SELEX: 104 nM  \n4. Cyc0 (new): 639 nM\n\nDilute all samples to exactly 50 nM:\n\n1. ligN20w100 HT-SELEX \\= 13.85 uL \\+ 11.15 uL NF H2O  \n2. ligN20w100 NCAP-SELEX \\= 16.56 uL \\+ 8.44 uL NF H2O  \n3. lig147 NCAP-SELEX \\= 12.02 uL \\+ 12.98 uL NF H2O  \n4. Cyc0 (new) \\= 1.96 uL \\+ 23.04 uL NF H2O\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc1-image45.png",
+  "assets/img/doc1-image46.png",
+  "assets/img/doc1-image47.png",
+  "assets/img/doc1-image48.png",
+  "assets/img/doc1-image49.png"
+ ],
+ "tables": 6,
+ "id": "2025-04-01",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Hia5",
+   "Gel electrophoresis",
+   "Library prep",
+   "Column purification",
+   "Restriction digest",
+   "Fragmentation"
+  ],
+  "reagents": [
+   "Hia5",
+   "Tris",
+   "NaCl",
+   "KCl",
+   "MgCl2",
+   "TE buffer",
+   "Glycerol"
+  ],
+  "samples": [
+   "ligN20w100",
+   "lig147",
+   "NCAP_F",
+   "NCAP_R",
+   "CAPAMP1",
+   "CAPAMP2"
+  ],
+  "custom": []
+ },
+ "title": "Scale-Up SELEX for QuantumSI trial"
+}

@@ -1,0 +1,311 @@
+{
+ "techniques": [
+  [
+   "qPCR",
+   "\\bq-?PCR\\b|\\bRT-?qPCR\\b",
+   ""
+  ],
+  [
+   "PCR",
+   "\\bPCR\\d*\\b",
+   ""
+  ],
+  [
+   "SELEX",
+   "SELEX",
+   "i"
+  ],
+  [
+   "MNase",
+   "MNase",
+   "i"
+  ],
+  [
+   "Hia5",
+   "Hia5",
+   "i"
+  ],
+  [
+   "Reconstitution",
+   "reconstitut|\\brecon\\b|\\w+recon\\b",
+   "i"
+  ],
+  [
+   "Gel electrophoresis",
+   "\\bgel\\b|agarose|PAGE\\b|TBE",
+   "i"
+  ],
+  [
+   "Qubit",
+   "Qubit",
+   "i"
+  ],
+  [
+   "Dialysis",
+   "dialy",
+   "i"
+  ],
+  [
+   "Ligation",
+   "ligat",
+   "i"
+  ],
+  [
+   "Transfection",
+   "transfect",
+   "i"
+  ],
+  [
+   "Lentivirus",
+   "lentivir|viral titer|ViraBind",
+   "i"
+  ],
+  [
+   "Cell culture",
+   "passag|\\bDMEM\\b|\\bcells?\\b.*(seed|split)|293T|HEK",
+   "i"
+  ],
+  [
+   "Nanopore sequencing",
+   "nanopore|ONT\\b|MinION|PromethION|flow ?cell",
+   "i"
+  ],
+  [
+   "Library prep",
+   "library prep|\\blibrar(y|ies)\\b",
+   "i"
+  ],
+  [
+   "Bead purification",
+   "AMPure|SPRI|beads?\\b",
+   "i"
+  ],
+  [
+   "Column purification",
+   "MinElute|QIAquick|spin column|column",
+   "i"
+  ],
+  [
+   "Nanodrop",
+   "nano ?drop",
+   "i"
+  ],
+  [
+   "Restriction digest",
+   "digest|EcoRI|BamHI|HindIII|NotI|XhoI|restriction",
+   "i"
+  ],
+  [
+   "gDNA isolation",
+   "gDNA",
+   "i"
+  ],
+  [
+   "Fragmentation",
+   "g-?Tube|shear|fragment",
+   "i"
+  ],
+  [
+   "Western blot",
+   "western",
+   "i"
+  ],
+  [
+   "ELISA",
+   "ELISA|p24",
+   "i"
+  ],
+  [
+   "Protein purification",
+   "Ni-?NTA|Ni\u00b2\u207a|His-?tag|elution|purif(y|ied|ication) protein",
+   "i"
+  ],
+  [
+   "Buffer exchange",
+   "buffer exchange|diafiltrat|Amicon",
+   "i"
+  ],
+  [
+   "Bioinformatics",
+   "python|\\bscript\\b|pipeline|alignment|fastq|bam\\b|IGV|Dorado|minimap",
+   "i"
+  ],
+  [
+   "Proteinase K",
+   "Proteinase K",
+   "i"
+  ],
+  [
+   "Seminar/notes",
+   "seminar|\\bSem\\b|talk|meeting",
+   "i"
+  ]
+ ],
+ "reagents": [
+  [
+   "Phusion",
+   "Phusion",
+   "i"
+  ],
+  [
+   "SYBR",
+   "SYBR",
+   "i"
+  ],
+  [
+   "Proteinase K",
+   "Proteinase K",
+   "i"
+  ],
+  [
+   "SAM",
+   "\\bSAM\\b",
+   ""
+  ],
+  [
+   "Spermidine",
+   "Spermidine",
+   "i"
+  ],
+  [
+   "MinElute",
+   "MinElute",
+   "i"
+  ],
+  [
+   "AMPure",
+   "AMPure",
+   "i"
+  ],
+  [
+   "Hia5",
+   "Hia5",
+   "i"
+  ],
+  [
+   "MNase",
+   "MNase",
+   "i"
+  ],
+  [
+   "SDS",
+   "\\bSDS\\b",
+   ""
+  ],
+  [
+   "EDTA",
+   "EDTA",
+   ""
+  ],
+  [
+   "Tris",
+   "\\bTris\\b",
+   "i"
+  ],
+  [
+   "NaCl",
+   "NaCl",
+   "i"
+  ],
+  [
+   "KCl",
+   "KCl",
+   "i"
+  ],
+  [
+   "MgCl2",
+   "MgCl",
+   "i"
+  ],
+  [
+   "BSA",
+   "\\bBSA\\b",
+   ""
+  ],
+  [
+   "DTT",
+   "\\bDTT\\b",
+   ""
+  ],
+  [
+   "Histone octamer",
+   "octamer|histone",
+   "i"
+  ],
+  [
+   "T4 ligase",
+   "T4 (DNA )?ligase",
+   "i"
+  ],
+  [
+   "Taq",
+   "\\bTaq\\b",
+   ""
+  ],
+  [
+   "Q5",
+   "\\bQ5\\b",
+   ""
+  ],
+  [
+   "dNTPs",
+   "dNTP",
+   "i"
+  ],
+  [
+   "TE buffer",
+   "\\bTE\\b",
+   ""
+  ],
+  [
+   "Ni-NTA",
+   "Ni-?NTA",
+   "i"
+  ],
+  [
+   "Lipofectamine",
+   "Lipofectamine",
+   "i"
+  ],
+  [
+   "Puromycin",
+   "puromycin",
+   "i"
+  ],
+  [
+   "Ethanol",
+   "ethanol|EtOH",
+   "i"
+  ],
+  [
+   "Glycerol",
+   "glycerol",
+   "i"
+  ],
+  [
+   "ViraBind",
+   "ViraBind",
+   "i"
+  ],
+  [
+   "Nuc buffer",
+   "Nuc buffer",
+   "i"
+  ],
+  [
+   "Exonuclease",
+   "\\bExo ?(I|III)\\b|exonuclease",
+   "i"
+  ]
+ ],
+ "samples": [
+  "\\blig(?=[0-9A-Z])[A-Za-z0-9]+",
+  "\\b[A-Z]\\d{1,2}recon\\b",
+  "\\b(?:D|B)\\d{1,2}\\b(?=[ ,&\\)]|$)",
+  "\\b(?:GCDv|HCDv|Gclav)\\d(?:-\\d)?\\b",
+  "\\bN?CAP_?[FR]\\b|\\bNCAP\\\\?_[FR]\\b",
+  "\\bCAPAMP\\d\\b",
+  "\\bSELEX_?AMP\\b",
+  "\\bHEK ?293T?X?\\b|\\b293T[X]?\\b"
+ ]
+}

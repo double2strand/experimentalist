@@ -1,0 +1,47 @@
+{
+ "date": "2025-09-30",
+ "heading": "**30 September 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Transduce 293TX cells with Gcla virus with polybrene/Transdux**  \n2. **Prepare 1X more plates with 2X Phusion polymerase mix for lig147 from newly prepared lig147 MAIN**  \n3. **Test Hia5 activity with Hia5 test ligand in Nucleosome Exchange Buffer**  \n4. **Prepare a plan for samples to be prepared with Nucleosome recon for long-read footprinting**  \n5. **Thaw new HAP1 and GP5d WT cells for extracting gDNA for nucleosome reconstitution**  \n     \n     \n1. **Transduce 293TX cells with Gcla virus with polybrene/Transdux**\n\n\t\n\n| MOI | Polybrene | Transdux | Virus | Media |\n| :---: | :---: | :---: | :---: | :---: |\n| 5 | 2 uL |  | 100 uL | 1898 uL |\n| 10 | 2 uL |  | 200 uL | 1798 uL |\n| 50 | 2 uL |  | 1 mL | 998 uL |\n| 100 | 2 uL |  | 2 mL | \\- |\n| 5 |  | 10 uL | 100 uL | 1890 uL |\n| 10 |  | 10 uL | 200 uL | 1790 uL |\n| 50 |  | 10 uL | 1 mL | 990 uL |\n| 100 |  | 10 uL | 2 mL | \\- |\n\n2. **Prepare 1X more plates with 2X Phusion polymerase mix for lig147 from newly prepared lig147 MAIN**\n\n\tRun the new lig147 MAIN ligand on a gel to check quality. Concentrate this   ligand by running in SpeedVac for about an hour.\n\nFor PCR:\n\n100X\n\n| NCAP\\_F (10 uM) | 100 uL |\n| :---- | :---- |\n| NCAP\\_R (10 uM) | 100 uL |\n| 2X Phusion | 2500 uL |\n| lig147 MAIN | 41.5 uL (diluted to 100 uL) |\n| NF H2O | 2200 uL |\n\nSplit 50 uL per well of a 96-well PCR plate.\n\nPCR4, SELEX\\_AMP\n\n| 95°C | 3 min |\n| :---- | :---- |\n| 98°C | 20 s |\n| 55°C | 15 s       **10X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\nRun 5 uL from one reaction on an agarose gel to check the purity of the product. Pool all reactions together and purify the product to final pure lig147. Also measure concentration of sample.\n\n### 3. Test Hia5 activity with Hia5 test ligand in Nucleosome Exchange Buffer\n\nAmplification PCR: (CAPAMP1) 2X\n\n| NCAP\\_F (10 uM) | 2.25 uL |\n| :---- | :---- |\n| NCAP\\_R (10 uM) | 2.25 uL |\n| 2X KAPA HiFi HS | 12.5 uL |\n| Hia5testlig 100 uM | 2 uL |\n| NF water | 6 uL |\n\n![](assets/img/doc2-image111.png)\n\nUsing this PCR product, set up the second PCR:\n\nAmplification PCR: (CAPAMP2) 6X\n\n| NCAP\\_F (10 uM) | 2.25 uL |\n| :---- | :---- |\n| NCAP\\_R (10 uM) | 2.25 uL |\n| 2X KAPA HiFi HS | 12.5 uL |\n| CAPAMP1 product | 2.5 uL |\n| NF water | 5.5 uL |\n\nProducts were pooled and column purified, quantified and then run on a 2% agarose gel to confirm the size.\n\nDilute psf-Hia5 (1 uL in total of 15 uL with water) **\\[dil psf-Hia5 \\- dpH\\]**\n\n*Titration of Hia5 for the Nucleosome Exchange Buffer (NE)+FIBER-Seq (500 ng DNA per trial). Total 20 uL reactions.*\n\n- Hia5 ligand \\+ NE buffer \\+ 1 uL dpH \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine  \n- Hia5 ligand \\+ NE buffer \\+ 2 uL dpH \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine  \n- Hia5 ligand \\+ NE buffer \\+ 3 uL dpH \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine  \n- Hia5 ligand \\+ NE buffer \\+ 4 uL dpH \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine  \n- Hia5 ligand \\+ NE buffer \\+ 5 uL dpH \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine\n\nIncubate 37 degrees \\- 1 hour and 80 degrees, 10 mins. Then add 1 uL DpnI and 2 uL CutSmart and incubate again at 37 degrees \\- 1 hour and 80 degrees, 10 mins. Run these reactions on a 2% agarose gel to check the activity of the enzyme.\n",
+ "experiments": [
+  "3. Test Hia5 activity with Hia5 test ligand in Nucleosome Exchange Buffer"
+ ],
+ "images": [
+  "assets/img/doc2-image111.png"
+ ],
+ "tables": 5,
+ "id": "2025-09-30",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Hia5",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Cell culture",
+   "Column purification",
+   "gDNA isolation"
+  ],
+  "reagents": [
+   "Phusion",
+   "SAM",
+   "Spermidine",
+   "Hia5"
+  ],
+  "samples": [
+   "lig147",
+   "NCAP_F",
+   "NCAP_R",
+   "CAPAMP1",
+   "293TX",
+   "CAPAMP2",
+   "SELEX_AMP"
+  ],
+  "custom": []
+ },
+ "title": "Test Hia5 activity with Hia5 test ligand in Nucleosome Exchange Buffer"
+}

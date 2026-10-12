@@ -1,0 +1,25 @@
+{
+ "date": "2025-10-03",
+ "heading": "**3 October 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "**T4 PNK treatment for lig147 for repeat of ligation trials**\n\n| DNA | up to 300 pmol of 5´ termini (Use 2 ug of DNA per reaction) |\n| :---- | :---- |\n| T4 PNK Reaction Buffer (10X) | 5 µl |\n| ATP (10 mM) | 5 µl |\n| [T4 PNK](https://www.neb.com/en-gb/products/m0201-t4-polynucleotide-kinase) | 1 µl (10 units) |\n| Nuclease-free Water | up to 50 µl |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2025-10-03",
+ "tags": {
+  "techniques": [
+   "Ligation"
+  ],
+  "reagents": [],
+  "samples": [
+   "lig147"
+  ],
+  "custom": []
+ },
+ "title": "T4 PNK treatment for lig147 for repeat of ligation trials"
+}

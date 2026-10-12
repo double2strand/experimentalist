@@ -1,0 +1,33 @@
+{
+ "date": "2026-04-03",
+ "heading": "**3 April 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Clean-up NCFS/HTFS samples*\n\nNCFS N40:\n\n- 1% SDS was added to the total sample and then split into 24 tubes → concentrated in SpeedVac for \\~30 mins  \n- Then I added 0.2 mg/mL Proteinase K and placed the sample at 37 C, 60 mins\n\nNCFS 147:\n\n- 0.5% SDS was added to the total sample  \n- Added 0.2 mg/mL Proteinase K and placed the sample at 37 C, 60 mins\n\n3 M Sodium Acetate\n\n- Add 1.1 mL sodium acetate to NCFS N40  \n- Add 1.2 mL sodium acetate to NCFS 147\n\nIsopropanol\n\n- Add 12.5 mL isopropanol to NCFS N40  \n- Add 13.5 mL isopropanol to NCFS 147\n\n*MNase test for new nucleosome samples* \n\n5-10 ng of sample \\+ 5 uL MNase buffer \\+ 1 uL dMNase \\+ 0.25 uL rAlbumin (total 50 uL)\n\nTreat at 37 C, 15 mins.\n\nRun on a 1% agarose gel and stain with SYBR Green. \n\nSamples:\n\n1. ELF2lig1  \n2. ELF2shHindIII  \n3. ELF2shEcoRV  \n4. lig50k  \n5. ELF2lig1-nuc  \n6. ELF2shHindIII-nuc  \n7. ELF2shEcoRV-nuc  \n8. lig50k-nuc\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2026-04-03",
+ "tags": {
+  "techniques": [
+   "MNase",
+   "Gel electrophoresis",
+   "Restriction digest",
+   "Proteinase K"
+  ],
+  "reagents": [
+   "SYBR",
+   "Proteinase K",
+   "MNase",
+   "SDS"
+  ],
+  "samples": [
+   "lig50k"
+  ],
+  "custom": []
+ },
+ "title": "Clean-up NCFS/HTFS samples"
+}

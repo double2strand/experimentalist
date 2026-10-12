@@ -1,0 +1,33 @@
+{
+ "date": "2026-06-18",
+ "heading": "**18 June 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*ETS ligand for CC methylase testing*\n\nAmplification PCR: (CAPAMP1) 2X\n\n| NCAP\\_F (10 uM) | 2.25 uL |\n| :---- | :---- |\n| NCAP\\_R (10 uM) | 2.25 uL |\n| 2X KAPA HiFi HS | 12.5 uL |\n| ETSlig 100 uM | 2 uL |\n| NF water | 6 uL |\n\n![](assets/img/doc3-image28.png)\n\nInstead of 6X we do 8X here.\n\nUsing this PCR product, set up the second PCR:\n\nAmplification PCR: (CAPAMP2) 8X\n\n| NCAP\\_F (10 uM) | 2.25 uL |\n| :---- | :---- |\n| NCAP\\_R (10 uM) | 2.25 uL |\n| 2X KAPA HiFi HS | 12.5 uL |\n| CAPAMP1 product | 2.5 uL |\n| NF water | 5.5 uL |\n\nPCR conditions for PCR 2 are the same, expect that we just perform 3 cycles.\n\nProducts were pooled and column purified, quantified and then run on a 2% agarose gel to confirm the size.\n\nHepG2 media (500 mL)\n\n| DMEM high glucose | Make up to 500 mL |\n| :---- | :---- |\n| HI FBS (10%) | 50 mL |\n| L-Glutamine | 5 mL |\n| Sodium Pyruvate | 5 mL |\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc3-image28.png"
+ ],
+ "tables": 3,
+ "id": "2026-06-18",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Gel electrophoresis",
+   "Cell culture",
+   "Column purification"
+  ],
+  "reagents": [],
+  "samples": [
+   "NCAP_F",
+   "NCAP_R",
+   "CAPAMP1",
+   "CAPAMP2"
+  ],
+  "custom": []
+ },
+ "title": "ETS ligand for CC methylase testing"
+}

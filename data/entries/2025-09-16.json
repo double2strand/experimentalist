@@ -1,0 +1,31 @@
+{
+ "date": "2025-09-16",
+ "heading": "**16 September 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "Count cells and suspend in densities of about 10-20 million per mL \\- total \\~3-4 mL in FACS tubes after passing through the filter on the head.\n\nAlso prepare collection tubes (carry both spare FACS tubes as well as 15 mL falcon tubes) for adding the sorting media (high % FBS). 5 mL collection media per tube.\n\nWhile harvesting the cells, seed \\~5-10% of the original pool back into a single well of a 6-well plate fresh 10-cm plate (per sample) for continued culture.\n\nSamples prepared for sorting are:\n\nSet A\n\n- HAP1 Unstained  \n- HAP1 mCherry control  \n- HAP1 GFP control  \n- HAP1 Gclav1 (A1)  \n- HAP1 Gclav1 (A2)  \n- HAP1 Hclav1 (B1)  \n- HAP1 Hclav1 (B2)  \n- HAP1 GCDv1 (C1)  \n- HAP1 GCDv1 (C2)  \n- HAP1 HCDv1 (D1)  \n- HAP1 HCDv1 (D2)\n\nSet B\n\n- GP5del Unstained  \n- GP5del mCherry control  \n- GP5del GFP control  \n- GP5del Gclav1 (E1)  \n- GP5del Gclav1 (E2)  \n- GP5del Hclav1 (F1)  \n- GP5del Hclav1 (F2)  \n- GP5del GCDv1 (G1)  \n- GP5del GCDv1 (G2)  \n- GP5del HCDv1 (H1)  \n- GP5del HCDv1 (H2)\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2025-09-16",
+ "tags": {
+  "techniques": [
+   "Cell culture"
+  ],
+  "reagents": [],
+  "samples": [
+   "Gclav1",
+   "GCDv1",
+   "HCDv1",
+   "B1",
+   "B2",
+   "D1",
+   "D2"
+  ],
+  "custom": []
+ },
+ "title": "Count cells and suspend in densities of about 10-20 million per mL - total ~3-4 mL in FACS tubes after passing through t"
+}

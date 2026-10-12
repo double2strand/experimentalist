@@ -1,0 +1,49 @@
+{
+ "date": "2025-11-04",
+ "heading": "**4 November 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "### 1. Wash Buffer and Biotin elution of D7 nucleosome\n\n10X TCAPT Buffer\n\n| 1.4 M KCl | 208.74 g |\n| :---- | :---- |\n| 50 mM NaCl | 5.844 g |\n| 10 mM MgCl2 | 20 mL |\n| 1 mM EGTA | 4 mL |\n| 100 mM Tris-HCl pH 8 | 200 mL |\n| Tween20 | 20 mL |\n| 30 uM ZnSO4.H2O | 600 uL |\n\nAllow this buffer to mix well and then prepare:\n\n1X TCAPT wash buffer\n\n10 mL\n\n| TCAPT Buffer (10X) | 1 mL |\n| :---- | :---- |\n| 2-ME | 2 uL |\n\nMix well and wash the SBP bead suspension (after separation on magnet) with the 1X TCAPT buffer 3 times (each wash is 5 minutes of nutation).\n\nAfter washing, suspend the beads in 50 uL of Biotin elution buffer and shake at 1400 rpm, 10 mins, RT. Collect the supernatant as the main sample. Repeat elution with 25 uL of biotin elution buffer with incubation at 1400 rpm, 5 mins (for better efficiency).\n\n### 2. MNase digestion & testing of new reconstituted samples\n\nTake 50 ng of each sample:\n\ni. lig20K (   uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL dil-MNase\n\nii. lig147 PCR2 ( 2.5  uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL dil-MNase\n\niii. D7-UB (10 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL dil-MNase\n\niv. D7’ (30 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL dil-MNase\n\nv. D8recon (20 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL dil-MNase\n\nvi. E1recon (25 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL dil-MNase\n\nIncubate at 37 degrees, 5 mins. Add 1.1 uL EGTA (0.5 M) to stop the reaction. Run these samples on a 0.5 % agarose gel and stain with SYBR Green.\n\nStain the gel with SYBR green.\n\nLoading Order for gel:\n\n1. 1 kb plus ladder  \n2. lig20kb  \n3. lig147 PCR2  \n4. lig20kb MNase  \n5. lig147 MNase  \n6. D7-UB MNase  \n7. D7-UB MNase  \n8. D7’ MNase  \n9. D7’ MNase  \n10. D8 MNase  \n11. D8 MNase  \n12. E1 MNase  \n13. E1 MNase\n\n***3\\. Buffer checklist for SELEX***\n\n| Buffer Name | pH checked | Filtered | Prepared |\n| :---- | :---- | ----- | :---: |\n| 10X HT-SELEX (1.55X) Buffer |  | ✓ | ✓ |\n| 10X HT-SELEX (1X) Buffer |  | ✓ | ✓ |\n| Nucleosome Dilution Buffer |  | ✓ | ✓ |\n| Refolding Buffer  |  |  |  |\n| TF Dilution Buffer (HT-SELEX) |  |  |  |\n| TF Dilution Buffer (NCAP-SELEX) |  |  |  |\n| NCAP-SELEX Elution Buffer |  | ✓ | ✓ |\n| Biotin Elution Buffer |  | ✓ | ✓ |\n| 10X TCAPT Buffer |  |  | ✓ |\n| TCAPT Block Buffer |  |  |  |\n| Sol1 Salt Buffer |  | ✓ | ✓ |\n| Blocking Buffer Salt-Free |  | ✓ | ✓ |\n| 1X Wash Buffer (NCAP) |  |  | Prepared just before Wash step |\n| 0.5X Wash Buffer (NCAP) |  |  | Prepared just before Wash step |\n\n**TF Dilution Buffer (NCAP-SELEX)**\n\n250 mL\n\n| 1 M Tris-HCl pH 8 | 2.5 mL |\n| :---- | :---- |\n| BSA | 0.25 g |\n| 4 M KCl | 9.375 mL |\n| Ethylene Glycol | 125 mL |\n| 100 mM ZnSO4.H2O | 25 uL |\n\n**TCAPT Block Buffer**\n\n500 mL\n\n| 10X TCAPT | 50 mL |\n| :---- | :---- |\n| BSA | 0.5 g |\n| 10% NaN3 | 1 mL |\n",
+ "experiments": [
+  "1. Wash Buffer and Biotin elution of D7 nucleosome",
+  "2. MNase digestion & testing of new reconstituted samples"
+ ],
+ "images": [],
+ "tables": 5,
+ "id": "2025-11-04",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "MNase",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Bead purification",
+   "Restriction digest",
+   "Protein purification"
+  ],
+  "reagents": [
+   "SYBR",
+   "MNase",
+   "Tris",
+   "NaCl",
+   "KCl",
+   "MgCl2",
+   "BSA"
+  ],
+  "samples": [
+   "lig147",
+   "lig20kb",
+   "D8",
+   "lig20K",
+   "D8recon",
+   "E1recon",
+   "D7"
+  ],
+  "custom": []
+ },
+ "title": "Wash Buffer and Biotin elution of D7 nucleosome; MNase digestion & testing of new reconstituted samples"
+}

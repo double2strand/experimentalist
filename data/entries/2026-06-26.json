@@ -1,0 +1,23 @@
+{
+ "date": "2026-06-26",
+ "heading": "**26 June 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*MspJI*\n\nMaster-Mix (3.5 uL Cutsmart \\+ 3.5 uL Enzyme \\+ 3.5 uL Activator)\n\n|  | DNA | rCutSmart | Enzyme | Activator |\n| :---: | :---: | :---: | :---: | :---: |\n| A0 |  | 1 uL | 1 uL | 1 uL |\n| A5 |  | 1 uL | 1 uL | 1 uL |\n| A6 |  | 1 uL | 1 uL | 1 uL |\n\n| 37 C | 60 mins |\n| :---- | :---- |\n| 65 C | 20 mins |\n\n*MspI*  \nMastermix \\= 3.5 uL Cutsmart \\+ 1.75 uL enzyme\n\n|  | DNA (10 ng) | rCutSmart | Enzyme |\n| :---: | :---: | :---: | :---: |\n| A0 |  | 1 uL | 0.5 uL |\n| A5 |  | 1 uL | 0.5 uL |\n| A6 |  | 1 uL | 0.5 uL |\n\n| 37 C | 60 mins |\n| :---- | :---- |\n\n*HpaII*  \nMastermix \\= 3.5 uL Cutsmart \\+ 1.75 uL enzyme\n\n|  | DNA (10 ng) | rCutSmart | Enzyme |\n| :---: | :---: | :---: | :---: |\n| A0 |  | 1 uL | 0.5 uL |\n| A5 |  | 1 uL | 0.5 uL |\n| A6 |  | 1 uL | 0.5 uL |\n\n| 37 C | 60 mins |\n| :---- | :---- |\n| 80 C | 20 mins |\n\nLoading order:\n\nGel 1\n\n1. 50 bp ladder  \n2. MspJI A0 (agarose 6X dye)  \n3. MspJI A5 (agarose 6X dye)  \n4. MspJI A6 (agarose 6X dye)  \n5. MspI A0  \n6. MspI A5  \n7. MspI A6  \n8. ETSligand  \n   \n\nGel 2\n\n1. 50 bp ladder  \n2. HpaII A0  \n3. HpaII A5  \n4. HpaII A6  \n5. A1  \n6. A2  \n7. A3  \n8. ETSligand\n",
+ "experiments": [],
+ "images": [],
+ "tables": 6,
+ "id": "2026-06-26",
+ "tags": {
+  "techniques": [
+   "Gel electrophoresis"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "MspJI"
+}

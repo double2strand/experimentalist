@@ -1,0 +1,38 @@
+{
+ "date": "2026-01-17",
+ "heading": "**17 January 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Lysis of protein cultures*\n\n10 mL of lysis buffer per 100 mL of induced culture → 30 min shaking \\+ vortex → Freeze at \\-80 degrees\n\n*HT SELEX \\+ Hia5 Checklist*\n\n6. Prepare protein plate same as last round of SELEX  \n7. Prepare fresh 1.55X SELEX Buffer Plates  \n8. Write *Hia*5 program \\[4.5 uL TF dilution buffer \\+ 8.5 uL 1.55X SELEX Buffer \\+ 5 uL DNA → Incubate 30 mins, RT → 1 uL dHia5 \\+ 0.7 uL SAM \\+ 4.3 uL Hia5 buffer\\]  \n9. Test Hia5 activity again with 25 uL reaction  \n10. Set up PCR for lig147 and lig70N with PE2/3 plates \\- prepare separate mastermix plates for this with PE\\_F and PE\\_R primers\n\n*lig200 PCR*\n\nDilute this lig200 ssDNA 1:200 ⇒ 1 uL oligo \\+ 199 uL TE buffer (lig200-dil200)\n\nPCR 1 \n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **Final diluted DNA** | **2** |\n| **Phusion Master Mix** | **12.5** |\n| **NCAP\\_F (10 µM)** | **1.25** |\n| **NCAP\\_R (10 uM)** | **1.25** |\n| **Water** | **8**  |\n| **Total** | **25** |\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **8X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\nMeasure the concentration of this PCR product and run on an agarose gel.\n\n*lig70N PCR1*\n\nDilute this lig70N annealed DNA 10-fold.\n\nPrepare a 100X reaction mix:\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **ligN40w107 Ann** | **100** |\n| **Phusion Master Mix** | **1250** |\n| **NCAP\\_F (10 µM)** | **125** |\n| **NCAP\\_R (10 uM)** | **125** |\n| **Water** | **900**  |\n| **Total** | **2500** |\n\nSplit mix into 25 uL per well for two 96-well PCR plates.\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **8X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\nPool the PCR product and run 20 uL of sample on a 1% agarose gel. Measure concentration of the PCR1 product.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 4,
+ "id": "2026-01-17",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Hia5",
+   "Gel electrophoresis"
+  ],
+  "reagents": [
+   "Phusion",
+   "SAM",
+   "Hia5",
+   "TE buffer"
+  ],
+  "samples": [
+   "lig70N",
+   "lig200",
+   "NCAP_F",
+   "NCAP_R",
+   "lig147",
+   "ligN40w107"
+  ],
+  "custom": []
+ },
+ "title": "Lysis of protein cultures"
+}

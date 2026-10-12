@@ -1,0 +1,34 @@
+{
+ "date": "2025-10-31",
+ "heading": "**31 October 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "### 1. PCR2 for ligN40w107\n\nConcentration of PCR1 product \\= 13.2 ng/uL\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **ligN40w107 PCR1** | **400** |\n| **KAPA HiFi master-mix** | **5000** |\n| **NCAP\\_F (10 µM)** | **500** |\n| **NCAP\\_R (10 uM)** | **500** |\n| **Water** | **3600**  |\n| **Total** | **10000** |\n\nThe PCR product for this sample was run on a 1.5% agarose gel.\n\nConcentration of pooled PCR2 product \\= \n\n### 2. Ligation trial L11 clean-up & QC\n\nPost clean-up this sample will be run on a 0.5% agarose gel and stained with SYBR Green.\n",
+ "experiments": [
+  "1. PCR2 for ligN40w107",
+  "2. Ligation trial L11 clean-up & QC"
+ ],
+ "images": [],
+ "tables": 1,
+ "id": "2025-10-31",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Gel electrophoresis",
+   "Ligation"
+  ],
+  "reagents": [
+   "SYBR"
+  ],
+  "samples": [
+   "ligN40w107",
+   "NCAP_F",
+   "NCAP_R"
+  ],
+  "custom": []
+ },
+ "title": "PCR2 for ligN40w107; Ligation trial L11 clean-up & QC"
+}

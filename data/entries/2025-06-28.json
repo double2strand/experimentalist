@@ -1,0 +1,28 @@
+{
+ "date": "2025-06-28",
+ "heading": "**28 June 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "| Add ViralBoost containing media to cells undergoing viral packaging |\n| :---- |\n| **Prepare fresh 293TX media** |\n\n### 1. Add ViralBoost containing media to cells undergoing viral packaging\n\nPrepare 80 mL of fresh media and take out 160 uL of media from the mix. Then add 160 uL ViralBoost and mix gently by pipetting. Distribute 10 mL of the media to each plate.\n\n### 2. Prepare fresh 293TX media\n\n| HI FBS (10%) | 50 mL |\n| :---- | :---- |\n| Sodium Pyruvate (100 mM) | 5 mL (1 mM final) |\n| Pen-Strep (10kU/mL) | 5 mL (100 U/mL) |\n| DMEM | Top up to 500 mL |\n",
+ "experiments": [
+  "1. Add ViralBoost containing media to cells undergoing viral packaging",
+  "2. Prepare fresh 293TX media"
+ ],
+ "images": [],
+ "tables": 2,
+ "id": "2025-06-28",
+ "tags": {
+  "techniques": [
+   "Cell culture"
+  ],
+  "reagents": [],
+  "samples": [
+   "293TX"
+  ],
+  "custom": []
+ },
+ "title": "Add ViralBoost containing media to cells undergoing viral packaging; Prepare fresh 293TX media"
+}

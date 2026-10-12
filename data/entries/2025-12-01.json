@@ -1,0 +1,38 @@
+{
+ "date": "2025-12-01",
+ "heading": "**1 December 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "If the samples are ready, please drop them off and scan them into the log in G216 \\-  please use the “Short Read Walkup and Aviti PoolSeq” box. This generates an automated email to the sequencing team letting them know there is a tube to collect.\n\nTube 1 (NT1869756B) \\- 43.2 nM 147 *NT1869756*\n\nTube 2 (NT1870957A) \\- 22.7 nM N40 *NT1870957*\n\nTube 3 (NT1872158I) \\- 40.2 nM 147 *NT1872158 (B1, C1)*\n\nTube 4 (NT1873359T) \\- 41.7 nM N40 *NT1873359 (D1, E1)* \n\nEach vial of the Rosetta cells is 0.2 mL ⇒ Aliquot into 20 uL each and transform by adding 0.3 uL of each plasmid.\n\nEach plasmid is resuspended in 100 uL of NF water i.e. concentration \\= \\~40 ng/uL\n\n![](assets/img/doc3-image5.png)\n\n*Testing SELEX buffers for Hia5 activity*\n\nNCAP-SELEX: 25 uL Biotin Buffer (70 mM KCl, 2.5 mM NaCl, 0.5 mM MgCl2, 1.5 μM ZnSO4, 50 μM EGTA, 5 mM Tris, pH 8, 0.05% Tween, 10 mM Biotin, 50 mM Imidazole, 6 mM NaOH) \\+ 4.5 TF dilution buffer (10 mM Tris pH8 \\+ 0.1% BSA \\+ 150mM KCl \\+ 10µM Zn \\+ 50% EG ) *\\[Salt concentration \\= \\]*\n\n*82 mM KCl, 2.1 mM NaCl, 0.42 mM MgCl₂, 2.8 µM Zn²⁺, 5.8 mM Tris-HCl pH 8, 42 µM EGTA, 8.47 mM biotin, 42.4 mM imidazole, 5.08 mM NaOH, 0.042% Tween-20, 0.015% BSA, 7.6% ethylene glycol*\n\nHT-SELEX: 4.5 uL TF dilution buffer (10 mM Tris pH8 \\+ 0.1% BSA \\+ 150mM KCl \\+ 10µM Zn \\+ 50% EG ) \\+ 5 uL DNA (no salt, DNA in water) \\+ 8.5 uL 1.55X SELEX buffer (*155μM EGTA, 1.55mM DTT, 3μM ZnSO4 (no dIdC), 31 mM Tris pH 7.5, 119 mM KCl, 1.5 mM MgCl2, 6% glycerol*) *\\[Salt concentration \\= \\]*\n\n94 mM KCl, 0.71 mM MgCl₂, 17 mM Tris (pH \\~7.6–7.7), 73 µM EGTA, 0.73 mM DTT, 3.9 µM Zn²⁺, 12.5% ethylene glycol, 2.8% glycerol, 0.025% BSA (+ DNA)\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc3-image5.png"
+ ],
+ "tables": 0,
+ "id": "2025-12-01",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Hia5"
+  ],
+  "reagents": [
+   "Hia5",
+   "Tris",
+   "NaCl",
+   "KCl",
+   "MgCl2",
+   "BSA",
+   "DTT",
+   "Glycerol"
+  ],
+  "samples": [
+   "B1",
+   "D1"
+  ],
+  "custom": []
+ },
+ "title": "If the samples are ready, please drop them off and scan them into the log in G216 -  please use the “Short Read Walkup a"
+}

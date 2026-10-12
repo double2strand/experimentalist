@@ -1,0 +1,26 @@
+{
+ "date": "2025-08-06",
+ "heading": "**6 August 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "**Concentration of reconstituted nucleosomes**\n\n### **Pre-Rinse Filter**\n\nAdd **500 µL** nuclease-free water to the filter (upper chamber).  \nCentrifuge **10 min @ 14,000×g**.  \nDiscard the filtrate (flow-through).\n\n**Adjust Sample to 200 µL**\n\nTransfer your **200 µL** sample into a fresh low-binding tube.\n\n**First Diafiltration**\n\nLoad the **200 µL** diluted sample into the filter unit.  \nCentrifuge **10 min @ 14,000×g**.  \nStore the filtrate (contains imidazole, Tween, etc.) so that it can be checked for any remaining DNA, protein.\n\n**Wash Step**\n\nAdd **200 µL** fresh Streptavidin Binding Buffer to the filter unit.  \nCentrifuge **10 min @ 14,000×g**.  \nStore the wash.\n\n**Recover Buffer-Exchanged Sample**\n\nMove the filter to a **new collection tube** (provided).  \nInvert the unit and spin **5 min @ 1,500×g**.  \nDiscard the filter—your retentate is now in the tube.\n\nThe following tubes will now be generated based on these purifications:\n\n| Sample | ng/uL |\n| ----- | ----- |\n| A1\\_FT |  |\n| A1\\_W |  |\n| A1\\_E |  |\n| A2\\_FT |  |\n| A2\\_W |  |\n| A2\\_E |  |\n| A3\\_FT |  |\n| A3\\_W |  |\n| A3\\_E |  |\n| B1\\_FT |  |\n| B1\\_W |  |\n| B1\\_E |  |\n| B2\\_FT |  |\n| B2\\_W |  |\n| B2\\_E |  |\n",
+ "experiments": [
+  "**Pre-Rinse Filter**"
+ ],
+ "images": [],
+ "tables": 1,
+ "id": "2025-08-06",
+ "tags": {
+  "techniques": [
+   "Reconstitution",
+   "Buffer exchange"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "**Pre-Rinse Filter**"
+}

@@ -1,0 +1,34 @@
+{
+ "date": "2026-04-09",
+ "heading": "**9 April 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Nucleosome Reconstitution*\n\nlig20k  \nDNA → 3 ug in 25 uL → 9.24 nM  \nOctamer:DNA ratio \\= 200:1  \nWT Octamer → 1.85 uM → 5.03 ug ⇒ 1.01 ug/uL octamer stock \\[0.95 uL octamer \\+ 4.05 uL refolding buffer:glycerol\\] ⇒ Octamer stock salt conc \\= 1.2 M  \n1.84 M salt in octamer-DNA mix.\n\n*High salt RB (2 L)*\n\n298.2 g KCl  \n20 mL 1 M Tris-HCl, pH 7.5  \n4 mL 0.5 M EDTA  \n2 mL DTT\n\n**Ligation**   \n2X\n\n| HTFS/NCFS | 4 uL |\n| :---- | :---- |\n| 50% PEG8000 | 3 uL |\n| CoHex 10 mM | 1 uL |\n| T4 Ligase Buffer 10X | 1 uL |\n| T4 DNA ligase | 1 uL |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2026-04-09",
+ "tags": {
+  "techniques": [
+   "Reconstitution",
+   "Ligation"
+  ],
+  "reagents": [
+   "EDTA",
+   "Tris",
+   "KCl",
+   "DTT",
+   "Histone octamer",
+   "T4 ligase",
+   "Glycerol"
+  ],
+  "samples": [
+   "lig20k"
+  ],
+  "custom": []
+ },
+ "title": "Nucleosome Reconstitution"
+}

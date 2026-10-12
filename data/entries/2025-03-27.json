@@ -1,0 +1,27 @@
+{
+ "date": "2025-03-27",
+ "heading": "**27 March 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**Re-assembly for pHRS-Gcla with ShhBC oligos:**\n\n1\\. pHRS-Gcla (3X)\n\n| GclaShhvec (50 ng) | 4.18 uL |\n| :---- | :---- |\n| ShhBColigo1PCR2 (5 ng)\\* | 1 uL |\n| 2X NEB HiFi Assembly Mix | 10 uL |\n| NF H2O | 4.82 uL |\n\n\\*dilute to a 5 ng/uL stock and then use 1 uL of this for each reaction\n\nPool 3 reactions and PCR column purify with MinElute. Measure concentration.\n\nTo the NEB high-efficiency competent cells add 5 ng maximum of ligated DNA to 50 uL of competent cells. Use at least 10 such tubes for the transformation. Pool all the transformed cells with recovery media in a single tube.\n\nPlate 100 uL original on a section of a bioassay plate and a 1:100 dilution on another section of the plate. Scale up the rest of the culture to 1.5 L culture.\n\n**Scale-up culture for pHRS-Gcla-AT10:**\n\nScale up this liquid culture to 1.5 L culture using LB-AMP media. Incubate both flasks of culture O/N at 37 degrees.\n\n**Assembly of MYC335 pHRSin vector**\n\nSet up the reaction on ice (see table).\n\n| Component | Volume | Amount |\n| ----- | ----- | ----- |\n| MYCvec | 4.6 μl | 0.040 pmoles |\n| gb1 | 2.2 μl | 0.080 pmoles |\n| gb2 | 2.6 μl | 0.080 pmoles |\n| Deionized H2O | 0.7 μl | \\--- |\n| NEBuilder HiFi DNA Assembly Master Mix | 10.0 μl | \\--- |\n| Total | 20.0 μl | 0.200 pmoles  |\n\n    \n\nIncubate for 60 minutes and then transform into a single tube of competent cells.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 2,
+ "id": "2025-03-27",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Ligation",
+   "Column purification"
+  ],
+  "reagents": [
+   "MinElute"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Re-assembly for pHRS-Gcla with ShhBC oligos:"
+}

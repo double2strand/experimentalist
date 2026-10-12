@@ -1,0 +1,29 @@
+{
+ "date": "2025-07-17",
+ "heading": "**17 July 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "| Collect Nh100 first viral supernatant \\+ Add repeat dose of Viralboost |\n| :---- |\n| **Figure out taping system for peristaltic pump tubing feat Tianyi** |\n| **Check confluence of HAP1 and GP5d\\_del MYC335 transduced cells \\+ PB & passage to multiple wells if over confluent** |\n| **Chemical transformation and plating for previously assembled ShhBC libraries as well as pHRS-GclaAT10-ShhBC assembly products** |\n| **Finish writing and testing nucleosome recon protocol on i7** |\n| **Transfer Fangjie pipetting template to i7** |\n\n3\\. **Check confluence of HAP1 and GP5d\\_del MYC335 transduced cells \\+ PB & passage to multiple wells if over confluent**\n\nAll the HAP1 plates are very confluent while the GP5d (with PB) plates are quite confluent. Harvest these and seed into a 6-well plate (per experiment) \\[150K cells per well\\]. Out of these, 5 wells will be transfected with SPB while one will be a control.\n\nFor regular extended culture, each harvested plate will be seeded into 3 10-cm plates each.\n\nOnly media is changed for the GP5ddel cells that are transduced with the MYC335 viruses (but not treated with SPB).\n\nHAP1 media:\n\nHAP1 media (500 mL)\n\n| IMDM | Make up to 500 mL |\n| :---- | :---- |\n| HI FBS (10%) | 50 mL |\n\n4\\. **Chemical transformation and plating for previously assembled ShhBC libraries as well as pHRS-GclaAT10-ShhBC assembly products**\n\nAdd 2 uL of the pooled ligation product per 50 uL of competent cells. For each assembly, perform 5 transformations. Plate 200 uL of the pooled transformants into a single 10-cm LB-AMP plate.   \n### 5. Finish writing and testing nucleosome recon protocol on i7\n\nHAP1 (+MYC335\\_T1(+PB) & \\+MYC335\\_T2(+PB))\n\nTube1: 1250 uL \\+ 50 uL Lipo3000  \nTube2: 1250 uL \\+ 50 uL P3000 \\+ 25 ug SPB\n\nGP5d (+MYC335\\_T1(+PB) & \\+MYC335\\_T2(+PB))\n\nTube1: 1250 uL \\+ 50 uL Lipo3000  \nTube2: 1250 uL \\+ 50 uL P3000 \\+ 25 ug SPB\n\nNOTES: Incubate tubes separately for 5 mins each. Add DNA mix to lipo3000 tubes and then incubate for 15 mins, RT.\n\nAdd drop-wise to the cells.\n\n**Prepare HepG2 culture medium for sorting:**\n\nHepG2 media (100 mL)\n\n| DMEM high glucose | Make up to 100 mL |\n| :---- | :---- |\n| HI FBS (50%) | 50 mL |\n| L-Glutamine | 1 mL |\n| Sodium Pyruvate | 1 mL |\n| Pen-Strep | 1 mL |\n",
+ "experiments": [
+  "5. Finish writing and testing nucleosome recon protocol on i7"
+ ],
+ "images": [],
+ "tables": 3,
+ "id": "2025-07-17",
+ "tags": {
+  "techniques": [
+   "Reconstitution",
+   "Ligation",
+   "Transfection",
+   "Cell culture",
+   "Library prep"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Finish writing and testing nucleosome recon protocol on i7"
+}

@@ -1,0 +1,29 @@
+{
+ "date": "2026-02-10",
+ "heading": "**10 February 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*HTFS ligation round 2*\n\nQuantify the samples and then run the samples in the following order on the agarose gel:\n\nRun the following samples on a 0.8 % agarose gel:\n\n1. Extend 1 kb ladder  \n2. 1 kb plus ladder  \n3. 147HTFSlig2 (2 uL)  \n4. N40HTFSlig2 (1 uL)\n\n*Plasmid FIBER-Seq (HAP1)*\n\n1. Cells are resuspended in 60 uL of Hia5 buffer (containing 0.05 % IGEPAL)  \n2. Incubate on ice for 10 mins.  \n3. Pellet nuclei at 350g, 5 min at 4 C.  \n4. Resuspend nuclei in 60 uL Hia5 buffer (with 0.8 mM SAM) & 0.5 uL of Hia5  \n5. Incubate at 25 C for 40 mins. Add SDS to a final concentration of 1% to stop the reaction.  \n6. Extract plasmid DNA by adding 137 uL Monarch Buffer B1. Then purify by mini-prep according to the kit instructions.  \n7. Linearize the plasmids based on *in vitro* CRISPR & clean-up the reactions\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2026-02-10",
+ "tags": {
+  "techniques": [
+   "Hia5",
+   "Gel electrophoresis",
+   "Ligation"
+  ],
+  "reagents": [
+   "SAM",
+   "Hia5",
+   "SDS"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "HTFS ligation round 2"
+}

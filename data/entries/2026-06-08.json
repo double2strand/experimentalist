@@ -1,0 +1,29 @@
+{
+ "date": "2026-06-08",
+ "heading": "**8 June 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "***SELEX library clean-up***\n\nCleanup with about 600 uL of the fresh sample:\n\n1.1-0.70\n\n- Add 420 uL (0.7X) beads to each sample. Incubate 5 mins, RT (with nutation). Bind to magnet for 5 mins.  \n- Move supernatant to new tubes and then add (600 x (1.1 \\- 0.7) \\= 240 uL). Incubate 5 mins at RT (with nutation). Bind for 5 mins to magnet.  \n- Remove supernatant and wash twice with 300 uL 85% ethanol. Air dry for 2-3 mins.  \n- Elute each sample in 100 uL of TE buffer.  \n- Run Qubit and TS (D5000)\n\n***Recombinant protein design \\- Batch 4***\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2026-06-08",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Qubit",
+   "Library prep",
+   "Bead purification"
+  ],
+  "reagents": [
+   "TE buffer",
+   "Ethanol"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "SELEX library clean-up"
+}

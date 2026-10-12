@@ -1,0 +1,24 @@
+{
+ "date": "2025-11-26",
+ "heading": "**26 November 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "Pooling strategy for AVITI SELEX samples:\n\n*Flow Cell 1:*\n\nC0lig147PE1  \nC3NCAPlig147PE2  \nC4NCAPlig147PE3\n\n*Flow Cell 2:*\n\nC0ligN40w107PE1  \nC3NCAPligN40w107PE2  \nC4NCAPligN40w107PE3\n\n*Flow Cell 3:*\n\nC1HTSlig147PE1  \nC3HTSlig147PE2  \nC4HTSlig147PE3\n\n*Flow Cell 4:*\n\nC1HTSligN40w107PE1  \nC3HTSligN40w107PE2  \nC4HTSligN40w107PE3\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2025-11-26",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Nanopore sequencing"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Pooling strategy for AVITI SELEX samples:"
+}

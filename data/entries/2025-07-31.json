@@ -1,0 +1,24 @@
+{
+ "date": "2025-07-31",
+ "heading": "**31 July 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Record images for HAP1 cells PB and PB2 treatments**  \n2. **Harvest HAP1 cells and seed them along with transduction of GFP, mCherry viruses for control samples**  \n3. **Finalise nucleosome recon protocol**  \n4. **Prepare the salt dried 96-well plates using the robot**\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2025-07-31",
+ "tags": {
+  "techniques": [
+   "Reconstitution",
+   "Cell culture"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "1. Record images for HAP1 cells PB and PB2 treatments  "
+}

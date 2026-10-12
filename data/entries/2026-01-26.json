@@ -1,0 +1,38 @@
+{
+ "date": "2026-01-26",
+ "heading": "**26 January 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*HTFS ligation*\n\n| lig147HTFS-PNK (1500 ng) | uL |\n| :---- | :---- |\n| 50% PEG8000 | 3 uL |\n| CoHex 10 mM | 1 uL |\n| T4 Ligase Buffer 10X | 1 uL |\n| T4 DNA ligase | 1.22 uL |\n\n| ligN40HTFS-PNK (1500 ng) | uL |\n| :---- | :---- |\n| 50% PEG8000 | 3 uL |\n| CoHex 10 mM | 1 uL |\n| T4 Ligase Buffer 10X | 1 uL |\n| T4 DNA ligase | 1.22 uL |\n\nSet up one tube per reaction. Incubate these tubes O/N at RT.\n\n*NCAP-SELEX Hia5 treatment titration*\n\nTotal reaction \\= 35 uL\n\n| TF Dilution Buffer | Biotin Buffer | DNA (30 ng) | SAM | dHia5 | Hia5 Buffer |\n| :---: | :---: | :---: | :---: | :---: | :---: |\n| 4.5 | 26.5 | 1 | 0.9 | 1.5 | 0.6 |\n| 4.5 | 26.5 | 1 | 0.9 | 1 | 1.1 |\n| 4.5 | 26.5 | 1 | 0.9 | 0.75 | 1.35 |\n| 4.5 | 26.5 | 1 | 0.9 | 0.5 | 1.6 |\n| 4.5 | 26.5 | 1 | 0.9 | 0.4 | 1.7 |\n| 4.5 | 26.5 | 1 | 0.9 | 0.3 | 1.8 |\n| 4.5 | 26.5 | 1 | 0.9 | 0.25 | 1.85 |\n| 4.5 | 26.5 | 1 | 0.9 | 0.2 | 1.9 |\n\n2057 \\- lig20Knuc\n\n2058 \\- lig50Knuc\n\n2059 \\- 293T20knuc\n\n2060 \\- GP5d20knuc\n\n2061 \\- lig20KHnuc\n\n2063 \\- lig20K\n\n2064 \\- lig50K\n\n2065 \\- 293T20k\n\n2066 \\- GP5d20k\n",
+ "experiments": [],
+ "images": [],
+ "tables": 3,
+ "id": "2026-01-26",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Hia5",
+   "Ligation",
+   "Cell culture"
+  ],
+  "reagents": [
+   "SAM",
+   "Hia5",
+   "T4 ligase"
+  ],
+  "samples": [
+   "lig147HTFS",
+   "ligN40HTFS",
+   "lig20Knuc",
+   "lig50Knuc",
+   "lig20KHnuc",
+   "lig20K",
+   "lig50K"
+  ],
+  "custom": []
+ },
+ "title": "HTFS ligation"
+}

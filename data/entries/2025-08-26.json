@@ -1,0 +1,40 @@
+{
+ "date": "2025-08-26",
+ "heading": "**26 August 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Run MNase and gel for A5, A6 dialysis recon experiments**  \n2. **Set up test recon for lig147 with commercial Active Motif histone octamer (microplate)**  \n3. **Send HclaAT10, GCDAT10 and HCDAT10 colonies (5 each) for whole plasmid sequencing**  \n4. **Change media for HAP1 sorted mCherry+ cells (passage cells as per need) \\+ Image these cells**  \n5. **Set up test recon for HAP1, GP5d 20K gDNA with WT octamer (dialysis)**  \n   \n\n1. **Run MNase and gel for A5, A6 dialysis recon experiments**\n\n*NOTE: The yield for these A5, A6 recon experiments seems a bit on the lower side for using \\~3 ug of DNA.* \n\nDilute 1 uL MNase in 1000 uL NF water (2 units/uL). Each reaction consists of \\~50 ng equivalent of DNA. Set up the following reactions:\n\n- lig147 (0.25 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\[CONTROL\\]  \n- lig147 (0.25 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL MNase-dil  \n- A5recon (7 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL MNase-dil  \n- A6recon (12 uL) \\+ 5 uL Buffer \\+ 0.25 uL rAlbumin \\+ 1 uL MNase-dil  \n  Incubate at 37 degrees for 15 mins and then add 1.12 uL 0.5 M EGTA per tube to stop the reaction. Run all samples along with the original non-MNase treated samples on an agarose gel (3%). Stain with SYBR Green.\n\n2. **Set up test recon for lig147 with commercial Epicypherhistone octamer (microplate)**\n\nWe use 500 ng of each genomic DNA sample (per well), resuspended in 10 uL TE buffer. Add this solution to wells A7 (37 treatment) and A8 (no 37 treatment).\n\nMolarity of DNA ⇒ 403.2 nM according to 13 uL total volume (per well)\n\nAt a projected octamer:DNA ratio of 0.9:1 → the octamer molarity to be used is 363 nM ⇒ corresponds to 512 ng in 13 uL total mix.\n\nOctamer stock ⇒ 1.07 ug/uL\n\nPrepare an octamer stock ⇒ 171 ng/uL (5 uL) ⇒ 0.8 uL octamer stock \\+ 4.2 uL refolding buffer:glycerol ⇒ salt concentration (1.16 M)\n\nAdd 3 uL of this stock to the 10 uL of DNA \\+ salt ⇒ salt concentration 1.81 M\n\n| A7 | A8 | Time |\n| ----- | ----- | ----- |\n| Add 10 uL DNA to salt well (2 M) | Add 10 uL DNA to salt well (2 M) | \\- |\n| Add 3 uL C1 octamer stock (1.81 M) | Add 3 uL C3 octamer stock (1.81 M) | 30 minutes |\n| Add 6.5 uL dilution buffer (1.21 M) | Add 6.5 uL dilution buffer (1.21 M) | 60 minutes |\n| Add 9.5 uL dilution buffer (0.81 M) | Add 9.5 uL dilution buffer (0.81 M) | 60 minutes |\n| Add 14 uL dilution buffer (0.55 M) | Add 14 uL dilution buffer (0.55 M) | 60 minutes |\n| Add 22 uL dilution buffer (0.36 M) | Add 22 uL dilution buffer (0.36 M) | 60 minutes |\n| Add 28.9 uL dilution buffer (0.25 M) | Add 28.9 uL dilution buffer (0.25 M) | 60 minutes |\n| Incubate at 37 degrees |  | 30 minutes/NA |\n\n### 5. Set up test recon for HAP1, GP5d 20K gDNA with WT octamer (dialysis)\n\nUse 3 ug of each DNA:\n\nHAP1 \\[C5\\] ⇒ 100 uL ⇒ 1.54 nM\n\nGP5d \\[C6\\] ⇒ 100 uL ⇒ 1.54 nM\n\nOctamer molarity acc. to 60:1 ratio ⇒ 93 nM ⇒ Prepare 1.52 ug in 50 uL solution ⇒ 7.6 uL of 200 ng/uL octamer stock \\+ 42.4 uL refolding buffer:glycerol \\[1.152 M salt\\]\n\nAdd this to 100 uL of the DNA \\+ salt mix \\[1.788 M\\]\n",
+ "experiments": [
+  "5. Set up test recon for HAP1, GP5d 20K gDNA with WT octamer (dialysis)"
+ ],
+ "images": [],
+ "tables": 1,
+ "id": "2025-08-26",
+ "tags": {
+  "techniques": [
+   "MNase",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Dialysis",
+   "Cell culture",
+   "gDNA isolation"
+  ],
+  "reagents": [
+   "SYBR",
+   "MNase",
+   "Histone octamer",
+   "TE buffer",
+   "Glycerol"
+  ],
+  "samples": [
+   "lig147",
+   "A5recon",
+   "A6recon"
+  ],
+  "custom": []
+ },
+ "title": "Set up test recon for HAP1, GP5d 20K gDNA with WT octamer (dialysis)"
+}

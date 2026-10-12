@@ -1,0 +1,27 @@
+{
+ "date": "2026-05-22",
+ "heading": "**22 May 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*PE Phusion Mix (16X)*\n\n| PE Phusion Mix |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | per well in 384 | per 384-well plate | for 16 plates |\n| MQ water | 2.39642μL | 1055.25 μL | 16884 μL |\n| 5x Phusion HF buffer | 2.47818μL | 1091.25 μL | 17460 μL |\n| 10mM dNTP | 0.48542μL | 213.75 μL | 3420 μL |\n| MgCl2 (50mM) | 0.49819μL | 219.375 μL | 3510 μL |\n| HF Phusion DNA Pol (2U/µL) | 0.14179μL | 62.4375 μL | 999 μL |\n| Total | 6μL | 2642.0625 μL | 42.273 mL |\n\nAdd 10 uL of 100 uM PE\\_F primer per 1 mL of primer mix.\n\n*PE PCR*\n\nNow, 6 flow-cells will be used instead for sequencing the following samples:\n\nTube 1: \\[C1\\_HTS\\_lig200 (PE0) \\+ C1\\_NCAP\\_lig200 (PE1)\\]  \nTube 2: \\[C1\\_HTS\\_lig147 (PE0) \\+ C1\\_NCAP\\_lig147 (PE1)\\]  \nTube 3: \\[C3\\_HTS\\_lig200 (PE2) \\+ C3\\_NCAP\\_lig200 (PE3)\\]  \nTube 4: \\[C3\\_HTS\\_lig147 (PE2) \\+ C3\\_NCAP\\_lig147 (PE3)\\]  \nTube 5: \\[C4\\_HTS\\_lig200 (PE2) \\+ C4\\_NCAP\\_lig200 (PE3)\\]  \nTube 6: \\[C4\\_HTS\\_lig147 (PE0) \\+ C4\\_NCAP\\_lig147 (PE1)\\]\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2026-05-22",
+ "tags": {
+  "techniques": [
+   "PCR"
+  ],
+  "reagents": [
+   "Phusion",
+   "MgCl2",
+   "dNTPs"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "PE Phusion Mix (16X)"
+}

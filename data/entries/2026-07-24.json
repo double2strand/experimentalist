@@ -1,0 +1,32 @@
+{
+ "date": "2026-07-24",
+ "heading": "**24 July 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Manual curation of 2X Phusion Master Mix*\n\n0.04 U/uL polymerase\n\n2X Phusion HF Buffer\n\n3 mM MgCl2\n\n1.6 mM dNTPs\n\nI need enough of this mix for about 4 X 100 PCR reactions (25 uL per reaction)\n\n12.5 X 400 \\= 5000 uL\n\n| 200 U Phusion Polymerase | 100 uL |\n| :---- | :---- |\n| 50 mM MgCl2 | 300 uL |\n| 5 X Phusion HF Buffer | 2000 uL |\n| 10 mM dNTPs | 800 uL |\n\n*lig200 PCR 2*\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **PCR 1 DNA** | **400** |\n| **Phusion Master Mix** | **2500** |\n| **NCAP\\_F (10 µM)** | **250** |\n| **NCAP\\_R (10 uM)** | **250** |\n| **Water** | **1600**  |\n| **Total** | **5000** |\n\n25 uL per well in two 96-well plates.\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **3X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\n*lig147 PCR 2*\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **PCR 1 DNA** | **400** |\n| **Phusion Master Mix** | **2500** |\n| **NCAP\\_F (10 µM)** | **250** |\n| **NCAP\\_R (10 uM)** | **250** |\n| **Water** | **1600**  |\n| **Total** | **5000** |\n\n25 uL per well in two 96-well plates.\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **3X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 5,
+ "id": "2026-07-24",
+ "tags": {
+  "techniques": [
+   "PCR"
+  ],
+  "reagents": [
+   "Phusion",
+   "MgCl2",
+   "dNTPs"
+  ],
+  "samples": [
+   "NCAP_F",
+   "NCAP_R",
+   "lig200",
+   "lig147"
+  ],
+  "custom": []
+ },
+ "title": "Manual curation of 2X Phusion Master Mix"
+}

@@ -1,0 +1,28 @@
+{
+ "date": "2026-08-07",
+ "heading": "**7 August 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Proteins still missing*\n\nDBD1 H9 PDX1\t**FR42823983**\t **FK00641070**  \nDBD1 H8 IRF8\t**FR42823766\tFK00641070**  \nDBD1 H12 FOXD3\t**FR42823976\tFK00641070**  \nDBD1 C4 RXRA\t**FR42823894\tFK00641070**  \nDBD1 A10 FIGLA\t**FR42823821\tFK00641070**  \nDBD1 C9 PITX1\t**FR42823941\tFK00641070**  \nDBD1 H4 FOXD2\t**FR42823806\tFK00641070**\t\n\nFL Q2 E2 TFAP2A  \nFL Q2 A11 MYOD1\t  \nFL Q3 F1 ESR1\t**FR42828326\tFK00641115**  \nFL Q2 E4 FOXA1   \nFL Q2 H11 NEUROD1\n\n*ZGA pairs*\n\nZGA1: TPRX1–TPRX2  \nZGA2: TPRX1–TPRXL  \nZGA3: TPRX2–TPRXL  \nZGA4: ARGFX–DPRX  \nZGA5: DUX4–LEUTX  \nZGA6: LEUTX–DPRX  \nZGA7: DUX4–DUX4C  \nZGA8: DUX4–ZNF675 — potential retroelement activation-versus-repression experiment  \nZGA9: OBOX3–OBOX5  \nZGA10: OBOX3–OBOX4  \nZGA11: OBOX4–OBOX5  \nZGA12: dmZELDA–dmGAGA  \nZGA13: ceSKN1–cePAL1  \nZGA14: xlSOX3–xlVEGT\n\n*HT-SELEX Buffers*\n\n**10X Promega Buffer (for 1.55X SELEX buffer) \\[HT-SELEX\\]**\n\n| Reagents | Final 10x: | 250 mL |\n| :---- | :---- | :---- |\n| **Tris pH 7.5** | **200mM** | **50 mL** |\n| **KCl** | **770 mM** | **14.35 g** |\n| **MgCl2** | **10mM** | **2.5 mL** |\n| **Glycerol** | **40%** | **100 mL** |\n| **MQ water** | **\\-** |  |\n\n**10X Promega Buffer (for 1X SELEX buffer) \\[HT-SELEX\\]**\n\n| Reagents | Final 10x: | 250 mL |\n| :---- | :---- | :---- |\n| **Tris pH 7.5** | **200mM** | **50 mL** |\n| **KCl** | **750 mM** | **13.98 g** |\n| **MgCl2** | **10mM** | **2.5 mL** |\n| **Glycerol** | **40%** | **100 mL** |\n| **MQ water** | **\\-** |  |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 2,
+ "id": "2026-08-07",
+ "tags": {
+  "techniques": [
+   "SELEX"
+  ],
+  "reagents": [
+   "Tris",
+   "KCl",
+   "MgCl2",
+   "Glycerol"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Proteins still missing"
+}

@@ -1,0 +1,44 @@
+{
+ "date": "2025-06-02",
+ "heading": "**2 June 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "**Hia5 treatment repeat**\n\nPrepare Hia5 buffer and resuspend DNA ligand in the same.\n\nIn parallel, resuspend the same amount of DNA in the SELEX buffer. Add spermidine and SAM in the required concentration and then follow up with Hia5 treatment. Purify the treated DNA and treat with DpnI.\n\nRun the two DNA samples along with untreated DNA on a 3% agarose gel.\n\n“*We tested the methyltransferase activity of psfHia5 with the in vitro assay using PCR-amplified*\n\n*DNA fragment containing several DpnI sites. As shown in Fig.1a, after methylated by Hia5,*  \n*the fragments should be digested into several pieces (mainly 502 and 532 bp) by DpnI. Certain*  \n*amount of psfHia5 was put into a 20 μL reaction containing 500 ng DNA, 0.8 mM SAM (Sadenosylmethionine)*  \n*and buffer A (15 mM Tris, 1mM EDTA, 0.5 mM EGTA, 15 mM NaCl,*  \n*60 mM KCl, 0.5 mM Spermidine, pH 8.0), and incubated at 37ÅãC for 1 h and 80ÅãC for 10 min*  \n*on a thermal cycler, then add 1 μL DpnI and 2 μL rCutSmart 10x buffer, incubate again at*  \n*37ÅãC for 1 h and 80ÅãC for 10 min. Sometimes we set a reaction of 50 μL and purified the DNA*  \n*before DpnI digestion, and the results were the same. We used to detect the fragments on 1.5%*  \n*agarose gel, but it needs at least 1 μg DNA to be loaded to show clear bands. So we now load*  \n*samples on fragment analyzer which can detect as low as 0.3 ng/μL input DNA. 2 μL of the*  \n*reaction solution was loaded. As show from the gel image and peak images, 1 μL psfHia5 can*  \n*completely methylate all the adenine in 500 ng DNA fragments (containing about 50% AT)*  \n*even after diluted 16 folds, suggesting an activity of at least 8 U/μL.*  \n”\n\nComments:\n\n- Dilute 2 uL Hia5 to 15 uL with water\n\nHia5 buffer:\n\n1 mL\n\n| 1 M Tris pH 8 | 15 uL |\n| :---- | :---- |\n| EDTA (0.5 M) | 2 uL |\n| EGTA (0.5 M) | 1 uL |\n| NaCl (100 mM) | 150 uL |\n| KCl (100 mM) | 600 uL |\n| Spermidine (100X) | (1X) 10 uL |\n\nPrepare stocks of 100 mM for KCl, NaCl\n\nKCl \\- 0.37 g in 50 mL water\n\nNaCl \\- 0.29 g in 50 mL water\n\nFor spermidine also prepare a 20X stock \\= 20 uL \\+ 80 uL NF H2O\n\nBuffer composition at point of Hia5 addition in SELEX:\n\n4 uL protein \\+ 6 uL 1.55X SELEX buffer \\+ 5 uL DNA\n\nTherefore for this buffer mix combine 4 uL TF-dilution buffer, 6 uL 1.55X SELEX buffer and 5 uL NF-water.\n\nResuspend 1 ug DNA in this buffer.\n\nDilute psf-Hia5 (1 uL in total of 15 uL with water) **\\[dil psf-Hia5 \\- dpH\\]**\n\n*Titration of Hia5 for the SELEX+FIBER-Seq (500 ng DNA per trial)*\n\n11. Hia5 ligand \\+ SELEX buffer \\+ 1 uL dpH \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine  \n12. Hia5 ligand \\+ SELEX buffer \\+ 2 uL dpH \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine  \n13. Hia5 ligand \\+ SELEX buffer \\+ 3 uL dpH \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine  \n14. Hia5 ligand \\+ SELEX buffer \\+ 4 uL dpH \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine  \n15. Hia5 ligand \\+ SELEX buffer \\+ 5 uL dpH \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine  \n16. Hia5 ligand \\+ Hia5 buffer \\+ 1 uL dpH \\+ 0.5 uL SAM  \n17. Hia5 ligand \\+ Hia5 buffer \\+ 2 uL dpH \\+ 0.5 uL SAM  \n18. Hia5 ligand \\+ Hia5 buffer \\+ 3 uL dpH \\+ 0.5 uL SAM  \n19. Hia5 ligand \\+ Hia5 buffer \\+ 4 uL dpH \\+ 0.5 uL SAM  \n20. Hia5 ligand \\+ Hia5 buffer \\+ 5 uL dpH \\+ 0.5 uL SAM\n\n**Ligation trial repeat for ligands**\n\nTo test for large-scale amplification of dsDNA ligands, set up the following reaction:\n\nTake 1 uL of the original oligos and dilute to 10 uL\n\n10X\n\n| NCAP\\_F (10 uM) | 15 uL |\n| :---- | :---- |\n| NCAP\\_R (10 uM) | 15 uL |\n| 2X KAPA HiFi | 250 uL |\n| diluted lig147 | 10 uL |\n| NF H2O | 210 uL |\n\nlig147\\_T1\n\nPCR4, SELEX\\_AMP\n\n| 95°C | 3 min |\n| :---- | :---- |\n| 98°C | 20 s |\n| 55°C | 15 s       **14X** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\nPool the products and columns, purify and measure the concentration. Also, check the purity of the product on a high percentage agarose gel.\n\n**T4 PNK treatment of purified new lig147**\n\n1\\. Set-up the following reaction in a microcentrifuge tube on ice:\n\n| DNA | up to 300 pmol of 5´ termini (Up to 14 ug of DNA) |\n| :---- | :---- |\n| T4 PNK Reaction Buffer (10X) | 5 µl |\n| ATP (10 mM) | 5 µl |\n| [T4 PNK](https://www.neb.com/en-gb/products/m0201-t4-polynucleotide-kinase) | 1 µl (10 units) |\n| Nuclease-free Water | up to 50 µl |\n\n2\\. Incubate at 37°C for 20 minutes.\n\n3\\. Heat inactivate by incubating at 75°C for 10 minutes.\n\nNotes:\n\n* ATP is not supplied\n\n1X T4 DNA Ligase Buffer contains 1 mM ATP and can be substituted in non-radioactive phosphorylations (T4 Polynucleotide Kinase exhibits 100% activity in this buffer). \n",
+ "experiments": [],
+ "images": [],
+ "tables": 4,
+ "id": "2025-06-02",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Hia5",
+   "Gel electrophoresis",
+   "Ligation",
+   "Column purification",
+   "Restriction digest",
+   "Fragmentation"
+  ],
+  "reagents": [
+   "SAM",
+   "Spermidine",
+   "Hia5",
+   "EDTA",
+   "Tris",
+   "NaCl",
+   "KCl",
+   "T4 ligase"
+  ],
+  "samples": [
+   "lig147",
+   "NCAP_F",
+   "NCAP_R",
+   "SELEX_AMP"
+  ],
+  "custom": []
+ },
+ "title": "Hia5 treatment repeat"
+}

@@ -1,0 +1,23 @@
+{
+ "date": "2025-09-01",
+ "heading": "**1st September 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Passage and seed 150K HAP1 cells per well for transduction**  \n2. **Passage and seed the MYCT1, MYCT2 GP5del cells and Ad-CRE treated MYCT1, MYCT2 cells**  \n3. **Image the seeded and settled MYCT1, MYCT2 and Ad-CRE treated cells**  \n4. **Transform GCCAT10ShhBCv2 and Nh100ShhBCv2 assembly reactions**  \n   \n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2025-09-01",
+ "tags": {
+  "techniques": [
+   "Cell culture"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "1. Passage and seed 150K HAP1 cells per well for transduction  "
+}

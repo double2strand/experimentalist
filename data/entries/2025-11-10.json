@@ -1,0 +1,35 @@
+{
+ "date": "2025-11-10",
+ "heading": "**10 November 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "***SELEX checklist***\n\n| Requirement | Status |\n| :---: | :---: |\n| lig147 plate (1x) | To be aliquoted  |\n| ligN40w107 plate (1x) | To be aliquoted  |\n| PCR Mix Plate (non-PE PCR) (16 plates) \\+ DilutionPCR plates (16 plates) | To be aliquoted  |\n| qPCR Mix Plate (12x) | To be aliquoted  |\n| Forward Primer Plate 5 uM (PE PCR)  | **Prepared** |\n| Reverse Primer Plate 5 uM (PE PCR) | **PE0-PE3 prepared\\*** |\n| Dilution Buffer Plate (for reconstitution) (10X) | **Prepared** |\n| Biotin Elution Buffer Plate | To be aliquoted |\n| SBP Beads Plate | To be prepared |\n| Ni Beads Plate | To be prepared |\n| Diluted TF Plate | Prepared 2 days prior to assay |\n| Buffers | **Prepared** |\n| Dried Salt Plates (10X) | **Prepared** |\n| SBP Histone Octamer Plate | To be aliquoted |\n| Beckman Programs | Programs Added Pipetting template to be tested |\n\n***lig147 plate:***\n\nVolume per well \\= 20 uL  \nConcentration required \\= 25 ng/uL  \nWells \\= 400\n\nTotal DNA (ug) \\= 200 ug  \nTotal Volume \\= 8 mL\n\nTake 4878 uL of lig147 PCR2 product \\+ 3122 uL TE buffer\n\nSplit into a single NUNC plate with 20 uL per well.\n\n***ligN40w107 plate:***\n\nVolume per well \\= 20 uL  \nConcentration required \\= 25 ng/uL  \nWells \\= 400\n\nTotal DNA (ug) \\= 200 ug  \nTotal Volume \\= 8 mL\n\n⇒ The samples for ligN40w107 are first being pooled and concentrated to obtain sufficient amounts of DNA for aliquoting.\n\n***SBP Histone Octamer Plate:***\n\nOctamer concentration \\= 7.25 ug/uL \\= 7250 ng/uL\n\nPrepare 35 ng/uL octamer with 20 uL per well ⇒ 12 X 400 X 35 \\= 168 ug SBP-octamer\n\nTake 23.2 uL of original octamer and make up solution to 4800 uL (add 4776.8 uL of refolding buffer:glycerol (1:1))\n\nAdd 666 uL per well of a 96-well storage plate. From here use the Beckman robot to first add 83 uL per well of same 96-well plate & then finally aliquot this to 20 uL per well in a single 4ti384-well plate.\n\n***Protein Plates:***\n\nTake proteins from DBD QD1, QD2, QD3 ⇒ **288 proteins**\n\nCommercial proteins ⇒  MAX, MYC:MAX, New TETR, P53, YY1 ⇒ **4 proteins**\n\nBaker lab proteins ⇒ **8 proteins**\n\nELF proteins ⇒ ELF2m2, ELF2m3, ELF2m23, ELF2mALL ⇒ **4 proteins**\n\nRemaining 78 proteins to be taken from FL Q3, Q4 (large-scale expression). Leave two wells empty as control (fill these with just TF dilution buffer).\n\nFor all proteins in plates as well as Baker lab proteins and ELF proteins & MAX ⇒ Take 15 uL proteins \\+ 45 uL TF dilution buffer \\[**For 5 rounds of NCAP-SELEX, HT-SELEX i.e. one ligand lig147**\\]\n\nDBD QD1 ⇒ Quadrant 1 of TF plate  \nDBD QD2 ⇒ Quadrant 2 of TF plate  \nDBD QD3 ⇒ Quadrant 3 of TF plate  \nBaker lab prot, Commercial, ELF, FL Q3/Q4 ⇒ Quadrant 4 of TF plate\n\nFor all commercial proteins, I need to take 1.5 ug of protein in a well and then make up volume to 60 uL so that there is no dead volume.\n\nMAX 30  \nc\\~MYC:MAX 7.5  \nCTCF 15  \nTETR 3.5  \nYY1 25  \nELFM2  \nELF2m3  \nELF2m23  \nELF2mALL  \nDLX2  \nQ3 FL A1-B2\n\n***Dilution Buffer Plate:***\n\n80 uL of buffer to be added per plate \\= Total about 320 mL of buffer needed \n\n***SBP Beads Plate:***\n\n2.5 mL of original beads → remove storage buffer and then resuspend the beads in 55 mL of salt-free blocking buffer. Incubate on rotator for 30 minutes.\n\n*Testing*  \nTake 10.1 uL original beads and separate the storage buffer and resuspend in 458.3 uL of salt-free blocking buffer. Test splitting of these beads into 16 wells of a 384-well plate to test if the beads are split evenly.\n\nUsing this testing paradigm the SBPBeadsTest program worked with 104 uL of beads per well and then aliquot with slow pipetting 25 uL per quadrant of a 384-well plate\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2025-11-10",
+ "tags": {
+  "techniques": [
+   "qPCR",
+   "PCR",
+   "SELEX",
+   "Reconstitution",
+   "Bead purification",
+   "Protein purification"
+  ],
+  "reagents": [
+   "Histone octamer",
+   "TE buffer",
+   "Glycerol"
+  ],
+  "samples": [
+   "lig147",
+   "ligN40w107"
+  ],
+  "custom": []
+ },
+ "title": "SELEX checklist"
+}

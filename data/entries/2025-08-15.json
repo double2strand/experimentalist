@@ -1,0 +1,26 @@
+{
+ "date": "2025-08-15",
+ "heading": "**15 August 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Set up nucleosome recon for lig147 with dialysis setup**  \n2. **Plasmid extraction for HclaAT10ShhBCv1 and GCDAT10ShhBCv1**  \n3. **Fix nucleosome recon protocol for Beckman robot**  \n4. **Change media for HAP1 transduced cells**  \n5. **Record images for Day3 HAP1 transduced cells**  \n6. **Design GenScript new protein vectors**\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2025-08-15",
+ "tags": {
+  "techniques": [
+   "Reconstitution",
+   "Dialysis"
+  ],
+  "reagents": [],
+  "samples": [
+   "lig147"
+  ],
+  "custom": []
+ },
+ "title": "1. Set up nucleosome recon for lig147 with dialysis setup  "
+}

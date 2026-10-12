@@ -1,0 +1,56 @@
+{
+ "date": "2025-07-29",
+ "heading": "**29 July 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "**AT10 & Nh100 libraries**\n\nGcla\\_A1+A2 \\= 94.5 nM  \nHcla\\_B1+B2 \\= 330 nM  \nGCD\\_C1+C2 \\= 428 nM  \nHCD\\_D1+D2 \\= 380 nM  \nGCC\\_E1+E2 \\= 170 nM  \nHCC\\_F1+F2 \\= 98.5 nM  \nNh100\\_G1+G2 \\= 494 nM\n\nExpected size for AT10 libraries is 444-445 bp and most of these samples show values along the expected lines.\n\nFor the Nh100 samples the expected size is \\~293 bp so the size of 295 seen on the TapeStation is also correct.  \nTo make a pool with each library at 10 nM, add the following amounts \\[Total volume 100 uL\\]:\n\nGcla\\_A1+A2 \\= 10.6 uL  \nHcla\\_B1+B2 \\= 3.1 uL  \nGCD\\_C1+C2 \\= 2.4 uL  \nHCD\\_D1+D2 \\= 2.7 uL  \nGCC\\_E1+E2 \\= 6 uL  \nHCC\\_F1+F2 \\= 10.2 uL  \nNh100\\_G1+G2 \\= 2.1 uL\n\nAdd 62.9 uL TE buffer to make up volume to 100 uL.\n\nThe mix was diluted 1:100 and 2 uL of this was run on a D1000 TapeStation:\n\n![](assets/img/doc2-image68.png)![](assets/img/doc2-image69.png)  \n![](assets/img/doc2-image70.png)\n\nGP5d\\_del\\_MYCT1+PB  \n![](assets/img/doc2-image71.png)![](assets/img/doc2-image72.png)\n\nGP5d\\_del\\_MYCT2+PB  \n![](assets/img/doc2-image73.png)![](assets/img/doc2-image74.png)\n\nGP5d\\_del\\_MYCT1+PB2  \n![](assets/img/doc2-image75.png)![](assets/img/doc2-image76.png)\n\nGP5d\\_del\\_MYCT2+PB2  \n![](assets/img/doc2-image77.png)![](assets/img/doc2-image78.png)\n\nHepG2del\\_GclaT1\\_sorted (-)  \n![](assets/img/doc2-image79.png)![](assets/img/doc2-image80.png)\n\nHepG2del\\_GclaT1\\_sorted (+)  \n![](assets/img/doc2-image81.png)![](assets/img/doc2-image82.png)\n\nHepG2del\\_GclaT2\\_sorted (-)  \n![](assets/img/doc2-image83.png)![](assets/img/doc2-image84.png)\n\nHepG2del\\_GclaT2\\_sorted (+)  \n![](assets/img/doc2-image85.png)![](assets/img/doc2-image86.png)\n\nHepG2del\\_HclaT1\\_sorted (-)  \n![](assets/img/doc2-image87.png)![](assets/img/doc2-image88.png)\n\nHepG2del\\_HclaT1\\_sorted (+)  \n![](assets/img/doc2-image89.png)![](assets/img/doc2-image90.png)\n\nHepG2del\\_HclaT2\\_sorted (-)  \n![](assets/img/doc2-image91.png)![](assets/img/doc2-image92.png)\n\nHepG2del\\_HclaT2\\_sorted (+)  \n![](assets/img/doc2-image93.png)![](assets/img/doc2-image94.png)\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc2-image68.png",
+  "assets/img/doc2-image69.png",
+  "assets/img/doc2-image70.png",
+  "assets/img/doc2-image71.png",
+  "assets/img/doc2-image72.png",
+  "assets/img/doc2-image73.png",
+  "assets/img/doc2-image74.png",
+  "assets/img/doc2-image75.png",
+  "assets/img/doc2-image76.png",
+  "assets/img/doc2-image77.png",
+  "assets/img/doc2-image78.png",
+  "assets/img/doc2-image79.png",
+  "assets/img/doc2-image80.png",
+  "assets/img/doc2-image81.png",
+  "assets/img/doc2-image82.png",
+  "assets/img/doc2-image83.png",
+  "assets/img/doc2-image84.png",
+  "assets/img/doc2-image85.png",
+  "assets/img/doc2-image86.png",
+  "assets/img/doc2-image87.png",
+  "assets/img/doc2-image88.png",
+  "assets/img/doc2-image89.png",
+  "assets/img/doc2-image90.png",
+  "assets/img/doc2-image91.png",
+  "assets/img/doc2-image92.png",
+  "assets/img/doc2-image93.png",
+  "assets/img/doc2-image94.png"
+ ],
+ "tables": 0,
+ "id": "2025-07-29",
+ "tags": {
+  "techniques": [
+   "Library prep"
+  ],
+  "reagents": [
+   "TE buffer"
+  ],
+  "samples": [
+   "B2",
+   "D2"
+  ],
+  "custom": []
+ },
+ "title": "AT10 & Nh100 libraries"
+}

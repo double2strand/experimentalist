@@ -1,0 +1,36 @@
+{
+ "date": "2026-04-30",
+ "heading": "**30 April 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "lig50k:\n\nDNA → 12.4 nM (10 ug) in 25 uL \\[20 uL\\]\n\n(1:250 ratio) Octamer → 3.1 uM → 8.4 ug (1.6 uL) (1.6 \\+ 3.4 uL) \\[*1.32 M salt*\\]\n\nDNA \\+ Octamer ⇒ 1.86 M salt\n\nligYJ (\\~15 kb):\n\nDNA → 2.05 nM (500 ng) \\[20 uL\\]\n\n(1:75 ratio) Octamer → 158 nM → 430 ng (Make 100 ng/uL stock in refolding buffer → 0.8 uL of 540 ng/uL working stock \\+ 4.2 uL refolding buffer:glycerol) \\[1.16 M\\]\n\nDNA \\+ Octamer ⇒ 1.83 M\n\n*Manual curation of 2X Phusion Master Mix*\n\n0.04 U/uL polymerase\n\n2X Phusion HF Buffer\n\n3 mM MgCl2\n\n1.6 mM dNTPs\n\nI need enough of this mix for about 4 X 100 PCR reactions (25 uL per reaction)\n\n12.5 X 400 \\= 5000 uL\n\n| 200 U Phusion Polymerase | 100 uL |\n| :---- | :---- |\n| 50 mM MgCl2 | 300 uL |\n| 5 X Phusion HF Buffer | 2000 uL |\n| 10 mM dNTPs | 800 uL |\n\n*lig147 PCR 2*\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **Final diluted DNA** | **250** |\n| **Phusion Master Mix** | **2500** |\n| **NCAP\\_F (10 µM)** | **250** |\n| **NCAP\\_R (10 uM)** | **250** |\n| **Water** | **1750**  |\n| **Total** | **5000** |\n\n25 uL per well in two 96-well plates.\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **3X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\n*lig200 PCR 2*\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **Final diluted DNA** | **400** |\n| **Phusion Master Mix** | **2500** |\n| **NCAP\\_F (10 µM)** | **250** |\n| **NCAP\\_R (10 uM)** | **250** |\n| **Water** | **1600**  |\n| **Total** | **5000** |\n\n25 uL per well in two 96-well plates.\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **3X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 5,
+ "id": "2026-04-30",
+ "tags": {
+  "techniques": [
+   "PCR"
+  ],
+  "reagents": [
+   "Phusion",
+   "MgCl2",
+   "Histone octamer",
+   "dNTPs",
+   "Glycerol"
+  ],
+  "samples": [
+   "NCAP_F",
+   "NCAP_R",
+   "lig50k",
+   "ligYJ",
+   "lig147",
+   "lig200"
+  ],
+  "custom": []
+ },
+ "title": "lig50k:"
+}

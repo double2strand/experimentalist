@@ -1,0 +1,64 @@
+{
+ "date": "2025-10-29",
+ "heading": "**29 October 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "### 1. Checklist for NCAP-SELEX\n\n| Requirement | Status |\n| :---: | :---: |\n| lig147 plate (2x) | **Prepared** |\n| ligN40w107 plate (2x) | In Preparation |\n| PCR Mix Plate (non-PE PCR) (18x) | To be prepared  |\n| qPCR Mix Plate (18x) | To be prepared |\n| Forward Primer Plate 5 uM (PE PCR)  | **Prepared** |\n| Reverse Primer Plate 5 uM (PE PCR) | **PE0-PE3 prepared\\*** |\n| Dilution Buffer Plate (for reconstitution) | Buffer Prepared |\n| Biotin Elution Buffer Plate | To be prepared |\n| SBP Beads Plate | To be prepared |\n| Ni Beads Plate | To be prepared |\n| Diluted TF Plate | Prepared 2 days prior to assay |\n| Buffers | In Preparation |\n| Dried Salt Plates | **Prepared** |\n| SBP Histone Octamer Plate | Prepared just prior to assay for octamer stability |\n| Beckman Programs | Programs Added Pipetting template to be tested |\n\n***\\* More stock plates for barcode Fangjie PE\\_R primers need to be ordered for subsequent assays. Current working stock plates should be sufficient for 3-4 rounds of work.***\n\n**NCAP-SELEX \\+ FIBER-Seq**\n\nI have designed a plate of Reverse primers that can be used to add a single barcode to Cycle3 DNA by PCR ⇒ Reconstitute \\+ TF incubation ⇒ Foot-printing ⇒ Ligation   \n**Timeline**\n\n1. **First run of NCAP-SELEX \\+ HT-SELEX control can be set up in 1 week ⇒ AVITI sequencing. I will need barcode primers for the long read foot-printing. This can be performed once the Reverse primer (barcode) plate is here.**  \n2. **I want to include the DBRFD3 protein from the Baker group in this work (but this can be a separate run). Currently waiting for the Genscript construct for the same. \\[Reason: Baker lab is submitting the manuscript for this protein and RFD model by the end of this year → it would be good to provide them results by this time\\]**\n\n**Summary:**\n\n1. **One NCAP-SELEX run (+HT SELEX) initiated next week (lig147, ligN40w107)**  \n2. **Second NCAP-SELEX (+HT SELEX) initiated in 2nd week of November (with Baker lab proteins)**\n\n**SELEX Meeting updates:**\n\n**Q, Can Ellie run the SELEX on a regular basis currently?**\n\n*Ellie was supposed to be working on the SELEX. Protein storage structuring may not be as essential at this moment.*\n\nNeed to report any issues ASAP to Jussi so that issues can be fixed in terms of continuity.\n\nInform Beckman about incubation adapters \\- plates are not fixed properly on the incubation pads & plates can move around on the adapters as they are not a tight fit. \\[Can we push harder with the gripper?\\] → Talk to Joanna Wells from Beckman \\[Ilya Sokolov\\]\n\n(From Ilya’s experiment  ⇒ 32 cycles for Cycle1 HT-SELEX samples \\+ 10X dilution & 2-cycle PCR)\n\nLoad tips onto Cytomat and move to Tip Loading bay and then more deck positions are free for Plates etc.\n\nTest picking only one of the rows of tips for Beckman.\n\n### 2. *Hia5* treatment of nucleosome samples:\n\nSet up reactions for the following samples (test run):\n\nD4\n\n* 10 uL sample \\+ Nuc buffer C (8 uL) \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine \\+ 0.75 uL Hia5 (4 reaction)\n\nD5\\*\n\n* 10 uL sample \\+ Nuc buffer C (8 uL) \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine \\+ 0.5 uL Hia5 (4 reaction)\n\nD6\n\n* 10 uL sample \\+ Nuc buffer C (8 uL) \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine \\+ 0.5 uL Hia5 (4 reaction)\n\nEach 10 uL of the sample should approximately contain b/w 200-300 ng of DNA.\n\n*\\*Samples D5-1 & D5-2 were combined*\n\nAfter Hia5 treatment, add 0.5 uL 10% SDS & 0.5 uL Proteinase K (20 mg/mL) in 20 uL reactions and incubate 50 degrees, 15 mins.\n\nPerform clean-up with Ampure XP beads:\n\n- Add 1.5X volume of AmpureXP beads and mix thoroughly. Incubate at RT for 15 mins.  \n- Place tubes on magnetic rack and allow liquid to separate from beads for 5 mins.  \n- Perform two washes with 80% ethanol (200-300 uL each)  \n- Allow the beads to dry for \\~30s and then add fresh TE buffer in desired volume for elution. Mix thoroughly and incubate at RT for 5 mins.  \n- Place tubes on magnetic rack and allow liquid to separate from beads for 5 mins. Collect separated supernatant as purified DNA sample.\n\nThe eluted DNA is combined with the previous D4, D5 and D6 test samples from yesterday and then the total quantification is performed.\n\nD4-E: \n\nD5-E:\n\nD6-E:\n\n### 3. Buffer preparation for SELEX\n\n**sol1 Salt solution: 2M KCl\\_1.491g KCl \\+ 10mL TE \\+ cocktail Tablet \\+ 1mM TCEP**\n\n50 mL\n\n| KCl | 7.46 g |\n| :---- | :---- |\n| 100 mM TCEP | 0.5 mL |\n| TE Buffer (100X) | 0.5 mL |\n| EDTA-free protease inhibitor | 1 tablet |\n\nMix the buffer and filter and store.\n\nNOTE: Too many tablets of the PI cocktail have been added here. Only 1 tablet needed. Re-prepare this and filter and store. Discard previous solution.\n\n**Elu buff:  0.1% Tween, 10 mM Tris pH7.8, 1 mM MgCl2 (0.5mM in PCR rxn) \\[Elution Buffer for DNA from Ni beads \\+ with heating\\]**\n\n500 mL\n\n| Tween20 | 0.5 mL |\n| :---- | :---- |\n| Tris-HCl pH 8 | 5 mL |\n| 1 M MgCl2 | 0.5 mL |\n\n**10X Promega Buffer (for 1.55X SELEX buffer) \\[HT-SELEX\\]**\n\n| Reagents | Final 10x: | 250 mL |\n| :---- | :---- | :---- |\n| **Tris pH 7.5** | **200mM** | **50 mL** |\n| **KCl** | **770 mM** | **14.35 g** |\n| **MgCl2** | **10mM** | **2.5 mL** |\n| **Glycerol** | **40%** | **100 mL** |\n| **MQ water** | **\\-** |  |\n\n**10X Promega Buffer (for 1X SELEX buffer) \\[HT-SELEX\\]**\n\n| Reagents | Final 10x: | 250 mL |\n| :---- | :---- | :---- |\n| **Tris pH 7.5** | **200mM** | **50 mL** |\n| **KCl** | **750 mM** | **13.98 g** |\n| **MgCl2** | **10mM** | **2.5 mL** |\n| **Glycerol** | **40%** | **100 mL** |\n| **MQ water** | **\\-** |  |\n\n### 4. ligN40w107 PCR optimisation\n\nConcentration of this annealed ligN20w107 \\= 75 ng/uL \\[60 uL\\]\n\nDilute this DNA 15-fold ⇒ Make up the volume to 900 uL ⇒ Conc \\= 5 ng/uL\n\nPrepare a 100X reaction mix:\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **ligN40w107 Ann** | **100** |\n| **Phusion Master Mix** | **1250** |\n| **NCAP\\_F (10 µM)** | **125** |\n| **NCAP\\_R (10 uM)** | **125** |\n| **Water** | **900**  |\n| **Total** | **2500** |\n\nSplit mix into 25 uL per well for two 96-well PCR plates.\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **8X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\nPool the PCR product and run 20 uL of sample on a 1% agarose gel. Measure concentration of the PCR1 product.\n",
+ "experiments": [
+  "1. Checklist for NCAP-SELEX",
+  "2. *Hia5* treatment of nucleosome samples:",
+  "3. Buffer preparation for SELEX",
+  "4. ligN40w107 PCR optimisation"
+ ],
+ "images": [],
+ "tables": 7,
+ "id": "2025-10-29",
+ "tags": {
+  "techniques": [
+   "qPCR",
+   "PCR",
+   "SELEX",
+   "Hia5",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Ligation",
+   "Bead purification",
+   "Protein purification",
+   "Proteinase K",
+   "Seminar/notes"
+  ],
+  "reagents": [
+   "Phusion",
+   "Proteinase K",
+   "SAM",
+   "Spermidine",
+   "AMPure",
+   "Hia5",
+   "SDS",
+   "EDTA",
+   "Tris",
+   "KCl",
+   "MgCl2",
+   "Histone octamer",
+   "TE buffer",
+   "Ethanol",
+   "Glycerol",
+   "Nuc buffer"
+  ],
+  "samples": [
+   "ligN40w107",
+   "lig147",
+   "ligN20w107",
+   "D4",
+   "D5",
+   "D6",
+   "NCAP_F",
+   "NCAP_R"
+  ],
+  "custom": []
+ },
+ "title": "Checklist for NCAP-SELEX; *Hia5* treatment of nucleosome samples:; Buffer preparation for SELEX"
+}

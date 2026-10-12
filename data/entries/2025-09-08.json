@@ -1,0 +1,39 @@
+{
+ "date": "2025-09-08",
+ "heading": "**8 September 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Test previous lig147 ligation product on gel**  \n2. **Perform new ligation reaction for lig147 and test on gel**  \n3. **Perform PCR for AT10-HCC & repeat HCC-pHRS-HCCgb assembly**  \n4. **Finish design of new pETG20A constructs**  \n5. **Passage & change media for GP5d, HAP1 cells in culture**  \n6. **Seed new HAP1, GP5d cells for mCherry, GFP control lines preparation**  \n   \n\n### 2. Perform new ligation reaction for lig147 and test on gel\n\nFirst perform T4 PNK treatment for two lig147 (lig147-MASTER & lig147-ROOT)\n\n**2X each**\n\n| DNA | up to 300 pmol of 5´ termini (Use 2 ug of DNA per reaction) |\n| :---- | :---- |\n| T4 PNK Reaction Buffer (10X) | 5 µl |\n| ATP (10 mM) | 5 µl |\n| [T4 PNK](https://www.neb.com/en-gb/products/m0201-t4-polynucleotide-kinase) | 1 µl (10 units) |\n| Nuclease-free Water | up to 50 µl |\n\n2\\. Incubate at 37°C for 20 minutes.  \n3\\. Heat inactivate by incubating at 75°C for 10 minutes.\n\nNotes:\n\n* ATP is not supplied  \n* 1X T4 DNA Ligase Buffer contains 1 mM ATP and can be substituted in non-radioactive phosphorylations (T4 Polynucleotide Kinase exhibits 100% activity in this buffer).\n\nPurify this DNA and then set up treatment with Blunt TA ligase.\n\n2X (1 set each for lig147-MASTER-PNK & lig147-ROOT-PNK)\n\n| DNA (PNK-treated) | 500 ng |\n| :---: | :---: |\n| Blunt TA ligase mix | 10 uL |\n| NF H2O | Make up volume to 20 uL |\n\nIncubate all tubes at 25 degrees O/N. The last ligation trial was performed for around 16 hours O/N.\n\nAlso prepare more lig147 as a source for the next experiments:\n\nTake 1 uL of the original oligos\\* and dilute to 10 uL\n\n\\*Do this with both lig147-MASTER and lig147-ROOT\n\n10X\n\n| NCAP\\_F (10 uM) | 15 uL |\n| :---- | :---- |\n| NCAP\\_R (10 uM) | 15 uL |\n| 2X KAPA HiFi | 250 uL |\n| diluted lig147 | 10 uL |\n| NF H2O | 210 uL |\n\nPCR4, SELEX\\_AMP\n\n| 95°C | 3 min |\n| :---- | :---- |\n| 98°C | 20 s |\n| 55°C | 15 s       **8X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\n\\*Reduced number of cycles to reduce noise in the product.\n\nPool the products and columns, purify and measure the concentration. Also, check the purity of the product on a high percentage agarose gel.\n\n### 3. Perform PCR for AT10-HCC & repeat HCC-pHRS-HCCgb assembly\n\n**Amplification for AT10-HCC oligo pool:**\n\nDilute 1 uL of the original AT10 pool into 10 uL with TE buffer. Use 1 uL of this per reaction.\n\n10X\n\n| 2X KAPA HiFi | 12.5 uL |\n| :---- | :---- |\n| Nhancer142\\_F (10 uM) | 0.75 uL |\n| HCC\\_R\\* (10 uM) | 0.75 uL |\n| AT10 | 1 uL |\n| NF H2O | 10 uL |\n\n\\*enhancer\\_R 🡪 GP5d\\_classical\\_R (for trial)\n\nOLIGOAMP\n\n| 95°C | 3 min |\n| :---- | :---- |\n| 98°C | 20 s |\n| 55°C | 15 s       10X |\n| 72°C | 15 s |\n| 72°C | 1 min |\n| 4°C | HOLD |\n\nPool the products and PCR column purify. Test the product on a gel.\n\nFor assembly use the following reaction:\n\npHRS-HCC (5X)\n\nPer reaction:\n\n| pHRS-HCC (M) | 50 ng |\n| :---- | :---- |\n| HCCAT10-PCR | 10 ng |\n| 2X NEB HiFi Assembly Mix | 10 uL |\n| NF H2O | Make up volume to 20 uL |\n\n   \nIncubate at 50 degrees, 1 hour. Transform the product into 5 tubes of NEB competent cells (2 uL of assembly pool per tube). Then, plate the product onto an LB-AMP plate. Pool rest of the culture and then store for further expansion.\n\nWhen the initial product for AT10-HCC PCR is run on a gel, it seems like there is no product of the expected size. In order to fix this, let us proceed with a 2-step dilution PCR.\n\nAT10-HCC PCR:\n\n10X\n\n| 2X KAPA HiFi | 12.5 uL |\n| :---- | :---- |\n| Nhancer142\\_F (10 uM) | 0.75 uL |\n| HCC\\_R\\* (10 uM) | 0.75 uL |\n| AT10 | 1 uL |\n| NF H2O | 10 uL |\n\nOLIGOAMP\n\n| 95°C | 3 min |\n| :---- | :---- |\n| 98°C | 20 s |\n| 60°C | 15 s       10X |\n| 72°C | 15 s |\n| 72°C | 1 min |\n| 4°C | HOLD |\n\nRun 10 uL of this PCR product on a gel to check the product. One confirmed, dilute the PCR product 10-fold and run a 2nd PCR.\n\n8X\n\n| 2X KAPA HiFi | 12.5 uL |\n| :---- | :---- |\n| Nhancer142\\_F (10 uM) | 0.75 uL |\n| HCC\\_R\\* (10 uM) | 0.75 uL |\n| AT10-PCR1 | 2.5 uL |\n| NF H2O | 8.5 uL |\n\nOLIGOAMP\n\n| 95°C | 3 min |\n| :---- | :---- |\n| 98°C | 20 s |\n| 60°C | 15 s       2X |\n| 72°C | 15 s |\n| 72°C | 1 min |\n| 4°C | HOLD |\n\nPool the PCR product and purify with PCR column purification.\n",
+ "experiments": [
+  "2. Perform new ligation reaction for lig147 and test on gel",
+  "3. Perform PCR for AT10-HCC & repeat HCC-pHRS-HCCgb assembly"
+ ],
+ "images": [],
+ "tables": 11,
+ "id": "2025-09-08",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Gel electrophoresis",
+   "Ligation",
+   "Cell culture",
+   "Column purification"
+  ],
+  "reagents": [
+   "T4 ligase",
+   "TE buffer"
+  ],
+  "samples": [
+   "lig147",
+   "NCAP_F",
+   "NCAP_R",
+   "SELEX_AMP"
+  ],
+  "custom": []
+ },
+ "title": "Perform new ligation reaction for lig147 and test on gel; Perform PCR for AT10-HCC & repeat HCC-pHRS-HCCgb assembly"
+}

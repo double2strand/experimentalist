@@ -1,0 +1,25 @@
+{
+ "date": "2026-05-11",
+ "heading": "**11 May 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "**sol1 Salt solution: 2M KCl\\_1.491g KCl \\+ 10mL TE \\+ cocktail Tablet \\+ 1mM TCEP**\n\n50 mL\n\n| KCl | 7.46 g |\n| :---- | :---- |\n| 100 mM TCEP | 0.5 mL |\n| TE Buffer (100X) | 0.5 mL |\n| EDTA-free protease inhibitor | 1 tablet |\n\nMix the buffer and filter and store.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2026-05-11",
+ "tags": {
+  "techniques": [],
+  "reagents": [
+   "EDTA",
+   "KCl",
+   "TE buffer"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "sol1 Salt solution: 2M KCl_1.491g KCl + 10mL TE + cocktail Tablet + 1mM TCEP"
+}

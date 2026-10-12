@@ -1,0 +1,32 @@
+{
+ "date": "2025-08-05",
+ "heading": "**5 August 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "**Nucleosome microplate reconstitution trials**\n\n| A1 | A2 | A3 |  |  |  |  |  |  |  |  |  |\n| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |\n| **B1** | **B2** |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n\nPrepare stock of lig147 \\= 50 ng/uL (8.65 uL in 35 uL TE buffer)  \nPrepare stock of 20kblig \\= 50 ng/uL (20.34 uL in 31 uL TE buffer)\n\nPrepare a working stock of octamer in refolding buffer:glycerol \\= 100 ng/uL (1.85 uL octamer in 100 uL refolding buffer:glycerol). Make a dilution with a concentration at 10 ng/uL and then \n\nPrepare 6 stocks of histone octamer:\n\nA1 \\= 52 ng/uL (2.6 uL in 5 uL refolding buffer:glycerol)  \nA2 \\= 57 ng/uL (2.9 uL in 5 uL refolding buffer:glycerol)  \nA3 \\= 63 ng/uL (3.15 uL in 5 uL refolding buffer:glycerol)\n\nFor B1, which is reconstitution with the 20 kb DNA ligand, the same octamer:DNA ratios are unlikely to work as here we consider the nucleosome repeat lengths (NRL) *in vivo* to derive the actual number of nucleosomes we might reconstitute on long DNA.\n\nOn average a nucleosome occurs once \\~200 bp in the chromatin i.e. \\~5 times across 1 kb of chromatin. When we extrapolate this for the 20 kb DNA, we could expect about 100 nucleosomes across this length.\n\nTherefore, an octamer:DNA molar ratio of 100:1 (or greater) would be ideal for reconstitution of nucleosomes on this DNA. To check whether excess octamer causes aggregation instead of ideal reconstitution use another lesser ratio of 50:1 for an experimental comparison.\n\nBased on this we would need:  \nB1 \\= 130 ng octamer  \nB2 \\= 65 ng octamer\n\nB1 \\= 44 ng/uL (2.2 uL in 5 uL refolding buffer:glycerol)  \nB2 \\= 22 ng/uL (1.1 uL in 5 uL refolding buffer:glycerol)\n\nDilution Steps:\n\n| Add DNA to salt (10 uL) \\+ Add octamer (3 uL) → Incubate 30 mins, RT |\n| :---- |\n| Add 6.5 uL dilution buffer → Incubate 60 mins, RT |\n| Add 9.5 uL dilution buffer → Incubate 60 mins, RT |\n| Add 14.5 uL dilution buffer → Incubate 60 mins, RT |\n| Add 22 uL dilution buffer → Incubate 60 mins, RT |\n| Add 33 uL dilution buffer → Incubate 60 mins, RT |\n| Add X uL dilution buffer → Incubate 60 mins, RT |\n| Move samples to tubes and store at 4 degrees. |\n\n**Transfection of HAP1 and HepG2\\_del for FACS positive controls**\n\nHepG2\\_del\n\nT1: 25 uL OM \\+ 1.5 uL Lipo3000  \nT2: 25 uL OM+ 1 ug pHRS-NEW3 \\+ 2 uL P3000\n\n**Transfection of HAP1 cells with pCMV-GFP**\n\nSeed 150K cells per well of a 6-well plate the day before transfection is to be performed.\n\nChange media to fresh media \\~2 hours prior to transfection.\n\nSet up two tubes of reactions as follows: (this transfection was done on two wells of HAP1 cells i.e. all the values are 2X)\n\nHAP1 WT (2 wells)\n\nT1: 250 uL OM \\+ 15 uL Lipo3000  \nT2: 250 uL OM \\+ 6 ug pCMV-GFP \\+ 20 uL P3000\n\nPer well:\n\nTube 1: 125 uL OptiMEM \\+ 7.5 uL Lipo3000  \nTube 2: 125 uL OptiMEM \\+ 3 ug pCMV-GFP \\+ 10 uL P3000\n\nIncubate both tubes separately at RT, 5 mins.\n\nAdd DNA mix to Tube 1 slowly. Do NOT pipette. Incubate at RT, 15 mins.\n\nAdd entire mix (after mixing gently by pipetting), dropwise to the cells. Incubate O/N.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 2,
+ "id": "2025-08-05",
+ "tags": {
+  "techniques": [
+   "Reconstitution",
+   "Transfection"
+  ],
+  "reagents": [
+   "Histone octamer",
+   "TE buffer",
+   "Glycerol"
+  ],
+  "samples": [
+   "B1",
+   "B2",
+   "lig147"
+  ],
+  "custom": []
+ },
+ "title": "Nucleosome microplate reconstitution trials"
+}

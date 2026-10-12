@@ -1,0 +1,36 @@
+{
+ "date": "2025-07-28",
+ "heading": "**28 July 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "**PE PCR for AT10, Nh100 libraries**\n\nAdd 20 uL nuclease-free water to two wells of the barcode plates:\n\nGcla \\- A1, A2  \nHcla \\- B1, B2  \nGCD \\- C1, C2  \nHCD \\- D1, D2  \nGCC \\- E1, E2  \nHCC \\- F1, F2  \nNh100 \\- G1, G2\n\nUse the complete 19 uL here to set up an individual 50 uL reaction for the final PE PCR.\n\nPer library (per reaction):\n\n| KAPA HiFi MM (2X) | 25 uL |\n| :---- | :---- |\n| Primer mix | 19 uL |\n| PE PCR1 | 10 ng |\n| NF H2O | Up to 50 uL |\n\n| 95 C | 1 min |\n| :---- | :---- |\n| 98 C | 15 s |\n| 62 C | 30 s |\n| 72 C | 20 s |\n| 72 C | 2 min |\n| 4 C | Forever |\n\n10 cycles of amplification was performed\n\nPool the two barcodes of each type per condition and perform AmpureXP purification:\n\n- Add 100 uL of beads to the pooled PCR products. Mix thoroughly and incubate at RT for 5 mins.  \n- Place tubes on magnetic rack for 5 mins.  \n- Aspirate clear supernatant and discard the same.  \n- Add 200 uL 70% ethanol and incubate with beads for about 30 seconds. Repeat this step once more.  \n- Air dry beads on the magnet for 2-3 mins.  \n- Add 30 uL TE buffer and resuspend beads thoroughly. Incubate at RT for 5 mins.  \n- Place back on magnet for 5 mins to separate the elute. Measure concentration on NanoDrop and also run TapeStation D1000 ScreenTape to check the size of the libraries.\n\n**Cell culture maintenance**\n\nHepG2del cultures:\n\n- Check how the sorted cells are growing and change media to high serum media if the growth is still retarded  \n- Change media for the other HepG2del cultures  \n- Record images for the post-sorted cells\n\nHAP1, GP5d cultures\n\n- Check confluence of cultures  \n- If too confluent, harvest → combine each type of cells and then seed at lower density into a single flask per condition\n",
+ "experiments": [],
+ "images": [],
+ "tables": 2,
+ "id": "2025-07-28",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Cell culture",
+   "Library prep",
+   "Bead purification",
+   "Nanodrop"
+  ],
+  "reagents": [
+   "AMPure",
+   "TE buffer",
+   "Ethanol"
+  ],
+  "samples": [
+   "B1",
+   "B2",
+   "D1",
+   "D2"
+  ],
+  "custom": []
+ },
+ "title": "PE PCR for AT10, Nh100 libraries"
+}

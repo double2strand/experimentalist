@@ -1,0 +1,43 @@
+{
+ "date": "2026-07-16",
+ "heading": "**16 July 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "ONT Library Prep:\n\n![](assets/img/doc3-image29.png)\n\n![](assets/img/doc3-image30.png)\n\n![](assets/img/doc3-image31.png)  \n![](assets/img/doc3-image32.png)\n\n![](assets/img/doc3-image33.png)  \n![](assets/img/doc3-image34.png)\n\n![](assets/img/doc3-image35.png)  \n![](assets/img/doc3-image36.png)\n\nBarcoding:\n\n![](assets/img/doc3-image37.png)  \n![](assets/img/doc3-image38.png)  \n![](assets/img/doc3-image39.png)  \n![](assets/img/doc3-image40.png)  \n![](assets/img/doc3-image41.png)\n\nAdapter Ligation:  \n![](assets/img/doc3-image42.png)\n\n![](assets/img/doc3-image43.png)\n\n![](assets/img/doc3-image44.png)  \n![](assets/img/doc3-image45.png)\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc3-image29.png",
+  "assets/img/doc3-image30.png",
+  "assets/img/doc3-image31.png",
+  "assets/img/doc3-image32.png",
+  "assets/img/doc3-image33.png",
+  "assets/img/doc3-image34.png",
+  "assets/img/doc3-image35.png",
+  "assets/img/doc3-image36.png",
+  "assets/img/doc3-image37.png",
+  "assets/img/doc3-image38.png",
+  "assets/img/doc3-image39.png",
+  "assets/img/doc3-image40.png",
+  "assets/img/doc3-image41.png",
+  "assets/img/doc3-image42.png",
+  "assets/img/doc3-image43.png",
+  "assets/img/doc3-image44.png",
+  "assets/img/doc3-image45.png"
+ ],
+ "tables": 0,
+ "id": "2026-07-16",
+ "tags": {
+  "techniques": [
+   "Ligation",
+   "Nanopore sequencing",
+   "Library prep"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "ONT Library Prep:"
+}

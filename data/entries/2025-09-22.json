@@ -1,0 +1,28 @@
+{
+ "date": "2025-09-22",
+ "heading": "**22 September 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Contact GenScript about new protein expression clones**  \n2. **Check lig147 T4 DNA ligation (with PEG) product sizes**  \n3. **Set up secondary ligation for T4 DNA ligation products**  \n4. **Change media for GP5d, HAP1 & 293T cells in culture**  \n5. **Develop plan for nucleosome reconstitution at larger scale for FIBER-SEQ trials**\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2025-09-22",
+ "tags": {
+  "techniques": [
+   "Reconstitution",
+   "Ligation",
+   "Cell culture"
+  ],
+  "reagents": [],
+  "samples": [
+   "lig147",
+   "293T"
+  ],
+  "custom": []
+ },
+ "title": "1. Contact GenScript about new protein expression clones  "
+}

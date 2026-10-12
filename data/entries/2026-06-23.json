@@ -1,0 +1,27 @@
+{
+ "date": "2026-06-23",
+ "heading": "**23 June 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "**Pooling of new c3,c4 lig200 libraries**\n\nqPCR determined concentrations of these samples are:\n\nc3NCAP200RE \\- 16.55 ng/uL\n\nc4NCAP200RE \\- 14.44 ng/uL\n\nc3HTS200RE \\- 30.1 ng/uL\n\nc4HTS200RE \\- 40.5 ng/uL\n\nMay 2026 SELEX libraries:\n\nc1NCAP147 \\- 52.41 ng/uL\n\nc3NCAP147 \\- 33.5 ng/uL\n\nc4NCAP147 \\- 20.5 ng/uL\n\nc1NCAP200 \\- 44.21 ng/uL\n\nc3NCAP200 \\- 30.69 ng/uL\n\nc4NCAP200 \\- 22.81 ng/uL\n\nc1HTS147 \\- 46.63 ng/uL\n\nc3HTS147 \\- 44.42 ng/uL\n\nc4HTS147 \\- 43.99 ng/uL\n\nc1HTS200 \\- 49.68 ng/uL\n\nc3HTS200 \\- 40.11 ng/uL\n\nc4HTS200 \\- 32.54 ng/uL\n\nNT1912526L → C3NCAP200 (32 uL) \\+ C3HTS200 (18 uL)\n\nNT1911757U → C4NCAP200 (36 uL) \\+ C4HTS200 (14 uL)\n\nTube 1: \\[C1\\_HTS\\_lig200 (PE0) \\+ C1\\_NCAP\\_lig200 (PE1)\\] NT1910988G  \n\\=\\> 24 uL \\+ 26 uL\n\nTube 2: \\[C1\\_HTS\\_lig147 (PE0) \\+ C1\\_NCAP\\_lig147 (PE1)\\] NT1910219S  \n\\=\\> 26 uL \\+ 24 uL\n\nTube 3: \\[C3\\_HTS\\_lig200 (PE2) \\+ C3\\_NCAP\\_lig200 (PE3)\\] NT1909450I  \n\\=\\> 22 uL \\+ 28 uL\n\nTube 4: \\[C3\\_HTS\\_lig147 (PE2) \\+ C3\\_NCAP\\_lig147 (PE3)\\] NT1908681R  \n\\=\\> 21 uL \\+ 29 uL\n\nTube 5: \\[C4\\_HTS\\_lig200 (PE2) \\+ C4\\_NCAP\\_lig200 (PE3)\\] NT1907912J    \n\\=\\> 21 uL \\+ 29 uL\n\nTube 6: \\[C4\\_HTS\\_lig147 (PE0) \\+ C4\\_NCAP\\_lig147 (PE1)\\] NT1907143P (108485)  \n\\=\\> 16 uL \\+ 34 uL\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2026-06-23",
+ "tags": {
+  "techniques": [
+   "qPCR",
+   "SELEX",
+   "Library prep"
+  ],
+  "reagents": [],
+  "samples": [
+   "lig200"
+  ],
+  "custom": []
+ },
+ "title": "Pooling of new c3,c4 lig200 libraries"
+}

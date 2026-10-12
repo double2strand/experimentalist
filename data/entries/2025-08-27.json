@@ -1,0 +1,28 @@
+{
+ "date": "2025-08-27",
+ "heading": "**27 August 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Passage GP5d MYCT1, MYCT2 PB-treated cells**  \n2. **Passage sorted HAP1 enhancer cells**  \n3. **Thaw new HAP1, GP5del cells**  \n4. **MYCMAX NCAP double/spaced motif analyses**  \n5. **Set up test recon for lig147 with commercial Active Motif histone octamer (microplate)**  \n6. **Run MOODS for gapped MYCMAX motifs on hg38 genome & correlate with MYC binding sites in varied cancers**\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2025-08-27",
+ "tags": {
+  "techniques": [
+   "Reconstitution",
+   "Cell culture"
+  ],
+  "reagents": [
+   "Histone octamer"
+  ],
+  "samples": [
+   "lig147"
+  ],
+  "custom": []
+ },
+ "title": "1. Passage GP5d MYCT1, MYCT2 PB-treated cells  "
+}

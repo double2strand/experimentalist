@@ -1,0 +1,30 @@
+{
+ "date": "2026-08-17",
+ "heading": "**17 August 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "Low salt RB (2 L)\n\n37.28 g KCl  \n20 mL 1 M Tris-HCl, pH 7.5  \n4 mL 0.5 M EDTA  \n2 mL DTT\n\n| DNA | 38 uL |\n| :---- | :---- |\n| T4 PNK Reaction Buffer (10X) | 5 µl |\n| ATP (10 mM) | 5 uL |\n| [T4 PNK](https://www.neb.com/en-gb/products/m0201-t4-polynucleotide-kinase) | 2 µl (20 units) |\n| Nuclease-free Water | up to 50 µl  |\n\nIncubate 37 C, 40 mins. Deactivate 65 C, 20 mins. Clean up with a MinElute column, quantify and then use to set up O/N ligation.\n\n147HTFS3 (x5)\n\n200HTFS3\n\n147NCFS3\n\n200NCFS3\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2026-08-17",
+ "tags": {
+  "techniques": [
+   "Ligation",
+   "Column purification"
+  ],
+  "reagents": [
+   "MinElute",
+   "EDTA",
+   "Tris",
+   "KCl",
+   "DTT"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Low salt RB (2 L)"
+}

@@ -1,0 +1,26 @@
+{
+ "date": "2026-06-25",
+ "heading": "**25 June 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Testing CC methylase in the presence of ELF2*\n\nTotal volume of all reactions \\= 10 uL\n\n*MspJI*\n\n|  | DNA (10 ng) | rCutSmart | Enzyme | Activator |\n| :---: | :---: | :---: | :---: | :---: |\n| Control |  | 1 uL | 0.3 uL | 1 uL |\n| A0 |  | 1 uL | 0.3 uL | 1 uL |\n| A1 |  | 1 uL | 0.3 uL | 1 uL |\n| A2 |  | 1 uL | 0.3 uL | 1 uL |\n| A3 |  | 1 uL | 0.3 uL | 1 uL |\n| A4 |  | 1 uL | 0.3 uL | 1 uL |\n| A5 |  | 1 uL | 0.3 uL | 1 uL |\n| A6 |  | 1 uL | 0.3 uL | 1 uL |\n\n| 37 C | 20 mins |\n| :---- | :---- |\n| 65 C | 20 mins |\n\n*HaeIII*\n\n|  | DNA (10 ng) | rCutSmart | Enzyme |\n| :---: | :---: | :---: | :---: |\n| Control |  | 1 uL | 0.3 uL |\n| A0 |  | 1 uL | 0.3 uL |\n| A1 |  | 1 uL | 0.3 uL |\n| A2 |  | 1 uL | 0.3 uL |\n| A3 |  | 1 uL | 0.3 uL |\n| A4 |  | 1 uL | 0.3 uL |\n| A5 |  | 1 uL | 0.3 uL |\n| A6 |  | 1 uL | 0.3 uL |\n\n| 37 C | 20 mins |\n| :---- | :---- |\n| 80 C | 20 mins |\n\n*MspI*\n\n|  | DNA (10 ng) | rCutSmart | Enzyme |\n| :---: | :---: | :---: | :---: |\n| Control |  | 1 uL | 0.3 uL |\n| A0 |  | 1 uL | 0.3 uL |\n| A1 |  | 1 uL | 0.3 uL |\n| A2 |  | 1 uL | 0.3 uL |\n| A3 |  | 1 uL | 0.3 uL |\n| A4 |  | 1 uL | 0.3 uL |\n| A5 |  | 1 uL | 0.3 uL |\n| A6 |  | 1 uL | 0.3 uL |\n\n| 37 C | 20 mins |\n| :---- | :---- |\n\n*HpaII*\n\n|  | DNA (10 ng) | rCutSmart | Enzyme |\n| :---: | :---: | :---: | :---: |\n| Control |  | 1 uL | 0.3 uL |\n| A0 |  | 1 uL | 0.3 uL |\n| A1 |  | 1 uL | 0.3 uL |\n| A2 |  | 1 uL | 0.3 uL |\n| A3 |  | 1 uL | 0.3 uL |\n| A4 |  | 1 uL | 0.3 uL |\n| A5 |  | 1 uL | 0.3 uL |\n| A6 |  | 1 uL | 0.3 uL |\n\n| 37 C | 20 mins |\n| :---- | :---- |\n| 80 C | 20 mins |\n\nPost digestion, add 2 uL loading dye to each sample and then run these on a 2.5% agarose gel. Stain with SYBR Green.\n\nGel loading order:\n\nCon, A0-A6 \\=\\> *MspJI*  \nCon, A0-A6 \\=\\> *HaeIII*  \nCon, A0-A6 \\=\\> *MspI*  \nCon, A0-A6 \\=\\> *HpaII*\n\nI also loaded the original ETS ligand at the end of each gel row.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 8,
+ "id": "2026-06-25",
+ "tags": {
+  "techniques": [
+   "Gel electrophoresis",
+   "Restriction digest"
+  ],
+  "reagents": [
+   "SYBR"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Testing CC methylase in the presence of ELF2"
+}

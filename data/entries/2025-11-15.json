@@ -1,0 +1,26 @@
+{
+ "date": "2025-11-15",
+ "heading": "**15 November 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "1. *Prepare HT-SELEX Buffers, Plates & Programs*  \n2. *Prepare 2 SBP Bead Plates, 4 His bead plates & Block and store more HIS beads*\n\n| SELEX Buffer (prepare freshly) |  |  |  |  |  |\n| ----- | :---- | :---- | :---- | :---- | :---- |\n| Reagents | STOCK | Final 1x: | 250 mL | Final 1.55x: | 70mL |\n| Promega | 10x | 1x | 25 mL | 1.55x | 10.85 mL |\n| EGTA | 0.5M | 100μM | 32 μL | 155μM | 21.7 μL |\n| DTT | 1M | 1mM | 160 μL | 1.55mM | 108.5 μL |\n| dIdC | 250μg/mL | 8.33μg/mL | 5331.2 μL | 8.33μg/mL | 2332.4 μL |\n| ZnSO4 | 3mM | 3μM | 160 μL | 3μM | 70 μL |\n| MQ water |   | \\- | 138.3168 mL | \\- | 56.6174 mL |\n\nManually distribute to a (800μL) deep-well 96 → distribute to four 96-well plates → freeze at \\-20℃.  \nBeads plate: add 20μL/well 1x SELEX buffer after the blocking buffer is aspirated;\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2025-11-15",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Bead purification"
+  ],
+  "reagents": [
+   "DTT"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "1. Prepare HT-SELEX Buffers, Plates & Programs  "
+}

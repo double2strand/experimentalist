@@ -1,0 +1,23 @@
+{
+ "date": "2026-06-12",
+ "heading": "**12 June 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "GP5d media (500 mL)\n\n| DMEM high glucose | Make up to 500 mL |\n| :---- | :---- |\n| HI FBS (10%) | 50 mL |\n| L-Glutamine | 5 mL |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2026-06-12",
+ "tags": {
+  "techniques": [
+   "Cell culture"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "GP5d media (500 mL)"
+}

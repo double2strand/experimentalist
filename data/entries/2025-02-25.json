@@ -1,0 +1,33 @@
+{
+ "date": "2025-02-25",
+ "heading": "**25 February 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**293T-X cell thaw and culture**\n\nUse T125 or T175 flasks for thawing and extended culture of 293T-X cells.\n\n293T Media\n\n| HI FBS (10%) | 1000 mL |\n| :---- | :---- |\n| Sodium Pyruvate (100 mM) | 10 mL (1 mM final) |\n| Pen-Strep (10kU/mL) | 10 mL (100 U/mL) |\n| DMEM | Top up to 1000 mL |\n\nThe media was prepared and filtered and then used to thaw two vials of 293T-X Takara cells (P6) into a T150 flask. \n\n- Stocks of HI FBS prepared in 50 mL tubes  \n- Stocks of L-Glutamine (Q) & P/S prepared in 15 mL tubes\n\n**AT10 plasmid libraries**\n\nFrom the PCR reactions set-up using the library pools, perform PCR purification for each pool and then elute the pooled product into 50 uL of sample in TE buffer.\n\nRun 5 uL of the pooled samples on a 2% agarose gel with the 100-bp DNA ladder \\[120 V, 60 min\\]:\n\nLadder (100 bp) – Gcla\\_BC1 – Hcla\\_BC1 – GCD\\_BC1 – HCD\\_BC1 – GCC\\_BC1\n\n![](assets/img/doc1-image36.png)\n\nBased on the results seen in the gel, the dominant band is seen to be of the expected size i.e. between 400-500 bp \\[expected fragment size is 427 bp\\]. However, there do seem to be smeared fragments of higher and lower size around the main band \\- suggesting that a clean-up or gel extraction will need to be performed to select the specific band of interest representing the enhancer oligo library.\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc1-image36.png"
+ ],
+ "tables": 1,
+ "id": "2025-02-25",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Gel electrophoresis",
+   "Cell culture",
+   "Library prep",
+   "Fragmentation"
+  ],
+  "reagents": [
+   "TE buffer"
+  ],
+  "samples": [
+   "293T"
+  ],
+  "custom": []
+ },
+ "title": "293T-X cell thaw and culture"
+}

@@ -1,0 +1,29 @@
+{
+ "date": "2025-04-02",
+ "heading": "**2 April 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**Characterisation of digested pHRS-Gcla libraries:**\n\nUse 500 ng of each library for digestion with MluI at 37 degrees, 30 mins (with a pHRS-Gcla digestion control).\n\nTested samples include:\n\n- pHRS-Gcla-AT10-Ep1  \n- pHRS-Gcla-ShhBC\n\nThe expectation here is that the pHRS-Gcla-ShhBC plasmid library digest should give a similar profile as the control pHRS-Gcla digest. With the pHRS-Gcla-AT10-Ep1 library digest, the MluI site is disrupted and unless there are any sites within the inserted enhancer library, there should be no digestion and multiple bands or bands of larger sizes due to the intact plasmid might be seen on the gel. \n\nAlso run the digestion products of pHRS-MYC335 on a 1% agarose gel for testing.\n\n**Characterisation of Hia5testlig:**\n\nRun some of the purified PCR product on a 2% agarose gel to check for the size and purity.\n\n**pHRS-MYC335 assembly:**\n\nIncorrect assembly was performed the last time around and the MYC335gb was not included.\n\nSet up this assembly again at 50 degrees, 60 minutes and then transform and plate on to a fresh bacterial plate.\n\nMYCvec \\- 50 ng/uL\n\nAll other gene blocks at a concentration of 25 ng/uL.\n\n| Component | Volume | Amount |\n| ----- | ----- | ----- |\n| MYCvec | 3.7 μl | 0.065 pmoles |\n| noloxgb1 | 1.8 μl | 0.065 pmoles |\n| noloxgb1 | 2.1 μl | 0.065 pmoles |\n| MYC335gb | 2.5 μl | 0.065 pmoles |\n| NEBuilder HiFi DNA Assembly Master Mix | 10.0 μl | \\--- |\n| Total | 20.0 μl | 0.260 pmoles |\n\n2 uL of product was transferred to 50 uL of competent cells and then cultured at 37 degrees for 45 mins post heat-shock. \n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2025-04-02",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Hia5",
+   "Gel electrophoresis",
+   "Library prep",
+   "Restriction digest"
+  ],
+  "reagents": [
+   "Hia5"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Characterisation of digested pHRS-Gcla libraries:"
+}

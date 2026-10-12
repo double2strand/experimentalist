@@ -1,0 +1,46 @@
+{
+ "date": "2025-11-03",
+ "heading": "**3 November 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "***1\\. Test reconstitution with lig147***\n\n- Take 5 uL of lig147 PCR2 product and then add this to 5 uL of 2 M dried salt.   \n- Transfer this mix after few minutes to a microplate  \n- Add 60 uL of dilution buffer to a storage plate.  \n- Prepare 50 ng/uL stock of SBP-octamer \\[3 uL ⇒ 0.3 uL OS500 \\+ 2.7 uL refoldingBuffer+Glycerol\\]. Add 1.5 uL of this stock to the 5 uL DNA \\+ salt mix  \n- Place this mix and the dilution buffer plate in the robot and run the recon program  \n- This sample is named E1 and stored in Protein LoBind tubes O/N at 4 degrees\n\n ***2\\. Buffer preparation for SELEX experiments***\n\n10X TCAPT Buffer\n\n| 1.4 M KCl | 208.74 g |\n| :---- | :---- |\n| 50 mM NaCl | 5.844 g |\n| 10 mM MgCl2 | 20 mL |\n| 1 mM EGTA | 4 mL |\n| 100 mM Tris-HCl pH 8 | 200 mL |\n| Tween20 | 20 mL |\n| ZnSO4.7H2O |  |\n\nOriginal Biotin elution buffer \\= 70 mM KCl, 2.5 mM NaCl, 0.5 mM MgCl2, 1.5 uM ZnSO4.H2O\\*, 0.05 mM EGTA, 5 mM Tris, 0.05% Tween20, 10 mM Biotin, 50 mM Imidazole \n\nFirst prepare ZnSO4.H2O 100 mM stock ⇒ 0.18 g in 10 mL sterile H2O\n\n| 70 mM KCl | 1.75 mL 4 M KCl stock |\n| :---- | :---- |\n| 2.5 mM NaCl | 2.5 mL 100 mM NaCl stock |\n| 0.5 mM MgCl2 | 50 uL 1 M stock |\n| 0.05 mM EGTA | 10 uL 0.5 M EGTA stock |\n| 5 mM Tris-HCl pH 8 | 500 uL 1 M stock |\n| 0.05% Tween20 | 50 uL |\n| 1.5 uM ZnSO4.H2O | 1.5 uL 100 mM stock |\n| 10 mM Biotin | 0.244 g |\n| 50 mM Imidazole | 0.340 g |\n\nAdd NaOH to a final molarity of 6 mM to keep the biotin in solution.\n\n***3\\. D7 & D8 reconstitution sample testing***\n\nCollect the salt exchange samples and pool D7 samples together. \n\nFor the D8 sample, the column had sunk into the actual buffer exchange tube – these will either lead to total loss or poor recovery of the sample. For this sample:\n\n### **1\\. Pre-Rinse Filter**\n\n1. Add **500 µL** nuclease-free water to the filter (upper chamber).\n\n2. Centrifuge **10 min @ 10,000×g**.\n\n3. Discard the filtrate (flow-through).\n\n---\n\n### **2\\. Adjust Sample to 350 µL**\n\n1. Transfer **200 µL** sample into a fresh low-binding tube.\n\n2. Add **300 µL** Nucleosome Buffer C → **total \\= 500 µL**.\n\n---\n\n### **3\\. First Diafiltration**\n\n1. Load the **500 µL** diluted sample into the filter unit.\n\n2. Centrifuge **10 min @ 10,000×g**.\n\n3. Discard the filtrate (contains imidazole, Tween, etc.).\n\n---\n\n### **4\\. Wash Step**\n\n1. Add **200 µL** fresh Streptavidin Binding Buffer to the filter unit.\n\n2. Centrifuge **10 min @ 10,000×g**.\n\n3. Discard the filtrate.\n\n> *If you suspect residual imidazole, repeat this wash (step 4\\) once more with another 350 µL.*\n\n---\n\n### **5\\. Recover Buffer-Exchanged Sample**\n\n1. Move the filter to a **new collection tube** (provided).\n\n2. Invert the unit and spin **5 min @ 1,000×g**.\n\n3. Discard the filter—your retentate is now in the tube.\n\nAfter the recovery of sample D8, concentration of samples will be measured using Qubit:\n\nD7: 20.2 ng/uL\n\nD8: 2.18 ng/uL\n\n***4\\. Buffer checklist for SELEX***\n\n| 10X HT-SELEX (1.55X) Buffer | ✓ |\n| :---- | :---: |\n| 10X HT-SELEX (1X) Buffer | ✓ |\n| Nucleosome Dilution Buffer | ✓ |\n| Refolding Buffer  |  |\n| TF Dilution Buffer (HT-SELEX) |  |\n| TF Dilution Buffer (NCAP-SELEX) |  |\n| NCAP-SELEX Elution Buffer | ✓ |\n| Biotin Elution Buffer | ✓ |\n| 10X TCAPT Buffer |  |\n| TCAPT Block Buffer |  |\n| Sol1 Salt Buffer | ✓ |\n| Blocking Buffer Salt-Free | ✓ |\n| 1X Wash Buffer (NCAP) |  |\n| 0.5X Wash Buffer (NCAP) |  |\n",
+ "experiments": [
+  "**1\\. Pre-Rinse Filter**",
+  "**2\\. Adjust Sample to 350 µL**",
+  "**3\\. First Diafiltration**",
+  "**4\\. Wash Step**",
+  "**5\\. Recover Buffer-Exchanged Sample**"
+ ],
+ "images": [],
+ "tables": 3,
+ "id": "2025-11-03",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Reconstitution",
+   "Qubit",
+   "Column purification",
+   "Protein purification",
+   "Buffer exchange"
+  ],
+  "reagents": [
+   "Tris",
+   "NaCl",
+   "KCl",
+   "MgCl2",
+   "Histone octamer",
+   "Glycerol"
+  ],
+  "samples": [
+   "D8",
+   "lig147",
+   "D7"
+  ],
+  "custom": []
+ },
+ "title": "**1\\. Pre-Rinse Filter**; **2\\. Adjust Sample to 350 µL**; **3\\. First Diafiltration**"
+}

@@ -1,0 +1,47 @@
+{
+ "date": "2025-07-08",
+ "heading": "**8 July 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "| Image the cells transduced with MYC355 and pHRS-Hcla, pHRS-Gcla viruses |\n| :---- |\n| **Transduce the HepG2-delLEDGFb cells with MYC355, pHRS-Hcla, pHRS-Gcla viruses** |\n| **Change media for 293TX cells that are packaging virus for pHRS-HCC, pHRS-GCC** |\n| **Change media for 293TX master plate and HAP1 cells** |\n\n### 1. Image the cells transduced with MYC355 and pHRS-Hcla, pHRS-Gcla viruses\n\nHAP1\n\n![](assets/img/doc2-image9.png)\n\n![](assets/img/doc2-image10.png)\n\n![](assets/img/doc2-image11.png)\n![](assets/img/doc2-image12.png)\n\n![](assets/img/doc2-image13.png)\n\n**GP5d delLEDGF**  \n![](assets/img/doc2-image14.png)\n\n![](assets/img/doc2-image15.png)\n\n![](assets/img/doc2-image16.png)\n\n**![](assets/img/doc2-image17.png)![](assets/img/doc2-image18.png)**\n\nK562\n\n![](assets/img/doc2-image19.png)\n\n![](assets/img/doc2-image20.png)\n\n![](assets/img/doc2-image21.png)\n![](assets/img/doc2-image22.png)\n![](assets/img/doc2-image23.png)\n\n### 2. Transduce the HepG2-delLEDGFb cells with MYC355, pHRS-Hcla, pHRS-Gcla viruses\n\nHepG2\n\nPlate1:  \nW1-W3 \\- 200 uL MYC355-T1  \nW4-W6 \\- 200 uL MYC355-T2\n\nPlate2:  \nW1-W3 \\- 200 uL pHRS-Hclav1  \nW4-W6 \\- 200 uL pHRS-Gclav1\n\nPlate3:\n\nW1: 300 uL pHRS-Hclav1  \nW2: 300 uL pHRS-Gclav1\n\nPlate1:  \nW1-W3 \\- 5.394 mL media \\+ 600 uL MYC355-T1 \\+ 6 uL  \nW4-W6 \\- 5.394 mL media \\+ 600 uL MYC355-T2 \\+ 6 uL\n\nPlate2:  \nW1-W3 \\- 5.394 mL media \\+ 600 uL pHRS-Hclav1 \\+ 6 uL  \nW4-W6 \\- 5.394 mL media \\+ 600 uL pHRS-Gclav1 \\+ 6 uL\n\nPlate3:\n\nW1: 1.698 mL \\+ 300 uL pHRS-Hclav1 \\+ 2 uL  \nW2: 1.698 mL \\+ 300 uL pHRS-Gclav1 \\+ 2 uL\n\nMix gently by pipetting and then add the mix for each well to the annotated wells. Label the wells as indicated above for both plates.\n\n### 3. Change media for 293TX cells that are packaging virus for pHRS-HCC, pHRS-GCC\n\nMedia was changed for the pHRS-HCC and pHRS-GCC packaging cells with 10 mL per plate (containing 40 uL of Viralboost). Supernatant was collected and stored at 4 degrees.\n\n### 4. Change media for 293TX master plate and HAP1 cells\n",
+ "experiments": [
+  "1. Image the cells transduced with MYC355 and pHRS-Hcla, pHRS-Gcla viruses",
+  "2. Transduce the HepG2-delLEDGFb cells with MYC355, pHRS-Hcla, pHRS-Gcla viruses",
+  "3. Change media for 293TX cells that are packaging virus for pHRS-HCC, pHRS-GCC",
+  "4. Change media for 293TX master plate and HAP1 cells"
+ ],
+ "images": [
+  "assets/img/doc2-image9.png",
+  "assets/img/doc2-image10.png",
+  "assets/img/doc2-image11.png",
+  "assets/img/doc2-image12.png",
+  "assets/img/doc2-image13.png",
+  "assets/img/doc2-image14.png",
+  "assets/img/doc2-image15.png",
+  "assets/img/doc2-image16.png",
+  "assets/img/doc2-image17.png",
+  "assets/img/doc2-image18.png",
+  "assets/img/doc2-image19.png",
+  "assets/img/doc2-image20.png",
+  "assets/img/doc2-image21.png",
+  "assets/img/doc2-image22.png",
+  "assets/img/doc2-image23.png"
+ ],
+ "tables": 1,
+ "id": "2025-07-08",
+ "tags": {
+  "techniques": [
+   "Cell culture"
+  ],
+  "reagents": [],
+  "samples": [
+   "Gclav1",
+   "293TX"
+  ],
+  "custom": []
+ },
+ "title": "Image the cells transduced with MYC355 and pHRS-Hcla, pHRS-Gcla viruses; Transduce the HepG2-delLEDGFb cells with MYC355, pHRS-Hcla, pHRS-Gcla viruses; Change media for 293TX cells that are packaging virus for pHRS-HCC, pHRS-GCC"
+}

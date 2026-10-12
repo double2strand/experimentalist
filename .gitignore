@@ -1,0 +1,8 @@
+source/doc1/
+source/doc3/
+source/*.docx
+source/doc2img/
+source/*_imgprefix.txt
+*.env
+.secrets/
+__pycache__/

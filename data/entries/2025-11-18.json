@@ -1,0 +1,35 @@
+{
+ "date": "2025-11-18",
+ "heading": "**18 November 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Optimising PE\\_PCR for SELEX samples*\n\nEach primer concentration needed \\= 0.43 uM\n\n18 uL reactions to be set up:\n\n9 uL Phusion MasterMix  \n1.55 uL 5 uM PE\\_F  \n1.55 uL 5 uM PE\\_R\n\nSet 1 ⇒ lig147  \nTake 2 uL (\\~40 ng) and dilute to 48 uL.  \nTake 5.9 uL of this mix per tube of DNA.  \n47.2 uL DNA \\+ 72 uL Phusion MM \\+ 12.4 uL PE\\_F \\+ 12.4 uL PE\\_R\n\nGradient PCR ⇒ 55-60 degrees\n\nSet 1 ⇒ ligN40w107  \nTake 2 uL (\\~40 ng) and dilute to 48 uL.  \nTake 5.9 uL of this mix per tube of DNA.  \n47.2 uL DNA \\+ 72 uL Phusion MM \\+ 12.4 uL PE\\_F \\+ 12.4 uL PE\\_R\n\nGradient PCR ⇒ 55-60 degrees\n\n| Step | Temp / ℃ | Time / s |\n| :---: | :---: | :---: |\n| 1 | 98 | 180 |\n| 2 | 98 | 15 |\n| 3 | 55-60 | 10 |\n| 4 | 72 | 36 |\n| 5 | GOTO 2 | X times |\n| 6 | 72 | 120 |\n| 7 | 25 | 2 |\n| 8 | 4 | forever |\n\n2 qPCR (3 NCAP-SELEX \\+ 3 HT-SELEX)\n\n| qPCR Plates |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | per well in 384 | per 384-well plate | for 6 plates (x440) |\n| NF water | 2.91 μL | 1.12 mL | 7.68 mL |\n| 5x Phusion HF buffer | 1.25 μL | 480 μL | 3.3 mL |\n| 10mM e dNTP | 0.25 μL | 96 μL | 660 μL |\n| NCAP\\_F 100μM  | 0.025 μL | 9.6 μL | 66 μL |\n| NCAP\\_R 100μM  | 0.025 μL | 9.6 μL | 66 μL |\n| MgCl2 (50mM) | 0.0325 μL | 12.48 μL | 85.8 μL |\n| Hot Start Phusion DNA Pol | 0.0375 μL | 14.4 μL | 99 μL |\n| 100x SYBR (final 1:200) | 0.06 μL | 23.04 μL | 158.4 μL |\n| Total | 4.59 μL | 1.765 mL | 12.1155 mL |\n\nTo prepare 100x SYBR Green: add 5μL 10,000x SYBR Green into 500μL DMSO, which can be found in Phusion DNA Pol kits. Avoid light.  \nManually load 122μL mix into each well of a 96-well plate (AB0765), then transfer 4.5μL/well into 6x 384-well plates (LightCycler 384). Repeat twice because of two ligands \\- lig147, ligN40w107.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 2,
+ "id": "2025-11-18",
+ "tags": {
+  "techniques": [
+   "qPCR",
+   "PCR",
+   "SELEX"
+  ],
+  "reagents": [
+   "Phusion",
+   "SYBR",
+   "MgCl2",
+   "dNTPs"
+  ],
+  "samples": [
+   "lig147",
+   "ligN40w107",
+   "NCAP_F",
+   "NCAP_R"
+  ],
+  "custom": []
+ },
+ "title": "Optimising PE_PCR for SELEX samples"
+}

@@ -1,0 +1,69 @@
+{
+ "date": "2025-10-22",
+ "heading": "**22 October 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "### 1. Combined ligation of different ligand patterns\n\nBased on the agarose gel results, clean bands can be seen for lig147 & ligN40w107, however nothing was seen for lig200.\n\nThe total reactions were pooled and purified by using the MinElute columns and concentration was determined:\n\nlig147: \\~ 27 ng/uL\n\n*lig200: This sample was discarded because of very poor yield*\n\nligN20w107: \\~151 ng/uL\n\n### 2. Viral titer for Gclav1, GCDv1-1, GCDv1-2 & HCDv1\n\n- (Optional) Dilute lentiviral supernatant in fresh culture medium and keep the final volume of 1 mL for each sample.  Include culture medium as a negative control. Note: For unknown samples, we recommend several dilutions for each sample.   \n- Add 10 μL of ViraBind™ Lentivirus Reagent A (100X) to 1 mL of lentiviral sample, and mix by inverting.  Immediately add 10 μL of ViraBind™ Lentivirus Reagent B (100X) and mix by inverting.  Incubate 30 minutes at 37ºC.   \n- Centrifuge 5 minutes at 12,000 rpm.  Carefully remove the supernatant and dissolve the pellet in 250 μL of Sample Diluent.  Vortex well and incubate 30 minutes at 37ºC to inactivate the viruses.   \n- Add 100 µL of inactivated lentiviral sample or p24 antigen standard to anti-p24 antibody coated plate.  \n- Cover with a Plate Cover and incubate at 4ºC overnight.\n\n### 3. Hia5 treatment of nucleosome samples\n\nSet up reactions for the following samples:\n\nD1\n\n* 5 uL sample \\+ Nuc buffer C (13 uL) \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine \\+ 0.5 uL Hia5 (6 reactions)\n\nD2\n\n* 5 uL sample \\+ Nuc buffer C (13 uL) \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine \\+ 0.5 uL Hia5 (6 reactions)\n\nB3\n\n* 5 uL sample \\+ Nuc buffer C (13 uL) \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine \\+ 0.5 uL Hia5 (1 reaction)\n\nB4\n\n* 5 uL sample \\+ Nuc buffer C (13 uL) \\+ 0.5 uL SAM \\+ 1 uL 20X Spermidine \\+ 0.5 uL Hia5 (1 reaction)\n\n| 37 C | 1 hour |\n| :---- | :---- |\n| 80 C | 10 mins |\n\nAfter Hia5 treatment, add 1 uL 10% SDS & 0.5 uL Proteinase K (20 mg/mL) in 20 uL reactions and incubate 30-60 mins, RT.\n\nPerform clean-up with Ampure XP beads:\n\n- Add 1.5X volume of AmpureXP beads and mix thoroughly. Incubate at RT for 15 mins.  \n- Place tubes on magnetic rack and allow liquid to separate from beads for 5 mins.  \n- Perform two washes with 80% ethanol (200-300 uL each)  \n- Allow the beads to dry for \\~30s and then add fresh TE buffer in desired volume for elution. Mix thoroughly and incubate at RT for 5 mins.  \n- Place tubes on magnetic rack and allow liquid to separate from beads for 5 mins. Collect separated supernatant as purified DNA sample.\n\n### 4. Large scale reconstitution of lig20K & lig50K\n\n*293T-20K \\[X2\\]*\n\nUse 3.89 ug of DNA \\[3.76 uL \\+ 11.24 uL TE buffer\\]\n\nlig20K (D1) ⇒ 15 uL ⇒ 15 nM \\[at 2 M salt concentration\\]\n\nOctamer molarity acc. to 60:1 ratio ⇒ 0.9 uM ⇒ 1.96 ug in 5 uL ⇒ Prepare 12 uL of stock with 500 ng/uL with refolding buffer \\[1.11 uL stock \\+ 8.89 uL refolding buffer\\] \\[O500\\] ⇒ Prepare 5 uL octamer stock \\[3.92 uL \\+ 1.08 uL refolding buffer \\+ glycerol\\] \\[1.78 M\\] ⇒ Final concentration of mix \\[1.95 M\\]\n\nPrepare the \\[refolding buffer \\+ glycerol\\] fresh every time, just before use.\n\n*High salt RB (2 L)*  \n298.2 g KCl  \n20 mL 1 M Tris-HCl, pH 7.5  \n4 mL 0.5 M EDTA  \n2 mL DTT\n\n*Low salt RB (2 L)*  \n37.28 g KCl  \n20 mL 1 M Tris-HCl, pH 7.5  \n4 mL 0.5 M EDTA  \n2 mL DTT\n\nResuspend 1.54 g of DTT in 10 mL of water to prepare a 1 M stock if needed.\n\nThis trial is being run at 1.5 mL/min (pump 1\\) & 1.3 mL/min (pump 2\\)\n",
+ "experiments": [
+  "1. Combined ligation of different ligand patterns",
+  "2. Viral titer for Gclav1, GCDv1-1, GCDv1-2 & HCDv1",
+  "3. Hia5 treatment of nucleosome samples",
+  "4. Large scale reconstitution of lig20K & lig50K"
+ ],
+ "images": [],
+ "tables": 1,
+ "id": "2025-10-22",
+ "tags": {
+  "techniques": [
+   "Hia5",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Ligation",
+   "Lentivirus",
+   "Cell culture",
+   "Bead purification",
+   "Column purification",
+   "ELISA",
+   "Protein purification",
+   "Proteinase K"
+  ],
+  "reagents": [
+   "Proteinase K",
+   "SAM",
+   "Spermidine",
+   "MinElute",
+   "AMPure",
+   "Hia5",
+   "SDS",
+   "EDTA",
+   "Tris",
+   "KCl",
+   "DTT",
+   "Histone octamer",
+   "TE buffer",
+   "Ethanol",
+   "Glycerol",
+   "ViraBind",
+   "Nuc buffer"
+  ],
+  "samples": [
+   "lig147",
+   "lig200",
+   "lig20K",
+   "ligN40w107",
+   "ligN20w107",
+   "lig50K",
+   "D1",
+   "Gclav1",
+   "GCDv1-1",
+   "GCDv1-2",
+   "HCDv1",
+   "293T"
+  ],
+  "custom": []
+ },
+ "title": "Combined ligation of different ligand patterns; Viral titer for Gclav1, GCDv1-1, GCDv1-2 & HCDv1; Hia5 treatment of nucleosome samples"
+}

@@ -1,0 +1,31 @@
+{
+ "date": "2025-09-23",
+ "heading": "**23 September 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Check secondary ligation products on agarose gel**  \n2. **Sorting for GP5d lines transduced with MYC335 virus and treated with PB**  \n3. **Change media for HAP1 cells**  \n4. **Treat HAP1 sorted cells with Ad-Cre virus**  \n5. **Develop plan for nucleosome reconstitution at larger scale for FIBER-SEQ trials**  \n6. **Passage and seed 293TX cells at very low density**\n\n### 1. Check secondary ligation products on agarose gel\n\nLigation reactions set up were:\n\nL1-1: \\~160 ng DNA in 20 uL with 2 uL ligase  \nL1-2: \\<100 ng DNA in 20 uL with 2 uL ligase  \nL2-1: \\~210 ng DNA in 20 uL with 2 uL ligase  \nL2-2: \\~100 ng DNA in 20 uL with 2 uL ligase\n\n### 3. Treat HAP1 sorted cells with Ad-Cre virus\n\nPFU/mL of Ad-CRE is 10^7 PFU/uL\n\n\tFor \\~200K cells at MOI=5, volume of virus needed \\= 1 uL\n\n\tFor \\~200K cells at MOI=10, volume of virus needed \\= 2 uL\n\n\tFor \\~200K cells at MOI=50, volume of virus needed \\= 5 uL\n\nFor each MOI condition prepare 1 tube (for 4 wells):\n\nMOI5 ⇒ 4 uL polybrene \\+ 4 uL virus \\+ 3992 uL HAP1 medium\n\nMOI10 ⇒ 4 uL polybrene \\+ 8 uL virus \\+ 3988 uL HAP1 medium\n\nMOI50 ⇒ 4 uL polybrene \\+ 20 uL virus \\+ 3980 uL HAP1 medium\n\nAdd 1 mL to each well.\n",
+ "experiments": [
+  "1. Check secondary ligation products on agarose gel",
+  "3. Treat HAP1 sorted cells with Ad-Cre virus"
+ ],
+ "images": [],
+ "tables": 0,
+ "id": "2025-09-23",
+ "tags": {
+  "techniques": [
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Ligation",
+   "Cell culture"
+  ],
+  "reagents": [],
+  "samples": [
+   "293TX"
+  ],
+  "custom": []
+ },
+ "title": "Check secondary ligation products on agarose gel; Treat HAP1 sorted cells with Ad-Cre virus"
+}

@@ -1,0 +1,36 @@
+{
+ "date": "2025-11-02",
+ "heading": "**2 November 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "### 1. Nucleosome Buffer D\n\n50 mL\n\n| 1 M Tris pH 8 | 750 uL |\n| :---- | :---- |\n| EDTA (0.5 M) | 100 uL |\n| EGTA (0.5 M) | 50 uL |\n| KCl (4 M) | 2.125 mL |\n| TCEP (100 mM) | 0.5 mL |\n| Glycerol | 2.5 mL |\n\nThis buffer is exclusively to be used for dialysis of samples that have been used to reconstitute the lig20K with the SBP-Octamer. This is essentially to enrich the reconstituted nucleosomes with the SBP beads.\n\nFor the beads pull-down, original NCAP-SELEX uses about 1.14 uL SBP beads for 100 ng of DNA. \n\nAssume 1.2 uL SBP beads ⇒ 100 ng DNA\n\n3.9 ug of DNA was used per experiment ⇒ 46.8 uL beads ⇒ 50 uL beads per experiment\n\nFor the two SBP experiments, take 100 uL original beads and make up volume to 2.2 mL with blocking-buffer salt free. Incubate at RT for 30 mins. Separate out the beads from the blocking buffer on a magnet and resuspend beads in 50 uL each of Nucleosome Buffer D.\n",
+ "experiments": [
+  "1. Nucleosome Buffer D"
+ ],
+ "images": [],
+ "tables": 1,
+ "id": "2025-11-02",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Reconstitution",
+   "Dialysis",
+   "Bead purification"
+  ],
+  "reagents": [
+   "EDTA",
+   "Tris",
+   "KCl",
+   "Histone octamer",
+   "Glycerol"
+  ],
+  "samples": [
+   "lig20K"
+  ],
+  "custom": []
+ },
+ "title": "Nucleosome Buffer D"
+}

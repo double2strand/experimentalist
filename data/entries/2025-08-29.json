@@ -1,0 +1,27 @@
+{
+ "date": "2025-08-29",
+ "heading": "**29 August 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Change GP5d Ad-CRE treated cells with full media**  \n2. **Seed HAP1 cells (150K cells per well) for repeated virus transduction (Gclav1, Hclav1, HCDv1)**  \n3. **Order primers for dual barcode enhancer-promoter library preparation**  \n4. **Order LB plates with carbenicillin and chloramphenicol**  \n5. **Transform and plate 2 more assembly reactions on LB-Amp plates**\n\n   \n\n1. **Change GP5d Ad-CRE treated cells with full media**\n\n\t\n\n\tThe HAP1 cells that were transduced with Gclav1, Hclav1, HCDv1 viruses and sorted were passaged a couple of days ago. But these cells were all seen to largely die and therefore could not be treated with Ad-CRE.\n\nThus, Ad-CRE was only added to the GP5d MYCT1 and MYCT2 cells. Media was changed to full media \\~12 hours later.\n\n\t\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2025-08-29",
+ "tags": {
+  "techniques": [
+   "Cell culture",
+   "Library prep"
+  ],
+  "reagents": [],
+  "samples": [
+   "Gclav1",
+   "HCDv1"
+  ],
+  "custom": []
+ },
+ "title": "1. Change GP5d Ad-CRE treated cells with full media  "
+}

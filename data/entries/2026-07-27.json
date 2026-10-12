@@ -1,0 +1,25 @@
+{
+ "date": "2026-07-27",
+ "heading": "**27 July 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Using TdT to create long random DNA*\n\nWe use the following test reaction to start the process:\n\n![](assets/img/doc3-image46.png)\n\nNOTE: I have set up 2 tubes of this 25 uL reaction.\n\nNOTE: However, I have added the volumes above taking the original 100 mM stock of the dNTPs, so the reaction will saturate in terms of the amount of dNTP far exceeding the enzyme.\n\n*But this is a test run so let’s see how it pans out.*\n\n*New ligand plate preparation*\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc3-image46.png"
+ ],
+ "tables": 0,
+ "id": "2026-07-27",
+ "tags": {
+  "techniques": [],
+  "reagents": [
+   "dNTPs"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Using TdT to create long random DNA"
+}

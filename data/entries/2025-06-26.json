@@ -1,0 +1,32 @@
+{
+ "date": "2025-06-26",
+ "heading": "**26 June 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "| HCCv1cc clone 5-9 plasmid isolation & digestion check |\n| :---- |\n| **Test current dialysis apparatus with pump 1 tubing reset**  |\n| **Final virus collection and filtering using 0.45 um filter**  |\n| **Thaw LEDGF KO cell lines** |\n\n1. **HCCv1cc clone 5-9 plasmid isolation & digestion check**\n\nPlasmids for colonies 5-9 were isolated from the HCCv1cc plate. To check for the right colonies to be sequenced, MluI digestion was performed for all the clones.\n\n| COMPONENT | 50 µl REACTION |\n| :---- | :---- |\n| DNA | 500 ng |\n| 10X rCutSmart Buffer | 2.5 µl (1X) |\n| MluI-HF | 0.5 µl (10 units) |\n| Nuclease-free Water | to 25 µl |\n\nIncubate at 37°C for 30 minutes as MluI-HF is Time-Saver qualified.\n\nRun the products on a gel to check for which of the plasmids does NOT get digested cleanly by MluI \\- since these should be the ones with insertion of the HCC oligo library.\n\nLanes 3-7 represent the colonies 5-9 post-digestion. HCC clone library has about 24 oligos that may contain MluI digestion sites. Therefore, the assumption can not be made that the lanes containing a single band are exclusively the empty vector. \n\n![ (partial: image too large to export fully - see original Google Doc)](assets/img/doc2-image6.png)\n\n### 3. Final virus collection and filtering using 0.45 um filter\n\nCollect the second round of viral supernatant into the same tube as the previous day’s collection.\n\nPass supernatant through 0..45 um filters and collect in new tube.\n\nAdd 1 volume of concentrator per 4 volumes of the lentivirus. Incubate O/N at 4 degrees with gentle mixing for concentration.\n\nNOTE: Virus packaged in this round:\n\n- MYC355lv-T1 (35 mL \\+ \\~9 mL concentrator)  \n- MYC335lv-T2 (18 mL \\+ 4.5 mL concentrator)\n\n### 4. Thaw LEDGF KO cell lines\n\nThe following cell lines were thawed:\n\n- GP5d LEDGF KO P4  \n- HepG2 LEDGF KO P4  \n- HAP1 P2  \n- K562 LEDGF KO P4\\*\n\n\\*The K562 LEDGF KO cells were thawed in a plain RPMI medium containing 2 mM glutamine.\n",
+ "experiments": [
+  "3. Final virus collection and filtering using 0.45 um filter",
+  "4. Thaw LEDGF KO cell lines"
+ ],
+ "images": [
+  "assets/img/doc2-image6.png"
+ ],
+ "tables": 2,
+ "id": "2025-06-26",
+ "tags": {
+  "techniques": [
+   "Gel electrophoresis",
+   "Dialysis",
+   "Lentivirus",
+   "Library prep",
+   "Restriction digest"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Final virus collection and filtering using 0.45 um filter; Thaw LEDGF KO cell lines"
+}

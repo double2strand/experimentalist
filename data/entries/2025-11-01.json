@@ -1,0 +1,41 @@
+{
+ "date": "2025-11-01",
+ "heading": "**1 November 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "### 1. Reconstitution of lig20K with SBP-Octamer \\+ TF pool incubation\n\nLow salt RB (2 L)\n\n37.28 g KCl  \n20 mL 1 M Tris-HCl, pH 7.5  \n4 mL 0.5 M EDTA  \n2 mL DTT\n\n*lig20K (2x)*\n\nUse 3.89 ug of DNA\n\nlig20K (D7) ⇒ 15 uL ⇒ 15 nM \\[at 2 M salt concentration\\]\n\nOctamer molarity acc. to 60:1 ratio ⇒ 0.9 uM ⇒ 2.11 ug in 5 uL ⇒ Prepare 500 ng/uL stock OSH500 (0.83 uL \\+ 11.17 uL refolding buffer) ⇒ (4.22 uL OHS500 \\+ 0.78 uL refolding buffer \\+ glycerol) \\[1.84 M\\] ⇒ Final concentration of mix \\[1.96 M\\]\n\nPost-reconstitution, the assembled nucleosomes are to be enriched with SBP beads to enrich only the fragments of DNA with assembled nucleosomes.\n\n*lig147-L11 (D8)*\n\nUse 2 ug of DNA\n\nlig147-L11 ⇒ 7.7 nM\n\nOctamer molarity acc. to 60:1 ratio ⇒ 462 nM ⇒1.01 ug in 5 uL ⇒ Prepare 12 uL of stock with 500 ng/uL with refolding buffer \\[1.11 uL stock \\+ 8.89 uL refolding buffer\\] \\[O500\\] ⇒ Prepare 5 uL octamer stock \\[3.92 uL \\+ 1.08 uL refolding buffer \\+ glycerol\\] \\[1.78 M\\] ⇒ Final concentration of mix \\[1.95 M\\]\n\n### 2. lig147 Recon Test for NCAP-SELEX\n\nRun a test program O/N with Orange Dye and a Plate containing 6.5 uL of water.\n\n \n",
+ "experiments": [
+  "1. Reconstitution of lig20K with SBP-Octamer \\+ TF pool incubation",
+  "2. lig147 Recon Test for NCAP-SELEX"
+ ],
+ "images": [],
+ "tables": 0,
+ "id": "2025-11-01",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Reconstitution",
+   "Bead purification",
+   "Fragmentation"
+  ],
+  "reagents": [
+   "EDTA",
+   "Tris",
+   "KCl",
+   "DTT",
+   "Histone octamer",
+   "Glycerol"
+  ],
+  "samples": [
+   "lig20K",
+   "lig147",
+   "D7",
+   "D8"
+  ],
+  "custom": []
+ },
+ "title": "Reconstitution of lig20K with SBP-Octamer \\+ TF pool incubation; lig147 Recon Test for NCAP-SELEX"
+}

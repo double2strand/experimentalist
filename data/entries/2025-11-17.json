@@ -1,0 +1,41 @@
+{
+ "date": "2025-11-17",
+ "heading": "**17 November 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "1. *Prepare 1.55X SELEX Buffer again and aliquot 30 uL per well of a NUNC plate for storage*  \n2. *Prepare 10X stock for Wash Buffer (HT-SELEX)*  \n3. *Aliquot PCR1 plates for post-SELEX PCR*  \n4. *Run qPCR for NCAP-SELEX cycle 1 DNA again on new Lightcycler Pro*   \n5. *Submit long-read sequencing samples*\n\n*Submit long-read sequencing samples*\n\n| NT1866791P | LRS16425959 | lig20Knuc |   |   | 55 | 1.81 |\n| :---- | :---- | :---- | :---- | :---- | :---- | :---- |\n| NT1866792Q | LRS16425960 | lig50Knuc |   |   | 150 | 2.08 |\n| NT1866793R | LRS16425961 | 293T20knuc |   |   | 55 | 19.6 |\n| NT1866794S | LRS16425962 | GP5d20knuc |   |   | 55 | 27.6 |\n| NT1866795T | LRS16425963 | lig20kHnuc |   |   | 55 | 6.06 |\n| NT1866796U | LRS16425964 | 147nuc |   |   | 57.8 | 2.86 |\n| NT1866797V | LRS16425965 | lig20k |   |   | 55 | 6.62 |\n| NT1866798W | LRS16425966 | lig50K |   |   | 150 | 2.16 |\n| NT1866799A | LRS16425967 | 293tT20k |   |   | 55 | 7.3 |\n| NT1866800W | LRS16425968 | GP5d20k |   |   | 70.6 | 9.68 |\n\n| SELEX Buffer (prepare freshly) 1.55X |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | STOCK | Final 1.55x: | 150 mL |\n| Promega | 10x | 1.55x | 23.25 mL |\n| EGTA | 0.5M | 155μM | 46.5 μL |\n| DTT | 1M | 1.55mM | 232.5 μL |\n| ZnSO4 | 100 mM | 3μM | 4.5 μL |\n\nFilter this buffer and aliquot 300 uL of buffer per well of a 96-well plate. From here transfer 30 uL per well of a 384-well storage plate (X5).\n\nlig147c1PCR1:  \nlig147c1PCR2:  \nligN40w107c1PCR1:  \nligN40w107c1PCR2:  \n\n| 10X Wash Buffer |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | STOCK | Final 10x: | 2 L |\n| Tris pH 7.5 | 1M | 50mM | 100 mL |\n| EDTA | 0.5M | 50mM | 200 mL |\n\nIncubate the wash buffer in an ice bucket during use.  \nRinse and prime the washer before loading the beads plate.\n\nFreshly prepare 1X buffer ⇒ 200 mL \\+ 1800 mL water \\+ 2 mL 1 M DTT. Prepare early during the day and chill the bottles at 4 degrees.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 3,
+ "id": "2025-11-17",
+ "tags": {
+  "techniques": [
+   "qPCR",
+   "PCR",
+   "SELEX",
+   "Cell culture",
+   "Bead purification"
+  ],
+  "reagents": [
+   "EDTA",
+   "Tris",
+   "DTT"
+  ],
+  "samples": [
+   "lig20Knuc",
+   "lig50Knuc",
+   "lig20kHnuc",
+   "lig20k",
+   "lig50K",
+   "lig147c1PCR1",
+   "lig147c1PCR2",
+   "ligN40w107c1PCR1",
+   "ligN40w107c1PCR2"
+  ],
+  "custom": []
+ },
+ "title": "1. Prepare 1.55X SELEX Buffer again and aliquot 30 uL per well of a NUNC plate for storage  "
+}

@@ -1,0 +1,32 @@
+{
+ "date": "2025-03-17",
+ "heading": "**17 March 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**ShhOligo1 PCR**\n\nOligo 1 was ordered as a ssDNA oligo that needs to be converted into dsDNA by PCR:\n\n![](assets/img/doc1-image40.png)\n\nAmplification PCR (CAPAMP1):\n\n| Shhgb\\_F (10 uM) | 2.25 uL |\n| :---- | :---- |\n| Shhgb\\_R (10 uM) | 2.25 uL |\n| 2X KAPA HiFi | 12.5 uL |\n| ssDNA (1 uL of 100 uM oligo) | 1 uL |\n| NF H2O | 7 uL |\n\n \n\n| 95 degrees C | 3 min |\n| :---- | :---- |\n| **98 C** | **20 s** |\n| **64 C** | **15 s                                                           6X** |\n| **72 C** | **30 s** |\n| 72 C | 40 min |\n| 4 C | HOLD |\n\nAmplification PCR repeat (CAPAMP2):\n\n| Shhgb\\_F (10 uM) | 2.25 uL |\n| :---- | :---- |\n| Shhgb\\_R (10 uM) | 2.25 uL |\n| 2X KAPA HiFi | 12.5 uL |\n| ShhBColigo1 dsDNA (from 1st PCR reaction) | 2.5 uL |\n| NF H2O | 5.5 uL |\n\n \n\n| 95 degrees C | 3 min |\n| :---- | :---- |\n| **98 C** | **20 s** |\n| **64 C** | **15 s                                                           2X** |\n| **72 C** | **30 s** |\n| 72 C | 40 min |\n| 4 C | HOLD |\n\n**SELEX library quantification:**\n\nRepeat the SELEX library quantification by using a new set of Agilent HSD1000 ScreenTape reagents.\n\nThe samples were diluted 5-fold and run on the Agilent TapeStation. Regions between 100-500 bp were marked out and used for quantification. Fragments \\> 250 bp were still seen in this region.\n\nAnother repeat SPRI clean-up will be needed in this case. \n\n**Inoculation of pHRS-HCCgb clones**\n\nFrom the pHRS-HCCgb plate, select 5 colonies and inoculate in 5 mL each of LB-Amp media. Incubate O/N at 37 degrees. These tubes are labeled as:\n\n- pHRS-HCCgb1  \n- pHRS-HCCgb2  \n- pHRS-HCCgb3  \n- pHRS-HCCgb4  \n- pHRS-HCCgb5\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc1-image40.png"
+ ],
+ "tables": 4,
+ "id": "2025-03-17",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Library prep",
+   "Bead purification",
+   "Fragmentation"
+  ],
+  "reagents": [],
+  "samples": [
+   "CAPAMP1",
+   "CAPAMP2"
+  ],
+  "custom": []
+ },
+ "title": "ShhOligo1 PCR"
+}

@@ -1,0 +1,23 @@
+{
+ "date": "2025-02-21",
+ "heading": "**21 February 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**AT10 plasmid pool amplification with Illumina PE primers**\n\nP5\\_staggered\\_F(™) \\= 58 C  \nP7\\_BC1\\_R \\= 62 C  \nAnnealing temperature \\= 60 C\n\nPer reaction:\n\n| KAPA HiFi MM (2X) | 25 uL |\n| :---- | :---- |\n| P5 primer mix (100 uM) | 0.25 uL |\n| Plasmid library  |  |\n| P7 primer (5 uM) | 5 uL |\n| NF H2O | Up to 50 uL |\n\n| 95 C | 1 min |\n| :---- | :---- |\n| 95 C | 30 s |\n| 60 C | 30 s |\n| 72 C | 30 s |\n| 72 C | 10 min |\n| 4 C | Forever |\n\n28 cycles of amplification was performed\n\nFor the P5 primer mix: 5 uL of each primer (100 uM) in a single tube  \nMaster-Mix \\[4 tubes per plasmid library\\]:\n\n| KAPA HiFi MM (2X) | 125 uL |\n| :---- | :---- |\n| P5 primer mix (100 uM) | 1.25 uL |\n| Plasmid library  | 50 ng\\* |\n| P7 primer (5 uM) | 5 uL\\* |\n| NF H2O | Up to 50 uL |\n\n\\* to be added separately to each pool of reactions  \n",
+ "experiments": [],
+ "images": [],
+ "tables": 3,
+ "id": "2025-02-21",
+ "tags": {
+  "techniques": [
+   "Library prep"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "AT10 plasmid pool amplification with Illumina PE primers"
+}

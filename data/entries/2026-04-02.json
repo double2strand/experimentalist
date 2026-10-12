@@ -1,0 +1,32 @@
+{
+ "date": "2026-04-02",
+ "heading": "**2 April 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*lig147 & ligN40 NCAP-SELEX \\+ FS & HT-SELEX \\+ FS*\n\nNCAP 147 FS ⇒ PE2  \nHTS 147 FS ⇒ PE2  \nNCAP N40 FS ⇒ PE3  \nHTS N40 FS ⇒ PE3\n\n*GP5d pHRS PlasmidFS*  \n \n\n![](assets/img/doc3-image13.png)\n\nWe use 7.5 uL of DNA, 1.5 uL Cas9 RNP, 1 uL Nuclease reaction buffer.\n\nSet up multiple reactions for both the 12h and 18h time-point samples.\n\n**NOTE: These samples were discarded since I realised that the actual Hia5 treatment was carried out without SAM.**\n\n*HTFS & NCFS reaction set up*\n\nHTFS\n\nReaction Volume \\= 20 uL\n\nFor 1000 wells (2 ligands):\n\nTotal \\= 2 x 1000 \\= 2000 uL  \nHia5 \\= 0.01 x 1000 \\= 10 uL  \nSAM \\= 0.5 x 1000 \\= 500 uL  \nHia5 buffer \\= 1490 uL\n\nSplit into 20 uL per well of a 96 well plate and then add 2 uL to each well of the HTFS plates (total needed \\= 16 uL).\n\nNCFS\n\nReaction Volume \\= 35 uL  \nFor 1000 wells (2 ligands):\n\nTotal \\= 3 x 1000 \\= 3000 uL  \nHia5 \\= 0.01 x 1000 \\= 10 uL  \nSAM \\= 0.9 x 1000 \\= 900 uL  \nHia5 buffer \\= 2090 uL\n\nSplit into 31 uL per well of 96-well plate and then add 3 uL per well of the NCFS plates (total needed \\= 24 uL).\n\nNOTES:\n\n- I have reduced the amount of enzyme used to 0.01 uL per well of a SELEX reaction  \n- For the Hia5 treatment, I first incubated at 37 C for \\~40 min, and then changed to incubation at 25 C for 1 hour → the idea behind this was that since the TF-DNA interactions were set up at RT, it might be better to carry out the foot-printing as well at 25 C\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc3-image13.png"
+ ],
+ "tables": 0,
+ "id": "2026-04-02",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Hia5"
+  ],
+  "reagents": [
+   "SAM",
+   "Hia5"
+  ],
+  "samples": [
+   "lig147",
+   "ligN40"
+  ],
+  "custom": []
+ },
+ "title": "lig147 & ligN40 NCAP-SELEX + FS & HT-SELEX + FS"
+}

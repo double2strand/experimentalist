@@ -1,0 +1,24 @@
+{
+ "date": "2026-02-09",
+ "heading": "**9 February 2025**",
+ "date_note": "Heading says **9 February 2025**; year assumed to be a typo (placed chronologically).",
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*HTFS ligation size confirmation*\n\nRun the following samples on a 0.5 % agarose gel:\n\n1. Extend 1 kb ladder  \n2. 1 kb plus ladder  \n3. 147HTFSlig (2 uL)  \n4. N40HTFSlig (1 uL)\n\nFrom the agarose gels, it is seen that there is a smear of HMW but most of the DNA is spread around either the wells and some DNA is spread between 1-5 kb. \n\n4 uL of each sample was then used to set up another ligation O/N.\n\n*ELF2lig native gel re-run*\n\nRun the samples in an 8% TBE gel. Use 1 X TBE Running Buffer.\n\nPre-run empty gel at 100 V, 10 mins (cold room).\n\nRun actual gel at 90 V, 90 mins.\n\nLoad samples along with Tridye ladder as well as 50-bp ladder and samples to be prepared in 10 uL with TBE Hi-Density Sample Buffer (2.5 uL per 10 uL sample).\n\nLoading Order:\n\n1. Tridye ladder  \n2. 50-bp ladder  \n3. ELFlig1  \n4. ELFlig1 (EcoRV)  \n5. ELFlig1 \\+ nucleosome (EcoRV)  \n6. ELFlig1 \\+ ELF2 (EcoRV)  \n7. ELFlig1 \\+ nucleosome \\+ ELF2 (EcoRV)  \n8. 50-bp ladder  \n9. Tridye ladder  \n10. Loading dye\n",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "id": "2026-02-09",
+ "tags": {
+  "techniques": [
+   "Gel electrophoresis",
+   "Ligation"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "HTFS ligation size confirmation"
+}

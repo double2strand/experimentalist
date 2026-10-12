@@ -1,0 +1,40 @@
+{
+ "date": "2026-01-16",
+ "heading": "**16 January 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*lig70N plate preparation*\n\nCurrent lig70N \\= 16.25 ug\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **ligN40w107 Ann** | **490** |\n| **Phusion Master Mix** | **2500** |\n| **NCAP\\_F (10 µM)** | **250** |\n| **NCAP\\_R (10 uM)** | **250** |\n| **Water** | **510**  |\n| **Total** | **5000** |\n\nSplit mix into 25 uL per well for two 96-well PCR plates.\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **3X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\n*ELF ligand PCR*\n\nELF lig1 \\= 39.2 ng/uL  \nELF lig4 \\= 40 ng/uL\n\n16X\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **ELFlig1/4** | **8 uL** |\n| **Phusion Master Mix** | **200 uL** |\n| **ELF\\_FWD 10 uM** | **20 uL** |\n| **ELF\\_REV1 10 uM** | **20 uL** |\n| **Water** | **152 uL** |\n| **Total** | **400** |\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 59°C | 15 s       **35X\\*** |\n| 72°C | 30 s |\n| 72°C | 10 min |\n| 4°C | HOLD |\n\n*HT SELEX \\+ Hia5 Checklist*\n\n1. Prepare protein plate same as last round of SELEX  \n2. Prepare fresh 1.55X SELEX Buffer Plates  \n3. Write *Hia*5 program \\[4.5 uL TF dilution buffer \\+ 8.5 uL 1.55X SELEX Buffer \\+ 5 uL DNA → Incubate 30 mins, RT → 1 uL dHia5 \\+ 0.7 uL SAM \\+ 4.3 uL Hia5 buffer\\]  \n4. Test Hia5 activity again with 25 uL reaction  \n5. Set up PCR for lig147 and lig70N with PE2/3 plates \\- prepare separate mastermix plates for this with PE\\_F and PE\\_R primers\n\nPost *Hia*5 steps:\n\n- Inactivate *Hia*5 with heating at 80 degrees, 10 mins  \n- Pool all DNA \\+ PNK treatment \\+ ligation \n\nTest Hia5:\n\nR1: 4.5 uL TF dilution buffer \\+ 8.5 uL 1.55X SELEX Buffer \\+ 30 ng DNA (1 uL) \\+ 1 uL dHia5 \\+ 0.7 uL SAM \\+ 4.3 uL Hia5 buffer \\+ 4 uL H2O\n\nR2: 4.5 uL TF dilution buffer \\+ 8.5 uL 1.55X SELEX Buffer \\+ 30 ng DNA (1 uL) \\+ 0.5 uL dHia5 \\+ 0.7 uL SAM \\+ 4.3 uL Hia5 buffer \\+ 4.5 uL H2O\n\n*Testing DpnI digestion of dam/dcm negative enhancer plasmids*\n\n- pHRS-Gclav1  \n- pHRS-Gcla met-  \n- pHRS-Hcla met-  \n- pHRS-HCD met-\n\n| DNA | 500 ng |\n| :---- | :---- |\n| rCutsmart 10X | 2 uL |\n| DpnI | 1 uL |\n\n| 37 C | 1 hour |\n| :---- | :---- |\n| 80 C | 20 mins |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 6,
+ "id": "2026-01-16",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Hia5",
+   "Ligation",
+   "Restriction digest"
+  ],
+  "reagents": [
+   "Phusion",
+   "SAM",
+   "Hia5"
+  ],
+  "samples": [
+   "lig70N",
+   "ligN40w107",
+   "lig1",
+   "lig4",
+   "lig147",
+   "Gclav1",
+   "NCAP_F",
+   "NCAP_R"
+  ],
+  "custom": []
+ },
+ "title": "lig70N plate preparation"
+}

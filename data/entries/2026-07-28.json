@@ -1,0 +1,28 @@
+{
+ "date": "2026-07-28",
+ "heading": "**28 July 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Glycerol Stocks for new clones*\n\n- Prepare LB (with antibiotics) \\+ 50% glycerol → filter sterilised  \n- Take 500 uL culture \\+ 500 uL sterilised glycerol media  \n- Place 150 uL in each well of a 96-well plate (prepare duplicates)\n\n| KLF1 | LHX2 | LBX1 | WT1 | MEF2A | NKX2-2 | NACC2 | NACC1 | POGZ | POGK | IRF1 | NFIA |\n| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |\n| NFIL3 | TBX6 | BEND3 | TETRNEW | IKZF1 | BEND5 | BEND6 | LHX3 |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n\n*Purification of TdT reactions*\n\n- To each subpool, add SDS to a final concentration of 0.08%   \n- Then do a 1:1 ampure bead cleanup following the standard ampure cleanup protocol. Because the solution has SDS in it, do not mix vigorously (this will create bubbles).   \n- Elute in 40ul NF warm water   \n- Measure the concentration on the nanodrop using the ssDNA function. \n\nConcentration obtained \\= \\~102 ng/uL ssDNA\n\nExpected yield for about 50 uL based on the original protocol is \\~11 ug. The current total yield is \\~4-5 ug so far lower than we typically expect.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2026-07-28",
+ "tags": {
+  "techniques": [
+   "Bead purification",
+   "Nanodrop"
+  ],
+  "reagents": [
+   "AMPure",
+   "SDS",
+   "Glycerol"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Glycerol Stocks for new clones"
+}

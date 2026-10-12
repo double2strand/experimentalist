@@ -1,0 +1,44 @@
+{
+ "date": "2026-01-30",
+ "heading": "*30 January 2026*",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Bradford assay for ELF2 and ELF2 mutant 3 protein estimation*\n\nProteins to be measured:\n\nELF2 WT (new)\n\nELF2 WT DBD → from Q3 DBD (Well E4)\n\nELF2 mutant 3\n\n![](assets/img/doc3-image6.png)\n\n1\\. Pipette 5 µL of each standard or unknown sample into the appropriate microplate wells (e.g., Thermo Scientific™ Pierce™ 96-Well Plates, Cat. No. 15041). \n\n2\\. Add 250 µL of the Bradford reagent to each well, then mix with plate shaker for 30 seconds. \n\n3\\. Remove the plate from the shaker. \n\n4\\. Incubate the plate for 10 minutes at RT. \n\n5\\. Measure the absorbance at or near 595 nm with a plate reader. \n\n6\\. Subtract the average 595 nm measurement for the blank replicates from the 595 nm measurements of all other individual standard and unknown sample replicates. Pierce™ Bradford Protein Assay Kit User Guide 3\n\n7\\. Prepare a standard curve by plotting the average blank-corrected 595 nm measurement for each BSA standard vs. its concentration in µg/mL. Use the standard curve to determine the protein concentration of each unknown sample. Note: If using curve-fitting algorithms associated with a microplate reader, a four-parameter (quadratic) or best-fit curve will provide more accurate results than a purely linear fit. If plotting results by hand, a point-to-point curve is preferable to a linear fit to the standard points.\n\nPlate Format:\n\n| S1 | S1 | ELF2-1 | ELF2-1 |  |  |  |  |  |  |  |  |\n| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |\n| S2 | S2 | ELF2-2 | ELF2-2 |  |  |  |  |  |  |  |  |\n| S3 | S3 | ELF2m3 | ELF2m3 |  |  |  |  |  |  |  |  |\n| S4 | S4 | BufferD+gly | BufferD+gly |  |  |  |  |  |  |  |  |\n| S5 | S5 |  |  |  |  |  |  |  |  |  |  |\n| S6 | S6 |  |  |  |  |  |  |  |  |  |  |\n| S7 | S7 |  |  |  |  |  |  |  |  |  |  |\n| S8 | S8 |  |  |  |  |  |  |  |  |  |  |\n\nProtein concentrations estimated are as follows:\n\n|  |  | Odnorm | mg/mL | ng/uL |\n| :---- | :---- | :---- | :---- | :---- |\n| ELF2-1 | 0.5945 | 0.218 | 0.72594073 | 725.940726 |\n| ELF2-2 | 0.52 | 0.1435 | 0.47785548 | 477.855478 |\n| ELF2m3 | 0.496 | 0.1195 | 0.3979354 | 397.935398 |\n\nELF2-1 is the protein expressed large-scale in a tube\n\nELF2-2 is the protein found in well E4 of the Q3DBD plate\n\n*Basically, I reconsitute 20ul nucleosome with 4ug DNA ligand, then I add 20x molar ratio of ELF2 to the nucleosome (not the whole 20ul, just the amount needed from EcoRV digestion, the rest I keep at 4deg for up to a month), incubate at 25deg fro 15min, then add cutsmart buffer & EcoRV & incubate at 37deg fro 15min. Then I add a mixture of SDS+proteinase K to stop the digestion (detail see the attached file), and incubate at 55deg for 10min. Before running the gel, I purify the DNA with the qiagen PCR purification kit (so the gel looks nicer) and load 100-200ng DNA onto a 3% agarose gel and run on ice (I found out that the gel turns out quite ugly if I load more than 200ng DNA).*\n\nFirst prepare 1% BSA solution ⇒ 0.1 g BSA in 10 mL water\n\nNext prepare the following two buffers for TF dilution:\n\n *![](assets/img/doc3-image7.png)*\n\n*![](assets/img/doc3-image8.png)*\n\n### **Nucleosome amount per reaction**\n\n**150 ng nucleosome**\n\n### **TF needed (20× molar excess)**\n\nFrom earlier (nucleosome MW ≈ 205,845 g/mol; TF MW \\= 16.05 kDa):\n\n* 150 ng nucleosome \\= **0.729 pmol**\n\n* 20× TF \\= **14.6 pmol**\n\n* TF mass \\= 14.6 pmol × 16.05 ng/pmol \\= **234 ng TF per reaction**\n\n| Nucleosome type | Stock (ng/µL) | Volume nucleosome stock (µL) |\n| ----- | ----- | ----- |\n| 1 | 55.6 | **2.70** |\n| 2 | 30.2 | **4.97** |\n| 3 | 43.2 | **3.47** |\n| 4 | 54.2 | **2.77** |\n\nDilute TFs using 50 mM TF dilution buffer:\n\n### **Resulting TF concentrations**\n\n* ELF2-2 stock: 477.855 ng/µL → /4 \\= **119.46 ng/µL** (4 uL original protein \\+ 12 uL 50 mM buffer)\n\n* ELF2m3 stock: 397.935 ng/µL → /4 \\= **99.48 ng/µL** (4 uL original protein \\+ 12 uL 50 mM buffer)\n\n  Both at **75 mM salt**.\n\n### **TF volumes needed to deliver 234 ng**\n\n* **ELF2-2:** 234 / 119.46 \\= **1.96 µL**\n\n* **ELF2m3:** 234 / 99.48 \\= **2.35 µL**\n\n| Nuc type | Nuc stock (µL) | Add 100 mM nuc buffer to reach 11.02 µL (µL) | Add ELF2-2 TF work (µL) | Add 50 mM TF buffer (µL) | Total |\n| ----- | ----- | ----- | ----- | ----- | ----- |\n| 1 | 2.70 | **8.32** | 1.96 | 2.02 | 15 |\n| 2 | 4.97 | **6.05** | 1.96 | 2.02 | 15 |\n| 3 | 3.47 | **7.55** | 1.96 | 2.02 | 15 |\n| 4 | 2.77 | **8.25** | 1.96 | 2.02 | 15 |\n\n| Nuc type | Nuc stock (µL) | Add 100 mM nuc buffer to reach 10.83 µL (µL) | Add ELF2m3 TF work (µL) | Add 50 mM TF buffer (µL) | Total |\n| ----- | ----- | ----- | ----- | ----- | ----- |\n| 1 | 2.70 | **8.13** | 2.35 | 1.82 | 15 |\n| 2 | 4.97 | **5.86** | 2.35 | 1.82 | 15 |\n| 3 | 3.47 | **7.36** | 2.35 | 1.82 | 15 |\n| 4 | 2.77 | **8.06** | 2.35 | 1.82 | 15 |\n\nIncubate mixture in Protein LoBind tubes at RT, 15 mins.\n\nPost-incubation, add 2 uL rCutsmart buffer & 1 uL EcoRV-HF to the tubes → 37 C, 15 mins\n\nTo each tube after incubation, add 0.4 uL Proteinase K \\+ 0.2 uL 10% SDS → 55 C, 10 mins\n\nColumn purify the DNA & store O/N at \\-20 C.\n\nOrder of reactions:\n\n1. ELF2 \\+ lig1nuc  \n2. ELF2 \\+ smEcoRVnuc  \n3. ELF2 \\+ lig4nuc  \n4. ELF2 \\+ noEcoRVnuc  \n5. ELF2 \\+ lig1nuc  \n6. ELF2 \\+ smEcoRVnuc  \n7. ELF2 \\+ lig4nuc  \n8. ELF2 \\+ noEcoRVnuc\n",
+ "experiments": [
+  "**Nucleosome amount per reaction**",
+  "**TF needed (20× molar excess)**",
+  "**Resulting TF concentrations**",
+  "**TF volumes needed to deliver 234 ng**"
+ ],
+ "images": [
+  "assets/img/doc3-image6.png",
+  "assets/img/doc3-image7.png",
+  "assets/img/doc3-image8.png"
+ ],
+ "tables": 5,
+ "id": "2026-01-30",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Gel electrophoresis",
+   "Column purification",
+   "Restriction digest",
+   "Proteinase K"
+  ],
+  "reagents": [
+   "Proteinase K",
+   "SDS",
+   "BSA",
+   "Nuc buffer"
+  ],
+  "samples": [
+   "lig1nuc",
+   "lig4nuc"
+  ],
+  "custom": []
+ },
+ "title": "**Nucleosome amount per reaction**; **TF needed (20× molar excess)**; **Resulting TF concentrations**"
+}

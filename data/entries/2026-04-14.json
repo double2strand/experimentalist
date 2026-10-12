@@ -1,0 +1,30 @@
+{
+ "date": "2026-04-14",
+ "heading": "**14 April 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*Linearize Plasmid FS samples*\n\n![](assets/img/doc3-image13.png)\n\nWe use 7.5 uL of DNA, 1.5 uL Cas9 RNP, 1 uL Nuclease reaction buffer.\n\nLow salt RB (2 L)\n\n37.28 g KCl  \n20 mL 1 M Tris-HCl, pH 7.5  \n4 mL 0.5 M EDTA  \n2 mL DTT\n\n**GenGen Sem \\- 15th April 2026 (Ally Dunham)**\n\n- **MAVE datasets**  \n- **TF-DNA or Protein-Protein interactions and impact of mutations to do this**  \n- **barcoded/multiplexed EMSA (Carl de Boer’s lab)**  \n- **no real tech to assess impact of mutations on protein \\+ DNA levels simultaneously**  \n    \n    \n    \n  \n\n  \n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc3-image13.png"
+ ],
+ "tables": 0,
+ "id": "2026-04-14",
+ "tags": {
+  "techniques": [
+   "Seminar/notes"
+  ],
+  "reagents": [
+   "EDTA",
+   "Tris",
+   "KCl",
+   "DTT"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Linearize Plasmid FS samples"
+}

@@ -1,0 +1,38 @@
+{
+ "date": "2025-03-26",
+ "heading": "**26 March 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**PCR for pHRS-MYC335 vector assembly**\n\nPCR purify the product and run on a gel to check the size of the product. Perform additional gel extraction or additional PCRs if needed. (4635 bp)\n\n**SELEX libraries \\- discuss sequencing with AVITI**\n\nThe current TapeStation quantified values for the library as follows:\n\n| Sample Name | TapeStation Concentration (nM) |\n| :---: | :---: |\n| ligN20w100 HTS | 41.8 |\n| ligN20w100 NCAP | 7.27 |\n| lig147 NCAP | 5.1 |\n| Cyc0 | 1.8 |\n\n![](assets/img/doc1-image43.png)\n\n![](assets/img/doc1-image44.png)  \n**Assembly of MYC335 pHRSin vector**\n\nIDT gene blocks \\- pHRSnoloxgb1, pHRSnoloxgb2 contained 1000 ng of lyophilised dsDNA each.\n\n- Tubes were briefly spun down.  \n- 40 uL TE buffer was added to each tube to achieve a final concentration of 25 ng/uL.  \n- The tubes were vortexed briefly.  \n- Tubes incubated at 50°C for 20 minutes for resuspension.  \n- Concentration was verified by using the NanoDrop.\n\nAfter purifying the new MYC335vec PCR product, set up the following assembly reaction:\n\n| Component | Volume | Amount |\n| ----- | ----- | ----- |\n| MYCvec | 3.8 μl | 0.027 pmoles |\n| gb1 | 3.1 μl | 0.053 pmoles |\n| gb2 | 3.1 μl | 0.053 pmoles |\n| NEBuilder HiFi DNA Assembly Master Mix | 10.0 μl | \\--- |\n| Total | 20.0 μl | 0.133 pmoles |\n\nIncubate samples in a thermocycler at 50°C for 60 minutes. Following incubation, store samples on ice or at –20°C for subsequent transformation.\n\nTransform 2 uL of the reaction into NEB DH5a cells and then plate 100 uL on an LB-AMP plate.\n\n**Repeat ligation and transformation of pHRS-GCC-ShhBC**\n\n1. Set up the reaction on ice (see table).\n\n| Component | Volume | Amount |\n| ----- | ----- | ----- |\n| GCCShh | 7.8 μl | 0.033 pmoles |\n| ShhBC | 0.4 μl | 0.167 pmoles |\n| Deionized H2O | 1.8 μl | \\--- |\n| NEBuilder HiFi DNA Assembly Master Mix | 10.0 μl | \\--- |\n| Total | 20.0 μl | 0.200 pmoles |\n\n Incubate samples in a thermocycler at 50°C for 60 minutes. Following incubation, store samples on ice or at –20°C for subsequent transformation.\n\nElectroporate by adding \\~6.5 uL of the reaction mix into per 100 uL of Transformax cells (3 tubes needed). Split 20 uL per chilled cuvette and provide one pulse and add 950 uL of recovery media immediately. Pool all the bacteria and recovery media and plate on a large Bioassay plate in original, 1:100. Incubate O/N at 37 degrees.\n\nNOTE: During electroporation, most of the tubes yield a TC \\< 4 ms which suggests that pores of the cells have opened too briefly \\- either due to very high cell density or too much DNA loaded onto each cuvette.\n\nWhile these cells will be grown and plated, it is quite likely that this experiment may have failed. If checking the plates tomorrow does not reveal any significant colonies then set up 3X ligation reaction, purify the product by a column purification and then use the purified DNA for electroporation.\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc1-image43.png",
+  "assets/img/doc1-image44.png"
+ ],
+ "tables": 3,
+ "id": "2025-03-26",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Gel electrophoresis",
+   "Ligation",
+   "Cell culture",
+   "Library prep",
+   "Column purification",
+   "Nanodrop"
+  ],
+  "reagents": [
+   "TE buffer"
+  ],
+  "samples": [
+   "ligN20w100",
+   "lig147"
+  ],
+  "custom": []
+ },
+ "title": "PCR for pHRS-MYC335 vector assembly"
+}

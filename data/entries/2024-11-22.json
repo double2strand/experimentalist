@@ -1,0 +1,31 @@
+{
+ "date": "2024-11-22",
+ "heading": "**22nd November 2024**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "| 1\\. Work on strategy for nucleosome recon with 20kbp ligand for FIBER-SEQ |\n| :---- |\n| 2\\. Design gene blocks with MYC355 enhancer and loxP system surrounding the enhancer  |\n| 3\\. Design strategy for matching barcode tracking between enhancers and promoter/reporter |\n| 4\\. Thaw new 293T-X cells for large scale virus packaging |\n| 5\\. Cloning of pHRS-Nh100 library and plating on BioAssay plate |\n| 6\\. Re-run SELEX batch2 libraries on TapeStation with HS-DNA1000 reagents \\- denatured   |\n| 7\\. Set up liquid culture for pHRS-AT10 (except HCC) transformants |\n\n*Cloning of pHRS-Nh100 library and plating on BioAssay plate:*\n\nNh (Nh-M \\+ Nh100)\n\nInsert size is actually 158 bp (lower than AT10 library), so 5:1 ratio or higher may be needed. By calculation the insert to be added for 5:1 works out to 4.15 ng, but we are adding higher as per the previous calculations for AT10 for this trial.\n\n| NEBuilder HiFi DNA Assembly Master Mix | 10 uL |\n| :---- | :---- |\n| Nh-M (vector) – 50 ng | 1.47 uL |\n| Nh100 – 7.88 ng\\* | 0.20 uL |\n| NF H2O | 8.33 uL |\n\nIncubate at 50°C for 60 minutes.\n\n- Thaw chemically competent cells (NEB DH5a) on ice.    \n- Add 5 µl of the chilled assembled product to 50 uL competent cells. Mix gently by flicking/swirling the tube 4–5 times. Do not vortex.     \n- Place the mixture on ice for 30 minutes. Do not mix.    \n- Heat shock at 42°C for 30 seconds. Do not mix.    \n- Transfer tubes to ice for 2 minutes.   \n- Add 700 µl of room-temperature SOC media to the tube.   \n- Incubate the tube at 37°C for 60 minutes. Shake vigorously (500 rpm) or rotate.   \n- Warm selection plates to 37°C.    \n- Spread entire liquid culture over the BioAssay plate.  \n- Incubate overnight at 37°C.\n\n*Re-run SELEX batch2 libraries on TapeStation with HS-DNA1000 reagents – denatured:*\n\nSome samples from the recent SELEX libraries (5 uL each) were taken and denatured at 95°C, 2 mins and then immediately cooled for around 5-10 mins on ice.\n\n1 uL of the sample was then combined with 3 uL of the HS sample buffer and loaded on to the DNA1000 ScreenTape.\n\nThe denaturing did not yield any clear results – in fact all fragment sizes were shifted to very high sizes – consistent \\~690 bp sizes were seen, suggesting further secondary structure formation during the re-annealing of the separated ssDNA strands. The enriched DNA in SELEX likely consists of a lot of GC-rich and palindromic which leads to a lot of secondary structure formation.\n\n![A screenshot of a graphDescription automatically generated](assets/img/doc1-image34.png)  \n*Set up liquid culture for pHRS-AT10 (except HCC) transformants:*\n\nAdd 70 mL media on each plate and scrape all colonies into the liquid medium. Shake gently for about 10 mins to allow even mixing of colonies into LB media. Mix and transfer to a culture flask. Make volume up to 150 mL and add 150 uL of Ampicillin.\n\nCulture O/N at 37°C.\n\nCultures are:\n\n- pHRS-Gcla-libv1  \n- pHRS-Hcla-libv1  \n- pHRS-GCC-libv1  \n- pHRS-GCD-libv1  \n- pHRS-HCD-libv1\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc1-image34.png"
+ ],
+ "tables": 2,
+ "id": "2024-11-22",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Reconstitution",
+   "Cell culture",
+   "Library prep",
+   "Fragmentation"
+  ],
+  "reagents": [],
+  "samples": [
+   "293T"
+  ],
+  "custom": []
+ },
+ "title": "| 1. Work on strategy for nucleosome recon with 20kbp ligand for FIBER-SEQ |"
+}

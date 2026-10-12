@@ -1,0 +1,38 @@
+{
+ "date": "2025-02-28",
+ "heading": "**28 February 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**Gene Block Resuspension & Annealing:**\n\nIDT gene blocks \\- MYC335gb1, MYC335gb2 contained 1000 ng of lyophilised dsDNA each.\n\n- Tubes were briefly spun down.  \n- 100 uL TE buffer was added to each tube to achieve a final concentration of 10 ng/uL.  \n- The tubes were vortexed briefly.  \n- Tubes incubated at 50°C for 20 minutes for resuspension.  \n- Concentration was verified by using the NanoDrop.\n\n The annealing section between both gene blocks has a Tm \\= 66.5°C\n\n| Gb-1 | 1 uL (\\~10 ng) |\n| :---- | :---- |\n| Gb-2 | 1 uL (\\~10 ng) |\n| Phusion 5X HF buffer | 3 uL |\n| NF water | 10 uL |\n\n| 97°C | 5 min |\n| :---- | :---- |\n| \\-1°C/cycle | 32X |\n| 65°C | 30 min |\n| \\-1°C/cycle | 5X\\* |\n\n\\* Rapid cooling to 60°C\n\nExtension: (EXT, Machine 4\\)\n\nTo complete the annealing reaction, the following components were added:\n\n| Phusion 5X HF buffer  | 1 uL |\n| :---- | :---- |\n| 10 mM dNTPs | 2.5 uL |\n| Phusion Pol | 1.5 uL |\n\nExtension PCR 🡪 72°C for 60 minutes.\n\nAnnealing reaction tube is stored at 4°C.\n\n**Checking PCR product size & gel extraction:**\n\ni. \\[SHHBCVEC\\] Products for each pool of the pHRS libraries were combined and purified by passing through a MinElute column. Elute each product in 20 uL of pre-warmed TE buffer.\n\nii. \\[MYC335VE\\] Pool the PCR reactions and pass through the MinElute column to purify the PCR reactions. Elute in 40 uL of pre-warmed TE buffer.\n\niii. Run all purified products on a 0.8% agarose gel and cut out the bands for gel extraction.\n\niv. Store the purified vector PCR DNA at 4 degrees.\n\n**QC for pooled PE PCR whitelist libraries for AT10-pools:**\n\ni. Run the samples on an Agilent High Sensitivity ScreenTape to get an accurate estimate of the sizes of the libraries.\n\n**Rapid Ligation Trial for SELEX ligands:**\n\ni. Re-quantify lig147 and ligN20w100 pools and note the concentrations of these ligands down.\n\nii. Use Rapid Ligation kit with a total of 400 ng of each ligand in a volume of 50 uL for a period of 30 mins at room temperature.\n\n| Linearized vector DNA | 400 ng |\n| :---- | :---- |\n| 5X Rapid ligation buffer | 10 uL |\n| T4 DNA ligase | 1 uL (5U/uL) |\n| NF water | Up to 50 uL |\n\n   \nNo blunt-end treatment or phosphorylation of ligands was performed for this round.\n\niii. Run the product of ligation on a 0.8% agarose gel to check the size of the ligation product.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 4,
+ "id": "2025-02-28",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Gel electrophoresis",
+   "Ligation",
+   "Library prep",
+   "Column purification",
+   "Nanodrop"
+  ],
+  "reagents": [
+   "Phusion",
+   "MinElute",
+   "T4 ligase",
+   "dNTPs",
+   "TE buffer"
+  ],
+  "samples": [
+   "lig147",
+   "ligN20w100"
+  ],
+  "custom": []
+ },
+ "title": "Gene Block Resuspension & Annealing:"
+}

@@ -1,0 +1,43 @@
+{
+ "date": "2025-08-20",
+ "heading": "**20 August 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Set up dialysis recon for 0.9:1 and 1.1:1 for lig147**  \n2. **Run MNase profile for lower time treatment & stain gel (B3, B4 recon)**  \n3. **Fragment HAP1 and GP5d\\_del WT genomic DNA to 20 kb mean fragment sizes**  \n4. **Image the sorted Gcla, Hcla, HCD cells for HAP1**  \n5. **Design new recombinant protein vectors for GenScript order**  \n6. **Run MOODS for gapped MYCMAX motifs on hg38 genome & correlate with MYC binding sites in varied cancers**\n\n### 1. Set up dialysis recon for 0.9:1 and 1.1:1 for lig147\n\nOctamer:DNA ⇒ 0.9:1 (A5recon)\n\nOctamer:DNA ⇒ 1.1:1 (A6recon)\n\n### 3. Fragment HAP1 and GP5d\\_del WT genomic DNA to 20 kb mean fragment sizes\n\nTake 8 ug each of the HAP1 and GP5d\\_del WT genomic DNA and dilute in TE buffer to a total volume of 150 uL. Pre-warm this at RT.\n\nLoad both the samples in the gTubes. Screw the cap on.\n\nLoad the gTubes into the centrifuge and spin for 60 sec at 4800 rpm. Then invert the tube and spin again at 4800 rpm for 60 sec.\n\nPlace the gTube on the UNLOAD position and collect the sheared sample from the screw cap.\n\nRun some of the sample on a 0.8% agarose gel to check for the integrity and shear size of the sample.\n\nUpon running the gel:\n\n![](assets/img/doc2-image110.png)\n\nWhat we see on the gel is that the intact gDNA has a band size much higher than the 20 kb ladder and possibly represents a size \\~50 kb which is the average gDNA size obtained with the Monarch gDNA extraction kit.\n\ngTube treatment however homogenises both the gDNA samples to 20 kb mean size fragments.\n",
+ "experiments": [
+  "1. Set up dialysis recon for 0.9:1 and 1.1:1 for lig147",
+  "3. Fragment HAP1 and GP5d\\_del WT genomic DNA to 20 kb mean fragment sizes"
+ ],
+ "images": [
+  "assets/img/doc2-image110.png"
+ ],
+ "tables": 0,
+ "id": "2025-08-20",
+ "tags": {
+  "techniques": [
+   "MNase",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Dialysis",
+   "gDNA isolation",
+   "Fragmentation"
+  ],
+  "reagents": [
+   "MNase",
+   "Histone octamer",
+   "TE buffer"
+  ],
+  "samples": [
+   "lig147",
+   "A5recon",
+   "A6recon",
+   "B3",
+   "B4"
+  ],
+  "custom": []
+ },
+ "title": "Set up dialysis recon for 0.9:1 and 1.1:1 for lig147; Fragment HAP1 and GP5d\\_del WT genomic DNA to 20 kb mean fragment sizes"
+}

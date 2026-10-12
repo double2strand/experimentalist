@@ -1,0 +1,33 @@
+{
+ "date": "2026-01-12",
+ "heading": "**12 January 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*lig70N PCR*\n\nConcentration of this annealed lig70Nw107 \\= \\~3 ug/uL\n\nDilute this DNA to get an estimated 5 ng/uL concentration DNA solution.\n\nPrepare a 10X reaction mix:\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **ligN40w107 Ann** | **10** |\n| **Phusion Master Mix** | **125** |\n| **NCAP\\_F (10 µM)** | **12.5** |\n| **NCAP\\_R (10 uM)** | **12.5** |\n| **Water** | **90**  |\n| **Total** | **250** |\n\nSplit mix into 25 uL per well for two 96-well PCR plates.\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **8X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\nPool the PCR product and run 20 uL of sample on a 1% agarose gel. Measure concentration of the PCR1 product.\n\nUpon running this PCR product on a 2% agarose gel no product was seen.\n\nThis suggested too much dilution of the initial annealed PCR product. \n\nI then ran another PCR with just 10-fold dilution of the original annealed product and this yielded a product of the right size but also retained the shorter annealed fragments.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 2,
+ "id": "2026-01-12",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "Gel electrophoresis",
+   "Fragmentation"
+  ],
+  "reagents": [
+   "Phusion"
+  ],
+  "samples": [
+   "lig70N",
+   "lig70Nw107",
+   "ligN40w107",
+   "NCAP_F",
+   "NCAP_R"
+  ],
+  "custom": []
+ },
+ "title": "lig70N PCR"
+}

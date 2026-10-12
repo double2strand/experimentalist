@@ -1,0 +1,52 @@
+{
+ "date": "2025-10-23",
+ "heading": "**23 October 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "### 1. Large scale reconstitution of 293T & GP5d 20K\n\n*293T-20K \\[x2\\]*\n\nUse 3.89 ug of DNA \\[3.76 uL \\+ 11.24 uL TE buffer\\]\n\n*293T-20K* (D4) ⇒ 15 uL ⇒ 15 nM \\[at 2 M salt concentration\\]\n\nOctamer molarity acc. to 60:1 ratio ⇒ 0.9 uM ⇒ 1.96 ug in 5 uL ⇒ Prepare 12 uL of stock with 500 ng/uL with refolding buffer \\[1.11 uL stock \\+ 8.89 uL refolding buffer\\] \\[O500\\] ⇒ Prepare 5 uL octamer stock \\[3.92 uL \\+ 1.08 uL refolding buffer \\+ glycerol\\] \\[1.78 M\\] ⇒ Final concentration of mix \\[1.95 M\\]\n\n*GP5d-20K \\[x1\\]*\n\nUse 3.89 ug of DNA \\[\t\t\t\t\\]\n\n*GP5d-20K* (D5) ⇒ 15 uL ⇒ 15 nM \\[at 2 M salt concentration\\]\n\nPrepare 5 uL octamer stock \\[3.92 uL O500 \\+ 1.08 uL refolding buffer \\+ glycerol\\] \\[1.78 M\\] ⇒ Final concentration of mix \\[1.95 M\\]\n\nThis trial is being run at 1.5 mL/min (pump 1\\) & 1.3 mL/min (pump 2\\)\n\n### 2. Combined ligation of different ligand patterns\n\nI have lig147 & ligN40w107 post PNK treatment. Set up ligation reactions for these with 500 ng each of both the ligands. In this context there will be lesser molecules of ligN40w107 in 500 ng as compared to lig147  because of the higher molecular weight of ligN40w107.\n\n| DNA | 1000 ng |\n| :---- | :---- |\n| PEG8000 | 3 uL |\n| 1 mM CoHex | 1 uL |\n| Ligase Buffer (10X) | 1 uL |\n| T4 DNA ligase | 1 uL |\n\n### 3. Quantification of D1, D2, B3 & B4 samples post *Hia5* treatment\n\nQubit was used to estimate the concentration of the samples. No DNA was seen in the supernatant from the Ampure XP purification. For the final eluted samples:\n\nD1-H-E : 1.71 ng/uL (\\~170 ng yield)\n\nD2-H-E : 3.88 ng/uL (\\~380 ng yield)\n\nFor B3 & B4 the values could not be detected using the Qubit assay → suggesting very low concentration values → potentially needs to be concentrated more\n\nCheck for 6mA using *DpnI* & *MboI*\n\nSamples processed : lig20K, B3-H, D1-H\n\n| DNA | 10 ng |\n| :---- | :---- |\n| rCutsmart Buffer | 1 uL |\n| DpnI/MboI | 0.2 uL |\n| Total  | 10 uL |\n\nDpnI\n\n| 37 C | 1 hour |\n| :---- | :---- |\n| 80 C | 20 mins |\n\nMboI\n\n| 37 C | 1 hour |\n| :---- | :---- |\n| 65 C | 20 mins |\n\nRun the gel in the following order:\n\n1. 1 kb plus ladder  \n2. 100 bp ladder  \n3. lig20K non-treated  \n4. lig20K DpnI  \n5. lig20K MboI  \n6. B3-H non-treated  \n7. B3-H DpnI  \n8. B3-H MboI  \n9. D1-H non-treated  \n10. D1-H DpnI  \n11. D1-H MboI\n\nRun at 95 V, 50 mins. Stain with SYBR green for \\~ 1 hour.\n",
+ "experiments": [
+  "1. Large scale reconstitution of 293T & GP5d 20K",
+  "2. Combined ligation of different ligand patterns",
+  "3. Quantification of D1, D2, B3 & B4 samples post *Hia5* treatment"
+ ],
+ "images": [],
+ "tables": 4,
+ "id": "2025-10-23",
+ "tags": {
+  "techniques": [
+   "Hia5",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Qubit",
+   "Ligation",
+   "Cell culture",
+   "Bead purification"
+  ],
+  "reagents": [
+   "SYBR",
+   "AMPure",
+   "Hia5",
+   "Histone octamer",
+   "T4 ligase",
+   "TE buffer",
+   "Glycerol"
+  ],
+  "samples": [
+   "lig20K",
+   "ligN40w107",
+   "293T",
+   "lig147",
+   "B3",
+   "B4",
+   "D4",
+   "D5",
+   "D1",
+   "D2"
+  ],
+  "custom": []
+ },
+ "title": "Large scale reconstitution of 293T & GP5d 20K; Combined ligation of different ligand patterns; Quantification of D1, D2, B3 & B4 samples post *Hia5* treatment"
+}

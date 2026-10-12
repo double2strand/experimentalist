@@ -1,0 +1,25 @@
+{
+ "date": "2025-07-01",
+ "heading": "**1 July 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "| Transduction of K562 & HAP1 cells with MYC355 T1 & T2 viruses |\n| :---- |\n| **Transform ShhBC ligation products into E.coli** |\n| **Concentrate lentivirus for pHRS-Gcla and pHRS-Hcla** |\n\n1. **Transduction of K562 & HAP1 cells with MYC355 T1 & T2 viruses**\n\nK562\n\nW1 \\- 100 uL MYC355-T1  \nW2 \\- 200 uL MYC355-T1  \nW3 \\- 100 uL MYC355-T2  \nW4 \\- 200 uL MYC355-T2\n\nHAP1\n\nW1 \\- 100 uL MYC355-T1  \nW2 \\- 200 uL MYC355-T1  \nW3 \\- 100 uL MYC355-T2  \nW4 \\- 200 uL MYC355-T2\n\nW1 \\- 1.890 mL media \\+ 100 uL virus T1 \\+ 10 uL TransDux  \nW2 \\- 1.790 mL media \\+ 200 uL virus T1 \\+ 10 uL TransDux  \nW3 \\- 1.890 mL media \\+ 100 uL virus T2 \\+ 10 uL TransDux  \nW4 \\- 1.790 mL media \\+ 200 uL virus T2 \\+ 10 uL TransDux\n\nMix gently by pipetting and then add the mix for each well to the annotated wells. Label the wells as indicated above for both plates.\n\n2. **Transform ShhBC ligation products into E.coli**\n\nFor efficiency, it’s always best to transform 100 pg of DNA into 50 uL of competent cells. For the 5 reactions I have, transform 0.1 ng into 3 tubes each \\[total 15 tubes\\].\n\nDilute all reactions to 0.1 ng/uL stocks and then add 1 uL of these stocks to each competent cell tube.\n\nRest of the transformation protocol stays unchanged. Pool the cultures of each tube together and transfer into a falcon & store O/N.\n\nAfter pooling, each culture type has about 0.3 ng of DNA transformed into the bacteria. This converts to about 0.1 pg/uL. Use 200 uL of this culture to plate on an LB-Amp plate (\\~20 pg). \n\n3. **Concentrate lentivirus for pHRS-Gcla and pHRS-Hcla**\n\nLentivirus for pHRS-Gcla and pHRS-Hcla were concentrated and aliquot into 0.5 mL batches for both viruses.\n\nNOTE: For the pHRS-Gcla, the virus was resuspended in DMEM, low-glucose {by oversight} \\- in theory this should be ok since virus can also be resuspended and stored in PBS.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2025-07-01",
+ "tags": {
+  "techniques": [
+   "Ligation",
+   "Lentivirus",
+   "Cell culture"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "| Transduction of K562 & HAP1 cells with MYC355 T1 & T2 viruses |"
+}

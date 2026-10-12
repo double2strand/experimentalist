@@ -1,0 +1,33 @@
+{
+ "date": "2026-03-30",
+ "heading": "**30 March 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*SELEX library preparation and QC*\n\nRepeat a cleanup with about 300 uL of the fresh sample:\n\n1.1-0.70\n\n- Add 210 uL (0.7X) beads to each sample. Incubate 5 mins, RT. Bind to magnet for 5 mins.  \n- Move supernatant to new tubes and then add (300 x (1.1 \\- 0.7) \\= 120 uL). Incubate 5 mins at RT. Bind for 5 mins to magnet.  \n- Remove supernatant and wash twice with 300 uL 85% ethanol. Air dry for 2-3 mins.  \n- Elute each sample in 75 uL of TE buffer.  \n- Run Qubit and TS (D5000)\n\n***NOTE for AVITI sequencing***  \n**Target concentration is around 50 nM for each of the samples. No stringent volume requirement. Loading based on the last successful run on the AVITI was 15.4 pM of each pool was loaded.**\n\n| Sample Name | Qubit Concentration (ng/uL) |\n| :---: | :---: |\n| c1 lig147 NCAP | 17.6 |\n| c3 lig147 NCAP | 9.78 |\n| c4 lig147 NCAP | 5.48 |\n| c1 ligN40 NCAP | 19 |\n| c3 ligN40 NCAP | 4.14 |\n| c4 ligN40 NCAP | 2.3 |\n| c1 lig147 HTS | 14.9 |\n| c3 lig147 HTS | 10.8 |\n| c4 lig147 HTS | 11.1 |\n| c1 ligN40 HTS | 17.3 |\n| c3 ligN40 HTS | 9.02 |\n| c4 ligN40 HTS | 9.02 |\n\n*Transfection of pHRS libraries into GP5d cells*\n\nFor each plasmid library:  \nT1: 750 uL OptiMEM \\+ 60 uL P3000 \\+ 30 ug DNA  \nT2: 750 uL OptiMEM \\+ 45 uL Lipo3000\n",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "id": "2026-03-30",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Qubit",
+   "Transfection",
+   "Library prep",
+   "Bead purification"
+  ],
+  "reagents": [
+   "TE buffer",
+   "Ethanol"
+  ],
+  "samples": [
+   "lig147",
+   "ligN40"
+  ],
+  "custom": []
+ },
+ "title": "SELEX library preparation and QC"
+}

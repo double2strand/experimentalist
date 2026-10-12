@@ -1,0 +1,23 @@
+{
+ "date": "2025-06-17",
+ "heading": "**17 June 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "Library Preparation from pHRSv1cc libraries. TruSeq library generation primers for these samples are as follows:\n\n| Sample | Barcode |\n| :---: | :---: |\n| AT10-Gcla-BC1 | CGGTTCAA |\n| spGFPo-AT10-Gcla-BC2 | GCTGGATT |\n| AT10-Hcla-BC1 | TAACTCGG |\n| AT10-GCD-BC1 | CGGTGACC |\n| AT10-HCD-BC1 | ATTGTCAA |\n| AT10-GCC-BC1 | ATACTCAA |\n| AT10-HCC-BC1 | ATTGGAGG |\n\nGcla-BC1\n\nCAAGCAGAAGACGGCATACGAGAT**CGGTTCAA**GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTCGCTGAGCGGTACGGAAGAT\n\nGcla-BC2\n\nCAAGCAGAAGACGGCATACGAGAT**GCTGGATT**GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTCGCTGAGCGGTACGGAAGAT\n\nHcla-BC1\n\nCAAGCAGAAGACGGCATACGAGAT**TAACTCGG**GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTGTCAAGCGTACGCAATGGAG\n\nHcla-BC2\n\nCAAGCAGAAGACGGCATACGAGAT**TAACAGTT**GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTGTCAAGCGTACGCAATGGAG\n\nGCD-BC1\n\nCAAGCAGAAGACGGCATACGAGAT**CGGTGACC**GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTGCCGCTGCACTCAGTATACA\n\nGCD-BC2\n\nCAAGCAGAAGACGGCATACGAGAT**TACAGAGG**GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTGCCGCTGCACTCAGTATACA\n\nHCD-BC1\n\nCAAGCAGAAGACGGCATACGAGAT**ATTGTCAA**GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTATTTCATGCCTCCGCCAGGC\n\nHCD-BC2\n\nCAAGCAGAAGACGGCATACGAGAT**TATGTCTT**GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTATTTCATGCCTCCGCCAGGC\n\nGCC-BC1\n\nCAAGCAGAAGACGGCATACGAGAT**ATACTCAA**GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTGGGCTACGCGCTTTGTCTTG\n\nGCC-BC2\n\nCAAGCAGAAGACGGCATACGAGAT**GCTGAGAA**GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTGGGCTACGCGCTTTGTCTTG\n\nHCC-BC1\n\nCAAGCAGAAGACGGCATACGAGAT**ATTGGAGG**GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTGATGTGCTCCAATTGGCGCC\n\nHCC-BC2\n\nCAAGCAGAAGACGGCATACGAGAT**TAGTCTAA**GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTGATGTGCTCCAATTGGCGCC\n\nNh100-BC1\n\nCAAGCAGAAGACGGCATACGAGAT**AGCGTAGC**GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTGCATCGGAGGGTAGCAATGC\n\nNh100-BC2\n\nCAAGCAGAAGACGGCATACGAGAT**CAGCCTCG**GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTGCATCGGAGGGTAGCAATGC\n\nPer reaction:\n\n| KAPA HiFi MM (2X) | 25 uL |\n| :---- | :---- |\n| P5 primer mix (100 uM) | 0.25 uL |\n| Plasmid library  | 50 ng (per reaction) |\n| P7 primer (5 uM) | 5 uL |\n| NF H2O | Up to 50 uL |\n\n| 95 C | 1 min |\n| :---- | :---- |\n| 95 C | 30 s |\n| 60 C | 30 s |\n| 72 C | 30 s |\n| 72 C | 10 min |\n| 4 C | Forever |\n\n28 cycles of amplification was performed\n\nFor the P5 primer mix: 5 uL of each primer (100 uM) in a single tube  \nMaster-Mix \\[4 tubes per plasmid library\\]:\n\nBC1 libraries\n\n| KAPA HiFi MM (2X) | 100 uL |\n| :---- | :---- |\n| P5 primer mix (100 uM) | 1 uL |\n| Plasmid library  | 4 uL\\* |\n| P7 primer (5 uM) BC1 | 20 uL |\n| NF H2O | 75 uL |\n\n\\* make mix of 50 ng/uL and then add 5 uL to the mastermix  \nBC2 libraries\n\n| KAPA HiFi MM (2X) | 100 uL |\n| :---- | :---- |\n| P5 primer mix (100 uM) | 1 uL |\n| Plasmid library  | 4 uL\\* |\n| P7 primer (5 uM) BC2 | 20 uL |\n| NF H2O | 75 uL |\n\n\\* make mix of 50 ng/uL and then add 5 uL to the mastermix\n",
+ "experiments": [],
+ "images": [],
+ "tables": 5,
+ "id": "2025-06-17",
+ "tags": {
+  "techniques": [
+   "Library prep"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Library Preparation from pHRSv1cc libraries. TruSeq library generation primers for these samples are as follows:"
+}

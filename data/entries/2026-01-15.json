@@ -1,0 +1,29 @@
+{
+ "date": "2026-01-15",
+ "heading": "**15 January 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*lig70N PCR*\n\n98X PCR2\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **ligN40w107 Ann** | **245 uL** |\n| **Phusion Master Mix** | **2205 uL** |\n| **Total** | **2500** |\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **3X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\n*ELF ligand PCR*\n\nELFlig1 → ELFlig\\_dm\\_EcoRV\n\nELFlig4 → ELFlig\\_sm2\\_EcoRV\n\nTo be amplified with ELF\\_FWD and ELF\\_REV1\n\n- Tubes were briefly spun down.  \n- 100 uL TE buffer was added to each tube to achieve a final concentration of 10 ng/uL.  \n- The tubes were vortexed briefly.  \n- Tubes incubated at 50°C for 20 minutes for resuspension.\n\n2X PCR for each ligand:\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **ELFlig1/4 \\- 10 ng/uL** | **4 uL** |\n| **Phusion Master Mix** | **25 uL** |\n| **ELF\\_FWD 10 uM** | **2.5 uL** |\n| **ELF\\_REV1 10 uM** | **2.5 uL** |\n| **Water** | **16 uL** |\n| **Total** | **2500** |\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 59°C | 15 s       **35X\\*** |\n| 72°C | 30 s |\n| 72°C | 10 min |\n| 4°C | HOLD |\n\n*Transformation of pETG20A constructs*  \nCentrifuge at 6,000 x g for 1 minute at 4°C. Open the vial and add 100 μl of sterilized water to dissolve the DNA (40 ng/uL). Close the lid and vortex the vial for 1 minute. If necessary, heat the solution at 50°C for 15 minutes to dissolve the DNA. Transformation of the plasmid DNA can be performed directly after completion of the steps above. Verify the plasmid sequence after each subcloning and transformation step  \n",
+ "experiments": [],
+ "images": [],
+ "tables": 4,
+ "id": "2026-01-15",
+ "tags": {
+  "techniques": [
+   "PCR"
+  ],
+  "reagents": [
+   "Phusion",
+   "TE buffer"
+  ],
+  "samples": [
+   "lig70N",
+   "ligN40w107"
+  ],
+  "custom": []
+ },
+ "title": "lig70N PCR"
+}

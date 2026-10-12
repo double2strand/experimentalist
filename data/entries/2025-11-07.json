@@ -1,0 +1,40 @@
+{
+ "date": "2025-11-07",
+ "heading": "**7 November 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "***1\\. Prepare induction media for proteins and carry out induction***\n\n100 mL per flask \n\nProgram 4 was run \n\n| ZYP-5052 (\"Medium2\") |  |  |  |  |\n| ----- | :---- | :---- | :---- | :---- |\n| Reagents | STOCK | Final 1x: | \\~900 mL | \\~1L |\n| LB Broth |   | \\- | 900 mL | 1000 mL |\n| Carbenicillin | 1000x | 1x | already added | 1.08 mL |\n| Chloramphenicol | 1000x | 1x | \\-already added | 1.08 mL |\n| MgSO4 | 1 M | 1 mM | 902 uL | 1.08 mL |\n| Metals Mix | 1000x | 1x | 902 uL | 1.08 mL |\n| 50x 5052 | 50x | 1x | 18.4 mL | 21.6 mL |\n| 20x NPS | 20x | 1x | 47.4 mL | 54 mL |\n\n***2\\. ligN40w107 PCR2 QC***\n\nConcentration of ligN40w107 PCR2 \\= 3.8 ng/uL\n\n25 uL of this sample was also run on a 2% agarose gel. The band observed was very clean and therefore the quality of the ligand at this stage is quite good. However the concentration is fairly low.\n\nWhat I need \\= 20 ng/uL X 20 X 400 \\= 160 ug \n\nFrom one PCR run ⇒ 19 ug (This was when I took \\~24 ng per PCR well)\n\nRun two more PCR trials with double the amount of input:\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **ligN40w107 PCR1** | **800** |\n| **Phusion Master Mix** | **5000** |\n| **NCAP\\_F (10 µM)** | **500** |\n| **NCAP\\_R (10 uM)** | **500** |\n| **Water** | **3200**  |\n| **Total** | **10000** |\n\n***3\\. L11 ligation repeat***\n\n6X of this L11 ligation repeat was purified by using 1.2X AmpureXP beads → 72 uL beads for 60 uL sample\n\nPost purification measure concentration of this sample \\=\n\nRun \\~ 10-15 ng of sample on a 0.5% agarose gel.\n\n***3\\. PCR & qPCR plate preparation for SELEX***\n\n1 PCR (For 8 plates \\= 4 NCAP-SELEX \\+ 4 HT-SELEX \\- For main PCR reactions\n\n| PCR Plates |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | per well in 384 | per 384-well plate | for 8 plates (x440) |\n| NF water | 8.65μL | 3.323mL | 30.48mL |\n| 5x Phusion HF buffer | 3.75μL | 1.440mL | 13.2mL |\n| 10mM e dNTP | 0.75μL | 288μL | 2.64mL |\n| NCAP\\_F 100μM  | 0.075μL | 28.8μL | 264μL |\n| NCAP\\_R 100μM  | 0.075μL | 28.8μL | 264μL |\n| MgCl2 (50mM) | 0.0975μL | 37.44μL | 343μL |\n| Hot Start Phusion DNA Pol | 0.10875μL | 41.76μL | 383μL |\n| Total | 13.51μL | 5.189mL | 47.57mL |\n\nRepeat two times since there will be **16 plates** for lig147, ligN40w100. (i.e. prepare two 50mL falcons)  \nManually load 489μL mix into each well of a 96-well plate (AB0765), then transfer 13.5μL/well into 384-well plates (4ti-0384C).  \nSeal the plates, freeze at \\-20℃ until use.\n\n1 Dilution 2-cycle PCR (For 8 plates \\= 4 NCAP-SELEX \\+ 4 HT-SELEX \\- For main PCR reactions\n\n| PCR Plates |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | per well in 384 | per 384-well plate | for 8 plates (x8.5) |\n| NF water | 11.59μL | 4.451mL | 37.84mL |\n| 5x Phusion HF buffer | 5.02μL | 1.928mL | 16.39mL |\n| 10mM e dNTP | 1.01μL | 387.84μL | 3.296mL |\n| NCAP\\_F 100μM  | 0.1μL | 38.4μL | 326.4μL |\n| NCAP\\_R 100μM  | 0.1μL | 38.4μL | 326.4μL |\n| MgCl2 (50mM) | 0.131μL | 50.30μL | 427.6μL |\n| Hot Start Phusion DNA Pol | 0.1457μL | 55.95μL | 475.6μL |\n| Total | 18.1μL | 6.947mL | 59.05mL |\n\nRepeat two times since there will be **16 plates** for lig147, ligN40w100. (i.e. prepare two 50mL falcons)  \nManually load 606μL mix into each well of a 96-well plate (AB0765), then transfer 18μL/well into 384-well plates (4ti-0384C).  \nSeal the plates, freeze at \\-20℃ until use.\n\n2 qPCR (3 NCAP-SELEX \\+ 3 HT-SELEX)\n\n| qPCR Plates |  |  |  |\n| ----- | :---- | :---- | :---- |\n| Reagents | per well in 384 | per 384-well plate | for 6 plates (x440) |\n| NF water | 2.91 μL | 1.12 mL | 7.68 mL |\n| 5x Phusion HF buffer | 1.25 μL | 480 μL | 3.3 mL |\n| 10mM e dNTP | 0.25 μL | 96 μL | 660 μL |\n| NCAP\\_F 100μM  | 0.025 μL | 9.6 μL | 66 μL |\n| NCAP\\_R 100μM  | 0.025 μL | 9.6 μL | 66 μL |\n| MgCl2 (50mM) | 0.0325 μL | 12.48 μL | 85.8 μL |\n| Hot Start Phusion DNA Pol | 0.0375 μL | 14.4 μL | 99 μL |\n| 100x SYBR (final 1:200) | 0.06 μL | 23.04 μL | 158.4 μL |\n| Total | 4.59 μL | 1.765 mL | 12.1155 mL |\n\nTo prepare 100x SYBR Green: add 5μL 10,000x SYBR Green into 500μL DMSO, which can be found in Phusion DNA Pol kits. Avoid light.  \nManually load 122μL mix into each well of a 96-well plate (AB0765), then transfer 4.5μL/well into 6x 384-well plates (LightCycler 384). Repeat twice because of two ligands \\- lig147, ligN40w107.  \nSeal the plates to avoid light. Freeze at \\-20℃ until use.\n",
+ "experiments": [],
+ "images": [],
+ "tables": 5,
+ "id": "2025-11-07",
+ "tags": {
+  "techniques": [
+   "qPCR",
+   "PCR",
+   "SELEX",
+   "Gel electrophoresis",
+   "Ligation",
+   "Bead purification"
+  ],
+  "reagents": [
+   "Phusion",
+   "SYBR",
+   "AMPure",
+   "MgCl2",
+   "dNTPs"
+  ],
+  "samples": [
+   "ligN40w107",
+   "NCAP_F",
+   "NCAP_R",
+   "lig147",
+   "ligN40w100"
+  ],
+  "custom": []
+ },
+ "title": "1. Prepare induction media for proteins and carry out induction"
+}

@@ -1,0 +1,35 @@
+{
+ "date": "2025-08-17",
+ "heading": "**17 August 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Reconstituted nucleosome concentration and agarose gel check**  \n2. **Plasmid extraction from ShhBC plates**  \n   \n\n### 2. Reconstituted nucleosome concentration and agarose gel check\n\nThis round of dialysis based reconstitution \\- reconA4\n\nLow salt buffer for nucleosome MWCO concentration (Nucleosome Exchange Buffer B):\n\nNOTE: Here we keep the concentration steady at 0.26 M salt\n\n0.193 g KCl\n\nTCEP 100 uL\n\n1 tablet EDTA free PI\n\n20 uL MgCl2\n\n0.5 mL glycerol\n\n**Concentration of reconstituted nucleosomes**\n\n### **Pre-Rinse Filter**\n\nAdd **500 µL** nuclease-free water to the filter (upper chamber) of a 30 kDa column.  \nCentrifuge **10 min @ 14,000×g**.  \nDiscard the filtrate (flow-through).\n\n**Adjust Sample to 200 µL**\n\nTransfer your **200 µL** sample into a fresh low-binding tube.\n\n**First Diafiltration**\n\nLoad the **200 µL** sample into the filter unit.  \nCentrifuge **10 min @ 14,000×g**.  \nStore the filtrate (contains imidazole, Tween, etc.) so that it can be checked for any remaining DNA, protein.\n\n**Wash Step**\n\nAdd **200 µL** fresh Nucleosome Exchange Buffer B to the filter unit.  \nCentrifuge **10 min @ 14,000×g**.  \nStore the wash.\n\n**Recover Buffer-Exchanged Sample**\n\nMove the filter to a **new collection tube** (provided).  \nInvert the unit and spin **5 min @ 1,500×g**.  \nDiscard the filter—your retentate is now in the tube.\n\nThe following tubes will now be generated based on these purifications:\n\n| Sample | ng/uL |\n| ----- | ----- |\n| A4\\_FT |  |\n| A4\\_W |  |\n| A4\\_E |  |\n",
+ "experiments": [
+  "2. Reconstituted nucleosome concentration and agarose gel check",
+  "**Pre-Rinse Filter**"
+ ],
+ "images": [],
+ "tables": 1,
+ "id": "2025-08-17",
+ "tags": {
+  "techniques": [
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Dialysis",
+   "Column purification",
+   "Buffer exchange"
+  ],
+  "reagents": [
+   "EDTA",
+   "KCl",
+   "MgCl2",
+   "Glycerol"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Reconstituted nucleosome concentration and agarose gel check; **Pre-Rinse Filter**"
+}

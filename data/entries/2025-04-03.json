@@ -1,0 +1,27 @@
+{
+ "date": "2025-04-03",
+ "heading": "**3 April 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**Characterization of complexity of pHRS-Gcla-ShhBC and pHRS-Gcla-AT10-Ep1 libraries**\n\nFor pHRS-Gcla-ShhBC, perform amplification with ShhBC\\_complexity primers:  \n4X\n\n| 2X Phusion Mix  | 40 uL |\n| :---- | :---- |\n| ShhBC\\_complexF 10 uM | 4 uL |\n| ShhBC\\_complexR 10 uM | 4 uL |\n| pHRS-Gcla-ShhBC (10 ng) | 4 uL |\n| NF H2O | 25.6 uL |\n| DMSO | 2.4 uL |\n\n| 98°C | 30 s |\n| :---- | :---- |\n| **98°C** | **10 s** |\n| **58°C** | **30 s       35X** |\n| **72°C** | **30 s** |\n| 72°C | 10 min |\n| 4°C | HOLD |\n\nExpected product size is 700 bp\n\nFor pHRS-Gcla-AT10-Ep1, perform amplification with enh\\_complexity primers:  \n4X\n\n| 2X Phusion Mix  | 40 uL |\n| :---- | :---- |\n| enh\\_complexF 10 uM | 4 uL |\n| enh\\_complexR 10 uM | 4 uL |\n| pHRS-Gcla-AT10-Ep1 (10 ng) | 4 uL |\n| NF H2O | 25.6 uL |\n| DMSO | 2.4 uL |\n\n| 98°C | 30 s |\n| :---- | :---- |\n| **98°C** | **10 s** |\n| **62°C** | **30 s       35X** |\n| **72°C** | **30 s** |\n| 72°C | 10 min |\n| 4°C | HOLD |\n\nExpected product size is 528 bp.\n\nPool the products for each type and purify and run on a 2% agarose gel to check the product size.\n\nThese products are to be sent for Sanger sequencing for Source Bioscience.\n\n**Pick colonies from new pHRS-MYC355 plate:**\n\nPick 5 colonies from the new pHRS-MYC355 plate and culture each in 5 mL of LB-AMP media O/N. \n\n**Tianyun’s experience with optimising the viral packaging and transduction efficiency**\n\nMost optimal condition summarised:\n\n1. Transfection performed for packaging vectors and transfer vector into LentiX cell lines in mass ratio of 1.67:1:6.02  \n2. Viralboost reagent added to culture \\~8 hours post-transfection  \n3. Virus packaged as normal (no concentration performed) → *More volume obtained in this case but evidently less concentrated, therefore I can package in lesser plates for a trial. For larger scale experiments i.e. multi-plate perhaps might be worth using the concentrator*  \n4. Transduction performed with Polybrene (we can use TransDux to further enhance efficiency of transduction here)\n",
+ "experiments": [],
+ "images": [],
+ "tables": 4,
+ "id": "2025-04-03",
+ "tags": {
+  "techniques": [
+   "Gel electrophoresis",
+   "Transfection",
+   "Library prep"
+  ],
+  "reagents": [
+   "Phusion"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "Characterization of complexity of pHRS-Gcla-ShhBC and pHRS-Gcla-AT10-Ep1 libraries"
+}

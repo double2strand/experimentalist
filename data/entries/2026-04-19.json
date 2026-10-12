@@ -1,0 +1,30 @@
+{
+ "date": "2026-04-19",
+ "heading": "**19 April 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "*1.55X SELEX buffer*\n\n*1.55x Promega Buffer, 155μM EGTA, 1.55mM DTT, 3μM ZnSO4 (no dIdC)*\n\n250 mL\n\n| Promega Buffer 1.55 (10X) | 38.75 mL |\n| :---- | :---- |\n| EGTA (0.5 M) | 77.5 uL |\n| DTT (1 M) | 387.5 uL |\n| ZnSO4 (100 mM) | 7.5 uL |\n\nMake up the volume to 250 mL and filter the solution. Store at 4 degrees.  \nAliquot 8.5 uL of 1.55X SELEX Buffer per well of NUNC 384-well plates\n\n*1X SELEX buffer*\n\n*1x Promega Buffer, 100μM EGTA, 1mM DTT, 3μM ZnSO4 (no dIdC)*\n\n250 mL\n\n| Promega Buffer 1 (10X) | 25 mL |\n| :---- | :---- |\n| EGTA (0.5 M) | 50 uL |\n| DTT (1 M) | 250 uL |\n| ZnSO4 (100 mM) | 7.5 uL |\n\nMake up the volume to 250 mL and filter the solution. Store at 4 degrees.\n\n*TF Dilution*\n\nTake 20 uL of protein per well \\+ 75 uL TF Dilution Buffer\n\n*Blocking Buffer Salt-free*\n\n*Blocking buff (salt free): 25mM Tris, 0.5% BSA, 0.1% tween, 0.02% NaN3 pH8 \\[500 mL buffer\\]*\n\n25 mM Tris pH 8 \\= 12.5 mL  \n0.5 % BSA \\= 2.5 g BSA  \n0.1 % Tween20 \\= 500 uL  \n0.02% NaN3 \\= 0.1 g\n\n500 mL\n\n| Tris-HCl pH 8 | 12.5 mL |\n| :---- | :---- |\n| BSA | 2.5 g |\n| Tween20 | 500 uL |\n| NaN3 | 0.1 g |\n\n*Elution Buffer*\n\n0.1% Tween, 10 mM Tris pH7.8, 1 mM MgCl2 (0.5mM in PCR rxn)  \n   \n500 mL buffer:  \n\\-    \t500 uL Tween20  \n\\-    \t5 mL Tris pH 8  \n\\-    \t500 uL 1M MgCl2\n\n500 mL\n\n| Tris-HCl pH 8 | 5 mL |\n| :---- | :---- |\n| Tween20 | 500 uL |\n| MgCl2 (1 M) | 500 uL |\n",
+ "experiments": [],
+ "images": [],
+ "tables": 4,
+ "id": "2026-04-19",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Protein purification"
+  ],
+  "reagents": [
+   "Tris",
+   "MgCl2",
+   "BSA",
+   "DTT"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "1.55X SELEX buffer"
+}

@@ -1,0 +1,42 @@
+{
+ "date": "2025-08-12",
+ "heading": "**12 August 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Run gel for GP5del GFP and SHH-MYC335 PCR products**  \n2. **Prepare glycerol stocks for DBD quadrant plates (X2)**  \n3. **Transduce the seeded HAP1 cells with GCla, HCla and HCD viruses**  \n4. **Transfect 2 wells of HAP1 with mCherry control plasmid**  \n5. **Perform digestion for all ShhBC vector pools with MluI and purify gel extracted product**  \n6. **Run 3% agarose gel for the lig147 recon reactions (stain with SYBR green nucleic acid)**  \n7. **Set up test dialysis set up for nucleosome recon**\n\n   \n\n1. **Run gel for GP5del GFP and SHH-MYC335 PCR products**\n\n\tLoading order for the gel:\n\n- 1 kb Plus ladder  \n- G-WT (GFP)  \n- GT1 (GFP)  \n- GT2 (GFP)  \n- GT1PB (GFP)  \n- GT2PB (GFP)  \n- GT1PB2 (GFP)  \n- GT2PB2 (GFP)  \n- G-WT (SHHMYC)  \n- GT1 (SHHMYC)  \n- GT2 (SHHMYC)  \n- GT1PB (SHHMYC)  \n- GT2PB (SHHMYC)  \n- GT1PB2 (SHHMYC)\n\n  The last sample could not be loaded due to sufficient number of wells not being present on the gel.\n\n  GT2PB2 (SHHMYC)\n\n* The GFP PCR product is expected to be 1786 bp in the non-transposed state. For the condition in which the enhancer has transposed the expected product size is around 312 bp  \n* For the SHH-MYC335 PCR product the average product size is expected to be 1748 bp. Post-transposition we would potentially expect a range of sizes of this product depending on the locations of the MYC335 enhancer.\n\n2. **Prepare glycerol stocks for DBD quadrant plates (X2)**\n\n \tCopies of each quadrant (2 each) have been prepared and stored at \\-80.\n\n### 3. Transduce the seeded HAP1 cells with GCla, HCla and HCD viruses\n\nFor transduction of the viruses, prepare the following mix:\n\npHRSGclav1\n\n4.494 mL media \\+ 1500 uL Gclav1 \\+ 6 uL Polybrene\n\npHRSHclav1\n\n4.494 mL media \\+ 1500 uL Gclav1 \\+ 6 uL Polybrene\n\npHRSHCDv1\n\n4.494 mL media \\+ 1500 uL Gclav1 \\+ 6 uL Polybrene\n\n### 4. Transfect 2 wells of HAP1 with mCherry control plasmid\n\nTube 1: 250 uL OM \\+ 15 uL Lipo3000\n\nTube 2: 250 uL OM \\+ 20 uL P3000 \\+ 6 ug pHRSNEW3 (mCherry)\n\n### 5. Perform digestion for all ShhBC vector pools with MluI and purify gel extracted product\n\nDigestion to be performed for:\n\n- HClaShhBCv1  \n- GCDShhBCv1  \n- HCDShhBCv1  \n- GCCShhBCv1  \n- HCCShhBCv1  \n- Nh100ShhBCv1\n\n### 6. Run 3% agarose gel for the lig147 recon reactions (stain with SYBR green nucleic acid)\n\nLoading order for this gel should be as follows:\n\n1. lig147 untreated  \n2. lig147recon A1  \n3. lig147recon A2  \n4. lig147recon A3  \n5. lig147 No MNase control  \n6. lig147 MNase-treated  \n7. A1 MNase-treated  \n8. A2 MNase-treated  \n9. A3 MNase-treated\n",
+ "experiments": [
+  "3. Transduce the seeded HAP1 cells with GCla, HCla and HCD viruses",
+  "4. Transfect 2 wells of HAP1 with mCherry control plasmid",
+  "5. Perform digestion for all ShhBC vector pools with MluI and purify gel extracted product",
+  "6. Run 3% agarose gel for the lig147 recon reactions (stain with SYBR green nucleic acid)"
+ ],
+ "images": [],
+ "tables": 0,
+ "id": "2025-08-12",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "MNase",
+   "Reconstitution",
+   "Gel electrophoresis",
+   "Dialysis",
+   "Transfection",
+   "Restriction digest"
+  ],
+  "reagents": [
+   "SYBR",
+   "MNase",
+   "Glycerol"
+  ],
+  "samples": [
+   "lig147",
+   "lig147recon",
+   "Gclav1"
+  ],
+  "custom": []
+ },
+ "title": "Transduce the seeded HAP1 cells with GCla, HCla and HCD viruses; Transfect 2 wells of HAP1 with mCherry control plasmid; Perform digestion for all ShhBC vector pools with MluI and purify gel extracted product"
+}

@@ -1,0 +1,30 @@
+{
+ "date": "2025-09-04",
+ "heading": "**4 September 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_010525-211025",
+  "fileId": "1gx7RDXnt8inD6ISdLTUPSVEhSz9Sov-EVPCOZ-cgjO8"
+ },
+ "body": "1. **Send GCCAT10ShhBCv1, Nh100ShhBCv2 clones for whole plasmid sequencing**  \n2. **Image the MYCT1, MYCT2 GP5del cell lines**  \n3. **Image the transduced HAP1 cell lines**  \n4. **Finish design of new pETG20A constructs**  \n5. **Do viral titer for current set of viruses**  \n   \n\n### 5. Do viral titer for current set of viruses\n\nViruses to be titered are:\n\n- Gclav1  \n- Hclav1  \n- GCDv1  \n- HCDv1  \n- GCCv1  \n- HCCv1  \n- Nh100v1  \n- MYC335-T1  \n- MYC335-T1  \n- GFP\n\nAll viruses to be mixed in DMEM high glucose.\n",
+ "experiments": [
+  "5. Do viral titer for current set of viruses"
+ ],
+ "images": [],
+ "tables": 0,
+ "id": "2025-09-04",
+ "tags": {
+  "techniques": [
+   "Lentivirus",
+   "Cell culture"
+  ],
+  "reagents": [],
+  "samples": [
+   "Gclav1",
+   "GCDv1",
+   "HCDv1"
+  ],
+  "custom": []
+ },
+ "title": "Do viral titer for current set of viruses"
+}

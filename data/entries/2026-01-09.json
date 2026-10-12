@@ -1,0 +1,30 @@
+{
+ "date": "2026-01-09",
+ "heading": "**9 January 2026**",
+ "date_note": null,
+ "source": {
+  "doc": "Experiments_21Oct2025",
+  "fileId": "1ZugPdUknVMhRgscwFRA_5i72k8TAO7xecUhTBMvM8iI"
+ },
+ "body": "**SELEX Meeting**\n\n- Clone plates to be gone through and check what they are & how many there are?  \n- Ask Fangjie about Plate 1 (Full-Length)  \n- Create collection of working clones & find what Daiki’s clones  \n- Tim Hughes plate \\- potentially GST tagged or GFP tagged  \n- Ask Karolinska about any missing protein plates that they might have  \n- Link to Minna’s google drive   \n- lig200 to run for NCAP-SELEX \\+ Another ligand \\+ Optimise tip usage  \n- Prioritise ELF mutant and other Katja mutants \\- Arginine residue to be checked for Tianyi’s new structure (Glutamine based mutations)  \n- Specifications for NCAP-SELEX data that can be represented on an automated pipeline (Convert kaz code to something more modern or useful) \\- NCAP-SELEX (refined models upon normalization, top k-mers, MI plot from raw data with pseudo and k-mer specification)\n\n*lig70N plate preparation*\n\n*![](assets/img/doc3-image3.png)*\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc3-image3.png"
+ ],
+ "tables": 0,
+ "id": "2026-01-09",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Bioinformatics",
+   "Seminar/notes"
+  ],
+  "reagents": [],
+  "samples": [
+   "lig200",
+   "lig70N"
+  ],
+  "custom": []
+ },
+ "title": "SELEX Meeting"
+}

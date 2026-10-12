@@ -1,0 +1,42 @@
+{
+ "date": "2025-04-15",
+ "heading": "**15 April 2025**",
+ "date_note": null,
+ "source": {
+  "doc": "Experimental-Updates-311024-310425",
+  "fileId": "1VE4v9ap6SylVcGGisu24-jmKzcgVo_tur4v6WxylYQI"
+ },
+ "body": "**pHRSnolox \\+ MYC355 gene block purification:**\n\nThe PCR product from this PCR reaction is to be purified via a MinElute column and then run on a 1% agarose gel to check the exact size of the product \\- expected size is 3918 bp\n\nIf the product is clean and of expected size, then will need to run the total product on the gel and gel extract the sample for greater purity.\n\nQuantify the final PCR product after purifications and size/quality estimation.\n\n**Ligand stock preparation**\n\nBoth the Hia5testlig and MAXligand PCR products to be column purified and eluted in 25 uL each with two MinElute columns each.\n\nCombine with the previous amplified stock of these ligands and re-quantify. \n\nTube SELEX assay for QuantumSI trial\n\n- According to the proposed scale-up, 4.4 ug of protein was to be used i.e. 4400 ng of protein. In the original HT-SELEX that was performed by me, the ratio of DNA to protein (in amount not molar concentration\\!) was 1:1. Therefore, by this logic 4400 ng of DNA is to be used. This DNA will be in 37.5 uL volume according to the scale-up  \n    \n- Desired concentration of DNA \\= 117.3 ng/uL (once I have this pool this can be stored and further used for the scale-up assay)\n\n**Design for Hia5testlig SELEX \\+ Hia5 treatment experiments:**\n\nGroup 1: Hia5testlig DNA (150 ng)\n\nGroup 2: MAX protein (150 ng) \\+ Hia5testlig DNA (150 ng) (eluted DNA after cycle 2 \\- elution to be performed with Imidazole buffers so that protein-DNA binding is still intact)\\*\n\nGroup 3: MAX protein (150 ng) \\+ ELF2 protein (150 ng) \\+ Hia5testlig DNA (150 ng) (eluted DNA after cycle 2 \\- elution to be performed with Imidazole buffers so that protein-DNA binding is still intact)\\*\n\nGroup 4: Hia5testlig DNA (150 ng) \\+ Hia5 (methylation of A’s)\n\nGroup 5: Hia5testlig DNA (150 ng) \\+ Hia5 (methylation of A’s) \\+ DpnI treatment\n\nGroup 6: MAX protein (150 ng) \\+ Hia5testlig DNA (150 ng) \\+ Hia5 \\+ treated with DpnI (eluted DNA after cycle 2 \\- elution to be performed with Imidazole buffers so that protein-DNA binding is still intact)\\*\n\nGroup 7: MAX protein (150 ng) \\+ ELF2 protein (150 ng) \\+ Hia5testlig DNA (150 ng) \\+ Hia5 \\+ treated with DpnI (eluted DNA after cycle 2 \\- elution to be performed with Imidazole buffers so that protein-DNA binding is still intact)\\*\n\nQuoting from Siwei’s lab report:\n\n*“psfHia5 was put into a 20 μL reaction containing 500 ng DNA, 0.8 mM SAM (S-adenosylmethionine)*  \n*and buffer A (15 mM Tris, 1mM EDTA, 0.5 mM EGTA, 15 mM NaCl, 60 mM KCl, 0.5 mM Spermidine, pH 8.0), and incubated at 37C for 1 h and 80C for 10 min on a thermal cycler, then add 1 μL DpnI and 2 μL rCutSmart 10x buffer, incubate again at 37C for 1 h and 80C for 10 min.”*\n\n*“1 μL psfHia5 can completely methylate all the adenine in 500 ng DNA fragments (containing about 50% AT) even after diluted 16 folds, suggesting an activity of at least 8 U/μL.”*\n\nTo transfer the mix of DNA+proteins post-SELEX into Hia5 reaction buffer, options to be explored are:\n\n- Buffer exchange into Hia5 reaction buffer enabling proteins to remain bound to DNA  \n- Carry out reaction within the same DNA+protein mix buffer by complementing with spermidine and SAM at desired concentrations  \n- Precipitate DNA \\+ protein mix and then resuspend in Hia5 reaction buffer to carry out the desired reaction\n\n**Picking colonies for further validation of libv1CC enhancer libraries:**\n\nPick 3 colonies each for all the plates:\n\n- Gcla  \n- Hcla  \n- GCD  \n- HCD  \n- GCC  \n- Nh100\n\nCulture these overnight for plasmid isolation on the next day.\n\n ![](assets/img/doc1-image57.png)\n",
+ "experiments": [],
+ "images": [
+  "assets/img/doc1-image57.png"
+ ],
+ "tables": 0,
+ "id": "2025-04-15",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX",
+   "Hia5",
+   "Gel electrophoresis",
+   "Library prep",
+   "Column purification",
+   "Fragmentation",
+   "Protein purification",
+   "Buffer exchange"
+  ],
+  "reagents": [
+   "SAM",
+   "Spermidine",
+   "MinElute",
+   "Hia5",
+   "EDTA",
+   "Tris",
+   "NaCl",
+   "KCl"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "title": "pHRSnolox + MYC355 gene block purification:"
+}
