@@ -1,0 +1,26 @@
+{
+ "date": "2026-10-15",
+ "title": "lig200 cyc3 & cyc4 re-submission (Sequencing)",
+ "body": "\nSELEX cleanup\n\nRepeat a cleanup with about 300 uL of the fresh sample:\n\n0.9-0.6\n\n- Add 180 uL (0.6X) beads to each sample. Incubate 10 mins, RT.\n- Bind to magnet for 5 mins.\n- Move supernatant to new tubes and then add (300 x (0.9 - 0.6) = 90 uL). Incubate 10 mins at RT. Bind for 5 mins to magnet.\n- Remove supernatant and wash twice with 300 uL 85% ethanol. Air dry for 2-3 mins.\n- Elute each sample in 100 uL of TE buffer at 37 C.\n- Run Qubit and TS (D5000)\n",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Qubit",
+   "Bead purification"
+  ],
+  "reagents": [
+   "TE buffer",
+   "Ethanol"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "source": {
+  "doc": "portal"
+ },
+ "id": "2026-10-15",
+ "experiments": [],
+ "images": [],
+ "tables": 0,
+ "updated": "2026-10-15T14:30:33.541Z"
+}
