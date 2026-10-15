@@ -1,11 +1,21 @@
 {
  "date": "2026-10-14",
- "title": "",
- "body": "\n",
+ "title": "Reconstitution of Long Random DNA fragments",
+ "body": "Nucleosome Reconstitution\n\nlig50K - 5676 ng (in 13.5 uL) ==> 8.75 nM DNA (in 25 uL mixture)\n*NOTE: Taking 40 kb as the mean size of the fragments, instead of 50 kb\n*\n\n*Octamer:DNA ratio = 200:1\n*\nWT Octamer (5.4 mg/mL) → 1.25 uM → 3.4 ug ⇒ 0.68 ug/uL octamer stock [0.76 uL octamer + 5.24 uL refolding buffer:glycerol] ⇒ Octamer stock salt conc = 1.13 M\n1.83 M salt in octamer-DNA mix.\n\nFirst incubate the dialysis column in cold NF-water to remove any glycerol from the column\nAdd the 25 uL of octamer-DNA mix to the dialysis column",
  "tags": {
-  "techniques": [],
-  "reagents": [],
-  "samples": [],
+  "techniques": [
+   "Reconstitution",
+   "Dialysis",
+   "Column purification",
+   "Fragmentation"
+  ],
+  "reagents": [
+   "Histone octamer",
+   "Glycerol"
+  ],
+  "samples": [
+   "lig50K"
+  ],
   "custom": []
  },
  "source": {
@@ -15,5 +25,5 @@
  "experiments": [],
  "images": [],
  "tables": 0,
- "updated": "2026-10-15T14:32:59.219Z"
+ "updated": "2026-10-15T16:02:11.742Z"
 }
