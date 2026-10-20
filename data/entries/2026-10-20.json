@@ -1,10 +1,14 @@
 {
  "date": "2026-10-20",
  "title": "DAF-SELEX Trial 1 - Re: ligand preparation",
- "body": "### \n\n",
+ "body": "### Start with ssDNA oligo\n\nDilute 1 uL of the oligo to 50 uL total using TE buffer (~60 ng/uL).\n\nSet up 2X reactions:\n\nAmplification PCR: 15X\n\nFor each reaction (25 uL)\n\n\n\n\t\n°C\ttime\n98°C\t3 min\n98°C\t20 s\n60°C\t15 s\n72°C\t30 s\n72°C\t40 min\n4°C\tHOLD\n\n",
  "tags": {
-  "techniques": [],
-  "reagents": [],
+  "techniques": [
+   "PCR"
+  ],
+  "reagents": [
+   "TE buffer"
+  ],
   "samples": [],
   "custom": []
  },
@@ -12,8 +16,10 @@
   "doc": "portal"
  },
  "id": "2026-10-20",
- "experiments": [],
+ "experiments": [
+  "Start with ssDNA oligo"
+ ],
  "images": [],
  "tables": 0,
- "updated": "2026-10-20T13:57:08.721Z"
+ "updated": "2026-10-20T13:58:44.458Z"
 }
