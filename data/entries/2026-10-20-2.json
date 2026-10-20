@@ -1,7 +1,7 @@
 {
  "date": "2026-10-20",
  "title": "50k nucleosome foot-printing",
- "body": "### 1. Quantification of lig50k nuc. recon. sample\n\nQubit reading = 3.1 ng/uL\nNanodrop reading = 14 ng/uL\n\n*NOTE: The latter reading indicates ~700 ng of total DNA yield*\n\n### 2. Preparation of new *Hia5* buffer\n\nHia5 Buffer (10 mL)\n| Reagent | Volume |\n----\n|1 M Tris pH 8 |\t150 uL |\nEDTA (0.5 M)\t20 uL\nEGTA (0.5 M)\t10 uL\nNaCl (100 mM)\t1500 uL\nKCl (100 mM)\t6000 uL\nSpermidine (100X)\t(1X) 100 uL\nFilter the buffer prior to usage.\n\n\n\n\n\n",
+ "body": "### 1. Quantification of lig50k nuc. recon. sample\n\nQubit reading = 3.1 ng/uL\nNanodrop reading = 14 ng/uL\n\n*NOTE: The latter reading indicates ~700 ng of total DNA yield*\n\n### 2. Preparation of new *Hia5* buffer\n\nHia5 Buffer (10 mL)\n\n| Reagent | Volume |\n| :---- | :---- |\n|1 M Tris pH 8 |\t150 uL |\n|EDTA (0.5 M) |\t20 uL |\n| EGTA (0.5 M) |\t10 uL |\n| NaCl (100 mM) |\t1500 uL |\n| KCl (100 mM) |\t6000 uL |\n\nFilter the buffer prior to usage.\n\n*NOTE: Add spermidine and SAM prior to usage*\n\n\n\n\n\n",
  "tags": {
   "techniques": [
    "Hia5",
@@ -10,6 +10,7 @@
    "Nanodrop"
   ],
   "reagents": [
+   "SAM",
    "Spermidine",
    "Hia5",
    "EDTA",
@@ -31,6 +32,6 @@
   "2. Preparation of new *Hia5* buffer"
  ],
  "images": [],
- "tables": 0,
- "updated": "2026-10-20T15:14:35.614Z"
+ "tables": 1,
+ "updated": "2026-10-20T15:16:45.453Z"
 }
