@@ -146,7 +146,19 @@ async function viewEntry(id) {
   const hs = [...document.querySelectorAll('.md h3')];
   document.querySelectorAll('[data-sub]').forEach(a => a.onclick = (ev) => { ev.preventDefault(); hs[+a.dataset.sub]?.scrollIntoView({ behavior: 'smooth' }); });
   document.querySelectorAll('.entry .tags .chip').forEach(b => b.onclick = () => { const map = { tech: state.f.tech, samp: state.f.samp, reag: state.f.reag }; if (map[b.dataset.k]) { map[b.dataset.k].add(b.dataset.t); buildFilters(); location.hash = '#/'; } else { $('#q').value = state.q = b.dataset.t; location.hash = '#/'; } });
-  const imgs = [...document.querySelectorAll('.md img')]; imgs.forEach((im, j) => { im.loading = 'lazy'; im.onclick = () => lightbox(imgs, j); });
+  const imgs = [...document.querySelectorAll('.md img')]; imgs.forEach((im, j) => { im.loading = 'lazy'; im.onclick = () => lightbox(imgs, j); fixImg(im); });
+}
+
+// Images just committed via the API are not on GitHub Pages until it redeploys (1-10 min).
+// Fall back to raw.githubusercontent.com (live as soon as the commit lands), then retry Pages.
+function fixImg(im) {
+  const rel = im.getAttribute('src') || ''; if (/^(https?:|data:|blob:)/.test(rel)) return;
+  const s = GH.settings(); let tries = 0;
+  im.onerror = () => {
+    tries++;
+    if (tries === 1) { im.src = `https://raw.githubusercontent.com/${s.owner}/${s.repo}/${s.branch}/${rel.replace(/^\.?\//, '')}`; return; }
+    if (tries < 8) setTimeout(() => { im.src = rel + (rel.includes('?') ? '&' : '?') + 'r=' + tries; }, 15000);
+  };
 }
 function lightbox(imgs, j) {
   const lb = $('#lightbox'), im = lb.querySelector('img'), cap = lb.querySelector('.lb-cap');
