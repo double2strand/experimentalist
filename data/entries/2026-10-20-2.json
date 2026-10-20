@@ -1,0 +1,31 @@
+{
+ "date": "2026-10-20",
+ "title": "50k nucleosome foot-printing",
+ "body": "### 1. Quantification of lig50k nuc. recon. sample\n\nQubit reading = 3.1 ng/uL\nNanodrop reading = 14 ng/uL\n\n*NOTE: The latter reading indicates ~700 ng of total DNA yield*\n\n### 2. Preparation of new *Hia5* buffer\n\n\n\n\n",
+ "tags": {
+  "techniques": [
+   "Hia5",
+   "Reconstitution",
+   "Qubit",
+   "Nanodrop"
+  ],
+  "reagents": [
+   "Hia5"
+  ],
+  "samples": [
+   "lig50k"
+  ],
+  "custom": []
+ },
+ "source": {
+  "doc": "portal"
+ },
+ "id": "2026-10-20-2",
+ "experiments": [
+  "1. Quantification of lig50k nuc. recon. sample",
+  "2. Preparation of new *Hia5* buffer"
+ ],
+ "images": [],
+ "tables": 0,
+ "updated": "2026-10-20T15:10:41.738Z"
+}
