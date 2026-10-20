@@ -1,7 +1,7 @@
 {
  "date": "2026-10-19",
  "title": "DAF-SELEX Trial 1 - ligand preparation",
- "body": "### MAXlig - ligand with central MAX binding site\n\n\n![image](assets/img/uploads/2026-10-19-mvf8ktfo-image.png)\n\n*NOTE: Image shows biotinylated primers but we do not use biotinylated primers for this particular experiment - we use phosphorylated primers*\n\nDilute 1 uL of the oligo to 50 uL total using TE buffer (~60 ng/uL). \n\nSet up 8X reactions:\n\nAmplification PCR: 35X\n\nFor each reaction (25 uL)\n\n| Reagent | Volume |\n| :---- | :---- |\n| FWD (10 uM)  | 2.25 uL |\n| REV (10 uM)| 2.25 uL |\n| 2X Phusion MM | 12.5 uL |\n| MAXlig | ~100 ng |\n| Make up to 25 uL|\n\n\n| °C | time |\n| :---- | :---- |\n| 98°C | 3 min|\n| 98°C | 20 s |\n| 60°C | 15 s |\n| 72°C | 30 s\n| 72°C | 40 min |\n| 4°C | HOLD |\n\n\n- Pool and column purify PCR product\n- Check quality of ligand on 2.5% DNA agarose gel\n\n\n![maxlig1](assets/img/uploads/2026-10-19-mvgq8hv6-maxlig1.png)\n\n\n\n\n",
+ "body": "### MAXlig - ligand with central MAX binding site\n\n\n![image](assets/img/uploads/2026-10-19-mvf8ktfo-image.png)\n\n*NOTE: Image shows biotinylated primers but we do not use biotinylated primers for this particular experiment - we use phosphorylated primers*\n\nDilute 1 uL of the oligo to 50 uL total using TE buffer (~60 ng/uL). \n\nSet up 8X reactions:\n\nAmplification PCR: 35X\n\nFor each reaction (25 uL)\n\n| Reagent | Volume |\n| :---- | :---- |\n| FWD (10 uM)  | 2.25 uL |\n| REV (10 uM)| 2.25 uL |\n| 2X Phusion MM | 12.5 uL |\n| MAXlig | ~100 ng |\n| Make up to 25 uL|\n\n\n| °C | time |\n| :---- | :---- |\n| 98°C | 3 min|\n| 98°C | 20 s |\n| 60°C | 15 s |\n| 72°C | 30 s\n| 72°C | 40 min |\n| 4°C | HOLD |\n\n\n- Pool and column purify PCR product\n- Check quality of ligand on 2.5% DNA agarose gel\n\n\n\n![Screenshot 2026-10-20 at 14.37.10](assets/img/uploads/2026-10-19-mvgq9ll9-screenshot_2026-10-20_at_14.37.10.png)\n\n\n\n\n",
  "tags": {
   "techniques": [
    "PCR",
@@ -24,8 +24,8 @@
  ],
  "images": [
   "assets/img/uploads/2026-10-19-mvf8ktfo-image.png",
-  "assets/img/uploads/2026-10-19-mvgq8hv6-maxlig1.png"
+  "assets/img/uploads/2026-10-19-mvgq9ll9-screenshot_2026-10-20_at_14.37.10.png"
  ],
  "tables": 2,
- "updated": "2026-10-20T13:36:38.355Z"
+ "updated": "2026-10-20T13:54:05.427Z"
 }
