@@ -1,0 +1,22 @@
+{
+ "date": "2026-10-20",
+ "title": "Adapter & Hairpin annealing - DAF-SELEX",
+ "body": "### 1. Hairpin Annealing\n\n| Reagent | Volume |\n|---|---:|\n| Hairpin oligo, 100 µM | 5 µL |\n| 10× annealing buffer | 5 µL |\n| Nuclease-free water | 40 µL |\n\n- Heat to 94°C for 2 minutes.\n- Cool gradually to 25°C, approximately 1°C/minute.\n- Aliquot; prepare a 1 µM working dilution for the pilot. [Do this fresh before the reaction needs to be set up]\n\n\n### 2. Adapter Annealing\n\n| Reagent | Volume |\n|---|---:|\n| Adapter A, 100 µM | 5 µL |\n| Adapter B, 100 µM | 5 µL |\n| 10× annealing buffer | 5 µL |\n| Nuclease-free water | 35 µL |\n\n- Heat to 94°C for 2 minutes.\n- Cool gradually to 25°C, approximately 1°C/minute.\n- Aliquot; prepare a 1 µM working dilution for the pilot. [Do this fresh before the reaction needs to be set up]\n\n*Both the stock solutions are 10 uM in concentrations after annealing*\n",
+ "tags": {
+  "techniques": [],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "source": {
+  "doc": "portal"
+ },
+ "id": "2026-10-20-3",
+ "experiments": [
+  "1. Hairpin Annealing",
+  "2. Adapter Annealing"
+ ],
+ "images": [],
+ "tables": 2,
+ "updated": "2026-10-20T17:34:07.386Z"
+}
