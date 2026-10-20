@@ -1,7 +1,7 @@
 {
  "date": "2026-10-20",
  "title": "DAF-SELEX Trial 1 - Re: ligand preparation",
- "body": "### Start with ssDNA oligo\n\nDilute 1 uL of the oligo to 50 uL total using TE buffer (~60 ng/uL).\n\nSet up 2X reactions:\n\nAmplification PCR: 15X\n\nFor each reaction (25 uL)\n\n\n![Screenshot 2026-10-20 at 14.59.32](assets/img/uploads/2026-10-20-mvgr2g1h-screenshot_2026-10-20_at_14.59.32.png)\n\n",
+ "body": "### Start with ssDNA oligo\n\nDilute 1 uL of the oligo to 50 uL total using TE buffer (~60 ng/uL).\n\nSet up 2X reactions:\n\nAmplification PCR: 15X\n\nFor each reaction (25 uL)\n\n\n![Screenshot 2026-10-20 at 14.59.32](assets/img/uploads/2026-10-20-mvgr2g1h-screenshot_2026-10-20_at_14.59.32.png)\n\n\n![Screenshot 2026-10-20 at 20.03.32](assets/img/uploads/2026-10-20-mvh1xfhc-screenshot_2026-10-20_at_20.03.32.png)\n\nThis re-run yielded a good clean band < 100 bp that is accurate as per the expected size.",
  "tags": {
   "techniques": [
    "PCR"
@@ -20,8 +20,9 @@
   "Start with ssDNA oligo"
  ],
  "images": [
-  "assets/img/uploads/2026-10-20-mvgr2g1h-screenshot_2026-10-20_at_14.59.32.png"
+  "assets/img/uploads/2026-10-20-mvgr2g1h-screenshot_2026-10-20_at_14.59.32.png",
+  "assets/img/uploads/2026-10-20-mvh1xfhc-screenshot_2026-10-20_at_20.03.32.png"
  ],
  "tables": 0,
- "updated": "2026-10-20T13:59:54.596Z"
+ "updated": "2026-10-20T19:04:16.903Z"
 }
