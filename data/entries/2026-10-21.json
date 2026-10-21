@@ -1,13 +1,15 @@
 {
  "date": "2026-10-21",
  "title": "Checking hairpin and adapter DNA [DAF-SELEX]",
- "body": "### 1. Hairpin & Adapter DNA check\n\nLoading order for gel:\n\n- 50 bp DNA ladder\n- Hairpin non-annealed (1 uL)\n- Hairpin annealed (8 uL)\n- Adapter A (1 uL)\n- Adapter B (1 uL)\n- Adapter A+B (8 uL)\n\n*Sample Preparation*\n\n\n| Reagent | Volume |\n| :---- | :---- |\n| TBE Hi-Density Sample Buffer (5X) | 2 uL |\n| Sample | Make up to 10 uL |\n\n- Run the gel at 150 V, 10 mins prior to loading samples.\n- Run the gel at 150 V, 45 mins with constant checking of the dye front.",
+ "body": "### 1. Hairpin & Adapter DNA check\n\nLoading order for gel:\n\n- 50 bp DNA ladder\n- Hairpin non-annealed (1 uL)\n- Hairpin annealed (8 uL)\n- Adapter A (1 uL)\n- Adapter B (1 uL)\n- Adapter A+B (8 uL)\n\n*Sample Preparation*\n\n\n| Reagent | Volume |\n| :---- | :---- |\n| TBE Hi-Density Sample Buffer (5X) | 2 uL |\n| Sample | Make up to 10 uL |\n\n- Run the gel at 150 V, 10 mins prior to loading samples.\n- Run the gel at 150 V, 45 mins with constant checking of the dye front.\n- Stain the gel for an hour with SYBR Green stain (prepared in 1X TBE)",
  "tags": {
   "techniques": [
    "Gel electrophoresis",
    "Nanopore sequencing"
   ],
-  "reagents": [],
+  "reagents": [
+   "SYBR"
+  ],
   "samples": [],
   "custom": []
  },
@@ -20,5 +22,5 @@
  ],
  "images": [],
  "tables": 1,
- "updated": "2026-10-21T13:40:06.421Z"
+ "updated": "2026-10-21T13:40:53.974Z"
 }
