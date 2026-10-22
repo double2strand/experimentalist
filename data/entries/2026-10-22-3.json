@@ -1,7 +1,7 @@
 {
  "date": "2026-10-22",
  "title": "Hia5 Footprinting of lig50knuc and lig50",
- "body": "### 1. FIBER-Seq for lig50k\n\n*Per tube of lig50knuc*\n| Reagent | Volume |\n|---|---:|\n| Nucleosome solution | **12.00 µL** |\n| Hia5 buffer | **5.00 µL** |\n| Tris-HCl, 100 mM | **3.25 µL** |\n| EDTA, 10 mM | **2.50 µL** |\n| EGTA, 10 mM | **1.25 µL** |\n| Spermidine, 10 mM | **1.50 µL** |\n| SAM, 32 mM | **0.75 µL** |\n| Hia5 | **1.00 µL** |\n| Water | **2.75 µL** |\n| **Total** | **30.00 µL** |\n\n*Per tube of lig50k*\n\n| Reagent | Volume |\n|---|---:|\n| Nucleosome solution | **12.00 µL** |\n| Hia5 buffer | **5.00 µL** |\n| Spermidine, 10 mM | **1.50 µL** |\n| SAM, 32 mM | **0.75 µL** |\n| Hia5 | **1.00 µL** |\n| Water | **2.75 µL** |\n| **Total** | **30.00 µL** |\n",
+ "body": "### 1. FIBER-Seq for lig50k\n\n*Per tube of lig50knuc*\n| Reagent | Stock | Volume |\n|---|---|---:|\n| Nucleosome solution | 14 ng/µL; approximately 200 mM salt | **12.000 µL** |\n|Hia5 buffer + spermidine | 99 µL base buffer + 1 µL 100× spermidine | **5.000 µL** |\n| Tris-HCl, pH 8 | **100 mM working stock** | **3.258 µL** |\n| EDTA, pH 8 | **10 mM working stock** | **2.505 µL** |\n| EGTA, pH 8 | **10 mM working stock** | **1.253 µL** |\n| Spermidine | **100× stock** | **0.250 µL** |\n| SAM | **32 mM** | **0.750 µL** |\n| Hia5 | Your enzyme stock | **1.000 µL** |\n| Nuclease-free water | — | **3.984 µL** |\n| **Total** | | **30.000 µL** |\n\n*Per tube of lig50k*\n| Reagent | Volume |\n|---|---:|\n| DNA, no salt | **2.00 µL** |\n| SAM, **32 mM** | **0.50 µL** |\n| Hia5 | **1.00 µL** |\n| New Hia5 buffer | **16.50 µL** |\n| **Total** | **20.00 µL** |\n",
  "tags": {
   "techniques": [
    "Hia5"
@@ -28,5 +28,5 @@
  ],
  "images": [],
  "tables": 2,
- "updated": "2026-10-22T18:04:35.946Z"
+ "updated": "2026-10-22T18:20:28.311Z"
 }
