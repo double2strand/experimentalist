@@ -1,0 +1,32 @@
+{
+ "date": "2026-10-22",
+ "title": "Hia5 Footprinting of lig50knuc and lig50",
+ "body": "### 1. FIBER-Seq for lig50k\n\n*Per tube of lig50knuc*\n| Reagent | Volume |\n|---|---:|\n| Nucleosome solution | **12.00 µL** |\n| Hia5 buffer | **5.00 µL** |\n| Tris-HCl, 100 mM | **3.25 µL** |\n| EDTA, 10 mM | **2.50 µL** |\n| EGTA, 10 mM | **1.25 µL** |\n| Spermidine, 10 mM | **1.50 µL** |\n| SAM, 32 mM | **0.75 µL** |\n| Hia5 | **1.00 µL** |\n| Water | **2.75 µL** |\n| **Total** | **30.00 µL** |\n\n*Per tube of lig50k*\n\n| Reagent | Volume |\n|---|---:|\n| Nucleosome solution | **12.00 µL** |\n| Hia5 buffer | **5.00 µL** |\n| Spermidine, 10 mM | **1.50 µL** |\n| SAM, 32 mM | **0.75 µL** |\n| Hia5 | **1.00 µL** |\n| Water | **2.75 µL** |\n| **Total** | **30.00 µL** |\n",
+ "tags": {
+  "techniques": [
+   "Hia5"
+  ],
+  "reagents": [
+   "SAM",
+   "Spermidine",
+   "Hia5",
+   "EDTA",
+   "Tris"
+  ],
+  "samples": [
+   "lig50k",
+   "lig50knuc"
+  ],
+  "custom": []
+ },
+ "source": {
+  "doc": "portal"
+ },
+ "id": "2026-10-22-3",
+ "experiments": [
+  "1. FIBER-Seq for lig50k"
+ ],
+ "images": [],
+ "tables": 2,
+ "updated": "2026-10-22T18:04:35.946Z"
+}
