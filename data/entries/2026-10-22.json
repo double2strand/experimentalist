@@ -1,7 +1,7 @@
 {
  "date": "2026-10-22",
  "title": "Recon Optimisation",
- "body": "### 1. Comparing TW & YY nucleosome recon\n\n| Time | Incubation | **TW recon:** addition | TW volume | TW KCl | **YY recon:** addition | YY volume | YY KCl |\n|---:|---:|---|---:|---:|---|---:|---:|\n| 0 min | 30 min | 5 µL DNA + 1.5 µL octamer added to dried KCl | 6.5 µL | **1.769 M** | 5 µL DNA + 1.5 µL octamer added to dried KCl | 6.5 µL | **1.769 M** |\n| 30 min | 60 min | +5.0 µL DB | 11.5 µL | **1.000 M** | +2.5 µL DB | 9.0 µL | **1.278 M** |\n| 90 min | 60 min | +2.5 µL DB | 14.0 µL | **0.821 M** | +2.5 µL DB | 11.5 µL | **1.000 M** |\n| 150 min | 60 min | +2.5 µL DB | 16.5 µL | **0.697 M** | +2.5 µL DB | 14.0 µL | **0.821 M** |\n| 210 min | 60 min | +3.5 µL DB | 20.0 µL | **0.575 M** | +2.5 µL DB | 16.5 µL | **0.697 M** |\n| 270 min | 60 min | +3.5 µL DB | 23.5 µL | **0.489 M** | +2.5 µL DB | 19.0 µL | **0.605 M** |\n| 330 min | 60 min | +30.0 µL DB | 53.5 µL | **0.215 M** | +32.5 µL DB | 51.5 µL | **0.223 M** |\n| 390 min | 60 min | +15.0 µL DB | 68.5 µL | **0.168 M** | +50.0 µL DB | 101.5 µL | **0.113 M** |\n| 450 min | End | — | 68.5 µL | **168 mM** | — | 101.5 µL | **113 mM** |\n\nInitial DNA added = 100 ng\nInitial octamer added = 121.5 ng\n\nOctamer Stock = Prepare 25 uL (81 ng/uL) => 0.44 uL octamer stock + 0.75 uL 100 mM TCEP + 23.81 uL refolding buffer:glycerol\n\nOctamer:DNA ratio in both experiments = 1.005:1\n\n*NOTE: DNA was taken from well H1 of lig147 C0 spare plate*\n\n",
+ "body": "### 1. Comparing TW & YY nucleosome recon\n\n| Time | Incubation | **TW recon:** addition | TW volume | TW KCl | **YY recon:** addition | YY volume | YY KCl |\n|---:|---:|---|---:|---:|---|---:|---:|\n| 0 min | 30 min | 5 µL DNA + 1.5 µL octamer added to dried KCl | 6.5 µL | **1.769 M** | 5 µL DNA + 1.5 µL octamer added to dried KCl | 6.5 µL | **1.769 M** |\n| 30 min | 60 min | +5.0 µL DB | 11.5 µL | **1.000 M** | +2.5 µL DB | 9.0 µL | **1.278 M** |\n| 90 min | 60 min | +2.5 µL DB | 14.0 µL | **0.821 M** | +2.5 µL DB | 11.5 µL | **1.000 M** |\n| 150 min | 60 min | +2.5 µL DB | 16.5 µL | **0.697 M** | +2.5 µL DB | 14.0 µL | **0.821 M** |\n| 210 min | 60 min | +3.5 µL DB | 20.0 µL | **0.575 M** | +2.5 µL DB | 16.5 µL | **0.697 M** |\n| 270 min | 60 min | +3.5 µL DB | 23.5 µL | **0.489 M** | +2.5 µL DB | 19.0 µL | **0.605 M** |\n| 330 min | 60 min | +30.0 µL DB | 53.5 µL | **0.215 M** | +32.5 µL DB | 51.5 µL | **0.223 M** |\n| 390 min | 60 min | +15.0 µL DB | 68.5 µL | **0.168 M** | +50.0 µL DB | 101.5 µL | **0.113 M** |\n| 450 min | End | — | 68.5 µL | **168 mM** | — | 101.5 µL | **113 mM** |\n\nInitial DNA added = 100 ng\nInitial octamer added = 121.5 ng\n\nOctamer Stock = Prepare 25 uL (81 ng/uL) => 0.44 uL octamer stock + 0.75 uL 100 mM TCEP + 23.81 uL refolding buffer:glycerol\n\nOctamer:DNA ratio in both experiments = 1.005:1\n\n*NOTE: DNA was taken from well H1 of lig147 C0 spare plate*\n\nPost-recon samples are stored at 4 C.\n\n",
  "tags": {
   "techniques": [
    "Reconstitution"
@@ -25,5 +25,5 @@
  ],
  "images": [],
  "tables": 1,
- "updated": "2026-10-22T14:46:39.826Z"
+ "updated": "2026-10-22T19:31:42.947Z"
 }
