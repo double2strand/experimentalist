@@ -1,0 +1,26 @@
+{
+ "date": "2026-10-22",
+ "title": "Recon Optimisation",
+ "body": "### 1. Comparing TW & YY nucleosome recon\n\n| Elapsed time | Incubation following step | **TW recon:** addition | TW total volume | TW KCl | **YY recon:** addition | YY total volume | YY KCl |\n|---:|---:|---|---:|---:|---|---:|---:|\n| 0 min | 30 min | Initial DNA–histone mixture | 7.0 µL | **1.714 M** | Initial DNA–histone mixture | 7.0 µL | **1.714 M** |\n| 30 min | 60 min | +5.0 µL DB | 12.0 µL | **1.000 M** | +2.5 µL DB | 9.5 µL | **1.263 M** |\n| 90 min | 60 min | +2.5 µL DB | 14.5 µL | **0.828 M** | +2.5 µL DB | 12.0 µL | **1.000 M** |\n| 150 min | 60 min | +2.5 µL DB | 17.0 µL | **0.706 M** | +2.5 µL DB | 14.5 µL | **0.828 M** |\n| 210 min | 60 min | +3.5 µL DB | 20.5 µL | **0.585 M** | +2.5 µL DB | 17.0 µL | **0.706 M** |\n| 270 min | 60 min | +3.5 µL DB | 24.0 µL | **0.500 M** | +2.5 µL DB | 19.5 µL | **0.615 M** |\n| 330 min | 60 min | +30.0 µL DB | 54.0 µL | **0.222 M** | +32.5 µL DB | 52.0 µL | **0.231 M** |\n| 390 min | **60 min** | +15.0 µL DB | 69.0 µL | **0.174 M** | +50.0 µL DB | 102.0 µL | **0.118 M** |\n| 450 min | End | — | 69.0 µL | **0.174 M** | — | 102.0 µL | **0.118 M** |\n\n\nInitial DNA added = 100 ng\nInitial octamer added = 60 ng\n\n",
+ "tags": {
+  "techniques": [
+   "Reconstitution"
+  ],
+  "reagents": [
+   "KCl",
+   "Histone octamer"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "source": {
+  "doc": "portal"
+ },
+ "id": "2026-10-22",
+ "experiments": [
+  "1. Comparing TW & YY nucleosome recon"
+ ],
+ "images": [],
+ "tables": 1,
+ "updated": "2026-10-22T10:44:50.068Z"
+}
