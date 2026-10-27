@@ -1,10 +1,11 @@
 {
  "date": "2026-10-27",
  "title": "Recon Optimisation Check - MNase test",
- "body": "### 1. MNase testing of TW, YY samples\n\nNanoDrop quant:\n\nTW: 136 ng/uL*\n\nYY: 98 ng/uL*\n\n**Not entirely certain how accurate these values are*\n\ndMNase → 1:1000 dilution\n\n\n| Reagent | Volume |\n| :---- | :---- |\n| DNA | 10-15 ng |\n| MNase Buffer | 5 uL |\n| rAlbumin | 0.25 uL |\n| dMNase | 1 uL |\n| TOTAL | 50 uL |\n\nFor TW = 5 uL sample\nFor YY = 7 uL sample\n\nTreat at 37 C, 5 mins.\n\nRun on a 2% agarose gel and stain with SYBR Green.\n",
+ "body": "### 1. MNase testing of TW, YY samples\n\nNanoDrop quant:\n\nTW: 136 ng/uL*\n\nYY: 98 ng/uL*\n\n**Not entirely certain how accurate these values are*\n\ndMNase → 1:1000 dilution\n\n\n| Reagent | Volume |\n| :---- | :---- |\n| DNA | 10-15 ng |\n| MNase Buffer | 5 uL |\n| rAlbumin | 0.25 uL |\n| dMNase | 1 uL |\n| TOTAL | 50 uL |\n\nFor TW = 5 uL sample\nFor YY = 7 uL sample\n\nTreat at 37 C, 5 mins.\n\nRun on a 2% agarose gel and stain with SYBR Green.\n\nLoading Order:\n\n- 100 bp DNA ladder\n- lig147 [No MNase]\n- TW recon [No MNase]\n- YY recon [No MNase]\n- lig147 [MNase]\n- TW recon [MNase]\n- TW recon [MNase]\n- YY recon [MNase]\n- YY recon [MNase]\n\n\n",
  "tags": {
   "techniques": [
    "MNase",
+   "Reconstitution",
    "Gel electrophoresis",
    "Nanodrop"
   ],
@@ -12,7 +13,9 @@
    "SYBR",
    "MNase"
   ],
-  "samples": [],
+  "samples": [
+   "lig147"
+  ],
   "custom": []
  },
  "source": {
@@ -24,5 +27,5 @@
  ],
  "images": [],
  "tables": 1,
- "updated": "2026-10-27T13:08:33.481Z"
+ "updated": "2026-10-27T13:50:33.184Z"
 }
