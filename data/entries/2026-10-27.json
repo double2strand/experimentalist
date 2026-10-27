@@ -1,12 +1,14 @@
 {
  "date": "2026-10-27",
  "title": "Checking hairpin and adapter DNA [DAF-SELEX] - repeat",
- "body": "### 1. Hairpin & Adapter Gel Run\n\nPrepare 1 µM working dilutions, then load each sample at 1 pmol and 3 pmol to check whether the extra bands persist at lower loading.\n\n*Prepare the working dilutions*\nUse the same 1× annealing buffer for all dilutions: 10 mM Tris-HCl, pH 8.0, and 50 mM NaCl.\nFor the three individual oligos supplied at 100 µM, first make separate 10 µM intermediates:\n| Sample | 100 µM stock | 1× annealing buffer | Total |\n|---|---:|---:|---:|\n| Non-annealed hairpin | 2 µL | 18 µL | 20 µL |\n| Adapter A | 2 µL | 18 µL | 20 µL |\n| Adapter B | 2 µL | 18 µL | 20 µL |\n\nNext, prepare 1 µM working solutions for all five samples:\n\n| Sample | Source at 10 µM | 1× annealing buffer | Total |\n|---|---:|---:|---:|\n| Non-annealed hairpin | 5 µL of intermediate | 45 µL | 50 µL |\n| Annealed hairpin | 5 µL of folded preparation | 45 µL | 50 µL |\n| Adapter A | 5 µL of intermediate | 45 µL | 50 µL |\n| Adapter B | 5 µL of intermediate | 45 µL | 50 µL |\n| Annealed A+B | 5 µL of annealed preparation | 45 µL | 50 µL |\n\nLoading tubes:\n\n| Component | Low-load tube: 1 pmol | Higher-load tube: 3 pmol |\n|---|---:|---:|\n| Sample, 1 µM | 1 µL | 3 µL |\n| 1× annealing buffer | 7 µL | 5 µL |\n| 5× native loading buffer | 2 µL | 2 µL |\n| **Total volume loaded** | **10 µL** | **10 µL** |\n\nLoading order for gel (20% TBE gel):\n\n| Lane | Sample | Amount |\n|---|---|---:|\n| 1 | 50 bp DNA ladder | Manufacturer-recommended amount |\n| 2 | Non-annealed hairpin | 1 pmol |\n| 3 | Annealed hairpin | 1 pmol |\n| 4 | Adapter A | 1 pmol |\n| 5 | Adapter B | 1 pmol |\n| 6 | Annealed A+B | 1 pmol |\n| 7 | Non-annealed hairpin | 3 pmol |\n| 8 | Annealed hairpin | 3 pmol |\n| 9 | Adapter A | 3 pmol |\n| 10 | Adapter B | 3 pmol |\n| 11 | Annealed A+B | 3 pmol |\n| 12 |TriDye 100 bp ladder| 10 µL |\n\n\n",
+ "body": "### 1. Hairpin & Adapter Gel Run\n\nPrepare 1 µM working dilutions, then load each sample at 1 pmol and 3 pmol to check whether the extra bands persist at lower loading.\n\n*Prepare the working dilutions*\nUse the same 1× annealing buffer for all dilutions: 10 mM Tris-HCl, pH 8.0, and 50 mM NaCl.\nFor the three individual oligos supplied at 100 µM, first make separate 10 µM intermediates:\n| Sample | 100 µM stock | 1× annealing buffer | Total |\n|---|---:|---:|---:|\n| Non-annealed hairpin | 2 µL | 18 µL | 20 µL |\n| Adapter A | 2 µL | 18 µL | 20 µL |\n| Adapter B | 2 µL | 18 µL | 20 µL |\n\nNext, prepare 1 µM working solutions for all five samples:\n\n| Sample | Source at 10 µM | 1× annealing buffer | Total |\n|---|---:|---:|---:|\n| Non-annealed hairpin | 5 µL of intermediate | 45 µL | 50 µL |\n| Annealed hairpin | 5 µL of folded preparation | 45 µL | 50 µL |\n| Adapter A | 5 µL of intermediate | 45 µL | 50 µL |\n| Adapter B | 5 µL of intermediate | 45 µL | 50 µL |\n| Annealed A+B | 5 µL of annealed preparation | 45 µL | 50 µL |\n\nLoading tubes:\n\n| Component | Low-load tube: 1 pmol | Higher-load tube: 3 pmol |\n|---|---:|---:|\n| Sample, 1 µM | 1 µL | 3 µL |\n| 1× annealing buffer | 7 µL | 5 µL |\n| 5× native loading buffer | 2 µL | 2 µL |\n| **Total volume loaded** | **10 µL** | **10 µL** |\n\nLoading order for gel (20% TBE gel):\n\n| Lane | Sample | Amount |\n|---|---|---:|\n| 1 | 50 bp DNA ladder | Manufacturer-recommended amount |\n| 2 | Non-annealed hairpin | 1 pmol |\n| 3 | Annealed hairpin | 1 pmol |\n| 4 | Adapter A | 1 pmol |\n| 5 | Adapter B | 1 pmol |\n| 6 | Annealed A+B | 1 pmol |\n| 7 | Non-annealed hairpin | 3 pmol |\n| 8 | Annealed hairpin | 3 pmol |\n| 9 | Adapter A | 3 pmol |\n| 10 | Adapter B | 3 pmol |\n| 11 | Annealed A+B | 3 pmol |\n| 12 |TriDye 100 bp ladder| 10 µL |\n\n\nRun the gel at 150 V, 45 mins with constant checking of the dye front.\nStain the gel for an hour with SYBR Green stain (prepared in 1X TBE)\n\n\n",
  "tags": {
   "techniques": [
-   "Gel electrophoresis"
+   "Gel electrophoresis",
+   "Nanopore sequencing"
   ],
   "reagents": [
+   "SYBR",
    "Tris",
    "NaCl"
   ],
@@ -22,5 +24,5 @@
  ],
  "images": [],
  "tables": 4,
- "updated": "2026-10-27T12:49:35.013Z"
+ "updated": "2026-10-27T17:08:36.462Z"
 }
