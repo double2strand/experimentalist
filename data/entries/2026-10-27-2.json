@@ -1,13 +1,15 @@
 {
  "date": "2026-10-27",
  "title": "Recon Optimisation Check - MNase test",
- "body": "### 1. MNase testing of TW, YY samples\n\nNanoDrop quant:\n\nTW: \nYY:\n\n\n\n",
+ "body": "### 1. MNase testing of TW, YY samples\n\nNanoDrop quant:\n\nTW:\n\nYY:\n\ndMNase → 1:1000 dilution\n\n10-15 ng of sample (0.5 uL) + 5 uL MNase buffer + 1 uL dMNase + 0.25 uL rAlbumin (total 50 uL)\n\nTreat at 37 C, 5 mins.\n\nRun on a 2% agarose gel and stain with SYBR Green.\n",
  "tags": {
   "techniques": [
    "MNase",
+   "Gel electrophoresis",
    "Nanodrop"
   ],
   "reagents": [
+   "SYBR",
    "MNase"
   ],
   "samples": [],
@@ -22,5 +24,5 @@
  ],
  "images": [],
  "tables": 0,
- "updated": "2026-10-27T12:51:07.481Z"
+ "updated": "2026-10-27T12:52:36.761Z"
 }
