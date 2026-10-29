@@ -1,0 +1,29 @@
+{
+ "date": "2026-10-29",
+ "title": "lig50K recon - Tube bases",
+ "body": "### 1. lig50K nucleosome recon (tube-based)\n\n| Stage | Buffer added this step | Total volume | KCl + NaCl | Total added Mg²⁺ | EDTA | TCEP |\n|---|---:|---:|---:|---:|---:|---:|\n| Starting mixture | — | 5.954 µL | 1.840 M | — | — | — |\n| 1 | 1.349 µL | 7.303 µL | 1.500 M | 0.369 mM | 0.185 mM | 0.185 mM |\n| 2 | 3.651 µL | 10.954 µL | 1.000 M | 0.913 mM | 0.456 mM | 0.456 mM |\n| 3 | 2.739 µL | 13.693 µL | 0.800 M | 1.130 mM | 0.565 mM | 0.565 mM |\n| 4 | 4.564 µL | 18.257 µL | 0.600 M | 1.348 mM | 0.674 mM | 0.674 mM |\n| 5 | 9.128 µL | 27.385 µL | 0.400 M | 1.565 mM | 0.783 mM | 0.783 mM |\n| **6** | **16.431 µL** | **43.816 µL** | **0.250 M** | **1.728 mM** | **0.864 mM** | **0.864 mM** |\n| Optional | 10.954 µL | 54.770 µL | 0.200 M | 1.783 mM | 0.891 mM | 0.891 mM |",
+ "tags": {
+  "techniques": [
+   "Reconstitution"
+  ],
+  "reagents": [
+   "EDTA",
+   "NaCl",
+   "KCl"
+  ],
+  "samples": [
+   "lig50K"
+  ],
+  "custom": []
+ },
+ "source": {
+  "doc": "portal"
+ },
+ "id": "2026-10-29",
+ "experiments": [
+  "1. lig50K nucleosome recon (tube-based)"
+ ],
+ "images": [],
+ "tables": 1,
+ "updated": "2026-10-29T13:19:48.886Z"
+}
