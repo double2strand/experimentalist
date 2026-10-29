@@ -1,15 +1,13 @@
 {
  "date": "2026-10-29",
  "title": "lig50K recon - Tube based",
- "body": "### 1. lig50K nucleosome recon (tube-based)\n\n| Stage | Buffer added this step | Total volume | KCl + NaCl | Total added Mg²⁺ | EDTA | TCEP |\n|---|---:|---:|---:|---:|---:|---:|\n| Starting mixture | — | 5.954 µL | 1.840 M | — | — | — |\n| 1 | 1.349 µL | 7.303 µL | 1.500 M | 0.369 mM | 0.185 mM | 0.185 mM |\n| 2 | 3.651 µL | 10.954 µL | 1.000 M | 0.913 mM | 0.456 mM | 0.456 mM |\n| 3 | 2.739 µL | 13.693 µL | 0.800 M | 1.130 mM | 0.565 mM | 0.565 mM |\n| 4 | 4.564 µL | 18.257 µL | 0.600 M | 1.348 mM | 0.674 mM | 0.674 mM |\n| 5 | 9.128 µL | 27.385 µL | 0.400 M | 1.565 mM | 0.783 mM | 0.783 mM |\n| **6** | **16.431 µL** | **43.816 µL** | **0.250 M** | **1.728 mM** | **0.864 mM** | **0.864 mM** |\n| Optional | 10.954 µL | 54.770 µL | 0.200 M | 1.783 mM | 0.891 mM | 0.891 mM |",
+ "body": "### 1. lig50K nucleosome recon (tube-based)\n\n| Step | Action | Dilution buffer added at this step | Total liquid volume | Calculated salt |\n|---|---|---:|---:|---:|\n| 1 | Completely dissolve the dried salt in 5 µL DNA | — | 5.000 µL | Approximately **2.00 M** |\n| 2 | Add 0.954 µL working octamer; mix gently | — | **5.954 µL** | **1.840 M** |\n| 3 | Initial equilibration using your previous 30-minute ice incubation | — | 5.954 µL | 1.840 M |\n| 4 | Begin gradual dilution | **1.349 µL** | 7.303 µL | **1.500 M** |\n| 5 | Continue dilution | **3.651 µL** | 10.954 µL | **1.000 M** |\n| 6 | Continue dilution | **2.739 µL** | 13.693 µL | **0.800 M** |\n| 7 | Continue dilution | **4.564 µL** | 18.257 µL | **0.600 M** |\n| 8 | Continue dilution | **9.128 µL** | 27.385 µL | **0.400 M** |\n| 9 | Reach the proposed first-pilot endpoint | **16.431 µL** | **43.816 µL** | **0.250 M** |\n| 10 | Optional further dilution | **10.954 µL** | **54.770 µL** | **0.200 M** |",
  "tags": {
   "techniques": [
    "Reconstitution"
   ],
   "reagents": [
-   "EDTA",
-   "NaCl",
-   "KCl"
+   "Histone octamer"
   ],
   "samples": [
    "lig50K"
@@ -25,5 +23,5 @@
  ],
  "images": [],
  "tables": 1,
- "updated": "2026-10-29T13:21:27.286Z"
+ "updated": "2026-10-29T13:23:21.133Z"
 }
