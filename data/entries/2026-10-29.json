@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
  "title": "lig50K recon - Tube based",
- "body": "### 1. lig50K nucleosome recon (tube-based)\n\n| Step | Event | Buffer added | Total volume | Monovalent salt | Proposed hold |\n|---|---|---:|---:|---:|---:|\n| 1 | Dissolve dried salt completely in 5 µL DNA | — | 5.000 µL | ~2.00 M | Until dissolved |\n| 2 | Add 1.2 µL working octamer; mix gently | — | **6.200 µL** | **1.806 M** | 30 min |\n| 3 | Gradually add buffer and mix gently | **1.267 µL** | 7.467 µL | 1.500 M | 60 min |\n| 4 | Continue dilution | **3.733 µL** | 11.200 µL | 1.000 M | 60 min |\n| 5 | Continue dilution | **2.800 µL** | 14.000 µL | 0.800 M | 60 min |\n| 6 | Continue dilution | **4.667 µL** | 18.667 µL | 0.600 M | 60 min |\n| 7 | Continue dilution | **9.333 µL** | 28.000 µL | 0.400 M | 60 min |\n| 8 | Reach primary endpoint | **16.800 µL** | **44.800 µL** | **0.250 M** | 60 min |\n| Optional | Dilute further | **11.200 µL** | **56.000 µL** | **0.200 M** | 60 min |",
+ "body": "### 1. lig50K nucleosome recon (tube-based)\n\n| Step | Event | Buffer added | Total volume | Monovalent salt | Proposed hold |\n|---|---|---:|---:|---:|---:|\n| 1 | Dissolve dried salt completely in 5 µL DNA | — | 5.000 µL | ~2.00 M | Until dissolved |\n| 2 | Add 1.2 µL working octamer; mix gently | — | **6.200 µL** | **1.806 M** | 30 min |\n| 3 | Gradually add buffer and mix gently | **1.27 µL** | 7.467 µL | 1.500 M | 60 min |\n| 4 | Continue dilution | **3.733 µL** | 11.200 µL | 1.000 M | 60 min |\n| 5 | Continue dilution | **2.800 µL** | 14.000 µL | 0.800 M | 60 min |\n| 6 | Continue dilution | **4.667 µL** | 18.667 µL | 0.600 M | 60 min |\n| 7 | Continue dilution | **9.333 µL** | 28.000 µL | 0.400 M | 60 min |\n| 8 | Reach primary endpoint | **16.800 µL** | **44.800 µL** | **0.250 M** | 60 min |\n| Optional | Dilute further | **11.200 µL** | **56.000 µL** | **0.200 M** | 60 min |",
  "tags": {
   "techniques": [
    "Reconstitution"
@@ -23,5 +23,5 @@
  ],
  "images": [],
  "tables": 1,
- "updated": "2026-10-29T14:02:07.548Z"
+ "updated": "2026-10-29T14:03:05.979Z"
 }
