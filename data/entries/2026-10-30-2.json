@@ -1,0 +1,22 @@
+{
+ "date": "2026-10-30",
+ "title": "PacBio new footprint - data processing",
+ "body": "### 1. LRS17041620 (200NCFSPE2)\n\n### 2. LRS17024559 (147HTFS3) \n\n\n\n\n",
+ "tags": {
+  "techniques": [],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "source": {
+  "doc": "portal"
+ },
+ "id": "2026-10-30-2",
+ "experiments": [
+  "1. LRS17041620 (200NCFSPE2)",
+  "2. LRS17024559 (147HTFS3)"
+ ],
+ "images": [],
+ "tables": 0,
+ "updated": "2026-10-30T19:04:08.513Z"
+}
