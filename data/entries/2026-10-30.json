@@ -1,0 +1,28 @@
+{
+ "date": "2026-10-30",
+ "title": "lig50K tube recon pilot - MNase check",
+ "body": " ### 1. MNase testing of TW, YY samples\n\nEstimated theoretical conc. = 11.2 ng/uL\n\n*dMNase → 1:1000 dilution*\n\n| Reagent | Volume |\n| :---- | :---- |\n| DNA | 1.4 uL* |\n| MNase Buffer | 5 uL |\n| rAlbumin | 0.25 uL |\n| dMNase | 1 uL |\n| TOTAL | 50 uL |\n\n*As a control load 0.2 uL of the lig50K DNA (no nuc).\n\nTreat at 37 C, 10 mins.\n\nRun on a 0.8% agarose gel and stain with SYBR Green.\n\nLoading Order:\n\n- 100 bp DNA ladder\n- 1 kb Extend ladder\n- lig50k [No MNase]\n- lig50k-nuc [No MNase]\n- lig50k [MNase]\n- lig50k [MNase]\n- lig50k-nuc [MNase]\n- lig50k-nuc [MNase]\n\n",
+ "tags": {
+  "techniques": [
+   "MNase",
+   "Gel electrophoresis"
+  ],
+  "reagents": [
+   "SYBR",
+   "MNase"
+  ],
+  "samples": [
+   "lig50k",
+   "lig50K"
+  ],
+  "custom": []
+ },
+ "source": {
+  "doc": "portal"
+ },
+ "id": "2026-10-30",
+ "experiments": [],
+ "images": [],
+ "tables": 1,
+ "updated": "2026-10-30T12:01:50.830Z"
+}
