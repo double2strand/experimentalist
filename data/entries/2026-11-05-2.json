@@ -1,0 +1,25 @@
+{
+ "date": "2026-11-05",
+ "title": "MAXlig - Preparing ligand with U in primer flanks",
+ "body": "### 1. MAXlig - Preparing ligand with U in primer flanks\n\nDilute 1 uL of the oligo to 50 uL total using TE buffer (~60 ng/uL).\n\nSet up 2X reactions:\n\nAmplification PCR: 15X\n\nFor each reaction (25 uL)\n\n\n| Reagent | Volume |\n| :---- | :---- |\n| repliQa HiFi ToughMix (2X) | 12.5 uL |\n| DAFs_U_F 10 uM | 0.75 uL |\n| DAFs_U_R 10 uM | 0.75 uL |\n| MAXlig | 2 uL |\n| NF water | 9 uL |\n\n\n",
+ "tags": {
+  "techniques": [
+   "PCR"
+  ],
+  "reagents": [
+   "TE buffer"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "source": {
+  "doc": "portal"
+ },
+ "id": "2026-11-05-2",
+ "experiments": [
+  "1. MAXlig - Preparing ligand with U in primer flanks"
+ ],
+ "images": [],
+ "tables": 1,
+ "updated": "2026-11-05T13:36:00.097Z"
+}
