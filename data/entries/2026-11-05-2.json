@@ -1,7 +1,7 @@
 {
  "date": "2026-11-05",
  "title": "MAXlig - Preparing ligand with U in primer flanks",
- "body": "### 1. MAXlig - Preparing ligand with U in primer flanks\n\nDilute 1 uL of the oligo to 50 uL total using TE buffer (~60 ng/uL).\n\nSet up 2X reactions:\n\nAmplification PCR: 15X\n\nFor each reaction (25 uL)\n\n\n| Reagent | Volume |\n| :---- | :---- |\n| repliQa HiFi ToughMix (2X) | 12.5 uL |\n| DAFs_U_F 10 uM | 0.75 uL |\n| DAFs_U_R 10 uM | 0.75 uL |\n| MAXlig | 2 uL |\n| NF water | 9 uL |\n\n| °C | t |\n| :---- | :---- |\n| 98°C | 10 s |\n| 61°C | 5 s       **25X\\*** |\n| 68°C | 5 s |\n| 68°C | 10 min |\n| 4°C | HOLD |\n",
+ "body": "### 1. MAXlig - Preparing ligand with U in primer flanks\n\nDilute 1 uL of the oligo to 50 uL total using TE buffer (~60 ng/uL).\n\nSet up 2X reactions:\n\nAmplification PCR: 15X\n\nFor each reaction (25 uL)\n\n\n| Reagent | Volume |\n| :---- | :---- |\n| repliQa HiFi ToughMix (2X) | 12.5 uL |\n| DAFs_U_F 10 uM | 0.75 uL |\n| DAFs_U_R 10 uM | 0.75 uL |\n| MAXlig | 1 uL |\n| NF water | 10 uL |\n\n| °C | t |\n| :---- | :---- |\n| 98°C | 10 s |\n| 61°C | 5 s       **25X\\*** |\n| 68°C | 5 s |\n| 68°C | 10 min |\n| 4°C | HOLD |\n",
  "tags": {
   "techniques": [
    "PCR"
@@ -21,5 +21,5 @@
  ],
  "images": [],
  "tables": 2,
- "updated": "2026-11-05T14:34:41.319Z"
+ "updated": "2026-11-05T15:51:15.390Z"
 }
