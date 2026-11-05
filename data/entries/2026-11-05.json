@@ -1,0 +1,31 @@
+{
+ "date": "2026-11-05",
+ "title": "Ligand Preparation [lig147, lig200] - PCR2",
+ "body": "### 1. lig147 & lig200 plate preparation\n\n*NOTE: All ligands for SELEX being prepared fresh at this point*\n\nPCR 2 → 100X\n25 uL per well in two 96-well plates.\n\n| Reagent | Volume (µL) |\n| ----- | ----- |\n| **Final diluted DNA** | **200** |\n| **Phusion Master Mix** | **1250** |\n| **NCAP\\_F (10 µM)** | **125** |\n| **NCAP\\_R (10 uM)** | **125** |\n| **Water** | **1300**  |\n| **Total** | **2500** |\n\n25 uL per well in two 96-well plates.\n\n| 98°C | 3 min |\n| :---- | :---- |\n| 98°C | 10 s |\n| 55°C | 15 s       **3X\\*** |\n| 72°C | 30 s |\n| 72°C | 40 min |\n| 4°C | HOLD |\n\nConcentration of lig147 PCR1 = \nConcentration of lig200 PCR1 = \n\n",
+ "tags": {
+  "techniques": [
+   "PCR",
+   "SELEX"
+  ],
+  "reagents": [
+   "Phusion"
+  ],
+  "samples": [
+   "lig147",
+   "lig200",
+   "NCAP_F",
+   "NCAP_R"
+  ],
+  "custom": []
+ },
+ "source": {
+  "doc": "portal"
+ },
+ "id": "2026-11-05",
+ "experiments": [
+  "1. lig147 & lig200 plate preparation"
+ ],
+ "images": [],
+ "tables": 2,
+ "updated": "2026-11-05T12:46:04.224Z"
+}
