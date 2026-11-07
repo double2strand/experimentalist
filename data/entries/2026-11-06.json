@@ -1,0 +1,26 @@
+{
+ "date": "2026-11-06",
+ "title": "Ligand Preparation [lig147, lig200]",
+ "body": "### 1. Ligand Preparation [lig147, lig200]\n\nlig147 = ~20 ng/uL [150 ug]\nlig200 = ~25 ng/uL [187.5 ug]\n\nWe use 100 ng DNA per well.\n\n1 assay = 1 HT-SELEX + 1 NCAP-SELEX [400 x 2 x 13 (uL) x 20 (ng/uL)] = 230 ug\n\nNeeded for 2 complete sets = 460 ug",
+ "tags": {
+  "techniques": [
+   "SELEX"
+  ],
+  "reagents": [],
+  "samples": [
+   "lig147",
+   "lig200"
+  ],
+  "custom": []
+ },
+ "source": {
+  "doc": "portal"
+ },
+ "id": "2026-11-06",
+ "experiments": [
+  "1. Ligand Preparation [lig147, lig200]"
+ ],
+ "images": [],
+ "tables": 0,
+ "updated": "2026-11-07T14:02:55.397Z"
+}
