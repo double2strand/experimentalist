@@ -1,0 +1,25 @@
+{
+ "date": "2026-11-07",
+ "title": "*Manual curation of 2X Phusion Master Mix*",
+ "body": "### 1. *Manual curation of 2X Phusion Master Mix*\n\n0.04 U/uL polymerase\n\n2X Phusion HF Buffer\n\n3 mM MgCl2\n\n1.6 mM dNTPs\n\n\n| 200 U Phusion Polymerase | 100 uL |\n| :---- | :---- |\n| 50 mM MgCl2 | 300 uL |\n| 5 X Phusion HF Buffer | 2000 uL |\n| 10 mM dNTPs | 800 uL |",
+ "tags": {
+  "techniques": [],
+  "reagents": [
+   "Phusion",
+   "MgCl2",
+   "dNTPs"
+  ],
+  "samples": [],
+  "custom": []
+ },
+ "source": {
+  "doc": "portal"
+ },
+ "id": "2026-11-07",
+ "experiments": [
+  "1. *Manual curation of 2X Phusion Master Mix*"
+ ],
+ "images": [],
+ "tables": 1,
+ "updated": "2026-11-07T14:09:35.898Z"
+}
