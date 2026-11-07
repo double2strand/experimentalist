@@ -1,16 +1,12 @@
 {
  "date": "2026-11-07",
  "title": "SELEX Buffer Prep.",
- "body": "### 1. **Nucleosome Dilution buff: TE buffer \\+ 1mM TCEP \\+ cocktail Tablet \\+ 2mM MgCl2**\n\n500 mL\n\n| TE Buffer (100X) | 5 mL |\n| :---- | :---- |\n| 100 mM TCEP | 5 mL |\n| MgCl2 (1 M) | 1 mL |\n| EDTA-free protease inhibitor | 10 tablets |\n\n100 mM TCEP ⇒ 0.29 g in 10 mL water\n\n### 2. **Biotin Elution Buffer**\n400 mL\n\n| 1X TCAPT Block | 200 mL |\n| :---- | :---- |\n| Biotin | 0.98 g |\n| Imidazole | 1.36 g |\n| 10 M NaOH | 240 uL |\n\nMake up the volume to 200 mL. DO NOT filter and aliquot 25 uL per well to 12 plates (needs \\~120 mL buffer).\n\n\n",
+ "body": "### 1. **Biotin Elution Buffer**\n400 mL\n\n| 1X TCAPT Block | 200 mL |\n| :---- | :---- |\n| Biotin | 0.98 g |\n| Imidazole | 1.36 g |\n| 10 M NaOH | 240 uL |\n\nMake up the volume to 200 mL. DO NOT filter and aliquot 25 uL per well to 12 plates (needs \\~120 mL buffer).\n\n\n",
  "tags": {
   "techniques": [
    "Protein purification"
   ],
-  "reagents": [
-   "EDTA",
-   "MgCl2",
-   "TE buffer"
-  ],
+  "reagents": [],
   "samples": [],
   "custom": []
  },
@@ -19,10 +15,9 @@
  },
  "id": "2026-11-07-2",
  "experiments": [
-  "1. **Nucleosome Dilution buff: TE buffer \\+ 1mM TCEP \\+ cocktail Tablet \\+ 2mM MgCl2**",
-  "2. **Biotin Elution Buffer**"
+  "1. **Biotin Elution Buffer**"
  ],
  "images": [],
- "tables": 2,
- "updated": "2026-11-07T15:13:07.806Z"
+ "tables": 1,
+ "updated": "2026-11-07T15:31:32.088Z"
 }
