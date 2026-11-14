@@ -1,7 +1,7 @@
 {
  "date": "2026-11-14",
  "title": "**Nucleosome Dilution buff",
- "body": "### 1. **Nucleosome Dilution buff\n\n500 mL\n\n| TE Buffer (100X) | 5 mL |\n| :---- | :---- |\n| 100 mM TCEP | 5 mL |\n| MgCl2 (1 M) | 1 mL |\n| EDTA-free protease inhibitor | 10 tablets |\n\n\n",
+ "body": "### 1. Nucleosome Dilution buff\n\n500 mL\n\n| TE Buffer (100X) | 5 mL |\n| :---- | :---- |\n| 100 mM TCEP | 5 mL |\n| MgCl2 (1 M) | 1 mL |\n| EDTA-free protease inhibitor | 10 tablets |\n\n\n",
  "tags": {
   "techniques": [],
   "reagents": [
@@ -17,9 +17,9 @@
  },
  "id": "2026-11-14",
  "experiments": [
-  "1. **Nucleosome Dilution buff"
+  "1. Nucleosome Dilution buff"
  ],
  "images": [],
  "tables": 1,
- "updated": "2026-11-14T18:13:04.279Z"
+ "updated": "2026-11-14T18:13:21.537Z"
 }
