@@ -1,13 +1,19 @@
 {
  "date": "2026-11-15",
  "title": "Buffer checklist for SELEX",
- "body": "### 1. Buffer checklist for SELEX\n\nBuffer Name\tpH checked\tFiltered\tPrepared\n10X HT-SELEX (1.55X) Buffer\t\t✓\t✓\n10X HT-SELEX (1X) Buffer\t\t✓\t✓\nNucleosome Dilution Buffer\t\t✓\t✓\nRefolding Buffer\t\t\t\nTF Dilution Buffer (HT-SELEX)\t\t\t\nTF Dilution Buffer (NCAP-SELEX)\t\t✓\t✓\nNCAP-SELEX Elution Buffer\t\t✓\t✓\nBiotin Elution Buffer\t\t✓\t✓\n10X TCAPT Buffer\t\tVolume too large\t✓\nTCAPT Block Buffer\t\t✓\t✓\nSol1 Salt Buffer\t\t✓\t✓\nBlocking Buffer Salt-Free\t\t✓\t✓\n1X Wash Buffer (NCAP)\t\tVolume too large\tPrepared just before Wash step\n0.5X Wash Buffer (NCAP)\t\tVolume too large\tPrepared just before Wash step\n\n",
+ "body": "### 1. Buffer checklist for SELEX\n\n- Buffer Name\tpH checked\t\n- 10X HT-SELEX (1.55X) Buffer\t\t\n- 10X HT-SELEX (1X) Buffer\t\t\n- Nucleosome Dilution Buffer\t\n- Refolding Buffer\t\t\t\n- TF Dilution Buffer (HT-SELEX)\t\t\t\n- TF Dilution Buffer (NCAP-SELEX)\t\n- NCAP-SELEX Elution Buffer\t\t\n- Biotin Elution Buffer\t\n- 10X TCAPT Buffer\t\t\n- TCAPT Block Buffer\t\n- Sol1 Salt Buffer\t\t\n- Blocking Buffer Salt-Free\t\t\n- 1X Wash Buffer (NCAP)\t[just before Wash step]\n- 0.5X Wash Buffer (NCAP) [just before Wash step]\t\t\n\n*TF Dilution Buffer*\n\n500 mL\n\n| Reagent | Volume |\n| :---- | :---- |\n| 1 M Tris-HCl pH 8 | 5 mL |\n| BSA | 0.5 g |\n| KCl| 5.59 g |\n| Ethylene Glycol | 250 mL |\n| 100 mM ZnSO4.H2O | 50 uL |\n\n\t\n*Blocking Buffer Salt-free*\n\n25mM Tris, 0.5% BSA, 0.1% tween, 0.02% NaN3 pH8 [1000 mL buffer]\n\n| Reagent | Volume |\n| :---- | :---- |\n| 1 M Tris pH 8 | 25 mL |\n| BSA | 5 g |\n| Tween20| 1 mL |\n| Ethylene Glycol | 250 mL |\n| NaN3 (10%) | 2 mL |\n\n0.02% = 0.1 g\n\n*Elution Buffer*\n0.1% Tween, 10 mM Tris pH7.8, 1 mM MgCl2 (0.5mM in PCR rxn)\n\n| Reagent | Volume |\n| :---- | :---- |\n| Tween20 | 500 uL |\n| 1 M Tris pH 8 | 5 mL |\n| 1M MgCl2| 500 uL |\n",
  "tags": {
   "techniques": [
+   "PCR",
    "SELEX",
    "Protein purification"
   ],
-  "reagents": [],
+  "reagents": [
+   "Tris",
+   "KCl",
+   "MgCl2",
+   "BSA"
+  ],
   "samples": [],
   "custom": []
  },
@@ -19,6 +25,6 @@
   "1. Buffer checklist for SELEX"
  ],
  "images": [],
- "tables": 0,
- "updated": "2026-11-15T15:49:33.099Z"
+ "tables": 3,
+ "updated": "2026-11-15T15:58:21.380Z"
 }
