@@ -1,0 +1,24 @@
+{
+ "date": "2026-11-15",
+ "title": "Buffer checklist for SELEX",
+ "body": "### 1. Buffer checklist for SELEX\n\nBuffer Name\tpH checked\tFiltered\tPrepared\n10X HT-SELEX (1.55X) Buffer\t\t✓\t✓\n10X HT-SELEX (1X) Buffer\t\t✓\t✓\nNucleosome Dilution Buffer\t\t✓\t✓\nRefolding Buffer\t\t\t\nTF Dilution Buffer (HT-SELEX)\t\t\t\nTF Dilution Buffer (NCAP-SELEX)\t\t✓\t✓\nNCAP-SELEX Elution Buffer\t\t✓\t✓\nBiotin Elution Buffer\t\t✓\t✓\n10X TCAPT Buffer\t\tVolume too large\t✓\nTCAPT Block Buffer\t\t✓\t✓\nSol1 Salt Buffer\t\t✓\t✓\nBlocking Buffer Salt-Free\t\t✓\t✓\n1X Wash Buffer (NCAP)\t\tVolume too large\tPrepared just before Wash step\n0.5X Wash Buffer (NCAP)\t\tVolume too large\tPrepared just before Wash step\n\n",
+ "tags": {
+  "techniques": [
+   "SELEX",
+   "Protein purification"
+  ],
+  "reagents": [],
+  "samples": [],
+  "custom": []
+ },
+ "source": {
+  "doc": "portal"
+ },
+ "id": "2026-11-15",
+ "experiments": [
+  "1. Buffer checklist for SELEX"
+ ],
+ "images": [],
+ "tables": 0,
+ "updated": "2026-11-15T15:49:33.099Z"
+}
